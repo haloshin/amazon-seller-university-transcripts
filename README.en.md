@@ -2,6 +2,8 @@
 
 **Full course text you can read, search, and check against its source.**
 
+![270 courses and 455 English/Chinese transcripts: read the text, check editorial notes, and visit the official learning portal](assets/seller-university-transcripts-banner.png)
+
 [Browse 270 courses](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [简体中文](README.md)
 
 An independent collection of calibrated transcripts from an archived selection of Amazon Seller University videos: **270 English transcripts and 185 Simplified Chinese transcripts**, with WebVTT captions, correction records, and separate editorial notes.
@@ -12,6 +14,16 @@ Read directly on GitHub or download the ZIP for offline search. No application o
 
 Open the [course catalog](课程目录.md), choose a language, and read `transcript.md`. See [Intro to Fulfillment by Amazon](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) for a complete example.
 
+### A real transcript and its editorial note
+
+The English opening says “30-minute,” while the Chinese audio says “40分钟” (40 minutes). Both transcripts preserve the original wording; the discrepancy is explained in a separate note.
+
+![Real course excerpts preserve the different durations in English and Chinese, with the editorial note shown separately](assets/transcript-reading-example.png)
+
+[English transcript](courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md) · [Chinese transcript](courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md) · [Editorial note](courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/校注.md)
+
+### Download and search
+
 For offline use, download a [release](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) or clone:
 
 ```bash
@@ -19,6 +31,10 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 ```
 
 Each course includes Markdown, plain text, VTT captions, correction records, editorial notes, and JSON metadata. `catalog.json` provides a machine-readable index. If you use an AI reading assistant, include both the transcript and its editorial notes and ask it to distinguish source statements from inference.
+
+![Six accompanying files: Markdown, plain text, captions, corrections, editorial notes, and course metadata](assets/course-files-overview.png)
+
+The diagram illustrates file purposes; its subtitle and ID values are examples. Refer to course files for actual content.
 
 ## Scope and quality
 

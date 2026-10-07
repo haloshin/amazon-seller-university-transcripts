@@ -91,6 +91,11 @@ def validate_links_and_privacy(paths):
         r"-----BEGIN (?:RSA |EC |OPENSSH )?PRIVATE KEY-----",
     ]
     for path in paths:
+        if path.suffix.lower() == ".png":
+            data = path.read_bytes()
+            require(data.startswith(b"\x89PNG\r\n\x1a\n") and b"IEND" in data[-12:],
+                    f"Invalid PNG: {path.relative_to(ROOT)}")
+            continue
         content = path.read_text(encoding="utf-8")
         relative = path.relative_to(ROOT)
         # Detection expressions in this script are not publication content.

@@ -2,6 +2,8 @@
 
 **把视频课程变成可以阅读、检索和核对的全文资料。**
 
+![亚马逊卖家大学课程转写稿：270 门课程、455 份稿件，读原文、看校注、查来源](assets/seller-university-transcripts-banner.png)
+
 [浏览 270 门课程](课程目录.md) · [下载完整资料](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [English](README.en.md)
 
 这里收录了本次归档的 Amazon Seller University 视频课程转写稿：**270 份英文、185 份中文，共 455 份正文**。每份都附字幕、修订记录和校注。
@@ -22,6 +24,14 @@
 | --- | --- | --- |
 | 亚马逊物流入门 · Intro to Fulfillment by Amazon (FBA) | [阅读全文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) | [Read](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) |
 | 选择广告定向策略 · Choose a targeting strategy for your campaign | [阅读全文](courses/09a25aab-2175-41ad-b349-443e73a9d646/zh_CN/transcript.md) | [Read](courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md) |
+
+### 原话与校注怎样分开
+
+下面取自真实课程开场：英文说“30-minute”，中文音轨说“40分钟”。正文保留各自原话，版本差异放在独立校注里解释。
+
+![真实转写节选：英文 30-minute 与中文 40分钟均保留，差异在校注中说明](assets/transcript-reading-example.png)
+
+查看完整资料：[英文正文](courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md) · [中文正文](courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md) · [本课校注](courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/校注.md)
 
 ### 下载后使用
 
@@ -44,6 +54,10 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 ```
 
 ## 资料里有什么
+
+![六类配套文件：Markdown 正文、TXT、VTT 字幕、修订记录、独立校注和课程信息](assets/course-files-overview.png)
+
+上图说明文件用途，图内字幕和 ID 为示意值；真实内容以课程文件为准。
 
 | 文件 | 用途 |
 | --- | --- |
