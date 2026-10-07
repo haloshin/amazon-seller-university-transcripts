@@ -38,7 +38,3 @@ Welcome to the video on best practices for creating A+ content. Using this tool,
  or larger and readable against its background. 11, any kind of restricted
  text. This brings us to the end of this video on best practices for adding A+
  content. Thank you and happy selling on Amazon!
-
----
-
-[校注与辨识说明](校注.md)

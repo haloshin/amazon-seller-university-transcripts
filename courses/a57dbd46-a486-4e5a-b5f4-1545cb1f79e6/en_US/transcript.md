@@ -1,5 +1,7 @@
 # Intro to business reports
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 Welcome to our intro to business reports. Your Amazon Seller Central account gives you access to a number of business reports. You can use them to help identify sales trends, recognize your top performing products, and discover new opportunities to grow your business.
  To access your business reports, select the menu icon in the top left corner of Seller Central. Hover over reports and select business reports. You'll arrive at the sales dashboard page, which provides a summary of your sales metrics. Use this information to identify trends and act quickly.
  The sales snapshot section displays your current sales and order performance. Use the compare sales section to compare these numbers to your sales and order performance from yesterday, the same day last week, and the same day last year.
@@ -34,7 +36,3 @@ Welcome to our intro to business reports. Your Amazon Seller Central account giv
  This concludes our Intro to Business reports.
  As a next step, we recommend customizing your reports and determining which reports, metrics, and timeframes work best for your business.
  Thank you and happy selling in the Amazon Store!
-
----
-
-[校注与辨识说明](校注.md)

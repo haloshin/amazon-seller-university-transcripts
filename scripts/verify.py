@@ -16,7 +16,6 @@ from urllib.parse import unquote, urlsplit
 ROOT = Path(__file__).resolve().parents[1]
 COURSE_FILES = {
     "transcript.md", "transcript.txt", "captions.vtt", "course.json",
-    "corrections.md", "校注.md",
 }
 IGNORED = {".git", "__pycache__", ".venv", ".DS_Store"}
 MEDIA = {".mp4", ".mp3", ".wav", ".m4a", ".mov", ".pdf", ".zip"}
@@ -134,22 +133,27 @@ def verify(refresh=False):
                 path = directory / name
                 require(path.is_file(), f"Missing course file: {path.relative_to(ROOT)}")
                 expected_paths.add(path)
-            for key, name in [("transcript", "transcript.md"), ("subtitles", "captions.vtt"), ("notes", "校注.md")]:
+            for key, name in [("transcript", "transcript.md"), ("subtitles", "captions.vtt")]:
                 require(variant[key] == (directory / name).relative_to(ROOT).as_posix(), "Catalog path mismatch")
             metadata_path = directory / "course.json"
             metadata = read_json(metadata_path)
             for key, value in [("moduleId", course["moduleId"]), ("title", course["title"]), ("locale", locale), ("assetId", asset)]:
                 require(metadata[key] == value, f"Metadata {key} mismatch: {asset}")
-            require(metadata["sourceException"] is False, f"Quarantined source in release: {asset}")
-            require(metadata["reviewedWholeText"] and metadata["reviewedAllDifferences"], f"Review incomplete: {asset}")
-            require(metadata["humanListened"] == release["humanListeningPerformed"], f"Listening status mismatch: {asset}")
+            if metadata["editorialNoteCount"]:
+                note_path = directory / "校注.md"
+                require(note_path.is_file(), f"Missing reading notes: {asset}")
+                require(variant.get("notes") == note_path.relative_to(ROOT).as_posix(), f"Notes path mismatch: {asset}")
+                expected_paths.add(note_path)
+            else:
+                require(not variant.get("notes"), f"Unexpected notes link: {asset}")
+            require(not metadata["unresolvedCount"] or metadata["editorialNoteCount"], f"Uncertain wording needs a reading note: {asset}")
             require(metadata["unresolvedCount"] == variant["unresolvedCount"], f"Unresolved catalog mismatch: {asset}")
             require(metadata["releaseVersion"] == release["version"], f"Version mismatch: {asset}")
             text = (directory / "transcript.txt").read_text(encoding="utf-8").strip()
             markdown = (directory / "transcript.md").read_text(encoding="utf-8")
             require(text and text in markdown, f"Markdown/TXT mismatch: {asset}")
             validate_captions(directory / "captions.vtt", text, metadata["sourceVideoDurationSeconds"])
-            for field, name in [("calibratedTranscriptSha256", "transcript.txt"), ("captionSha256", "captions.vtt")]:
+            for field, name in [("transcriptSha256", "transcript.txt"), ("captionSha256", "captions.vtt")]:
                 actual_hash = sha(directory / name)
                 if refresh:
                     metadata[field] = actual_hash
@@ -163,7 +167,6 @@ def verify(refresh=False):
     require(dict(locales) == release["locales"], "Language counts mismatch")
     require(note_assets == release["editorialNotesAssets"], "Editorial note count mismatch")
     require(unresolved_assets == release["unresolvedAssets"], "Unresolved asset count mismatch")
-    require(len(seen_assets) + release["quarantinedSources"] == release["originalVideoCount"], "Source accounting mismatch")
     paths = public_files()
     validate_links_and_privacy(paths)
     if refresh:

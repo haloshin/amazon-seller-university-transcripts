@@ -1,5 +1,7 @@
 # Late Shipment Rate (LSR) overview
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 Welcome to our training on the Late Shipment Rate, or LSR. Today we'll cover what the LSR is and how it affects sellers in the Amazon Store. Let's start by defining LSR. LSR measures the percentage of orders where shipment confirmation occurs after the expected ship date. You can find the expected ship date in order details. It's important to note that LSR only applies to seller-fulfilled orders, also known as merchant-fulfilled, or MFN.
  To calculate your LSR, your total orders are divided by those that were ship-confirmed late.
  So if you've had 100 orders in the last 10 days and two of them were shipped after the expected ship date, you'll have an LSR of 2%.
@@ -25,7 +27,3 @@ Welcome to our training on the Late Shipment Rate, or LSR. Today we'll cover wha
  Finally, always check your account health dashboard regularly for notifications.
  This concludes our training on the late shipment rate.
  Thank you and happy selling in the Amazon store.
-
----
-
-[校注与辨识说明](校注.md)

@@ -1,5 +1,7 @@
 # Intro to Seller Central
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 Seller Central is where you will manage a majority
  of your day-to-day operations when selling on Amazon
  and a place to find resources to learn and grow as a seller.
@@ -59,7 +61,3 @@ Seller Central is where you will manage a majority
  If you are new to selling on Amazon,
  we encourage you to explore Seller Central
  before getting started.
-
----
-
-[校注与辨识说明](校注.md)

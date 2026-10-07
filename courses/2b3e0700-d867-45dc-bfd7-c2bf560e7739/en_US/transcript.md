@@ -1,5 +1,7 @@
 # Introduction to Transparency
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 As a brand, the relationship you have
  with your customers is built on trust.
  When a customer buys one of your products,
@@ -40,7 +42,3 @@ As a brand, the relationship you have
  Find a step-by-step walkthrough of the onboarding process
  by searching Transparency onboarding guide
  in Seller University.
-
----
-
-[校注与辨识说明](校注.md)

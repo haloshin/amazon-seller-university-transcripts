@@ -24,7 +24,3 @@ Hi everyone! As new sellers, we would love to check our sales all the time, righ
  on top of Amazon.com page. You can check for your niche is your ASIN ranking well relative
  to other competitors. I actually check that daily to make sure my ASIN is well positioned
  within my niche. So those are all the checklists that we should quickly look. Happy selling!
-
----
-
-[校注与辨识说明](校注.md)

@@ -46,7 +46,3 @@ Variations let you group similar products under a single listing, called a paren
  be able to add offer information for the variations you provided.
  For more information about how to list your products one by one, review our How to List
  Your First Product Guide in Seller University.
-
----
-
-[校注与辨识说明](校注.md)

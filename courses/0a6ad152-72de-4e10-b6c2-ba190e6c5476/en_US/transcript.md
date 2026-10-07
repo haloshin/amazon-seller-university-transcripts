@@ -1,5 +1,7 @@
 # Sponsored Products advanced features and campaign optimization strategies
 
+> 本课有一处尚未确认的词句，位置与说明见[阅读说明](校注.md)。
+
 Let's explore some advanced features and optimization strategies that can help you improve
  your campaign performance. After watching this video, you'll be able to enhance your campaigns
  through several key features. You'll learn to apply rule-based bidding, implement scheduled
@@ -39,7 +41,3 @@ Let's explore some advanced features and optimization strategies that can help y
  individual features on a few campaigns, monitor results for at least two weeks, and gradually
  expand successful optimizations that align with your business objectives. Apply advanced
  features in the advertising console.
-
----
-
-[校注与辨识说明](校注.md)

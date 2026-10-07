@@ -25,7 +25,3 @@ Welcome to the video guide to Amazon business customers. Amazon sellers list, pr
  buyer who opens an Amazon business account. To learn more about Amazon business and how you
  can grow your own business by selling to professional buyers, see our module "Introduction to Amazon
  Business Features." This concludes our video. Thank you and happy selling on Amazon!
-
----
-
-[校注与辨识说明](校注.md)

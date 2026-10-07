@@ -28,7 +28,3 @@
  To learn more about calculating your potential FBA fees,
  you can review our guide, "Is FBA Right for You?"
  in Seller Central.
-
----
-
-[校注与辨识说明](校注.md)

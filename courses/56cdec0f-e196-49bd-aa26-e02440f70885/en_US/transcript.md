@@ -1,5 +1,7 @@
 # Address a Multiple Account Policy violation
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 Welcome to the video on addressing Amazon's multiple accounts policy
  violations. This video covers the following topics; 1. What can you do to
  address violations? 2. Best practices to remain compliant. The content in this
@@ -57,7 +59,3 @@ Welcome to the video on addressing Amazon's multiple accounts policy
  you have engaged a valid third-party service, we recommend listing them as a
  secondary user in the approved app Users User Permissions. We hope this video on
  our multiple accounts policy was helpful. Thank you and happy selling on Amazon!
-
----
-
-[校注与辨识说明](校注.md)

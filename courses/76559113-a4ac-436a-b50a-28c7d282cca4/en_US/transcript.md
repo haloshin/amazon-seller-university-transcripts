@@ -1,5 +1,7 @@
 # Reduce your referral fees in select product categories
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 Welcome to our training on how to reduce your referral fees in select product categories.
  In this video, we'll share how setting a low price for products in certain categories
  can help decrease your referral fees and increase your net profits from each sale.
@@ -44,7 +46,3 @@ Welcome to our training on how to reduce your referral fees in select product ca
  select referral fee preview report from the select report type drop-down menu and click
  request report. This concludes our training on how to reduce your referral fees in select product
  categories. Thank you and happy selling in the Amazon store.
-
----
-
-[校注与辨识说明](校注.md)

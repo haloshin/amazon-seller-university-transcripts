@@ -1,5 +1,7 @@
 # Apply to sell a product, category, or brand
 
+> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+
 Some products, product categories and products from brands enrolled in Amazon
  brand registry require approval before you can list them. Applications help
  customers shop with confidence knowing products are safe and authentic. The
@@ -54,7 +56,3 @@ Some products, product categories and products from brands enrolled in Amazon
  business days. To check your application status go to view selling applications
  in Seller Central. Once approved click list products to start adding products to
  your inventory.
-
----
-
-[校注与辨识说明](校注.md)

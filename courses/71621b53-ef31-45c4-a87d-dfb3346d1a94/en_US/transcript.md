@@ -55,7 +55,3 @@ Amazon Buy Shipping is a tool available to sellers
  To learn how to use Amazon Buy Shipping for your next order,
  search using Amazon Buy Shipping for seller-fulfilled orders
  on Seller Central.
-
----
-
-[校注与辨识说明](校注.md)

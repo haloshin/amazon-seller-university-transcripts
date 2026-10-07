@@ -37,7 +37,3 @@ Welcome to our Understand Shipping Templates training. In this video, you'll lea
  After watching this video, you should now know what shipping templates are, how to navigate shipping templates, how to set your shipping fees per item or by price band, and how to offer free shipping.
  Make sure to return to the shipping settings page to review and update your shipping settings or templates as needed.
  This concludes our training on shipping templates. Thank you and happy selling in the Amazon store.
-
----
-
-[校注与辨识说明](校注.md)
