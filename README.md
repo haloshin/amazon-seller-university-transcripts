@@ -2,7 +2,7 @@
 
 **270 门课程，随时阅读与检索。**
 
-![270 门亚马逊卖家大学课程、455 份英文和中文转写稿：选课程、读正文、下载使用](assets/reader-banner.png)
+![270 门课程、8 个主题、455 份转写稿：英文 270 份，中文音轨稿 185 份；按主题选课、阅读原文、下载使用](assets/reader-banner.png)
 
 [按主题找课](学习导航.md) · [全部课程](课程目录.md) · [下载完整资料](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [English](README.en.md)
 
@@ -13,6 +13,10 @@
 适合想了解开店流程的新卖家，也适合按业务问题查阅原课、准备团队学习材料的运营人员。
 
 ## 按主题找课
+
+![八个主题及课程数量：入门与账户 12、商品发布与定价 42、物流与配送 52、广告与促销 54、品牌与买家体验 30、合规与账户健康 30、全球开店 19、企业购与经营分析 31](assets/topic-map.png)
+
+点击下面的主题，进入对应课程列表。
 
 | 主题 | 课程数 |
 | --- | ---: |
@@ -31,6 +35,8 @@
 
 下面是本项目推荐的入门顺序，也可以直接选择与你当前问题相关的主题。
 
+![五门推荐入门课：开店概览、卖家平台、销售政策、商品发布、FBA 入门；自行配送可继续读 FBM 入门](assets/starter-path.png)
+
 | 顺序 | 课程 | 中文 | English |
 | --- | --- | --- | --- |
 | 1 | 新卖家 5 分钟开店概览 | [阅读](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md) | [Read](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md) |
@@ -41,23 +47,33 @@
 
 FBA 课程介绍亚马逊配送方式；自行配送订单可接着读[卖家自配送（FBM）入门](courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/transcript.md)。
 
+## 先看一段原文
+
+下面节选自 FBA 入门课程；英文稿与中文稿分别来自对应音轨。
+
 ![亚马逊物流入门的真实阅读节选：英文原文与中文音轨稿](assets/fba-reading-example.png)
 
 [继续读 FBA 中文全文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) · [Read the English course](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [查看全部 270 门课程](课程目录.md)
 
-## 下载与使用
-
-从 [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) 下载完整 ZIP。在线阅读可直接打开[学习导航](学习导航.md)；离线可用 Markdown 阅读器打开 `学习导航.md`，或用文本编辑器阅读 TXT 全文。
+## 怎样读一门课
 
 每篇课程页都提供主题入口、已有语言切换和同主题上一篇／下一篇。中文阅读过程中遇到仅有英文的下一篇，会标明“英文”。
 
-![三种阅读方式：Markdown 在线阅读、TXT 离线检索、VTT 配套字幕](assets/reading-formats.png)
+![课程页导航示意：顶部返回主题或切换已有语言，底部打开 TXT、VTT，继续阅读同主题上一篇和下一篇](assets/course-navigation.png)
+
+[打开 FBA 课程试读](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) · [回到学习导航](学习导航.md)
+
+## 下载与使用
+
+从 [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) 下载完整 ZIP 并解压。在线阅读可直接打开[学习导航](学习导航.md)；离线可用 Markdown 阅读器打开 `学习导航.md`，或用文本编辑器阅读 TXT 全文。
+
+![三种文件的用途：Markdown 阅读全文，TXT 搜索、复制或导入，VTT 配合原视频阅读字幕；ZIP 从 Releases 下载，原视频在 Amazon 官方入口观看](assets/reading-formats.png)
 
 | 需要做什么 | 使用哪个文件 |
 | --- | --- |
 | 在 GitHub 或编辑器阅读全文 | `transcript.md` |
 | 搜索、复制或导入阅读工具 | `transcript.txt` |
-| 配合原视频使用句段字幕 | `captions.vtt` |
+| 在支持外部字幕的播放器中配合原视频使用 | `captions.vtt` |
 
 也可以克隆仓库：
 

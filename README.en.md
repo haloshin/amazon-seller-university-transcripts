@@ -2,7 +2,7 @@
 
 **270 courses to read and search at your own pace.**
 
-![270 courses and 455 English/Chinese transcripts: choose a course, read, and download](assets/reader-banner.png)
+![270 courses across 8 topics: 270 English transcripts and 185 Chinese-audio transcripts, 455 in total](assets/reader-banner.png)
 
 [Browse by topic](LEARNING_GUIDE.md) · [All courses](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [简体中文](README.md)
 
@@ -13,6 +13,10 @@ Chinese transcripts follow Chinese audio. Each course retains its original title
 For new sellers learning the basics, and operators looking up a specific topic or preparing team reading materials.
 
 ## Browse by topic
+
+![Eight topics: getting started 12, listings 42, fulfillment 52, advertising 54, brands 30, compliance 30, global selling 19, and Amazon Business and business insights 31](assets/topic-map.png)
+
+Use the links below to open each topic's course list.
 
 | Topic | Courses |
 | --- | ---: |
@@ -31,6 +35,8 @@ The [learning guide](LEARNING_GUIDE.md) lists every course with its available la
 
 This is our suggested introduction. You can also choose a topic relevant to your current question.
 
+![Suggested route: beginner overview, Seller Central, selling policies, listings, and FBA; continue with FBM for seller fulfillment](assets/starter-path.png)
+
 1. [Sell in the Amazon store: 5-minute overview for beginners](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)
 2. [Intro to Seller Central](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)
 3. [Overview of Amazon selling policies](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)
@@ -39,23 +45,33 @@ This is our suggested introduction. You can also choose a topic relevant to your
 
 For seller fulfillment, continue with [Intro to Fulfillment by Merchant (FBM)](courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md).
 
+## Read a real excerpt
+
+This sample comes from the FBA introduction. The English and Chinese texts follow their respective audio tracks.
+
 ![Real FBA course excerpts: English text and a transcript of the Chinese audio](assets/fba-reading-example.png)
 
 [Read the English FBA course](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [Chinese version](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) · [All 270 courses](课程目录.md)
 
-## Download and use
-
-Download the complete ZIP from [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest). For online reading, open the [learning guide](LEARNING_GUIDE.md). Offline, open `LEARNING_GUIDE.md` in a Markdown reader, or read TXT files in a text editor.
+## Navigate a course
 
 Each course page links back to its topic, offers available language alternatives, and provides previous/next navigation within the topic. Links from a Chinese page to an English-only course are labeled accordingly.
 
-![Read Markdown, search plain text, or use WebVTT captions with the original video](assets/reading-formats.png)
+![Course-page diagram: topic and language links at the top, TXT and VTT links below the text, and previous/next links within the topic](assets/course-navigation.png)
+
+[Try the FBA course](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [Back to the learning guide](LEARNING_GUIDE.md)
+
+## Download and use
+
+Download and extract the complete ZIP from [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest). For online reading, open the [learning guide](LEARNING_GUIDE.md). Offline, open `LEARNING_GUIDE.md` in a Markdown reader, or read TXT files in a text editor.
+
+![Markdown for full-text reading, TXT for search and import, and VTT for use with the original video in a compatible player; get the ZIP from Releases and watch videos at the official Amazon portal](assets/reading-formats.png)
 
 | Purpose | File |
 | --- | --- |
 | Read the full course | `transcript.md` |
 | Search, copy, or import text | `transcript.txt` |
-| Use sentence/segment captions | `captions.vtt` |
+| Use with the original video in a player supporting external captions | `captions.vtt` |
 
 You can also clone the repository:
 
