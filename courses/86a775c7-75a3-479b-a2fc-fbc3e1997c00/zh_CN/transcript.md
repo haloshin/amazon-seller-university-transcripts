@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：为广告投放准备商品详情页
+
 # Prepare your product detail pages for advertising
 
 希望在推广时提升成功的几率
@@ -79,3 +83,9 @@ A+页面是打造愉快购物体验的独特方式
 您的广告方案就能充分发挥价值
 准备好开始了吗?
 访问 ads.amazon.com
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（英文）](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md) · [同主题下一篇：广告控制台的商品页面（英文）](../../../courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md)

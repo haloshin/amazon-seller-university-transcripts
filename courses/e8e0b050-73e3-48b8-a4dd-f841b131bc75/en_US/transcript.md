@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # How to improve Sponsored Brands campaigns: Strategies to extend your reach and drive clicks
 
 Looking for better results from your sponsored brands campaigns? Here's a guided breakdown
@@ -42,3 +44,9 @@ Looking for better results from your sponsored brands campaigns? Here's a guided
  This is especially important when preparing for high traffic events like Prime Day,
  where historical trends can help inform strategy. Visit the ad console and start optimizing your
  campaigns.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to get started with contextual targeting in your Sponsored Display campaign](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/en_US/transcript.md) · [Next in topic：How to optimize your bid with display ads](../../../courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/transcript.md)

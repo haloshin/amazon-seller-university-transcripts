@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：优化商品推广广告活动
+
 # How to optimize your Sponsored Products campaigns
 
 优化广告活动可以帮助您调整商品推广活动以获得更好的效果。
@@ -37,3 +41,9 @@
 简称ROAS,
 以及整体销售增长。
 开始在广告控制台中优化您的广告活动吧!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：优化展示广告竞价（英文）](../../../courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/transcript.md) · [同主题下一篇：优化商品推广的定向、竞价与预算（英文）](../../../courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md)

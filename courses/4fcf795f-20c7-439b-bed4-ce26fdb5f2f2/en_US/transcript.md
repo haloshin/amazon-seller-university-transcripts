@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # UK2US Partnered Carrier Program
 
 Welcome to our training on the UK to US partnered carrier program. Today we will go over how to create a shipment using the UK to US partnered carrier program and how this can benefit eligible selling partners. The UK to US partnered carrier program offers air express shipping options to ship the fulfillment by Amazon small parcels directly from UK warehouses to US fulfillment centers.
@@ -24,3 +26,9 @@ Welcome to our training on the UK to US partnered carrier program. Today we will
  Thank you for watching this video. Please be sure to check through the steps.
  For more information, click on the links below the video. We wish you all the best and happy
  selling in the U.S.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：The easiest way for US sellers to expand internationally](../../../courses/59a08397-d4b4-4b33-9d38-e83d81329279/en_US/transcript.md)

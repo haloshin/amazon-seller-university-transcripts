@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Dangerous goods overview
 
 Welcome to our Dangerous Goods Overview.
@@ -73,3 +75,9 @@ Welcome to our Dangerous Goods Overview.
  risks.
  Thank you for helping keep our communities and customers safe and happy selling in the
  Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Dangerous Goods Awareness](../../../courses/670035e4-6834-46f9-be38-385231351096/en_US/transcript.md) · [Next in topic：Dietary supplements policy and compliance](../../../courses/36837951-3f77-47f9-82f1-e7c845614c5a/en_US/transcript.md)

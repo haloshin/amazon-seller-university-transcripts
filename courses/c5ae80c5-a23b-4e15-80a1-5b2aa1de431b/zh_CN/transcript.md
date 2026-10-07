@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：品牌分析：搜索目录绩效报告
+
 # Brand Analytics: Search Catalog Performance report
 
 欢迎参加我们关于品牌分析全系商品搜索表现报告的培训,已在亚马逊品牌注册中注册的品牌,可以享受一系列额外的销售权益,包括卖家平台中的品牌分析工具。
@@ -58,3 +62,9 @@ Comprehensive View,下载包含所有相关列的报告。
 我们对全系商品搜索表现报告的概述到此结束。
 如果您想了解其他品牌分析报告的分步说明,请观看卖家大学中的相应模块系列。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：品牌分析：重复购买行为报告](../../../courses/939ce460-adb7-4689-b04e-fa6047635af5/zh_CN/transcript.md) · [同主题下一篇：品牌分析：搜索查询绩效报告](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/zh_CN/transcript.md)

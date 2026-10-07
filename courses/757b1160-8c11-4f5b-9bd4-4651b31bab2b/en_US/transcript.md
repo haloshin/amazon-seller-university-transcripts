@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Brand Analytics: Search Query Performance report
 
 Welcome to our training on the Brand Analytics Search Query Performance Report.
@@ -69,3 +71,9 @@ Welcome to our training on the Brand Analytics Search Query Performance Report.
  This concludes our overview of the Search Query Performance Report.
  If you'd like step-by-step instructions for other brand analytics reports, see our series of modules in Seller University.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Brand Analytics: Search Catalog Performance report](../../../courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/en_US/transcript.md) · [Next in topic：Brand Analytics: Top Search Terms report](../../../courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/en_US/transcript.md)

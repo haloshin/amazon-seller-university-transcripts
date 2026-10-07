@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Lithium batteries overview
 
 Welcome to our training on lithium batteries. In this video, we'll show you the hazards of lithium batteries, give you the information you need to sell lithium batteries in the Amazon store, and list the most common types of lithium batteries.
@@ -27,3 +29,9 @@ Welcome to our training on lithium batteries. In this video, we'll show you the 
  For more information, search lithium batteries in Seller Central to find our help page titled Requirements for Lithium Batteries and Products that are shipped with lithium batteries.
  This concludes our overview of lithium batteries.
  Thank you, and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to the Amazon Generic Product Policy](../../../courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md) · [Next in topic：Manage your compliance dashboard](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/en_US/transcript.md)

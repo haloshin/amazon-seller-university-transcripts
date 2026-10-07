@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # Expand listings to Amazon.ca and Amazon.com.mx
 
 If you're a seller using a North America unified account, you can sell on Amazon.com,
@@ -64,3 +66,9 @@ If you're a seller using a North America unified account, you can sell on Amazon
  Note that using an inventory loader file will not work for adding ASINs that are not yet
  present on the .ca or .com.MX sites.
  For more information, search "North America Unified Account in Seller Central."
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：CREASEBEAST shares 5 steps to successfully expand your business globally](../../../courses/15bd3f34-2946-412f-93dc-b34840ed885f/en_US/transcript.md) · [Next in topic：Expand Your Business to Europe with FBA](../../../courses/ff2db382-9bf6-48fb-8822-c3548a569339/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Find Your Best Products to Advertise on Amazon
 
 This video will show you how to use Seller Central to find products for advertising based on your business goals.
@@ -37,3 +39,9 @@ This video will show you how to use Seller Central to find products for advertis
  then follow the prompts to set up your campaign. Ready to get started?
  Visit Seller Central today at sellercentral.amazon.com.
  Already know what you want to advertise? Create an account or sign in to Amazon Ads at advertising.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Earn a Brand Referral Bonus from non-Amazon advertising](../../../courses/d89a8859-3460-479b-ae6b-3695a6f5e531/en_US/transcript.md) · [Next in topic：Five key Sponsored Products reports for campaign optimization](../../../courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/en_US/transcript.md)

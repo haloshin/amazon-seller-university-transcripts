@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md)
+
 # Choosing your seller savings programs (video)
 
 In this video we'll explore various saving opportunities available to you as an Amazon
@@ -38,3 +40,9 @@ In this video we'll explore various saving opportunities available to you as an 
  Savings Opportunities in Seller Central. Not eligible for any programs today? New programs
  continue to be added, so check the cost savings program page and manage your growth dashboard
  frequently. Thank you and happy saving in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Handmade: Welcome](../../../courses/7e919233-e34f-44f5-83fe-82db49d61d66/en_US/transcript.md) · [Next in topic：Complete your self-service tax interview](../../../courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/en_US/transcript.md)

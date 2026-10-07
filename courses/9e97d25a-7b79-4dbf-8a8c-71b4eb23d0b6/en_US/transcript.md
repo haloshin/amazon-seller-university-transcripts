@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to earn a Brand Referral Bonus
 
 Welcome to our training on how to earn a brand referral bonus. Are you a brand owner selling in the U.S. Amazon Store?
@@ -43,3 +45,9 @@ Welcome to our training on how to earn a brand referral bonus. Are you a brand o
  This concludes our training on how to earn a brand referral bonus.
  You now have the tools to drive traffic to your Amazon listings and start earning your bonus.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to drive traffic to your Store with Sponsored Brands](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md) · [Next in topic：How to get started with contextual targeting in your Sponsored Display campaign](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/en_US/transcript.md)

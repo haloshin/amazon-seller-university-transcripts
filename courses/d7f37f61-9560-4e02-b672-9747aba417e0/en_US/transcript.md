@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon – Step 3: Print box labels
 
 After confirming your shipments in step 2, it's time to print your box labels. If you have
@@ -27,3 +29,9 @@ After confirming your shipments in step 2, it's time to print your box labels. I
  tracking details that will populate once you complete step three or by navigating to your shipping queue
  and clicking track shipment. For pallet shipments, select continue to carrier and pallet information
  to proceed to step four.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon – Step 2: Confirm shipping](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 4: Confirm carrier and pallet information](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/en_US/transcript.md)

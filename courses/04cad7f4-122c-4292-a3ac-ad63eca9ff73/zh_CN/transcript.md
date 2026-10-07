@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：使用企业折扣洞察获取定价建议
+
 # Get pricing recommendations using ‘Business discount insights’
 
 欢迎参加我们关于企业折扣洞察工具的培训。
@@ -60,3 +64,9 @@ B2B报价是单件商品价格加上运费。
 我们关于企业折扣洞察工具的培训到此结束。
 感谢观看。
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：生成库存报告](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/zh_CN/transcript.md) · [同主题下一篇：增长机会概览](../../../courses/d352e628-375e-4cf0-8870-1aee1c9f860d/zh_CN/transcript.md)

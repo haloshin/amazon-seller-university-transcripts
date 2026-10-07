@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Tips to reduce A-to-z Guarantee Claims and returns
 
 Welcome to our training tips to reduce A to Z guarantee claims and returns. Customers can file
@@ -75,3 +77,9 @@ Welcome to our training tips to reduce A to Z guarantee claims and returns. Cust
  notification, any discussion regarding the claim will take place on the Manage SAFE-T Claims page.
  You now have the tools to help minimize claims and returns and provide a great experience to
  your customers. Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Request access to brand selling benefits](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/en_US/transcript.md) · [Next in topic：Track and respond to customer reviews](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/en_US/transcript.md)

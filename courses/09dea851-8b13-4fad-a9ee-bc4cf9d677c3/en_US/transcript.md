@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Resolve a product-matching error
 
 Welcome to our training on resolving product matching errors. At Amazon we use product matching to simplify the listing process.
@@ -41,3 +43,9 @@ Welcome to our training on resolving product matching errors. At Amazon we use p
  Then, recreate it using a unique SKU.
  This concludes our training on resolving product matching errors.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Report an error with a product detail page](../../../courses/4efdaeac-dee5-4834-aac8-54ee56b89830/en_US/transcript.md) · [Next in topic：Resolve Brand Name Approval error](../../../courses/d5417511-59df-4138-b6b6-62fecde7da70/en_US/transcript.md)

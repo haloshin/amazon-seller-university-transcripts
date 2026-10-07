@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：Send to Amazon 第 1 步：选择要发送的库存
+
 # Send to Amazon - Step 1: Choose inventory to send
 
 Send to Amazon 工作流程包括多个步骤,用于将商品发送至亚马逊,以便通过亚马逊物流（FBA）进行配送。
@@ -46,3 +50,9 @@ Send to Amazon 工作流程包括多个步骤,用于将商品发送至亚马逊,
 例如包装组2、包装箱3。
 这样更便于将货件标签与正确的包装箱对应起来。
 包装完所有单个商品并上传包装箱信息后,点击确认并继续进入第二步,确认配送。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：将库存发送至 AWD（英文）](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md) · [同主题下一篇：Send to Amazon 第 1b 步：包装单件商品](../../../courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/zh_CN/transcript.md)

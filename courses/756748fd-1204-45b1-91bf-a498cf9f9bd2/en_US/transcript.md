@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Meet Amazon's compliance requirements using the Compliance Knowledge Portal
 
 Understanding your compliance requirements is an important part of selling on Amazon. Products that meet all applicable laws and regulations keep your customers safe from health and safety risks. Failure to meet these regulations may negatively impact your account health. Your inventory at Amazon's fulfillment centers could be disposed of or stopped at customs if you ship internationally. You might not receive your payments and your product listing may be removed. Most importantly,
@@ -27,3 +29,9 @@ Understanding your compliance requirements is an important part of selling on Am
  check for compliance requirements in that region as you won't be able to launch your product in
  stores where your product is prohibited. Use these tips to help you stay compliant and keep
  your products available to customers.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Manage your compliance dashboard](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/en_US/transcript.md) · [Next in topic：Overview of Amazon selling policies](../../../courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Tips for shoe and apparel product detail pages
 
 Welcome to the video on how to improve apparel and shoe detail pages to reduce returns. Product
@@ -49,3 +51,9 @@ Welcome to the video on how to improve apparel and shoe detail pages to reduce r
  Another option is to provide styling information such as images of the various ways the product
  can be worn. Thank you for taking this training on product detail page best practices. Please remember
  to rate and review this video so that we can continue building useful content.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Suggest an edit to a product detail page](../../../courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/en_US/transcript.md) · [Next in topic：Upload your own size chart](../../../courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/en_US/transcript.md)

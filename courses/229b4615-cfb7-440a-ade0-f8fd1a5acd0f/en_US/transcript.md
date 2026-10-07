@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # How Amazon Vine Reviews Boost New Product Visibility
 
 - I'm Liz, the CEO and founder of PO' UP! Card Game,
@@ -40,3 +42,9 @@
  over what those reviews will entail.
  And if you have a product that has a large target audience
  or demographic, the Vine program may be perfect for you.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Group and sell products as Virtual Bundles](../../../courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/en_US/transcript.md) · [Next in topic：How to add a shoppable image to your Store](../../../courses/1c2896c9-4fc3-466a-84f2-49887f19f064/en_US/transcript.md)

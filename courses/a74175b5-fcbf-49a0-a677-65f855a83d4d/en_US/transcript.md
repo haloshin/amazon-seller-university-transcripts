@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Introduction to Stores
 
 Welcome, in this video, we'll review how to create your very own Amazon store.
@@ -49,3 +51,9 @@ Welcome, in this video, we'll review how to create your very own Amazon store.
  This will help you to continue to improve your store now that it's live.
  Ready to get started?
  Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Stores and A+ Content](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/transcript.md) · [Next in topic：Introduction to Transparency](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/transcript.md)

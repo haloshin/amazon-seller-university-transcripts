@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # Amazon Global Selling - Sell Internationally - Step 4 of 4 - Manage Your Business
 
 Congratulations! You've successfully navigated the world of international
@@ -15,3 +17,9 @@ Congratulations! You've successfully navigated the world of international
  currency of your choice. Watch as your international business takes off with
  Amazon Global Selling. For a list of the products and services available through
  Amazon Global Selling, click the link below.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Global Selling - Sell Internationally - Step 3 of 4 - Ship and Fulfill](../../../courses/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/en_US/transcript.md) · [Next in topic：CREASEBEAST shares 5 steps to successfully expand your business globally](../../../courses/15bd3f34-2946-412f-93dc-b34840ed885f/en_US/transcript.md)

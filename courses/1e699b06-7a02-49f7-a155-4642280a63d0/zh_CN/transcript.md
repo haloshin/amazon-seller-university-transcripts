@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：遵守亚马逊多账户政策
+
 # Comply with Amazon’s Multiple Account policy
 
 欢迎观看亚马逊的多账户政策概述视频。
@@ -64,3 +68,9 @@
 关于如何遵守亚马逊多账户政策培训的全部内容。
 感谢观看,
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：申请销售商品、品类或品牌](../../../courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/zh_CN/transcript.md) · [同主题下一篇：危险品基础认知](../../../courses/670035e4-6834-46f9-be38-385231351096/zh_CN/transcript.md)

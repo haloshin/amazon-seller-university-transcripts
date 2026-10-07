@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：为品牌注册商标
+
 # Register a trademark for your brand
 
 欢迎观看亚马逊视频:为您的品牌注册商标。在亚马逊,我们鼓励品牌商为其品牌名称和徽标注册商标。这意味着,在特定国家或地区的指定政府机构,合法注册其品牌名称或徽标。通过注册品牌名称或徽标,品牌商会收到该机构的认证,证明他们是相关品牌商品的所有者,这赋予他们在商标注册国家或地区对其品牌名称或徽标的法律权利和保护。该品牌名称或徽标被视为知识产权IP。此外,商标注册还是各品牌在亚马逊Brand Registry中注册并享受相关权益的两个基本要求之一。另一个要求是品牌名称。
@@ -107,3 +111,9 @@ You can review country specific requirements here,
 如何在亚马逊Brand Registry中注册品牌。
 关于为品牌注册商标的视频到此结束。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：完成品牌注册后的下一步](../../../courses/43146fdf-a110-4056-971d-c287016104f5/zh_CN/transcript.md) · [同主题下一篇：通过 IP Accelerator 注册商标](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/zh_CN/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Avoid blanket discounts: smart customer targeting for Amazon sellers
 
 Hi, I'm Kyle from Vital Pet Life.
@@ -31,3 +33,9 @@ Hi, I'm Kyle from Vital Pet Life.
  lead to more sustainable growth.
  So if you're trying to build a brand on Amazon and encourage repeat customers, brand tailored
  promotions are definitely worth exploring.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：AI Creative Solutions Prompting Best Practices](../../../courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md) · [Next in topic：Choose a targeting strategy for your campaign](../../../courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md)

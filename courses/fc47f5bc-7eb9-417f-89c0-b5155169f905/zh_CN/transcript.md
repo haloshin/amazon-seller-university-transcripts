@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：评论与评分的最佳实践
+
 # Best practices for reviews and ratings
 
 欢迎观看获取评分和评论的最佳做法的培训视频。
@@ -35,3 +39,9 @@
 关于获得评论和评级的最佳做法的培训到此结束。
 现在,您拥有了提高获得评论和评分几率的工具。
 感谢观看,祝各位销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：品牌名称与标志设计的最佳实践](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/transcript.md) · [同主题下一篇：使用 Project Zero 阻止假冒商品（英文）](../../../courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md)

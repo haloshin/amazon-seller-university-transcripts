@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
+
 # Amazon Product Listing Optimization: What actually works for Revolution Nutrition
 
 Hey, I'm Michael Koka, Head of Digital Commerce at Revolution Nutrition.
@@ -27,3 +29,9 @@ Hey, I'm Michael Koka, Head of Digital Commerce at Revolution Nutrition.
  Treat them like free market research.
  My biggest advice is to treat your listings like a landing page, continuously test, learn
  from competitors and customers and always build around shopper needs.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Handmade: Product Images](../../../courses/3181cd9b-1483-4039-94e4-25436be0ef54/en_US/transcript.md) · [Next in topic：Apply pricing rules in bulk](../../../courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/en_US/transcript.md)

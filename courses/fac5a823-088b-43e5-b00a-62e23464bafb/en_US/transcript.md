@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Register a trademark through IP Accelerator
 
 Amazon's Intellectual Property, IP Accelerator, connects you with a vetted network of legal professionals
@@ -22,3 +24,9 @@ Amazon's Intellectual Property, IP Accelerator, connects you with a vetted netwo
  and trademark searches for pending applications or registrations similar to your brand name.
  Ready to protect your brand? Start your trademark journey with IP Accelerator
  and gain access to brand registry benefits sooner.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Register a trademark for your brand](../../../courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/en_US/transcript.md) · [Next in topic：Request access to brand selling benefits](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/en_US/transcript.md)

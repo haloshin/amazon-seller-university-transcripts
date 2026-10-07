@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：自动定价：修改或移除定价规则
+
 # Automate Pricing: Change or remove a pricing rule
 
 借助自动定价功能,您可以在设定的限额内动态调整商品价格,使您的报价始终保持竞争力。
@@ -23,3 +27,9 @@
 如果商品处于非在售状态,那么在您修复之前,它不会显示在管理SKU。
 页面上,而适用于该商品的所有定价规则都将一直保持暂停状态。
 要了解如何对SKU应用预填充的和自定义的定价规则,请观看卖家平台视频自动定价,应用定价规则。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：自动定价：应用定价规则](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md) · [同主题下一篇：自动定价：创建自定义规则](../../../courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/zh_CN/transcript.md)

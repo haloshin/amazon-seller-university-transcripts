@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # How to set up your Brand Store on Amazon
 
 Brand Stores are customizable multi-page storefronts, where you can showcase your products and create unique shopping experiences in the Amazon Store.
@@ -28,3 +30,9 @@ Brand Stores are customizable multi-page storefronts, where you can showcase you
  The moderation process takes up to 72 hours.
  With your brand store set up, you're ready to bring your brand to life and start creating engaging shopping experiences.
  Create your store today.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to improve your Brand Store design](../../../courses/6b90667d-d6c3-48af-97af-de027f1e5b13/en_US/transcript.md) · [Next in topic：Intro to A+ Content](../../../courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/en_US/transcript.md)

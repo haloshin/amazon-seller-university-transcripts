@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Business Pricing
 
 As an Amazon seller, there are multiple ways for you to price your products competitively
@@ -50,3 +52,9 @@ As an Amazon seller, there are multiple ways for you to price your products comp
  They're also useful for streamlining and coordinating your pricing efforts.
  To learn more about how to use business pricing tools, search set business prices or quantity
  discounts or intro to automate pricing in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Brand Analytics](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/en_US/transcript.md) · [Next in topic：Intro to business reports](../../../courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md)
+
 # Amazon Handmade: Welcome
 
 At Amazon Handmade, we know that behind everything you make, there's a story.
@@ -15,3 +17,9 @@ At Amazon Handmade, we know that behind everything you make, there's a story.
  process.
  So customers know that when they shop handmade, they're getting something truly unique.
  Discover how Amazon Handmade can help your business thrive.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：3 Essential Tips Every New Amazon Seller Needs to Know](../../../courses/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/en_US/transcript.md) · [Next in topic：Choosing your seller savings programs (video)](../../../courses/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/en_US/transcript.md)

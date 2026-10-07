@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Add business certifications to your profile
 
 (upbeat music)
@@ -86,3 +88,9 @@
  search for certification in Seller Central
  and choose certifications or the add a certification help page.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Add negotiated pricing](../../../courses/2513f967-cfdc-40ad-8747-341bd9dbefec/en_US/transcript.md)

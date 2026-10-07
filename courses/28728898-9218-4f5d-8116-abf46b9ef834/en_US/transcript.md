@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Manage Your Experiments: interpret results for listing content you’ve tested
 
 Welcome to our training "Manage Your Experiments - Interpret Results for Listing Content You've Tested."
@@ -28,3 +30,9 @@ Welcome to our training "Manage Your Experiments - Interpret Results for Listing
  Or if you left the auto-publish option defaulted while setting up your M-Y-E test, we'll publish your alternate content automatically, as long as it performed significantly better than your existing listing content.
  This concludes our training and our series on M-Y-E.
  Thank you, and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：List products without a Product ID (UPC/GTIN Exemption)](../../../courses/e8544607-590c-414e-8831-d0b3f0cf3bee/en_US/transcript.md) · [Next in topic：Manage Your Experiments: plan a test of your listing content](../../../courses/16da6b21-dffe-4e57-b001-237ff67ed988/en_US/transcript.md)

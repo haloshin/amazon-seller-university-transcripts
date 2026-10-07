@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Set up your budgets
 
 In this video, we'll help you choose the best budgeting strategy for your Amazon Ads campaigns
@@ -66,3 +68,9 @@ In this video, we'll help you choose the best budgeting strategy for your Amazon
  The best ad budget is one that fits your business's priorities and long-term goals.
  Ready to get started?
  Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Reaching high intent shoppers with Sponsored Brands and Brand Stores](../../../courses/dcafc422-e0f3-45da-8525-66f0619c1d7b/en_US/transcript.md) · [Next in topic：Showcasing your Brand Store highlights with Sponsored Brands](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md)

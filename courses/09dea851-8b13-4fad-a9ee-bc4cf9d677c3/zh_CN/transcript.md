@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：解决商品匹配错误
+
 # Resolve a product-matching error
 
 欢迎参加《关于解决商品匹配错误》的培训。
@@ -66,3 +70,9 @@ SKU是卖家特定的。
 然后使用唯一的SKU重新创建该商品。
 以上是解决商品匹配错误培训的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：报告商品详情页错误](../../../courses/4efdaeac-dee5-4834-aac8-54ee56b89830/zh_CN/transcript.md) · [同主题下一篇：解决品牌名称批准错误](../../../courses/d5417511-59df-4138-b6b6-62fecde7da70/zh_CN/transcript.md)

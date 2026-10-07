@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Picture requirements for when you apply to sell
 
 (gentle music)
@@ -38,3 +40,9 @@
  requiring approval in Seller Central,
  you can search for and review the categories
  and products that require approval help page.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Overview of Amazon selling policies](../../../courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md) · [Next in topic：Respond to a performance notification](../../../courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/en_US/transcript.md)

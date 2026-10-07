@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Multi-Channel Fulfillment (MCF): How Amazon sellers can use MCF and FBA together
 
 Welcome to our training on how to use Amazon Multi-Channel Fulfillment or MCF with Fulfillment by Amazon or FBA. Before we get started, you can watch Multi-Channel Fulfillment, how it works, on Seller University or SU, to learn more about MCF. Or go to SU for the video Multi-Channel Fulfillment, Create Fulfillment Orders to get details on how to create single, bulk, hold, or API orders.
@@ -23,3 +25,9 @@ Welcome to our training on how to use Amazon Multi-Channel Fulfillment or MCF wi
  Set the filter type to Guide and search for Your Guide to Seller Central.
  This guide offers step-by-step instructions for order creation, inventory, returns, reports and other topics.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Move your FTL shipments with Amazon Freight](../../../courses/56035ae2-6096-4bc5-9085-93895e434294/en_US/transcript.md) · [Next in topic：Multi-Channel Fulfillment: Create fulfillment orders](../../../courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/en_US/transcript.md)

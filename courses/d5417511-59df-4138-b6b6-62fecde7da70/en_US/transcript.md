@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Resolve Brand Name Approval error
 
 (gentle music)
@@ -81,3 +83,9 @@
  review the brand name approval requirements
  and issue resolution help page in Seller Central.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Resolve a product-matching error](../../../courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/en_US/transcript.md) · [Next in topic：Start selling subscription boxes](../../../courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/transcript.md)

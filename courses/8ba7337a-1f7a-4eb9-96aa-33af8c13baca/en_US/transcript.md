@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Wrong item sent product compliance
 
 Welcome to our wrong item sent product compliance training. A wrong item sent product condition issue occurs when a customer receives a product they consider different from the one they ordered.
@@ -25,3 +27,9 @@ Welcome to our wrong item sent product compliance training. A wrong item sent pr
  Remember to keep your account health from being affected by wrong item sent violations.
  Always ensure that customers receive the product as it's described on the product detail page.
  This concludes our wrong item sent product compliance training. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Toys and compliance](../../../courses/0982f544-3c62-43ee-b54a-606892d32662/en_US/transcript.md) · [Next in topic：“Used sold as new” product compliance](../../../courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/en_US/transcript.md)

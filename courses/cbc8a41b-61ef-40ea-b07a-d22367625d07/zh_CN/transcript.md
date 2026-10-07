@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：创建并销售虚拟捆绑商品
+
 # Group and sell products as Virtual Bundles
 
 欢迎参加我们有关虚拟捆绑商品的培训。亚马逊买家通常会同时购买多件商品,并根据品牌来帮助确定要搭配购买的商品。例如,一个花盆和一包种子,或者洗发水和护发素。为更方便买家找到并购买相关商品,我们制定了虚拟捆绑商品计划。
@@ -162,3 +166,9 @@ Make it a Bundle小部件,
 关于品牌分析购物篮分析报告的视频。
 感谢观看,
 祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：注册加入亚马逊品牌注册](../../../courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/zh_CN/transcript.md) · [同主题下一篇：Amazon Vine 评论如何提升新品曝光（英文）](../../../courses/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/en_US/transcript.md)

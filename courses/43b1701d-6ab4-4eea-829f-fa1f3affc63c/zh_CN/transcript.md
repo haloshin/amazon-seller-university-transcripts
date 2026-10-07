@@ -1,6 +1,8 @@
-# Sell in the Amazon store: 30-minute overview for beginners
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%85%A5%E9%97%A8%E4%B8%8E%E8%B4%A6%E6%88%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：新卖家 30 分钟开店概览
+
+# Sell in the Amazon store: 30-minute overview for beginners
 
 欢迎观看在亚马逊商店销售的40分钟概述。
 每个亚马逊卖家都有一些共同点,开始使用时,他们创建了一个销售账户,然后他们发布商品,履行买家订单并接收付款。
@@ -346,3 +348,9 @@ Manage Returns,
 以上是本期关于在亚马逊商店销售的30分钟概述的全部内容。
 我们鼓励您在卖家大学中探索有关上述每个主题的更多培训。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：付款控制面板概览](../../../courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/zh_CN/transcript.md) · [同主题下一篇：新卖家 5 分钟开店概览](../../../courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md)

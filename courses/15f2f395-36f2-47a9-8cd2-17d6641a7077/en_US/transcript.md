@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Set ASIN-specific handling time
 
 Welcome to our training on how to set ASIN specific handling times.
@@ -37,3 +39,9 @@ Welcome to our training on how to set ASIN specific handling times.
  check out the other videos in this series.
  This concludes our training on how to set ASIN specific handling times.
  Thank you, and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send your first FBA shipment](../../../courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/en_US/transcript.md) · [Next in topic：Set one-day default handling time](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/en_US/transcript.md)

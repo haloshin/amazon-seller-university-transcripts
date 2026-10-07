@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon – Step 4: Confirm carrier and pallet information
 
 In step four, you will be confirming carrier and pallet information. Note that you'll only see this step if you're shipping pallets. The steps you take will be different depending on the carrier you selected in step two. For pallet shipments with non-partnered carriers, start by confirming how many pallets you will be shipping. Then select print to generate FBA pallet ID labels.
@@ -14,3 +16,9 @@ In step four, you will be confirming carrier and pallet information. Note that y
  In the carrier selection window, you can filter by carrier name or shipping mode to view estimated transportation cost, shipping mode, and available dates.
  If a date is gray, the carrier is at capacity for that day. Once your details are correct and you are ready to print pallet labels, select confirm carrier and Pallet information.
  You're now ready to continue on to step five.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon – Step 3: Print box labels](../../../courses/d7f37f61-9560-4e02-b672-9747aba417e0/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 5: Print pallet labels](../../../courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/en_US/transcript.md)

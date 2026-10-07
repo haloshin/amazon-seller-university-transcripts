@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to use feedback to improve product listings
 
 Customer feedback is essential to the Amazon Shopping Experience, whether positive or negative.
@@ -34,3 +36,9 @@ Customer feedback is essential to the Amazon Shopping Experience, whether positi
  Click the View Returns Performance link to monitor your returns performance dashboard.
  Ensure your returns metrics stay below the stated thresholds to help guarantee a positive return experience for your buyers.
  For more best practices for handling feedback from customers, read through the Managing Your Seller Feedback Guide in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Generic Product Policy: Resolve error code 5886/7](../../../courses/2a483f34-bc0a-4996-852e-d80e9127ed19/en_US/transcript.md) · [Next in topic：Intro to Automate Pricing](../../../courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/en_US/transcript.md)

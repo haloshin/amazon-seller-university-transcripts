@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：逐个创建亚马逊目录中的新商品
+
 # Create a new product in Amazon's catalog, one at a time
 
 欢迎观看我们关于在亚马逊目录中逐一创建新商品的培训视频。
@@ -185,3 +189,9 @@
 逐一创建新商品的培训视频到此结束。
 感谢观看。
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：为商品信息添加视频的优势](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/zh_CN/transcript.md) · [同主题下一篇：使用 AI 创建适用于亚马逊的商品信息](../../../courses/a7739325-a1a7-4818-be27-86715ca39727/zh_CN/transcript.md)

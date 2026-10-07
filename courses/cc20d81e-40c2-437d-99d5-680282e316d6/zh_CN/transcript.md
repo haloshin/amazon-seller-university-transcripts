@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：加入亚马逊品牌注册的优势
+
 # Benefits of enrolling in Amazon Brand Registry
 
 亚马逊 Brand Registry 可以帮助您在亚马逊商城保护并发展您的品牌。
@@ -17,3 +21,9 @@ Brand Registry可以帮助您通过多种渠道拓展买家群体规模。
 不确定是否已准备好注册加入Brand Registry。
 请查看我们的准备注册加入Brand Registry检查清单,了解如何才能符合相关要求。
 请访问Brand Registry网站,了解此项计划的所有权益并开始注册。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：为商品添加 A+ 内容](../../../courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/zh_CN/transcript.md) · [同主题下一篇：创建 A+ 内容的最佳实践](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/zh_CN/transcript.md)

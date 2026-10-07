@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # When to use broad match in your keyword targeting
 
 "When you're setting up a campaign with manual keyword targeting, the match type determines
@@ -11,3 +13,9 @@
  close variations like plurals. If customers use other terms along with these anywhere in
  their queries, your ad may also appear.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Use audience bid boosting to enhance your Sponsored Brands campaigns](../../../courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md) · [Next in topic：When to use phrase match in your keyword targeting](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/en_US/transcript.md)

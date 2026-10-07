@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Local Selling: Using the Tech App - Room of Choice Delivery (Video)
 
 (upbeat music)
@@ -21,3 +23,9 @@ After you pick up your packages for delivery, click View Packages from the Home 
  Take your selfie and submit it. The task is complete. This completes the delivery.
  On the home page, you will see a successful completion notification. The task will no longer display. Your next delivery displays in the queue.
  You'll repeat the same steps for each new delivery.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Local Selling: Staff Management](../../../courses/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/en_US/transcript.md) · [Next in topic：Manage your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/en_US/transcript.md)

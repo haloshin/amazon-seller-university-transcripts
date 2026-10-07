@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：防伪政策合规入门
+
 # Intro to Anti-Counterfeit Policy compliance
 
 欢迎参加我们关于亚马逊防伪政策合规性培训。我们将在本视频中分享的提示并不能取代法律建议。因此,如果您有任何具体的防伪或知识产权问题,请记住咨询律师。
@@ -25,3 +29,9 @@
 我们关于如何遵守亚马逊防伪政策的培训到此结束。
 谢谢您!
 祝您在亚马逊商店销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：锂电池 38.3 相关信息](../../../courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/zh_CN/transcript.md) · [同主题下一篇：商品限制、品类与状况入门](../../../courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/zh_CN/transcript.md)

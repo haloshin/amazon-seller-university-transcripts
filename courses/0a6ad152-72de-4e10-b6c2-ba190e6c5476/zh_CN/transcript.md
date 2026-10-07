@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：商品推广高级功能与广告优化策略
+
 # Sponsored Products advanced features and campaign optimization strategies
 
 我们来了解一些有助于改善广告活动效果的高级功能和优化方案。
@@ -29,3 +33,9 @@
 请先在少量广告活动中单独测试这些功能。
 监控至少两周的效果,再逐步扩展与业务目标相契合的有效的优化方案。
 立即在广告控制台中应用这些高级功能吧!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用品牌推广展示旗舰店亮点（英文）](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md) · [同主题下一篇：Happy Start 用 2 美元优惠券应对销售下滑的案例（英文）](../../../courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md)

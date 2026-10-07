@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：生成退货报告
+
 # Generate return reports
 
 欢迎观看本期关于退货报告的培训视频。
@@ -49,3 +53,9 @@ Return Reports页面顶部附近的查看FBA报告
 View FBA Reports
 以上就是本期退货报告培训视频的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：FBA 装箱清单（英文）](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md) · [同主题下一篇：获取整箱包装建议](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/zh_CN/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Amazon Tax Exemption Program
 
 We're here to take a quick look at the Amazon Tax Exemption Program.
@@ -23,3 +25,9 @@ We're here to take a quick look at the Amazon Tax Exemption Program.
  Keep in mind that certificates become available 48 hours after you have confirmed shipment
  of your tax exempt order.
  That does it for the Amazon Tax Exemption Program. Thanks for tuning in.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Add negotiated pricing](../../../courses/2513f967-cfdc-40ad-8747-341bd9dbefec/en_US/transcript.md) · [Next in topic：Apps and APIs for B2B product opportunities](../../../courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/transcript.md)

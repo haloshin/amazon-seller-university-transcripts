@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Create product variations one at a time
 
 Variations let you group similar products under a single listing, called a parent listing.
@@ -46,3 +48,9 @@ Variations let you group similar products under a single listing, called a paren
  be able to add offer information for the variations you provided.
  For more information about how to list your products one by one, review our How to List
  Your First Product Guide in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create Amazon-ready product listings using AI](../../../courses/a7739325-a1a7-4818-be27-86715ca39727/en_US/transcript.md) · [Next in topic：Creating culturally respectful listings](../../../courses/cf32d928-86d3-4cd9-a835-de753e88cda1/en_US/transcript.md)

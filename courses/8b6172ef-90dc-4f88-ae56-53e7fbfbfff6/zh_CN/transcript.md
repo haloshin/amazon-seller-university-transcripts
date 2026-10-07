@@ -1,6 +1,8 @@
-# Set order-handling capacity
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：设置订单处理能力
+
+# Set order-handling capacity
 
 欢迎观看本期《关于如何设置订单处理容量》的培训视频。
 在本视频中,我们将向您展示如何为在默认处理时间内所需处理的订单数量设置限制。
@@ -45,3 +47,9 @@ Order Handling Capacity。
 这对卖家和买家来说,都是好消息。
 我们的订单处理容量培训到此结束。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：设置一天默认备货时间](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/zh_CN/transcript.md) · [同主题下一篇：使用第三方应用发货与配送](../../../courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/zh_CN/transcript.md)

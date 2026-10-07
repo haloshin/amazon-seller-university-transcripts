@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Welcome to Amazon
 
 Welcome to Amazon. Whether you're a seasoned seller or just getting started, Amazon can help you take your business to the next level, putting your products in front of millions of shoppers worldwide. You'll get access to time and money-saving programs like Fulfillment by Amazon, which can help you scale your business quickly and reach global customers. Brand owners can take advantage of Amazon Brand Registry, a free program that provides your brand with additional benefits and protections.
@@ -14,3 +16,9 @@ Welcome to Amazon. Whether you're a seasoned seller or just getting started, Ama
  where you will manage most of your day-to-day business when selling with Amazon.
  If you have questions at any time, simply ask Seller Assistant, our AI chatbot, or explore Seller University for additional guidance.
  Once again, welcome  to Amazon. We're so excited to be a part of your selling journey.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Sell in the Amazon store: 5-minute overview for beginners](../../../courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)

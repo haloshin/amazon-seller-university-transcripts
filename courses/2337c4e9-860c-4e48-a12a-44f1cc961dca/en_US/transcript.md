@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Drive traffic with Amazon Vine customer reviews
 
 If you're enrolled in Amazon brand registry,
@@ -105,3 +107,9 @@ If you're enrolled in Amazon brand registry,
  Vine Customer Review of Free Product.
  For more information,
  go to the Amazon Vine Help page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Customer Service Fundamentals](../../../courses/d937a9f0-9e1a-456b-b962-fbd311451e81/en_US/transcript.md) · [Next in topic：Enroll your brand in Amazon Brand Registry](../../../courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Why Sellers should be spending on Amazon Ads
 
 You can't grow on Amazon without ads. Honestly, that's not a bad thing.
@@ -14,3 +16,9 @@ Here's the biggest insight. Ads are not just for running sales, they're your fas
  A budget isn't just spend. It's data. And data leads to smart decisions. So yes, Amazon
  ads are not optional. And that's exactly why they're powerful. Because the faster you
  learn, the faster you grow.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：When to use phrase match in your keyword targeting](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/en_US/transcript.md)

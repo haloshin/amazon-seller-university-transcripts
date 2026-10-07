@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to create a Deal
 
 You can create timed promotional offers with Amazon deals, an invite-only program that helps you
@@ -37,3 +39,9 @@ You can create timed promotional offers with Amazon deals, an invite-only progra
  ASIN for your deal. Review each section for accuracy, then click Submit Deal to submit
  the deal for review. Go to the deals dashboard in Seller Central to get started. For additional
  guidance, visit the Create a Deal Help page.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to change your Sponsored Products campaign budget](../../../courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/transcript.md) · [Next in topic：How to create an always-on campaign](../../../courses/d0fecd7d-b374-4622-a4ca-a66c14119868/en_US/transcript.md)

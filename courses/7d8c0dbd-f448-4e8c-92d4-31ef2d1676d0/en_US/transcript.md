@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Use audience bid boosting to enhance your Sponsored Brands campaigns
 
 Ready to expand your brand's presence and connect with high-value audiences?
@@ -48,3 +50,9 @@ Ready to expand your brand's presence and connect with high-value audiences?
  and sponsored brands campaigns to reach the right shoppers
  at the right time and drive better outcomes.
  Your brand's next chapter starts here.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Understanding Spend-Based Promotions](../../../courses/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/en_US/transcript.md) · [Next in topic：When to use broad match in your keyword targeting](../../../courses/c2fca831-79dc-4abe-a058-acee304a05d0/en_US/transcript.md)

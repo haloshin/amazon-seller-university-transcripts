@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Account Health overview
 
 Welcome to our training "Understand Your Account Health Metrics".
@@ -132,3 +134,9 @@ Welcome to our training "Understand Your Account Health Metrics".
  a great customer experience.
  This concludes our training Understand Your Account Health metrics.
  Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：3.3 Prevent or resolve listing policy violations](../../../courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md) · [Next in topic：Address a Multiple Account Policy violation](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/en_US/transcript.md)

@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：膳食补充剂政策与合规
+
 # Dietary supplements policy and compliance
 
 欢迎观看亚马逊关于美国站上架膳食补充剂的政策的概述视频。
@@ -36,3 +40,9 @@ Add or appeal compliance 下的详细信息中找到。
 请参阅我们视频说明中链接的帮助页面。
 亚马逊膳食补充剂相关政策与合规性概述视频到此结束。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：危险品概览](../../../courses/9db093ea-ff03-4325-ae88-01b4da66993a/zh_CN/transcript.md) · [同主题下一篇：电池相关问题解答](../../../courses/7091e147-d59e-4eac-9648-65ff3bd2084d/zh_CN/transcript.md)

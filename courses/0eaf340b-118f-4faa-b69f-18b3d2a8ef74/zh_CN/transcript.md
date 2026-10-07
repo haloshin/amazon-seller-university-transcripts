@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：亚马逊广告入门
+
 # Introduction to Amazon Ads
 
 欢迎来到亚马逊广告 简介课程。
@@ -38,3 +42,9 @@
 借助亚马逊广告的洞察、触达方案,以及从音乐到流媒体都包括在内的优质娱乐业务。
 您可以在合适的时间、合适的位置与合适的受众建立连接。
 请访问 ads.amazon.com，开始使用亚马逊广告。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：商品促销入门](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/transcript.md) · [同主题下一篇：亚马逊广告活动管理器预算规则入门（英文）](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Enable weekend operations for MFN orders
 
 Welcome to our enable weekend operations for merchant-fulfilled orders training.
@@ -29,3 +31,9 @@ Welcome to our enable weekend operations for merchant-fulfilled orders training.
  So if you don't have a shipping provider that picks up packages on Saturday, don't set Saturday as a pickup day in your general shipping settings.
  This concludes our enable weekend operations for merchant fulfilled orders training.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Configure return settings](../../../courses/646406cf-7b11-45ec-896e-90bf3578c8c3/en_US/transcript.md) · [Next in topic：FBA benefits and costs](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US/transcript.md)

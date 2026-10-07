@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Brand Analytics: Repeat Purchase Behavior report
 
 Welcome to our training on the brand analytics repeat purchase behavior report.
@@ -99,3 +101,9 @@ Welcome to our training on the brand analytics repeat purchase behavior report.
  concludes our overview of the repeat purchase behavior report. If you'd like
  step-by-step instructions for other brand analytics reports see our series of
  modules in Seller University. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Brand Analytics: Market Basket Analysis report](../../../courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/en_US/transcript.md) · [Next in topic：Brand Analytics: Search Catalog Performance report](../../../courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/en_US/transcript.md)

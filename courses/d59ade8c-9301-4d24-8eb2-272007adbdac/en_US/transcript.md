@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # This $2 Amazon coupon reversed a sales dip — here's what Happy Start did
 
 Hi, I'm Jerry from The Happy Start. As a small business owner, one of the most frustrating
@@ -17,3 +19,9 @@ Hi, I'm Jerry from The Happy Start. As a small business owner, one of the most f
  the customer will perceive that as real cash in their pocket. But be careful. You don't
  want to stack discounts by accident, or you might end up selling your product for free.
  Use coupons and promotions wisely and watch your sales grow.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Sponsored Products advanced features and campaign optimization strategies](../../../courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/en_US/transcript.md) · [Next in topic：Understanding Spend-Based Promotions](../../../courses/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/en_US/transcript.md)

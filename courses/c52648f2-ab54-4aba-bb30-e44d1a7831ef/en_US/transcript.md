@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
+
 # Generic Product Policy: Resolve error code 5885
 
 Welcome to this seller university module. In this video, we'll discuss what to do if you encounter error code 5885 when trying to add or edit a product in the Amazon store.
@@ -9,3 +11,9 @@ Welcome to this seller university module. In this video, we'll discuss what to d
  If you're using Batch IDs for feeds, be sure to add one ASIN in the top field.
  A member of Selling Partner Support will reach out if next steps are necessary.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Generic Product Policy: Resolve error code 5882](../../../courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/en_US/transcript.md) · [Next in topic：Generic Product Policy: Resolve error code 5886/7](../../../courses/2a483f34-bc0a-4996-852e-d80e9127ed19/en_US/transcript.md)

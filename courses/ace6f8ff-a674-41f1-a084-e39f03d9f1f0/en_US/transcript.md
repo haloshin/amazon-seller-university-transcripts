@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Featured Offer eligibility and strategies
 
 [MUSIC PLAYING]
@@ -51,3 +53,9 @@
  so plan inventory ahead for products that sell quickly.
  To learn more, visit the Becoming the Featured Offer
  Help page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Creating culturally respectful listings](../../../courses/cf32d928-86d3-4cd9-a835-de753e88cda1/en_US/transcript.md) · [Next in topic：Fix inactive or suppressed listings](../../../courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/en_US/transcript.md)

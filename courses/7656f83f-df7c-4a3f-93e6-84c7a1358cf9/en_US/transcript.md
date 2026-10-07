@@ -1,6 +1,6 @@
-# Intro to Seller Central
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+# Intro to Seller Central
 
 Seller Central is where you will manage a majority
  of your day-to-day operations when selling on Amazon
@@ -61,3 +61,9 @@ Seller Central is where you will manage a majority
  If you are new to selling on Amazon,
  we encourage you to explore Seller Central
  before getting started.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
+
+[Previous in topic：Intro to New Seller Incentives](../../../courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/en_US/transcript.md) · [Next in topic：Intro to Seller University](../../../courses/71df97e1-a698-4e73-a357-ae7903433914/en_US/transcript.md)

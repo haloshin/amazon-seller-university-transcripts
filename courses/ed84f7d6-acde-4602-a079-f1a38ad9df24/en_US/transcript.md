@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Get paid when selling globally in the Amazon store
 
 Welcome to our training on how to get paid when selling globally in the Amazon Store.
@@ -36,3 +38,9 @@ Welcome to our training on how to get paid when selling globally in the Amazon S
  account. Once this process is complete, you can activate the deposit method to receive payments.
  And that's it! You can then sit back and receive payments from your global Amazon stores automatically.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：From Local to Canada: How DTocs Used Amazon Global Selling to Expand](../../../courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/transcript.md) · [Next in topic：Global Expansion: A Guide to Cross-Border Logistic](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md)

@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：处理多账户政策违规
+
 # Address a Multiple Account Policy violation
 
 欢迎观看"解决亚马逊多账户政策 违规行为"视频 本视频涵盖以下主题 1. 如何解决违规行为 2. 保持合规性最合适的做法 本视频中的内容适用于所有亚马逊商店 让我们先了解如何回应违规通知 如果您收到通知相关联的账户已被停用 这表示您的一个账户
@@ -28,3 +32,9 @@ Seller Code of Conduct 这是注册流程的一部分
 我们建议在“已批准的应用程序用户/用户权限”（Approved App Users/User Permissions）中将其列为次级用户
 希望这个关于多账户政策的视频对您有帮助
 感谢观看 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：账户状况概览](../../../courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/zh_CN/transcript.md) · [同主题下一篇：处理受限商品政策违规](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/zh_CN/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Help with Battery Questions
 
 Batteries are highly regulated. To ensure they are properly categorized, we need to collect specific
@@ -51,3 +53,9 @@ Batteries are highly regulated. To ensure they are properly categorized, we need
  grams. Need more help answering these questions? Go to help in Seller Central and videos on
  Seller University. Both are great resources for learning more. Thank you for helping to
  keep our communities and our customers safe.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Dietary supplements policy and compliance](../../../courses/36837951-3f77-47f9-82f1-e7c845614c5a/en_US/transcript.md) · [Next in topic：How to properly list button and coin batteries](../../../courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/en_US/transcript.md)

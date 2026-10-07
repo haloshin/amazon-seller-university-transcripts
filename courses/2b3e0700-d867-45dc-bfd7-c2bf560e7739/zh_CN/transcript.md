@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：Transparency 透明计划入门
+
 # Introduction to Transparency
 
 作为品牌方,您与买家之间的关系是建立在信任基础上的。买家购买您的商品意味着他们希望该商品为正品,而大多数情况下确实如此。但是,如果买家收到的是假冒商品,这种信任关系就会崩塌。Transparency是一项商品序列化服务,可通过对每一件商品进行标识,防止假冒商品流入买家手中来帮助保护您的品牌。
@@ -7,3 +11,9 @@
 您甚至可以分享商品信息、视频、图片和促销活动。
 准备好开始使用Transparency了吗?
 请在卖家大学中搜索Transparency入门指南,了解有关入门流程的分步介绍。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：品牌旗舰店入门](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/zh_CN/transcript.md) · [同主题下一篇：完成品牌注册后的下一步](../../../courses/43146fdf-a110-4056-971d-c287016104f5/zh_CN/transcript.md)

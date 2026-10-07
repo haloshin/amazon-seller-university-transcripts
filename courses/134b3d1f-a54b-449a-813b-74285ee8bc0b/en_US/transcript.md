@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon: Create a case-pack template
 
 If you're shipping boxes with one or more units of the same SKU, also known as case
@@ -34,3 +36,9 @@ If you're shipping boxes with one or more units of the same SKU, also known as c
  To delete, click Delete Packing Template.
  Want to learn more about sending your inventory to Amazon?
  Search Send to Amazon in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon – Step 5: Print pallet labels](../../../courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/en_US/transcript.md) · [Next in topic：Send your first FBA shipment](../../../courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Overview of Manage All Inventory
 
 The Manage All Inventory page helps you maintain buyable, discoverable, and high-quality listings across marketplaces.
@@ -10,3 +12,9 @@ The Manage All Inventory page helps you maintain buyable, discoverable, and high
  You can add new products or new product variations using the add products or add variation buttons in the top right corner.
  Manage individual listings using the three vertical dots to the right of each listing.
  For more ways to manage your business, access the listing and FBA inventory tools located at the top of the page.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Optimizing listings for brand owners](../../../courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/en_US/transcript.md) · [Next in topic：Price products to please your customers](../../../courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/en_US/transcript.md)

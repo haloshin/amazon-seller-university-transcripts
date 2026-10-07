@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Create Business-Only Offers
 
 Welcome to the Amazon Business Seller Series, Business Only offers module.
@@ -26,3 +28,9 @@ Welcome to the Amazon Business Seller Series, Business Only offers module.
  if the upload was successful and to troubleshoot any errors.
  This concludes the business-only offer module of the Amazon Business Seller series.
  Thank you for tuning in.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Brand Analytics: Top Search Terms report](../../../courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/en_US/transcript.md) · [Next in topic：Customer Review Insights overview](../../../courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/transcript.md)

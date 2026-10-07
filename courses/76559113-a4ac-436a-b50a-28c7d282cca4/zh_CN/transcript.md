@@ -1,6 +1,8 @@
-# Reduce your referral fees in select product categories
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：降低部分商品品类的销售佣金
+
+# Reduce your referral fees in select product categories
 
 欢迎参加有关如何降低特定商品类别的销售佣金的培训,在本视频中,我们将介绍为某些类别的商品设置低价,如何有助于降低您的销售佣金并增加每笔销售的净利润,美容、婴儿,健康和个人护理商品的销售佣金为15%,但是,当您将这些类别中任何商品的总价格设置为低于10美元时,
 您只需支付8%的销售佣金。
@@ -36,3 +38,9 @@
 以上就是如何减少特定商品类别的销售佣金培训的全部内容。
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：商机探测器最佳实践](../../../courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md) · [同主题下一篇：可持续发展解决方案中心介绍（英文）](../../../courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/transcript.md)

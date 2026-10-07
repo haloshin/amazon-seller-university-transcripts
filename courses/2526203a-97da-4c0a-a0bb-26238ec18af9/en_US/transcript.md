@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md)
+
 # 3.2 Prevent or resolve product detail page policy violations
 
 - Welcome to our training on how to prevent or resolve
@@ -199,3 +201,9 @@
  Continue to the next video in this series
  to learn how to avoid making other common listing errors.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：3.1 Apply to sell a restricted product, category, or brand](../../../courses/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/en_US/transcript.md) · [Next in topic：3.3 Prevent or resolve listing policy violations](../../../courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md)

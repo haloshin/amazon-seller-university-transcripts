@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%85%A5%E9%97%A8%E4%B8%8E%E8%B4%A6%E6%88%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：新卖家 5 分钟开店概览
+
 # Sell in the Amazon store: 5-minute overview for beginners
 
 在亚马逊商城销售商品可以分为4个步骤:第1步,在sell.amazon.com上创建一个亚马逊卖家平台账户;第2步,发布您要销售的商品;第3步,配送买家订单并提供优质的客户服务;第4步,等待销售收入到账,并保持良好的账户状况;下面我们来详细介绍一下这4个步骤。
@@ -43,3 +47,9 @@
 最后,我们建议您定期访问卖家平台绩效选项卡下的账户状况来监控您的卖家绩效。
 以上就是本期我要开店运作方式的全部内容。
 感谢观看,祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：新卖家 30 分钟开店概览](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md) · [同主题下一篇：欢迎加入亚马逊](../../../courses/c0812372-197d-45eb-a16f-a50d086fbb17/zh_CN/transcript.md)

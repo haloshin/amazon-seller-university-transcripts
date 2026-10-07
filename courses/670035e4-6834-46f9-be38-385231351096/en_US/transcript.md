@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Dangerous Goods Awareness
 
 Welcome to the Dangerous Goods Learning Series.
@@ -54,3 +56,9 @@ Welcome to the Dangerous Goods Learning Series.
  Amazon's seller help in Seller Central and videos on Seller University are a great resource
  for learning more including links to information provided by regulatory authorities.
  Thank you for helping keep our communities and our customers safe.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Comply with Amazon’s Multiple Account policy](../../../courses/1e699b06-7a02-49f7-a155-4642280a63d0/en_US/transcript.md) · [Next in topic：Dangerous goods overview](../../../courses/9db093ea-ff03-4325-ae88-01b4da66993a/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to set up your Amazon Ads account
 
 Welcome! In this video, we'll review how to register for an Amazon Ads account and how to navigate the available features in the advertising console.
@@ -23,3 +25,9 @@ Welcome! In this video, we'll review how to register for an Amazon Ads account a
  for your non-Amazon campaigns across channels like email, social media, and more.
  Once you've registered for an Amazon ads account, you are ready to begin creating your first
  campaign through the advertising console. Visit ads.amazon.com to get started.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to redeem Amazon Ads promotional offers](../../../courses/d7baf097-5cff-4173-82db-e2b9dc08b097/en_US/transcript.md) · [Next in topic：How to update your Sponsored Products campaign to have no end date](../../../courses/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/en_US/transcript.md)

@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：新版卖家平台：管理货件
+
 # New Seller Central: Manage Shipments
 
 在我的货件页面,您可以集中查看您所有发往亚马逊的入库货件。
@@ -43,3 +47,9 @@
 然后使用侧面板来查看货件进度,而无需离开您的当前处理进度。
 要了解有关管理入库货件的更多信息。
 请访问卖家大学,获取有关Send to Amazon和库存管理的更多资源。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：多渠道配送：运作方式](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/zh_CN/transcript.md) · [同主题下一篇：优化卖家自配送 Prime 试用](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/zh_CN/transcript.md)

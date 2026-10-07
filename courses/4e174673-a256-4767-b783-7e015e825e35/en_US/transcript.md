@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Respond to an A-to-z Guarantee Claims notification
 
 A-Z guarantee claims are an important component
@@ -120,3 +122,9 @@ A-Z guarantee claims are an important component
  as well as how to manage and prevent A to Z guarantee claims
  by visiting the Amazon A to Z guarantee claims
  help page resources in your Seller Central account.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Respond to a performance notification](../../../courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/en_US/transcript.md) · [Next in topic：Respond to an Anti-Counterfeiting policy violation](../../../courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/en_US/transcript.md)

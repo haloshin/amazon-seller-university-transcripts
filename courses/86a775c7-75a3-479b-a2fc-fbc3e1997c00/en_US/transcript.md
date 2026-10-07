@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Prepare your product detail pages for advertising
 
 Looking to increase your chance of success when advertising? You've come to the right place.
@@ -44,3 +46,9 @@ Looking to increase your chance of success when advertising? You've come to the 
  consider including it in a campaign with broad keyword match types to help shoppers discover your
  brand and new products. Remember, your advertising strategy is most effective when you are bringing
  shoppers to informative, retail-ready product detail pages. Ready to get started? Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Leafael Jewelry uses Creator Connections strategy for sales growth](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md) · [Next in topic：Products page](../../../courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md)

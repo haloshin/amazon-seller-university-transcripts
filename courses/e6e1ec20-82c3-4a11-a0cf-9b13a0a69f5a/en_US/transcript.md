@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Upload your own size chart
 
 Welcome to our training on how to upload your own size charts for your products in Seller Central.
@@ -64,3 +66,9 @@ Welcome to our training on how to upload your own size charts for your products 
  Size charts will be visible on your Amazon product detail page within 8 hours of publishing through our Self Service Size Chart tool.
  Now you're ready to start uploading and editing your own size charts with our Self Service Size Chart Upload tool.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Tips for shoe and apparel product detail pages](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/en_US/transcript.md)

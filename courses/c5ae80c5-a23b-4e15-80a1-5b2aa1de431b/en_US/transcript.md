@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Brand Analytics: Search Catalog Performance report
 
 Welcome to our training on the Brand Analytics Search Catalog Performance Report.
@@ -61,3 +63,9 @@ Welcome to our training on the Brand Analytics Search Catalog Performance Report
  This concludes our overview of the Search Catalog Performance Report.
  If you'd like step-by-step instructions for other brand analytics reports, see our series of modules in Seller University.
  Thank you, and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Brand Analytics: Repeat Purchase Behavior report](../../../courses/939ce460-adb7-4689-b04e-fa6047635af5/en_US/transcript.md) · [Next in topic：Brand Analytics: Search Query Performance report](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/en_US/transcript.md)

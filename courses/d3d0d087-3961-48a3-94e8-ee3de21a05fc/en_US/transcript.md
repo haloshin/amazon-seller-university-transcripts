@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Remote Fulfillment with FBA: Enroll/Unenroll ASINs
 
 Welcome. In this video, you will learn about how to use the ASIN Status Report to remove or
@@ -18,3 +20,9 @@ Welcome. In this video, you will learn about how to use the ASIN Status Report t
  ASINs, simply download the latest report again and type in Yes in the Enable Disable column
  under the intended marketplaces. Upload your saved report and your offers will be reactivated
  or re-enrolled within 24 hours. Thank you and happy selling!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：North America Unified Account](../../../courses/46211203-fc45-483b-9166-d746869925e7/en_US/transcript.md) · [Next in topic：Selling in Japan](../../../courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Handling times and fulfillment settings
 
 Welcome! In this video, we'll explain how to manage your handling times and fulfillment settings.
@@ -89,3 +91,9 @@ Welcome! In this video, we'll explain how to manage your handling times and fulf
  This can help you delight customers and maximize your performance in the Amazon Store.
  This concludes our training on handling times and fulfillment settings.
  Thank you.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Guide to shipping settings](../../../courses/98f10d9f-bf23-418f-b4bb-370a640aef33/en_US/transcript.md) · [Next in topic：How FBA helped Kangaroo Hangers lower operating costs](../../../courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md)

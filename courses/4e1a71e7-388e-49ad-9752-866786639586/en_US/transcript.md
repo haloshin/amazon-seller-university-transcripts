@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to listing products
 
 If you're ready to officially become a seller in the Amazon store, you'll need to list your first product.
@@ -24,3 +26,9 @@ If you're ready to officially become a seller in the Amazon store, you'll need t
  All sellers can also match or create product variations one at a time.
  If you have a professional selling plan, you can also match or create listings in bulk using a spreadsheet.
  Step-by-step instructions for listing new or existing products one by one or in bulk can be found in our guide how to list your products on Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to listing products](../../../courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md) · [Next in topic：List products using third party apps](../../../courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/en_US/transcript.md)

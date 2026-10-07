@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Information about Li-Batt 38.3
 
 As of January 1st, 2020, many governments worldwide require manufacturers and subsequent
@@ -13,3 +15,9 @@ As of January 1st, 2020, many governments worldwide require manufacturers and su
  test document, please visit Amazon Help pages in Seller Central and Vendor Central.
  Thank you for partnering with us to maintain a safe, compliant marketplace for lithium
  cells and batteries.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to properly list button and coin batteries](../../../courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/en_US/transcript.md) · [Next in topic：Intro to Anti-Counterfeit Policy compliance](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/en_US/transcript.md)

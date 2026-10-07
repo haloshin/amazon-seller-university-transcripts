@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Start selling in Canada or Mexico
 
 Welcome to our training on expanding your product offers to Amazon's Canada or Mexico stores.
@@ -105,3 +107,9 @@ Welcome to our training on expanding your product offers to Amazon's Canada or M
  Search Amazon Global Selling in Seller Central for more information on deciding where to sell
  or how to manage an international business.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Shipping to Canada](../../../courses/915791db-c5a1-4c02-ad04-d0c8a4b0211f/en_US/transcript.md) · [Next in topic：The easiest way for US sellers to expand internationally](../../../courses/59a08397-d4b4-4b33-9d38-e83d81329279/en_US/transcript.md)

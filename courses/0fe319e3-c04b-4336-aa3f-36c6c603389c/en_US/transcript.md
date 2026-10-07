@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Add A+ Content to your listings
 
 A+ content helps showcase your brand and educate customers using rich media on product
@@ -72,3 +74,9 @@ A+ content helps showcase your brand and educate customers using rich media on p
  With these powerful tools at your disposal, you're ready to create compelling content
  that helps customers discover your brand.
  Access the A+ content manager in Seller Central and get started creating A+ content.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Benefits of enrolling in Amazon Brand Registry](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/transcript.md)

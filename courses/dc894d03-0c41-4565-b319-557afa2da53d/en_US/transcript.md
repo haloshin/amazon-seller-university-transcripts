@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Create a new product in Amazon's catalog, one at a time
 
 Welcome to our training on create a new product in Amazon's catalog one at a time.
@@ -118,3 +120,9 @@ Welcome to our training on create a new product in Amazon's catalog one at a tim
  complete your listing at any point in the complete your drafts page and submit it once you're ready.
  This concludes our training on how to create a new product in Amazon's catalog one at a time.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Benefits of adding a video to a product listing](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/en_US/transcript.md) · [Next in topic：Create Amazon-ready product listings using AI](../../../courses/a7739325-a1a7-4818-be27-86715ca39727/en_US/transcript.md)

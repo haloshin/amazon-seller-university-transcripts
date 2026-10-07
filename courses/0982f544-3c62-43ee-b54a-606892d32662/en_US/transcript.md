@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Toys and compliance
 
 Welcome to our training on toys and compliance. At Amazon, safety is our top priority. As a seller in the Amazon store, it's your responsibility to know and comply with all laws and regulations and Amazon policies that apply to each of your products, including specific requirements based on their age grading. If you wish to sell children's toys in the United States, we'll ask you to provide certain documentation to confirm your products meet applicable children's toy safety standards.
@@ -31,3 +33,9 @@ Welcome to our training on toys and compliance. At Amazon, safety is our top pri
  To learn more about listing toys in the Amazon store, search for "selling children's toys in the U.S. in Seller Central."
  This concludes our training on toys and compliance.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Stay Safe from Phishing](../../../courses/155f35ac-295f-46a0-bc01-2423a9d62936/en_US/transcript.md) · [Next in topic：Wrong item sent product compliance](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/en_US/transcript.md)

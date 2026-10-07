@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Fulfillment by Amazon (FBA)
 
 Whether you have a professional or individual selling account, you're eligible to enroll in FBA. You can use FBA to store your products in Amazon's fulfillment centers and let us pick, pack and ship your FBA orders. We'll also handle returns and provide customer service on your behalf for these orders. With FBA, your items become eligible for Prime Shipping, meaning Amazon Prime customers can benefit from free two-day service.
@@ -23,3 +25,9 @@ Whether you have a professional or individual selling account, you're eligible t
  product categories may incur an FBA returns processing fee. We recommend using the revenue
  calculator to estimate these and other FBA costs. Ready to learn more about FBA? Registered sellers
  can review the FBA product eligibility guide in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Amazon Shipping](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/en_US/transcript.md) · [Next in topic：Intro to Fulfillment by Merchant (FBM)](../../../courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md)

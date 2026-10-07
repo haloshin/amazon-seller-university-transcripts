@@ -1,6 +1,6 @@
-# Sponsored Products advanced features and campaign optimization strategies
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
-> 本课有一处尚未确认的词句，位置与说明见[阅读说明](校注.md)。
+# Sponsored Products advanced features and campaign optimization strategies
 
 Let's explore some advanced features and optimization strategies that can help you improve
  your campaign performance. After watching this video, you'll be able to enhance your campaigns
@@ -41,3 +41,9 @@ Let's explore some advanced features and optimization strategies that can help y
  individual features on a few campaigns, monitor results for at least two weeks, and gradually
  expand successful optimizations that align with your business objectives. Apply advanced
  features in the advertising console.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
+
+[Previous in topic：Showcasing your Brand Store highlights with Sponsored Brands](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md) · [Next in topic：This $2 Amazon coupon reversed a sales dip — here's what Happy Start did](../../../courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md)

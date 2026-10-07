@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：锂电池 38.3 相关信息
+
 # Information about Li-Batt 38.3
 
 从2020年1月1日开始,全球多个政府要求锂电池或锂电池组,以及由锂电池或锂电池组供电的产品的商品制造商和分销商提供电池测试总结,这种提供电池测试总结的要求一般称为提供UN38.3报告。
@@ -7,3 +11,9 @@
 有关UN38.3测试总结要求,以及如何上传测试文档的更多信息。
 请访问Seller Central 和 Vendor Central的Amazon帮助页面。
 感谢您与我们携手,共同为锂电池和锂电池组维护一个安全合规的市场环境。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：正确发布纽扣电池和硬币电池商品](../../../courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/zh_CN/transcript.md) · [同主题下一篇：防伪政策合规入门](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/zh_CN/transcript.md)

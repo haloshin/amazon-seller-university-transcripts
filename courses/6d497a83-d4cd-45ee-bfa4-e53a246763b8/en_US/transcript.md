@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Brand Analytics
 
 Welcome to our intro to Brand Analytics. Brands enrolled in Amazon Brand Registry enjoy access to a suite of additional selling benefits.
@@ -54,3 +56,9 @@ Welcome to our intro to Brand Analytics. Brands enrolled in Amazon Brand Registr
  If you'd like step-by-step instructions for using one or more of the reports we've reviewed,
  see our series of Brand Analytics modules in Seller University.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to Read Amazon Business Reports](../../../courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/en_US/transcript.md) · [Next in topic：Intro to Business Pricing](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/en_US/transcript.md)

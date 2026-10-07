@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Overview of Amazon selling policies
 
 When you sell in the Amazon store,
@@ -36,3 +38,9 @@ When you sell in the Amazon store,
  from the Seller Central home page.
  Failure to comply with any of our selling policies
  may impact your ability to sell in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Meet Amazon's compliance requirements using the Compliance Knowledge Portal](../../../courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/en_US/transcript.md) · [Next in topic：Picture requirements for when you apply to sell](../../../courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/en_US/transcript.md)

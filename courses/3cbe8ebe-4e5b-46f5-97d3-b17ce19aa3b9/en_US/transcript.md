@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to promoting your products
 
 Promoting your products in the Amazon store can help you increase visibility for new products, attract
@@ -20,3 +22,9 @@ Promoting your products in the Amazon store can help you increase visibility for
  brand. Each promotion tool has different associated costs and eligibility requirements, so the
  right choice will depend on your products and goals. To learn more about choosing the
  right promotion for your needs, review which promotion is right for me in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to use views remarketing in your Sponsored Display campaigns](../../../courses/98cd18f1-eae5-4664-9e8f-bb014e997231/en_US/transcript.md) · [Next in topic：Introduction to Amazon Ads](../../../courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/en_US/transcript.md)

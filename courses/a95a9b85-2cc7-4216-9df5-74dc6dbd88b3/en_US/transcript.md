@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Introduction to Amazon Warehousing and Distribution (AWD)
 
 Amazon Warehousing and Distribution, or AWD, is a low-cost bulk storage solution for your inventory that distributes to the Amazon Store and other distribution channels, saving you time and money when you have large quantities of inventory to store and distribute. Utilizing AWD for your bulk storage can help you reduce storage costs. By sending your inventory in bulk to AWD facilities, you can take advantage of lower per unit storage fees compared to standard FBA.
@@ -25,3 +27,9 @@ Amazon Warehousing and Distribution, or AWD, is a low-cost bulk storage solution
  If you don't have permissions, ask your primary account holder to grant them to you via the User Permissions page.
  By leveraging AWD, you can streamline your inventory management,
  reduce storage costs, and expand the distribution of your products.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to the FBA Inventory page](../../../courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/en_US/transcript.md) · [Next in topic：Inventory Defect and Reimbursement (IDR portal) overview](../../../courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/en_US/transcript.md)

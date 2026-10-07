@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Benefits of enrolling in Amazon Brand Registry
 
 (upbeat music)
@@ -48,3 +50,9 @@
  to explore all the benefits of the program
  and begin enrollment.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Add A+ Content to your listings](../../../courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/en_US/transcript.md) · [Next in topic：Best practices for creating A+ content](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/en_US/transcript.md)

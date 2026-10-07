@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # FBA dashboard overview
 
 The fulfillment by Amazon FBA dashboard provides a summarized view of your FBA sales, shipments, inventory, and opportunities.
@@ -35,3 +37,9 @@ The fulfillment by Amazon FBA dashboard provides a summarized view of your FBA s
  You can select from three different tabs to help you analyze sales trends, filter by date and SKU for performance metrics,
  and gain insights to top-selling SKUs.
  If you need more information, visit the FBA Dashboard Help page for a variety of links that will guide you through your most critical inventory management pages.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：FBA benefits and costs](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US/transcript.md) · [Next in topic：FBA Pack Lists](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md)

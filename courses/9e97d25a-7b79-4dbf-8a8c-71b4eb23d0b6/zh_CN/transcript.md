@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：获取品牌引流奖励
+
 # How to earn a Brand Referral Bonus
 
 欢迎观看本期《关于如何从品牌引流奖励计划》Brand Referral Bonus中赚取奖金的培训视频。
@@ -56,3 +60,9 @@
 以上,就是本期《关于如何从品牌引流奖励计划》Brand Referral Bonus中赚取奖金的培训视频。
 即刻开始,通过新掌握的工具,为亚马逊商品引流并赚取奖金吧!
 感谢观看!祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用品牌推广为旗舰店引流（英文）](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md) · [同主题下一篇：开始在展示型推广中使用情境定向](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/zh_CN/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Group and sell products as Virtual Bundles
 
 Welcome to our training on virtual bundles.
@@ -88,3 +90,9 @@ Welcome to our training on virtual bundles.
  This concludes our training on virtual bundles.
  We encourage you to watch our Seller University video on the Brand Analytics Market Basket Analysis Report if you'd like help determining which products in your brand catalog might make an effective bundle.
  Thank you, and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Enroll your brand in Amazon Brand Registry](../../../courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/en_US/transcript.md) · [Next in topic：How Amazon Vine Reviews Boost New Product Visibility](../../../courses/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/en_US/transcript.md)

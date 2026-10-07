@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Explore Amazon Business features
 
 If you're a professional seller, you
@@ -60,3 +62,9 @@ If you're a professional seller, you
  and avoiding weekend deliveries.
  For additional information, read the Amazon Business B2B
  or Amazon Business FAQ help pages in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Customer Review Insights overview](../../../courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/transcript.md) · [Next in topic：Explore product recommendations with B2B product opportunities](../../../courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/en_US/transcript.md)

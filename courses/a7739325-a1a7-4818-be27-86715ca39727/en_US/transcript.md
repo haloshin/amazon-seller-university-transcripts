@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Create Amazon-ready product listings using AI
 
 [MUSIC PLAYING]
@@ -76,3 +78,9 @@
  you can now create high quality listings with less effort.
  For more help with listings,
  visit the List Your Products page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create a new product in Amazon's catalog, one at a time](../../../courses/dc894d03-0c41-4565-b319-557afa2da53d/en_US/transcript.md) · [Next in topic：Create product variations one at a time](../../../courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
+
 # Generate Product Images with Amazon AI Studio
 
 Did you know, creating your product photos and videos? Inside Amazon's AI Studio is now possible
@@ -12,3 +14,9 @@ Did you know, creating your product photos and videos? Inside Amazon's AI Studio
  I'll show you the results.
 So if you're an Amazon seller or product brand, AI tools like this help us create high quality
  content quickly.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Fix inactive or suppressed listings](../../../courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/en_US/transcript.md) · [Next in topic：Generic Product Policy: Resolve error code 5882](../../../courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/en_US/transcript.md)

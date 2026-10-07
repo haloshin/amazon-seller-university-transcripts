@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Customer Service Fundamentals
 
 Welcome to the Overview of Exceptional Customer Service Fundamentals.
@@ -35,3 +37,9 @@ Welcome to the Overview of Exceptional Customer Service Fundamentals.
  Answering customer questions with information you know to be true further builds customer trust.
  This wraps up our video with tips on how to provide exceptional customer service.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Copycat Products Threatening Your Sales? Use Amazon Trademark Tools](../../../courses/09e14bee-0ab7-4674-9265-562271f8e59d/en_US/transcript.md) · [Next in topic：Drive traffic with Amazon Vine customer reviews](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Introduction to Amazon Ads
 
 Welcome to the introduction to Amazon Ads. In this video, you'll learn how you can connect with customers through ads on and off Amazon.
@@ -37,3 +39,9 @@ Welcome to the introduction to Amazon Ads. In this video, you'll learn how you c
  We offer a full range of advertising solutions that can help you achieve your advertising goals.
  With our insights, reach, and premium entertainment properties, from music to streaming, you can connect with the right audiences in the right places at the right time.
  Get started with Amazon ads by visiting ads.amazon.com
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to promoting your products](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/en_US/transcript.md) · [Next in topic：Introduction to Amazon Ads Campaign Manager Budget Rules](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md)

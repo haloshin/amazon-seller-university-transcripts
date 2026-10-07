@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Best practices for creating brand names and logos
 
 Welcome to our video best practices for creating brand names and logos. Brand
@@ -39,3 +41,9 @@ Welcome to our video best practices for creating brand names and logos. Brand
  and collect feedback on your brand name or logo. It can be a good idea to consult
  a brand agency or other expert too. This concludes our best practices video.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Best practices for creating A+ content](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/en_US/transcript.md) · [Next in topic：Best practices for reviews and ratings](../../../courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/en_US/transcript.md)

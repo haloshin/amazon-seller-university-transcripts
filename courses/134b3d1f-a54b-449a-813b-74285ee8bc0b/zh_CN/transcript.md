@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：Send to Amazon：创建整箱包装模板
+
 # Send to Amazon: Create a case-pack template
 
 如果您要发运的包装箱中装有同一 SKU 的一件或多件商品,也称为原厂包装箱,建议您创建可重复使用的装箱模板。
@@ -24,3 +28,9 @@
 完成更改后,请点击保存。
 如需删除,请点击删除装箱模板。
 想了解有关向亚马逊发送库存的更多信息,请在卖家大学中搜索Send to Amazon。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Send to Amazon 第 5 步：打印托盘标签](../../../courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/zh_CN/transcript.md) · [同主题下一篇：发送首个 FBA 货件](../../../courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/zh_CN/transcript.md)

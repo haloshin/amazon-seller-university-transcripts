@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：Send to Amazon 第 1b 步：包装单件商品
+
 # Send to Amazon – Step 1b: Pack individual units
 
 欢迎观看关于发货到亚马逊第一步 B的视频。这一简化的配送流程,可通过简化亚马逊物流、FBA的货件创建,为您节省时间。发货到亚马逊的流程还在更新,用户界面的截图还会有相应变化。在本视频中,您将了解工作流程第一步中,提供箱内物品信息和包装单个商品的步骤。
@@ -37,3 +41,9 @@ Confirm Packing Information。
 请在卖家大学中观看视频第二步,确认配送。
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Send to Amazon 第 1 步：选择要发送的库存](../../../courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/zh_CN/transcript.md) · [同主题下一篇：Send to Amazon 第 2 步：确认发货](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/zh_CN/transcript.md)

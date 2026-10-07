@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to product restrictions, categories, and conditions
 
 When listing products in the Amazon Store, you'll need to be aware of product restrictions and conditions.
@@ -21,3 +23,9 @@ When listing products in the Amazon Store, you'll need to be aware of product re
  Don't assume a product is permitted, as something as small as a product description could impact whether or not it is considered restricted.
  You should also keep up to date with the product industry and applicable laws for any products you sell in order to keep your account healthy
  and provide the best possible experience for your customers.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Anti-Counterfeit Policy compliance](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/en_US/transcript.md) · [Next in topic：Intro to the Amazon Generic Product Policy](../../../courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md)

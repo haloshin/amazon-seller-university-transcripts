@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # Brand guide for global Amazon Selling Partners with step by step Brand Transfer Guidance
 
 Welcome to our video, Brand Guide for Global Amazon Selling Partners, with step-by-step brand transfer guidance.
@@ -50,3 +52,9 @@ Welcome to our video, Brand Guide for Global Amazon Selling Partners, with step-
  So be sure to explore the Seller Central new seller incentives pages for all the details. It's an opportunity you won't want to miss.
  Voila! Once you transfer your brand and use the power of our brand boosting and protection tools, you're now prepared to confidently establish your brand's path in your new store.
  Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Boost Hero ASIN Sales with Amazon Bundles](../../../courses/14553ca4-057c-4ea0-8a7f-1962695ba18f/en_US/transcript.md) · [Next in topic：Copycat Products Threatening Your Sales? Use Amazon Trademark Tools](../../../courses/09e14bee-0ab7-4674-9265-562271f8e59d/en_US/transcript.md)

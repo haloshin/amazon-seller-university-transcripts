@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to properly list button and coin batteries
 
 In this video, we'll provide an overview of selling button or coin batteries as individual
@@ -63,3 +65,9 @@ In this video, we'll provide an overview of selling button or coin batteries as 
  Remember to refer to the help page for specific information about applicable regulations and
  Amazon's policies.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Help with Battery Questions](../../../courses/7091e147-d59e-4eac-9648-65ff3bd2084d/en_US/transcript.md) · [Next in topic：Information about Li-Batt 38.3](../../../courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/en_US/transcript.md)

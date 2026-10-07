@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Drive traffic to your Brand Store homepage with Sponsored Brands
 
 In this video, you'll learn how to bring shoppers to your Brand Store homepage using Sponsored Brands campaigns.
@@ -26,3 +28,9 @@ In this video, you'll learn how to bring shoppers to your Brand Store homepage u
  you create a cohesive shopping experience that introduces your brand and encourages return visits.
  Put learning into practice. Create a Sponsored Brands campaign driving to your homepage.
  Watch our other two videos in this series to learn more ways to connect sponsored brands to your brand store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Drive this holiday season with ads and Coupons](../../../courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/en_US/transcript.md) · [Next in topic：Earn a Brand Referral Bonus from non-Amazon advertising](../../../courses/d89a8859-3460-479b-ae6b-3695a6f5e531/en_US/transcript.md)

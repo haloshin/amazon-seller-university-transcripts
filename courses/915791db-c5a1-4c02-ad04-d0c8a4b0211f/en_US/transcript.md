@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # Shipping to Canada
 
 When you expand your business to an Amazon marketplace outside your home country, you'll need
@@ -62,3 +64,9 @@ When you expand your business to an Amazon marketplace outside your home country
  to an address outside of Canada. You may want to work with a freight forwarding company to
  move your exports out of Canada. Thank you for joining us. For more information, search
  North America Unified Account in Seller Central Help. Happy selling!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Selling in Japan](../../../courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md) · [Next in topic：Start selling in Canada or Mexico](../../../courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/en_US/transcript.md)

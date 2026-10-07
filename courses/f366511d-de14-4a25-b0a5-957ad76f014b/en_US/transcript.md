@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Why top sellers rank each ASIN before scaling
 
 Hey, I'm Michael Koka, Head of Digital Commerce at Revolution Nutrition. I scaled our Amazon channel
@@ -16,3 +18,9 @@ Hey, I'm Michael Koka, Head of Digital Commerce at Revolution Nutrition. I scale
  Scale asin by asin so each product gets proper attention, inventory support and optimization.
  Real growth on Amazon comes from consistency. Small weekly improvements across operations,
  advertising and customer experience compound faster than most sellers expect.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Sustainability Solutions Hub: Introduction](../../../courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/transcript.md)

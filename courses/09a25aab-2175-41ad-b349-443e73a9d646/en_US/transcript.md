@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Choose a targeting strategy for your campaign
 
 Choose a targeting strategy for your campaign
@@ -108,3 +110,9 @@ Choose a targeting strategy for your campaign
  can be updated and optimized at any time.
  Ready to set up targeting on a sponsored ads campaign?
  Visit ads.amazon.com to get started.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Avoid blanket discounts: smart customer targeting for Amazon sellers](../../../courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/transcript.md) · [Next in topic：Create a Coupon](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/en_US/transcript.md)

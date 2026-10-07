@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Complete your self-service tax interview
 
 As a new seller, you'll need to provide tax information
@@ -27,3 +29,9 @@ As a new seller, you'll need to provide tax information
  by your location and the Amazon Product Tax Code
  of your product category.
  Take time now to verify your tax information is up to date.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Choosing your seller savings programs (video)](../../../courses/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/en_US/transcript.md) · [Next in topic：Intro to New Seller Incentives](../../../courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/en_US/transcript.md)

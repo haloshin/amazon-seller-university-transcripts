@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # How FBA helped Kangaroo Hangers lower operating costs
 
 Hello, my name is Angus Willows, and I want to tell you a little bit about my experience
@@ -23,3 +25,9 @@ Hello, my name is Angus Willows, and I want to tell you a little bit about my ex
  selling SKUs to Amazon FBA and having them fulfilled through Amazon. And we kept our
  slower selling SKUs as in-house Amazon fulfilled by merchant. Thanks for watching, and if you
  ever need hangers, keep an eye out for the kangaroo hanger.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Handling times and fulfillment settings](../../../courses/187391de-1128-40af-a940-f6e3c653b66f/en_US/transcript.md) · [Next in topic：How to determine product weights and dimensions](../../../courses/4c982766-929e-4a32-bc33-6614f7ddfc78/en_US/transcript.md)

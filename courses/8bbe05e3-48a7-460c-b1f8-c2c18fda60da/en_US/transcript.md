@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon – Step 1b: Pack individual units
 
 Welcome to our video on Step 1 B of Send to Amazon, a streamlined shipment workflow that
@@ -71,3 +73,9 @@ Welcome to our video on Step 1 B of Send to Amazon, a streamlined shipment workf
  In the next step, we'll determine the optimal location for your boxes to be sent so they're as close to your customers as possible.
  Check out the video for step 2 Confirm Shipping in Seller University.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon - Step 1: Choose inventory to send](../../../courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 2: Confirm shipping](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon - Step 1: Choose inventory to send
 
 Send to Amazon is a multi-step workflow
@@ -103,3 +105,9 @@ Send to Amazon is a multi-step workflow
  and uploaded box information,
  click Confirm and Continue to move on to step two,
  Confirm Shipping.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send inventory to Amazon Warehousing and Distribution (AWD)](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 1b: Pack individual units](../../../courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/en_US/transcript.md)

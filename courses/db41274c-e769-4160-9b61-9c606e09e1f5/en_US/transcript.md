@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # How to optimize your Sponsored Products campaigns: Targeting, bidding, and budget
 
 (gentle music)
@@ -16,3 +18,9 @@ Whether you're setting up a sponsored products campaign or wanting to optimize y
  ROAS, to track campaign performance.
  If you have questions as you're making optimizations and reviewing your results,
  visit the Support Center for more information.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to optimize your Sponsored Products campaigns](../../../courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/en_US/transcript.md) · [Next in topic：How to redeem Amazon Ads promotional offers](../../../courses/d7baf097-5cff-4173-82db-e2b9dc08b097/en_US/transcript.md)

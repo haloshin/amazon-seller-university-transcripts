@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Link Carrier Accounts In Seller Central To Use Your Own UPS/FedEx Rates
 
 With Amazon Buy Shipping, you can access Amazon's negotiated shipping rates or link your own rates from your FedEx or UPS account for seller-fulfilled prime or non-prime orders.
@@ -25,3 +27,9 @@ With Amazon Buy Shipping, you can access Amazon's negotiated shipping rates or l
  You'll need to review and agree to the terms and conditions for each carrier service you plan to use.
  After reviewing, select the "I agree" checkbox for each carrier, then select Submit.
  If you experience any issues during the linking or authentication process, such as frozen pages or validation errors, visit the Manage Your Carrier Accounts and the Buy Shipping Preferences Help pages.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Late Shipment Rate (LSR) overview](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/en_US/transcript.md) · [Next in topic：Local Selling: Seller Central UI-based fulfillment](../../../courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md)

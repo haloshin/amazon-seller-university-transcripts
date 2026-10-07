@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Apps and APIs for B2B product opportunities
 
 Welcome to the training apps and APIs for B2B product opportunities.
@@ -69,3 +71,9 @@ Welcome to the training apps and APIs for B2B product opportunities.
  and quantity discounts to learn about additional offerings.
  This concludes our training on Apps and APIs for B2B Product Opportunities.
  Thanks for watching and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Tax Exemption Program](../../../courses/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/en_US/transcript.md) · [Next in topic：B2B apps and APIs overview](../../../courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Intro to Seller Fulfilled Prime
 
 Welcome to our video tutorial on seller-fulfilled prime, also known as SFP. In this introductory video, we will go over program specific details, including eligibility requirements.
@@ -27,3 +29,9 @@ Welcome to our video tutorial on seller-fulfilled prime, also known as SFP. In t
  After you've successfully registered for the trial, make sure to continue watching our video
  on the requirements during the Seller-fulfilled prime trial period.
  Thank you, and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Fulfillment by Merchant (FBM)](../../../courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md) · [Next in topic：Intro to Send to Amazon](../../../courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/en_US/transcript.md)

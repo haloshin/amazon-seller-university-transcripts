@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to listing products
 
 Listing your first product is an exciting step in your seller journey. To set yourself up for success, we recommend reviewing our pre-listing checklist before you get started. There are a few ways to list your first product, depending on your needs.
@@ -18,3 +20,9 @@ Listing your first product is an exciting step in your seller journey. To set yo
  All sellers can list items one at a time. That means you'll use a single product ID to match or create a listing.
  All sellers can also match or create product variations one at a time. If you have a professional selling plan, you can also match or create listings in bulk using a spreadsheet.
  Step-by-step instructions for listing new or existing products one by one or in bulk can be found in our comprehensive guide how to list your products on Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Automate Pricing](../../../courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/en_US/transcript.md) · [Next in topic：Intro to listing products](../../../courses/4e1a71e7-388e-49ad-9752-866786639586/en_US/transcript.md)

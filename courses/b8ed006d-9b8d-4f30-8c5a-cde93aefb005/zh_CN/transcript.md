@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：获取整箱包装建议
+
 # Get recommendations for case packs
 
 欢迎参加本期"关于获取新整箱包装和现有整箱包装建议"的培训。
@@ -134,3 +138,9 @@ Case Pack Product Opportunities 工具的任意部分时,
 本期关于获取整箱包装和现有整箱包装建议的培训到此结束。
 感谢观看,
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：生成退货报告](../../../courses/1bad2006-82d9-41b5-aacd-549f35e751d4/zh_CN/transcript.md) · [同主题下一篇：配送设置指南](../../../courses/98f10d9f-bf23-418f-b4bb-370a640aef33/zh_CN/transcript.md)

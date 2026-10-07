@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：为亚马逊目录中的现有商品添加报价
+
 # Add offers to products already in Amazon's catalog
 
 欢迎参加为亚马逊目录中已有的商品添加报价的培训。
@@ -45,3 +49,9 @@
 必填字段和任何选填字段填写完毕后,点击保存并完成按钮即可匹配报价。
 以上就是本期为亚马逊目录中已有的商品添加报价培训的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题下一篇：Amazon Custom 定制商品计划概览](../../../courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/zh_CN/transcript.md)

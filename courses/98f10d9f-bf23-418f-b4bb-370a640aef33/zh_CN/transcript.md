@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：配送设置指南
+
 # Guide to shipping settings
 
 欢迎观看本期《了解配送设置》培训视频。
@@ -52,3 +56,9 @@ Customer Delivery Promise 的影响有所了解。
 以上就是本期了解配送设置培训视频的全部内容。
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：获取整箱包装建议](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/zh_CN/transcript.md) · [同主题下一篇：备货时间与配送设置](../../../courses/187391de-1128-40af-a940-f6e3c653b66f/zh_CN/transcript.md)

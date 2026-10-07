@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md)
+
 # 3.3 Prevent or resolve listing policy violations
 
 (upbeat music)
@@ -339,3 +341,9 @@
  or resolve intellectual property or IP policy violations.
  Thank you and happy selling in the Amazon store.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：3.2 Prevent or resolve product detail page policy violations](../../../courses/2526203a-97da-4c0a-a0bb-26238ec18af9/en_US/transcript.md) · [Next in topic：Account Health overview](../../../courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/en_US/transcript.md)

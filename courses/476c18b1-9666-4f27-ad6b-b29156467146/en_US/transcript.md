@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Getting started with Sponsored Brands
 
 Welcome to Sponsored Brands. In this video, you'll learn how to create and manage effective advertising campaigns that help increase your brand visibility on Amazon. Sponsored Brands are ads featuring your brand logo, a custom headline, a lifestyle image or video, and multiple products. These ads appear in prominent shopping placements, helping you increase visibility and direct shoppers to your Amazon Brand Store or product detail pages. They support brand discovery and consideration during the customer journey.
@@ -39,3 +41,9 @@ Welcome to Sponsored Brands. In this video, you'll learn how to create and manag
  These metrics help you refine your strategy and improve results over time.
  Sponsored brands give you tools to grow your presence and connect with shoppers on Amazon.
  To begin, log in to the Amazon Ads console and create your first sponsored brands campaign.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Five key Sponsored Products reports for campaign optimization](../../../courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/en_US/transcript.md) · [Next in topic：How to add a custom image to your Sponsored Brands campaign](../../../courses/f69b665b-cb6b-4205-a4f4-b016c77c8375/en_US/transcript.md)

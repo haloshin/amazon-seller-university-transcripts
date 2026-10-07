@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Price products to please your customers
 
 When selling in the Amazon store, you are in control of how you price your products based on supply and demand trends. We recommend prioritizing your customer's satisfaction as your pricing strategy impacts your seller identity and long-term success. We monitor pricing practices that may harm customer trust and notify you of any policy violations in the Account Health dashboard. To ensure your success, avoid setting misleading reference prices, setting excessive shipping fees,
@@ -8,3 +10,9 @@ When selling in the Amazon store, you are in control of how you price your produ
  We actively monitor and flag prices that violate our policies.
  For more information about pricing, policies, and ways to automate your pricing,
  review our pricing help pages in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Overview of Manage All Inventory](../../../courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/en_US/transcript.md) · [Next in topic：Price products using third-party apps](../../../courses/48f69162-d84a-4743-843c-4f3578a6bc99/en_US/transcript.md)

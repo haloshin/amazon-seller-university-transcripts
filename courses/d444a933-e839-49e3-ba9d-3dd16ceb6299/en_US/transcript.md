@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Automate Pricing: Create custom pricing rules
 
 If you have a professional selling plan, you can use the Automate Pricing Tool to adjust
@@ -40,3 +42,9 @@ If you have a professional selling plan, you can use the Automate Pricing Tool t
  If you're an Amazon business seller, review the Create a Business Pricing Rule Help page
  in Seller Central to learn how to automate business price updates based on changes you
  make to your standard consumer prices.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Automate Pricing: Change or remove a pricing rule](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/transcript.md) · [Next in topic：Benefits of adding a video to a product listing](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/en_US/transcript.md)

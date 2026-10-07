@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Fulfillment by Merchant (FBM)
 
 When you list products on Amazon,
@@ -92,3 +94,9 @@ When you list products on Amazon,
  and grow your Amazon business with confidence.
  Visit Seller University for other resources
  on FBM Strategies and Best Practices.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Fulfillment by Amazon (FBA)](../../../courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [Next in topic：Intro to Seller Fulfilled Prime](../../../courses/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/en_US/transcript.md)

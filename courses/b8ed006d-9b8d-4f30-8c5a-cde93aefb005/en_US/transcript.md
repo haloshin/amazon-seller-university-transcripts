@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Get recommendations for case packs
 
 Welcome to our training on getting recommendations for new and existing case packs. At Amazon, we support three package configuration types, Single Unit, Case Pack, and Pallet. In this video, we'll focus on case packs, which are common in higher-volume business-to-business or B2B sales and can help attract Amazon business customers. We'll demonstrate how sellers can use the Case Pack product opportunities tool to get recommendations.
@@ -39,3 +41,9 @@ Welcome to our training on getting recommendations for new and existing case pac
  Remember that while using any part of the Case Pack Product Opportunities tool, the tool might not include every product or case pack you can create or match a listing for.
  This concludes our training on getting recommendations for new and existing case packs.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Generate return reports](../../../courses/1bad2006-82d9-41b5-aacd-549f35e751d4/en_US/transcript.md) · [Next in topic：Guide to shipping settings](../../../courses/98f10d9f-bf23-418f-b4bb-370a640aef33/en_US/transcript.md)

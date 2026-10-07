@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
+
 # Start selling subscription boxes
 
 Welcome to our training start selling subscription boxes. Customers use the Amazon store every day to purchase products they're familiar with. But many also use the selection available through Amazon to discover new products, brands and services. If you're a seller looking to reach more customers, you can help them explore in the Amazon store by selling subscription boxes. A subscription box is a curated collection of products in a single category that's sent to a customer on a recurring basis.
@@ -66,3 +68,9 @@ Welcome to our training start selling subscription boxes. Customers use the Amaz
  We'll notify you when we've listed your subscription box and launched your service in the Amazon Store.
  This concludes our training.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Resolve Brand Name Approval error](../../../courses/d5417511-59df-4138-b6b6-62fecde7da70/en_US/transcript.md) · [Next in topic：Suggest an edit to a product detail page](../../../courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/en_US/transcript.md)

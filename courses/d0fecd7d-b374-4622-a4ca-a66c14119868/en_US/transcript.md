@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to create an always-on campaign
 
 Let's look at how to set up a campaign without an end date, which can help customers discover
@@ -8,3 +10,9 @@ Let's look at how to set up a campaign without an end date, which can help custo
  Now, if you do accidentally set an end date, it's an easy fix.
  Click on the date, and right above the calendar that appears, you'll see no end date.
  Click here to reset it.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to create a Deal](../../../courses/54789ffd-acce-49b9-afb2-7873981bf0df/en_US/transcript.md) · [Next in topic：How to drive traffic to your Store with Sponsored Brands](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md)

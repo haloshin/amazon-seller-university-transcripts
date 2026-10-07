@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：卖家自配送订单的退货与退款
+
 # Returns and refunds for seller-fulfilled orders
 
 欢迎参加我们的处理退货和退款培训。作为卖家,你应该会花费大量时间思考如何将商品交到买家手中,但有时,买家难免会将商品退货。在本视频中,我们将解释两个选项,帮助您简化卖家自配送商品退货的管理,预付费退货解决方案,和不退货解决方案。
@@ -118,3 +122,9 @@ General Settings选项卡下,可以看到每个商城的当前退货授权和标
 处理退货退款培训到此结束。
 谢谢观看,
 祝您业绩长红。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：优化卖家自配送 Prime 试用](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/zh_CN/transcript.md) · [同主题下一篇：将库存发送至 AWD（英文）](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md)

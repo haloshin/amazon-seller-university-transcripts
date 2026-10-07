@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Generic Product Policy: Resolve error code 5882
 
 Welcome to the Seller University module. Today we'll discuss the generic product policy error code 5882 and how to address it.
@@ -9,3 +11,9 @@ Welcome to the Seller University module. Today we'll discuss the generic product
  A member of Selling Partner Support will reach out to assist.
  Remember, maintaining the integrity of the Amazon Store is crucial for your success as a selling partner.
  Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Generate Product Images with Amazon AI Studio](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md) · [Next in topic：Generic Product Policy: Resolve error code 5885](../../../courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md)

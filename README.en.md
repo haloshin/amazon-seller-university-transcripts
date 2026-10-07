@@ -4,16 +4,40 @@
 
 ![270 courses and 455 English/Chinese transcripts: choose a course, read, and download](assets/reader-banner.png)
 
-[Course catalog](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [简体中文](README.md)
+[Browse by topic](LEARNING_GUIDE.md) · [All courses](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [简体中文](README.md)
 
 This collection contains **270 English and 185 Simplified Chinese transcripts**, covering topics such as getting started, listings, fulfillment, advertising, brands, and compliance. Read on GitHub or download for offline search.
 
 Chinese transcripts follow Chinese audio. Each course retains its original title, sequence, and examples, with plain text and WebVTT captions alongside the Markdown edition.
 
-## Start with a course
+For new sellers learning the basics, and operators looking up a specific topic or preparing team reading materials.
 
-- [Intro to Fulfillment by Amazon (FBA)](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)
-- [Choose a targeting strategy for your campaign](courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md)
+## Browse by topic
+
+| Topic | Courses |
+| --- | ---: |
+| [Getting started and accounts](LEARNING_GUIDE.md#getting-started-and-accounts) | 12 |
+| [Listings and pricing](LEARNING_GUIDE.md#listings-and-pricing) | 42 |
+| [Fulfillment and shipping](LEARNING_GUIDE.md#fulfillment-and-shipping) | 52 |
+| [Advertising and promotions](LEARNING_GUIDE.md#advertising-and-promotions) | 54 |
+| [Brands and customer experience](LEARNING_GUIDE.md#brands-and-customer-experience) | 30 |
+| [Compliance and account health](LEARNING_GUIDE.md#compliance-and-account-health) | 30 |
+| [Global selling](LEARNING_GUIDE.md#global-selling) | 19 |
+| [Amazon Business and business insights](LEARNING_GUIDE.md#amazon-business-and-business-insights) | 31 |
+
+The [learning guide](LEARNING_GUIDE.md) lists every course with its available languages. Topic groups and Chinese navigation names are editorial additions; original titles and transcripts are retained.
+
+## Start here
+
+This is our suggested introduction. You can also choose a topic relevant to your current question.
+
+1. [Sell in the Amazon store: 5-minute overview for beginners](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)
+2. [Intro to Seller Central](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)
+3. [Overview of Amazon selling policies](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)
+4. [Intro to listing products](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md)
+5. [Intro to Fulfillment by Amazon (FBA)](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)
+
+For seller fulfillment, continue with [Intro to Fulfillment by Merchant (FBM)](courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md).
 
 ![Real FBA course excerpts: English text and a transcript of the Chinese audio](assets/fba-reading-example.png)
 
@@ -21,7 +45,9 @@ Chinese transcripts follow Chinese audio. Each course retains its original title
 
 ## Download and use
 
-Download the complete ZIP from [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest), extract it, and open `课程目录.md`. No application setup is required.
+Download the complete ZIP from [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest). For online reading, open the [learning guide](LEARNING_GUIDE.md). Offline, open `LEARNING_GUIDE.md` in a Markdown reader, or read TXT files in a text editor.
+
+Each course page links back to its topic, offers available language alternatives, and provides previous/next navigation within the topic. Links from a Chinese page to an English-only course are labeled accordingly.
 
 ![Read Markdown, search plain text, or use WebVTT captions with the original video](assets/reading-formats.png)
 

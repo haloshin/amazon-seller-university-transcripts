@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # List products without a Product ID (UPC/GTIN Exemption)
 
 A product ID such as GTIN, UPC, EAN, JAN, or ISBN, helps to provide fast and accurate product identification,
@@ -32,3 +34,9 @@ A product ID such as GTIN, UPC, EAN, JAN, or ISBN, helps to provide fast and acc
  To learn more about specific requirements for your product category or troubleshoot common
  errors like brand name mismatches, go to the list products that do not have a product ID
  help page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：List products using third party apps](../../../courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/en_US/transcript.md) · [Next in topic：Manage Your Experiments: interpret results for listing content you’ve tested](../../../courses/28728898-9218-4f5d-8116-abf46b9ef834/en_US/transcript.md)

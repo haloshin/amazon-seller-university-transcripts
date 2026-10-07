@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：通用商品政策：解决错误代码 5882
+
 # Generic Product Policy: Resolve error code 5882
 
 欢迎来到此卖家大学模块。今天,我们将讨论无品牌商品政策错误代码5882以及如何解决此问题。如果您收到错误代码5882,则可能正在尝试创建被标记为侵犯品牌知识产权IP的无品牌商品信息。
@@ -10,3 +14,9 @@
 请记住,维护亚马逊商城的诚信度对于您成功成为销售伙伴至关重要。
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用 Amazon AI Studio 生成商品图片（英文）](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md) · [同主题下一篇：通用商品政策：解决错误代码 5885（英文）](../../../courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md)

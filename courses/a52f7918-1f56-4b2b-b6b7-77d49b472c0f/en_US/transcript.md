@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Understanding Spend-Based Promotions
 
 Amazon Ads Promotions can help grow your business while reducing advertising costs through earned ad credits.
@@ -12,3 +14,9 @@ Amazon Ads Promotions can help grow your business while reducing advertising cos
  Keep campaigns running to use credits before they expire, usually within 30 days.
  These credits reduce ad costs and can give your business room to experiment with new ad strategies and ultimately reach more customers.
  Turn cautious steps into confident moves. Get started with promotions today.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：This $2 Amazon coupon reversed a sales dip — here's what Happy Start did](../../../courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md) · [Next in topic：Use audience bid boosting to enhance your Sponsored Brands campaigns](../../../courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md)

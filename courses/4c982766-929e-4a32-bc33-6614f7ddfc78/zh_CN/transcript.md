@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：确定商品重量与尺寸
+
 # How to determine product weights and dimensions
 
 欢迎观看本期《如何确定商品重量和尺寸培训》。
@@ -62,3 +66,9 @@
 以及如何测量尺寸和体积。
 以上就是本期如何确定商品重量和尺寸培训的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Kangaroo Hangers 使用 FBA 降低运营成本的案例（英文）](../../../courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md) · [同主题下一篇：亚马逊购买配送入门](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/transcript.md)

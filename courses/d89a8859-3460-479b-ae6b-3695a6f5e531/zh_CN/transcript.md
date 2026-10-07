@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：通过站外广告获得品牌引流奖励
+
 # Earn a Brand Referral Bonus from non-Amazon advertising
 
 欢迎参加品牌推荐奖金培训。
@@ -86,3 +90,9 @@
 有关其他品牌销售权益的概述,请观看我们的卖家大学视频。
 在亚马逊品牌注册中注册品牌的好处。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用品牌推广为品牌旗舰店首页引流（英文）](../../../courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md) · [同主题下一篇：选择适合在亚马逊投放广告的商品（英文）](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md)

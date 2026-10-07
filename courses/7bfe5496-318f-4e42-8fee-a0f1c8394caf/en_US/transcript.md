@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Amazon Handmade: Production Time and Delivery Promise
 
 What is a delivery promise?
@@ -37,3 +39,9 @@ What is a delivery promise?
  or your shipping time for a more accurate delivery date.
  Want to learn more?
  Check out Help in Seller Central for more about delivery times.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Configure return settings](../../../courses/646406cf-7b11-45ec-896e-90bf3578c8c3/en_US/transcript.md)

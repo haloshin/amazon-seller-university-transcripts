@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Stores and A+ Content
 
 Welcome to our intro to stores and A+ content.
@@ -45,3 +47,9 @@ Welcome to our intro to stores and A+ content.
  This combination of advertising and enhanced content can increase the chance that a customer will purchase a product.
  It can also increase the likelihood that they'll return to a brand when thinking about making another purchase.
  This concludes our intro to stores and A+ content. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to A+ Content](../../../courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/en_US/transcript.md) · [Next in topic：Introduction to Stores](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/en_US/transcript.md)

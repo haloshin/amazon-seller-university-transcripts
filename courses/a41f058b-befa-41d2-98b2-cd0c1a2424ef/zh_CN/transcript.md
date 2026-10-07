@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：使用第三方应用发货与配送
+
 # Ship and fulfill using third-party apps
 
 欢迎参加我们的使用第三方应用程序进行发货和配送培训。
@@ -60,3 +64,9 @@ ShipStation,ScanPower Boxt和Shippo,只是销售合作伙伴应用商店中提�
 亚马逊还建议您探索其他分类的应用程序,它们可能有助于简化和扩展您的业务。
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：设置订单处理能力](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md) · [同主题下一篇：跟踪 AWD 货件（英文）](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md)

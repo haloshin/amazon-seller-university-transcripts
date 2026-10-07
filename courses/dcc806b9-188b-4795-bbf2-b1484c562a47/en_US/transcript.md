@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # New Seller Central: Manage Shipments
 
 [Music]
@@ -46,3 +48,9 @@
  Start by setting up a saved view that matches your most common workflow and use the side panel to check shipment progress without leaving your queue.
  To learn more about managing your inbound shipments, visit Seller University for additional resources on send to Amazon and inventory management.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Multi-Channel Fulfillment: How it works](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/en_US/transcript.md) · [Next in topic：Optimizing your Seller Fulfilled Prime trial](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/en_US/transcript.md)

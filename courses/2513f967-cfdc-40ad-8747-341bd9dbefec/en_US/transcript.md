@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Add negotiated pricing
 
 Welcome to the Amazon Business Seller Series Negotiated Pricing Module.
@@ -28,3 +30,9 @@ Welcome to the Amazon Business Seller Series Negotiated Pricing Module.
  your account.
  This concludes the negotiated pricing module of the Amazon Business Seller Series.
  Thank you for tuning in.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Add business certifications to your profile](../../../courses/dabaf94a-5775-43ac-af1b-f9bad8143ffa/en_US/transcript.md) · [Next in topic：Amazon Tax Exemption Program](../../../courses/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/en_US/transcript.md)

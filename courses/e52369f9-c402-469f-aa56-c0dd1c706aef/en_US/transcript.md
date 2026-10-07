@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Voice of the Customer overview
 
 Welcome to our overview of Voice of the Customer Dashboard.
@@ -30,3 +32,9 @@ Welcome to our overview of Voice of the Customer Dashboard.
  review the Voice of the Customer Help page in Seller Central.
  Be sure to check out our resource Managing Your Seller Feedback after watching this video.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Track and respond to customer reviews](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/en_US/transcript.md) · [Next in topic：Why early reviews through Amazon Vine helped The Happy Start succeed](../../../courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/transcript.md)

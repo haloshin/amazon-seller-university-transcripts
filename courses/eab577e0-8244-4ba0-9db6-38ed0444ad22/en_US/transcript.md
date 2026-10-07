@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to A+ Content
 
 A+ content helps brand owners showcase their products and tell their brand story in the Amazon store. A+ content helps you increase sales and improve product discoverability by showcasing your brand through enhanced product details that answer common customer questions. With enhanced images, videos, comparison charts, and rich product information,
@@ -26,3 +28,9 @@ A+ content helps brand owners showcase their products and tell their brand story
  and published within the past 12 months. A+ content can help you bring your brand story to life,
  access the A+ content manager through Seller Central to begin crafting compelling content
  that can help drive discoverability and conversion for your products.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to set up your Brand Store on Amazon](../../../courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/transcript.md) · [Next in topic：Intro to Stores and A+ Content](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/transcript.md)

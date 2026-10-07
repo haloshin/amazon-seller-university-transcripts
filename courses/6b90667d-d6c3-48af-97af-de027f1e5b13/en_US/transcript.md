@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # How to improve your Brand Store design
 
 In this video, we'll show you how to refresh your brand store with rich visuals and interactive experiences.
@@ -21,3 +23,9 @@ In this video, we'll show you how to refresh your brand store with rich visuals 
  With these visual and interactive elements, you can drive sales and build customer loyalty.
  Ready to start?
  Log in to the Amazon Ads console and start building your next-level brand store today.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to add a shoppable image to your Store](../../../courses/1c2896c9-4fc3-466a-84f2-49887f19f064/en_US/transcript.md) · [Next in topic：How to set up your Brand Store on Amazon](../../../courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Match or create product listings and variations in bulk
 
 Professional sellers can add products to their Amazon inventory in bulk by uploading a spreadsheet or inventory file.
@@ -165,3 +167,9 @@ Professional sellers can add products to their Amazon inventory in bulk by uploa
  It will replace your entire inventory with the products in your new file only.
  Matching and creating product listings in bulk might seem daunting at first, but the extra effort can save you time, energy, and effort in the long run.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Master AI tools for Amazon listings: Quick optimization guide](../../../courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/transcript.md) · [Next in topic：Optimizing listings for brand owners](../../../courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/en_US/transcript.md)

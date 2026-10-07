@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：管理合规控制面板
+
 # Manage your compliance dashboard
 
 欢迎观看本期《管理您的合规性》"Manage Your Compliance 控制面板的培训。
@@ -45,3 +49,9 @@ Product compliance documentation 帮助页面,了解所请求的文档类型的�
 或者将现在所在的页面添加为书签。
 以上就是本期"管理您的合规性"Manage Your Compliance控制面板的培训视频。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：锂电池概览](../../../courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/zh_CN/transcript.md) · [同主题下一篇：通过合规知识门户了解亚马逊合规要求](../../../courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/zh_CN/transcript.md)

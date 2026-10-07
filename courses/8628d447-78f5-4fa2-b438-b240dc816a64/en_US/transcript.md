@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Brand Analytics: Demographics report
 
 Welcome to our training on the Brand Analytics Demographics Report.
@@ -41,3 +43,9 @@ Welcome to our training on the Brand Analytics Demographics Report.
  This concludes our overview of the Demographics report.
  If you'd like step-by-step instructions for other brand analytics reports, see our series of modules in Seller University.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：B2B Central overview](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md) · [Next in topic：Brand Analytics: Market Basket Analysis report](../../../courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/en_US/transcript.md)

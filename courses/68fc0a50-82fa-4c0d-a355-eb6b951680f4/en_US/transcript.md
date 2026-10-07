@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon – Step 5: Print pallet labels
 
 If you're seeing step 5, print pallet labels in your Send to Amazon workflow, this means
@@ -14,3 +16,9 @@ If you're seeing step 5, print pallet labels in your Send to Amazon workflow, th
  To learn about how to manage and track your shipments, as well as create the bill of
  lading you will be required to provide your carrier at pickup, please review the Manage your Send to
  Amazon shipments guide in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon – Step 4: Confirm carrier and pallet information](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/en_US/transcript.md) · [Next in topic：Send to Amazon: Create a case-pack template](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Next steps for sellers who’ve enrolled a brand
 
 Welcome to our video next steps for sellers who've enrolled a brand. You've
@@ -67,3 +69,9 @@ Welcome to our video next steps for sellers who've enrolled a brand. You've
  learn more about affiliating additional brand registry accounts, see our video
  "Manage Amazon Brand Registry Roles". This concludes our training. Thank you and
  happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Introduction to Transparency](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/transcript.md) · [Next in topic：Register a trademark for your brand](../../../courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/en_US/transcript.md)

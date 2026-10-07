@@ -4,18 +4,42 @@
 
 ![270 门亚马逊卖家大学课程、455 份英文和中文转写稿：选课程、读正文、下载使用](assets/reader-banner.png)
 
-[浏览课程目录](课程目录.md) · [下载完整资料](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [English](README.en.md)
+[按主题找课](学习导航.md) · [全部课程](课程目录.md) · [下载完整资料](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [English](README.en.md)
 
 这里收录 **270 份英文、185 份中文，共 455 份课程转写稿**，涵盖卖家入门、商品发布、物流、广告、品牌与合规等内容。可以直接在 GitHub 阅读，也可以下载后离线搜索。
 
 中文稿来自中文音轨。每门课保留官方原标题、讲述顺序和案例，附 TXT 全文与 VTT 字幕。
 
-## 先读一门课
+适合想了解开店流程的新卖家，也适合按业务问题查阅原课、准备团队学习材料的运营人员。
 
-| 课程 | 中文 | English |
-| --- | --- | --- |
-| 亚马逊物流入门 · Intro to Fulfillment by Amazon (FBA) | [阅读全文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) | [Read](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) |
-| 选择广告定向策略 · Choose a targeting strategy for your campaign | [阅读全文](courses/09a25aab-2175-41ad-b349-443e73a9d646/zh_CN/transcript.md) | [Read](courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md) |
+## 按主题找课
+
+| 主题 | 课程数 |
+| --- | ---: |
+| [入门与账户](学习导航.md#入门与账户) | 12 |
+| [商品发布与定价](学习导航.md#商品发布与定价) | 42 |
+| [物流与配送](学习导航.md#物流与配送) | 52 |
+| [广告与促销](学习导航.md#广告与促销) | 54 |
+| [品牌与买家体验](学习导航.md#品牌与买家体验) | 30 |
+| [合规与账户健康](学习导航.md#合规与账户健康) | 30 |
+| [全球开店](学习导航.md#全球开店) | 19 |
+| [企业购与经营分析](学习导航.md#企业购与经营分析) | 31 |
+
+[学习导航](学习导航.md)提供全部课程的中文导航名、官方原标题和语言入口。主题分类与中文导航名由本项目编辑整理；没有中文音轨的课程提供英文稿。
+
+## 第一次来，从这里读
+
+下面是本项目推荐的入门顺序，也可以直接选择与你当前问题相关的主题。
+
+| 顺序 | 课程 | 中文 | English |
+| --- | --- | --- | --- |
+| 1 | 新卖家 5 分钟开店概览 | [阅读](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md) | [Read](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md) |
+| 2 | 卖家平台入门 | [阅读](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md) | [Read](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md) |
+| 3 | 亚马逊销售政策概览 | [阅读](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md) | [Read](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md) |
+| 4 | 商品发布入门 | [阅读](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md) | [Read](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md) |
+| 5 | 亚马逊物流（FBA）入门 | [阅读](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) | [Read](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) |
+
+FBA 课程介绍亚马逊配送方式；自行配送订单可接着读[卖家自配送（FBM）入门](courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/transcript.md)。
 
 ![亚马逊物流入门的真实阅读节选：英文原文与中文音轨稿](assets/fba-reading-example.png)
 
@@ -23,7 +47,9 @@
 
 ## 下载与使用
 
-从 [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) 下载完整 ZIP，解压后打开 `课程目录.md`，选择课程和语言即可阅读，无需安装软件。
+从 [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) 下载完整 ZIP。在线阅读可直接打开[学习导航](学习导航.md)；离线可用 Markdown 阅读器打开 `学习导航.md`，或用文本编辑器阅读 TXT 全文。
+
+每篇课程页都提供主题入口、已有语言切换和同主题上一篇／下一篇。中文阅读过程中遇到仅有英文的下一篇，会标明“英文”。
 
 ![三种阅读方式：Markdown 在线阅读、TXT 离线检索、VTT 配套字幕](assets/reading-formats.png)
 

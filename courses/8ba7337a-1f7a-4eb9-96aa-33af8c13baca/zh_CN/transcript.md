@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：错发商品的合规要求
+
 # Wrong item sent product compliance
 
 欢迎观看本期发错商品、商品合规性培训。
@@ -51,3 +55,9 @@ Matteo 在亚马逊商店销售多种商品。
 请务必确保买家收到的商品符合商品详情页面上的描述。
 以上就是本期发错商品、商品合规性培训的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：玩具合规](../../../courses/0982f544-3c62-43ee-b54a-606892d32662/zh_CN/transcript.md) · [同主题下一篇：二手商品作为新品销售的合规要求](../../../courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/zh_CN/transcript.md)

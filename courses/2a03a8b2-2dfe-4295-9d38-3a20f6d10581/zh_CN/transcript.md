@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：迟发率（LSR）概览
+
 # Late Shipment Rate (LSR) overview
 
 欢迎观看本期关于迟发率、LSR的培训。
@@ -37,3 +41,9 @@ Account Health控制面板,以查看通知。
 以上就是本期迟发率培训视频的全部内容。
 感谢观看。
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：库存缺陷与赔偿门户（IDR）概览](../../../courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/zh_CN/transcript.md) · [同主题下一篇：关联承运商账户并使用自己的 UPS/FedEx 运价](../../../courses/b70e661e-4dae-45be-913d-a46ad2fe147e/zh_CN/transcript.md)

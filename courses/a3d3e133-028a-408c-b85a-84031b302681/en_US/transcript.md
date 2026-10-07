@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md)
+
 # Intro to the Amazon Generic Product Policy
 
 Welcome to this Seller University module on the Amazon Generic Product Policy. In this video, we'll help you understand the benefits of the policy. Learn how to create generic ASINs and resolve common error codes. The Amazon Generic Product Policy allows customers to easily differentiate between generic and branded products. Generic products are unbranded items that don't belong to an identifiable brand. An unbranded product does not have a distinctive name,
@@ -28,3 +30,9 @@ Welcome to this Seller University module on the Amazon Generic Product Policy. I
  the Amazon generic product policy is designed to help customers easily identify and compare
  generic products. By following the guidelines, you can create a better shopping experience for
  Amazon customers. Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to product restrictions, categories, and conditions](../../../courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/transcript.md) · [Next in topic：Lithium batteries overview](../../../courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/transcript.md)

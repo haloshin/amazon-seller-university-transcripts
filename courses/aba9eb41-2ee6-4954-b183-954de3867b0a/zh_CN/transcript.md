@@ -1,6 +1,8 @@
-# Intro to Stores and A+ Content
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：品牌旗舰店与 A+ 内容入门
+
+# Intro to Stores and A+ Content
 
 欢迎观看《品牌旗舰店和 A+ 商品描述简介》。
 品牌注册并获得亚马逊品牌注册批准后,拥有上架权限的卖家可以开始使用亚马逊提供的全套品牌专用工具。
@@ -72,3 +74,9 @@ A+商品描述不需要编程经验,
 我们的商店和A+商品描述简介到此结束。
 感谢观看,
 祝您在亚马逊商店中销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：A+ 内容入门](../../../courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/zh_CN/transcript.md) · [同主题下一篇：品牌旗舰店入门](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/zh_CN/transcript.md)

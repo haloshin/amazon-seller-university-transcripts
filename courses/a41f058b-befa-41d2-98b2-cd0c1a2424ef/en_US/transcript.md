@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Ship and fulfill using third-party apps
 
 Welcome to our training Ship and Fulfill using third-party apps. Amazon sellers use a variety
@@ -49,3 +51,9 @@ Welcome to our training Ship and Fulfill using third-party apps. Amazon sellers 
  use filters to find apps designed for specific programs or to search by star rating, language,
  or store. We also encourage you to explore apps in other categories that might help streamline
  and scale your business. Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Set order-handling capacity](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/en_US/transcript.md) · [Next in topic：Track your Amazon Warehousing and Distribution (AWD) shipments](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md)

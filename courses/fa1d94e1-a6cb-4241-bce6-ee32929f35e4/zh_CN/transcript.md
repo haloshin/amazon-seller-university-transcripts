@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：正确发布纽扣电池和硬币电池商品
+
 # How to properly list button and coin batteries
 
 在本视频中,我们将概述如何以单个 ASIN 形式销售纽扣电池或硬币电池以及销售含纽扣电池或硬币电池的商品,在亚马逊美国商城上架纽扣电池、硬币电池或包含纽扣电池的商品时,卖家必须遵守美国强制性 Reese's Law 及 16 CFR 1263 安全标准。
@@ -33,3 +37,9 @@
 请记得参考帮助页面,了解适用法规和亚马逊政策的具体信息。
 
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：电池相关问题解答](../../../courses/7091e147-d59e-4eac-9648-65ff3bd2084d/zh_CN/transcript.md) · [同主题下一篇：锂电池 38.3 相关信息](../../../courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/zh_CN/transcript.md)

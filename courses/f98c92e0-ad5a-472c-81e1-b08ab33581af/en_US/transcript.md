@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Respond to an Anti-Counterfeiting policy violation
 
 Welcome to our training on how to respond to an Amazon Anti-Counterfeiting Policy Violation.
@@ -30,3 +32,9 @@ Welcome to our training on how to respond to an Amazon Anti-Counterfeiting Polic
  To review the Amazon Anti-Counterfeiting Policy, search "Anti-Counterfeiting Policy" in Seller Central.
  This concludes our training on how to respond to an Amazon Anti-Counterfeiting Policy violation.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Respond to an A-to-z Guarantee Claims notification](../../../courses/4e174673-a256-4767-b783-7e015e825e35/en_US/transcript.md) · [Next in topic：Sales manipulation and competitor abuse](../../../courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/en_US/transcript.md)

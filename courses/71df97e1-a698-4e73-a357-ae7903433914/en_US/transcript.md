@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Seller University
 
 Seller University offers a library of resources
@@ -47,3 +49,9 @@ Seller University offers a library of resources
  to reflect new features and best practices.
  So check back frequently to stay informed
  about the latest selling opportunities on Amazon.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Seller Central](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md) · [Next in topic：Must-Do Steps for a New Amazon Seller](../../../courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/transcript.md)

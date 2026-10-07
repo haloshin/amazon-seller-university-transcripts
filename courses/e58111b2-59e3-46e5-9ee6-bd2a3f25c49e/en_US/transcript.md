@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Address a Restricted Products policy violation
 
 In this video, we'll cover one, actions Amazon takes to address restricted
@@ -87,3 +89,9 @@ In this video, we'll cover one, actions Amazon takes to address restricted
  These include hazardous materials and substances regulated by the Narcotics
  Act. For instance the sale of vehicle tires and alcoholic beverages are
  prohibited for sale by FBA.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Address a Multiple Account Policy violation](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/en_US/transcript.md) · [Next in topic：Apply to sell a product, category, or brand](../../../courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/en_US/transcript.md)

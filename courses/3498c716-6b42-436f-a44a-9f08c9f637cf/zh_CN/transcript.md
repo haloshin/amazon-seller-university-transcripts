@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：使用品牌定制促销创建专属折扣
+
 # Create exclusive discounts with Brand Tailored Promotions (BTP)
 
 如果您已注册加入亚马逊 Brand Registry,则可以通过《品牌定制促销》BTP为关注您品牌或购买过您商品的特定买家群体创建专享折扣促销。每个受众群体必须至少有1000位买家才符合要求。创建促销时,您首先要选择自己的品牌并选择一个目标。
@@ -23,3 +27,9 @@
 例如,同一件商品可以同时享受折扣为15%的品牌定制促销和折扣为5美元的优惠券。
 买家首先看到的是优惠力度最大的促销。
 有关如何创建品牌定制促销的详细指南,请参阅卖家平台中的《创建品牌定制促销》帮助页面。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用 Video Generator 创建广告视频（英文）](../../../courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md) · [同主题下一篇：创建首个商品推广广告活动](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md)

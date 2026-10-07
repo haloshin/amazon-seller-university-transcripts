@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Automate Pricing: Change or remove a pricing rule
 
 Automate pricing lets you dynamically adjust your prices within set limits to help your
@@ -34,3 +36,9 @@ Automate pricing lets you dynamically adjust your prices within set limits to he
  and any Pricing Rules that apply to the listing will remain paused.
  To learn how to apply pre-populated and custom Pricing Rules to your SKUs, watch the Automate
  Pricing Apply Pricing Rules video in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Automate Pricing: Apply pricing rules](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/en_US/transcript.md) · [Next in topic：Automate Pricing: Create custom pricing rules](../../../courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/en_US/transcript.md)

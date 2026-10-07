@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Local Selling: Staff Management
 
 Staff management, adding a delivery associate.
@@ -9,3 +11,9 @@ Staff management, adding a delivery associate.
  After entering all relevant details, select Save.
  Back on the Staff Management tab, you will see your new staff member
  and can monitor background check status for all your delivery associates.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Local Selling: Seller Central UI-based fulfillment](../../../courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md) · [Next in topic：Local Selling: Using the Tech App - Room of Choice Delivery (Video)](../../../courses/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/en_US/transcript.md)

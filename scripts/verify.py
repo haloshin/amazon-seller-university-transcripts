@@ -13,6 +13,8 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+from build_navigation import TOPICS, generated_pages, topic_link
+
 ROOT = Path(__file__).resolve().parents[1]
 COURSE_FILES = {
     "transcript.md", "transcript.txt", "captions.vtt", "course.json",
@@ -105,11 +107,15 @@ def validate_links_and_privacy(paths):
             continue
         for target in re.findall(r"\]\(([^\s)]+)\)", content):
             url = urlsplit(target.strip("<>"))
-            if url.scheme or url.netloc or not url.path:
+            if url.scheme or url.netloc:
                 continue
-            destination = (path.parent / unquote(url.path)).resolve()
+            destination = (path.parent / unquote(url.path)).resolve() if url.path else path
             require(destination.is_relative_to(ROOT) and destination.exists(),
                     f"Broken/local-external link in {relative}: {target}")
+            if url.fragment and destination.suffix == ".md":
+                headings = re.findall(r"^#{1,6}\s+(.+)$", destination.read_text(encoding="utf-8"), re.M)
+                anchors = {re.sub(r"[^\w\- ]", "", h.lower()).replace(" ", "-") for h in headings}
+                require(unquote(url.fragment) in anchors, f"Broken section link in {relative}: {target}")
 
 
 def verify(refresh=False):
@@ -167,6 +173,15 @@ def verify(refresh=False):
     require(dict(locales) == release["locales"], "Language counts mismatch")
     require(note_assets == release["editorialNotesAssets"], "Editorial note count mismatch")
     require(unresolved_assets == release["unresolvedAssets"], "Unresolved asset count mismatch")
+    for name, content in generated_pages(catalog).items():
+        require((ROOT / name).is_file() and (ROOT / name).read_text(encoding="utf-8") == content,
+                f"Navigation mismatch: {name}; run scripts/build_navigation.py after reviewed edits")
+    counts = Counter(c["navigationTopic"] for c in catalog)
+    for english, name in [(False, "README.md"), (True, "README.en.md")]:
+        readme = unquote((ROOT / name).read_text(encoding="utf-8"))
+        for topic, titles in TOPICS.items():
+            row = f"| [{titles[int(english)]}]({unquote(topic_link(topic, english))}) | {counts[topic]} |"
+            require(row in readme, f"README topic link/count mismatch: {name}/{topic}")
     paths = public_files()
     validate_links_and_privacy(paths)
     if refresh:
@@ -179,7 +194,7 @@ def verify(refresh=False):
     if refresh:
         write_json(ROOT / "manifest.json", manifest)
     require(read_json(ROOT / "manifest.json") == manifest, "Manifest mismatch; inspect edits, then run --refresh")
-    return {"result": "PASS", "courses": len(catalog), "transcripts": len(seen_assets), "locales": dict(locales), "unresolvedAssets": unresolved_assets, "files": len(paths) + 1, "scope": "local structure, text consistency and file integrity"}
+    return {"result": "PASS", "courses": len(catalog), "topics": dict(counts), "transcripts": len(seen_assets), "locales": dict(locales), "unresolvedAssets": unresolved_assets, "files": len(paths) + 1, "scope": "local navigation, links, text consistency and file integrity"}
 
 
 if __name__ == "__main__":

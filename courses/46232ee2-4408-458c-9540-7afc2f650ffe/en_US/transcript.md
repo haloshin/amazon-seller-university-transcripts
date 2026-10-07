@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Use shipping templates
 
 Welcome to our Understand Shipping Templates training. In this video, you'll learn about what shipping templates are, how to configure your shipping templates, how to set different shipping rate models, and how to offer free shipping.
@@ -37,3 +39,9 @@ Welcome to our Understand Shipping Templates training. In this video, you'll lea
  After watching this video, you should now know what shipping templates are, how to navigate shipping templates, how to set your shipping fees per item or by price band, and how to offer free shipping.
  Make sure to return to the shipping settings page to review and update your shipping settings or templates as needed.
  This concludes our training on shipping templates. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Use Amazon Buy Shipping for seller-fulfilled orders](../../../courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/en_US/transcript.md)

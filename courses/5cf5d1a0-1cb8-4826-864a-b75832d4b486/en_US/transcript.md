@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Guide to Amazon Business customers
 
 Welcome to the video guide to Amazon business customers. Amazon sellers list, price, and ship
@@ -25,3 +27,9 @@ Welcome to the video guide to Amazon business customers. Amazon sellers list, pr
  buyer who opens an Amazon business account. To learn more about Amazon business and how you
  can grow your own business by selling to professional buyers, see our module "Introduction to Amazon
  Business Features." This concludes our video. Thank you and happy selling on Amazon!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Growth Opportunities overview](../../../courses/d352e628-375e-4cf0-8870-1aee1c9f860d/en_US/transcript.md) · [Next in topic：How to detect downward sales trends](../../../courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md)

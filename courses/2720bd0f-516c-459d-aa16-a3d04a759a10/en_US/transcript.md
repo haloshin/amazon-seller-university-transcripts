@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # AI Creative Solutions Prompting Best Practices
 
 Looking to enhance your ad creatives with AI?
@@ -20,3 +22,9 @@ Looking to enhance your ad creatives with AI?
  Finally, review and save or submit your newly generated creative. Carefully evaluate the outputs generated to make sure they meet your standards.
  Save to your Amazon Ads Creative Asset Library for later use on your sponsored ad campaigns and brand store.
  By following these five best practices, you'll be on your way to creating stunning, on-brand visuals with Amazon's AI creative tools.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Advertise with goals in mind](../../../courses/215d380c-b721-414b-87bb-282c7da60a11/en_US/transcript.md) · [Next in topic：Avoid blanket discounts: smart customer targeting for Amazon sellers](../../../courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/transcript.md)

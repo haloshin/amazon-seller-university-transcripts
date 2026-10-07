@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md)
+
 # 3.1 Apply to sell a restricted product, category, or brand
 
 Welcome to our training on how to apply
@@ -184,3 +186,9 @@ Welcome to our training on how to apply
  for complying with Amazon's product detail page policies
  or resolving violations.
  Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：3.2 Prevent or resolve product detail page policy violations](../../../courses/2526203a-97da-4c0a-a0bb-26238ec18af9/en_US/transcript.md)

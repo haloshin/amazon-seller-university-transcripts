@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # List products using third party apps
 
 Amazon sellers leverage various technologies
@@ -102,3 +104,9 @@ Amazon sellers leverage various technologies
  Visit the Selling Partner App Store today
  to discover the tools that can enhance your Amazon
  selling experience and drive your business growth.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to listing products](../../../courses/4e1a71e7-388e-49ad-9752-866786639586/en_US/transcript.md) · [Next in topic：List products without a Product ID (UPC/GTIN Exemption)](../../../courses/e8544607-590c-414e-8831-d0b3f0cf3bee/en_US/transcript.md)

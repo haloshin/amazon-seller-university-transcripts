@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Amazon Custom overview
 
 Amazon Custom lets you add customization options to your product listings, allowing customers
@@ -18,3 +20,9 @@ Amazon Custom lets you add customization options to your product listings, allow
  into a text field.
  For a step-by-step guide on how to list products with Amazon Custom, read our Create and Manage
  Amazon Custom Listings PDF Guide in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Add offers to products already in Amazon's catalog](../../../courses/8b11c55d-c853-4773-be8d-acd872ca08c1/en_US/transcript.md) · [Next in topic：Amazon Handmade: Product Images](../../../courses/3181cd9b-1483-4039-94e4-25436be0ef54/en_US/transcript.md)

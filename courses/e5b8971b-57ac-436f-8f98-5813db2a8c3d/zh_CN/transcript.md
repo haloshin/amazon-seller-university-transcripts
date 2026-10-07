@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：用于优化商品推广的五类关键报告
+
 # Five key Sponsored Products reports for campaign optimization
 
 想进一步充分利用您的商品推广广告吗?
@@ -26,3 +30,9 @@
 您可以定期监控指标,比如广告投资回报率,简称ROAS。
 计算方式为广告销售额除以广告花费,还有归因于广告的销售额以及预算内活跃时间,以确保广告投放始终符合您的目标。
 在广告控制台中查看报告吧。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：选择适合在亚马逊投放广告的商品（英文）](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md) · [同主题下一篇：开始使用品牌推广（英文）](../../../courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/transcript.md)

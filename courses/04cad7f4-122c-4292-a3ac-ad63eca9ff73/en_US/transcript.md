@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Get pricing recommendations using ‘Business discount insights’
 
 Welcome to our training on the business discount insights tool. Amazon Business helps professional sellers set B2B prices and attract business customers using two basic mechanisms, business prices and quantity discounts. A business price is a lower price viewable by Amazon business customers for the purchase of a single unit.
@@ -20,3 +22,9 @@ Welcome to our training on the business discount insights tool. Amazon Business 
  Finally, to monitor the impact of the business discounts you set, use the sales snapshot dashboard in Seller Central.
  To view this dashboard, open the main menu, hover over B2B, and then click B2B Central. Set a relevant date range using the drop-down menu and look for trends or turning points that align with the discounts you set.
  This concludes our training on the business discount insights tool. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Generate an inventory report](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/en_US/transcript.md) · [Next in topic：Growth Opportunities overview](../../../courses/d352e628-375e-4cf0-8870-1aee1c9f860d/en_US/transcript.md)

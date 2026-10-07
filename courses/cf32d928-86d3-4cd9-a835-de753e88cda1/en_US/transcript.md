@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Creating culturally respectful listings
 
 Welcome to our training on culturally respectful listings.
@@ -39,3 +41,9 @@ Welcome to our training on culturally respectful listings.
  may mean doing a little extra work, but imagine the benefit it can have for customers and your
  business. This concludes our training on culturally respectful listings. Thank you,
  and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create product variations one at a time](../../../courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/en_US/transcript.md) · [Next in topic：Featured Offer eligibility and strategies](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/en_US/transcript.md)

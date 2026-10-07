@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Set one-day default handling time
 
 Welcome to our training on how to set one-day default handling time.
@@ -62,3 +64,9 @@ Welcome to our training on how to set one-day default handling time.
  setting a one-day default handling time can make your offers more appealing.
  This concludes our training on how to set one-day default handling time.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Set ASIN-specific handling time](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/en_US/transcript.md) · [Next in topic：Set order-handling capacity](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/en_US/transcript.md)

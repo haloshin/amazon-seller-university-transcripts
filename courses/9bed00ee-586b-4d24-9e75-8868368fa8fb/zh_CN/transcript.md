@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：为卖家自配送订单使用亚马逊购买配送
+
 # Use Amazon Buy Shipping for seller-fulfilled orders
 
 亚马逊购买配送服务是为卖家提供的一款工具,用于帮助其处理自己商品的配送事宜。此类配送称为卖家自配送,FBM。
@@ -29,3 +33,9 @@
 以供需要时重新打印。
 如需获得更多指导。
 请访问,使用购买配送服务帮助页面。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：跟踪 AWD 货件（英文）](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md) · [同主题下一篇：使用配送模板](../../../courses/46232ee2-4408-458c-9540-7afc2f650ffe/zh_CN/transcript.md)

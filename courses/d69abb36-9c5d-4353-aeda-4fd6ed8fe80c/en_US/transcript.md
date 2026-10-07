@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Suggest an edit to a product detail page
 
 (upbeat music)
@@ -68,3 +70,9 @@
  If your suggestion is selected,
  it will usually appear on the product detail page
  within 24 hours.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Start selling subscription boxes](../../../courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/transcript.md) · [Next in topic：Tips for shoe and apparel product detail pages](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/en_US/transcript.md)

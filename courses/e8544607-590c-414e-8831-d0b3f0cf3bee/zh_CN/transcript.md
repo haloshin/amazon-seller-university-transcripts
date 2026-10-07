@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：无商品编码发布商品：UPC/GTIN 豁免
+
 # List products without a Product ID (UPC/GTIN Exemption)
 
 商品编码,例如GTIN、UPC、EAN、JAN或ISBN有助于快速准确的识别商品,简化库存管理,并通过扫描条形码降低出错的概率。
@@ -27,3 +31,9 @@
 您必须为您想要销售商品的每个商品分类和每个亚马逊商城分别申请GTIN豁免批准。
 某个商城中的某个分类获得批准后,您即可在此分类中发布多个商品,而无需额外申请豁免。
 要了解特定商品分类的要求或解决品牌名称不匹配等常见错误，请参阅卖家平台中的“发布没有商品编码的商品”帮助页面。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用第三方应用发布商品](../../../courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/zh_CN/transcript.md) · [同主题下一篇：管理您的实验：解读商品内容测试结果](../../../courses/28728898-9218-4f5d-8116-abf46b9ef834/zh_CN/transcript.md)

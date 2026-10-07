@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Returns and refunds for seller-fulfilled orders
 
 The Manage Returns page in Seller Central enables you to manage buyer return and replacement
@@ -57,3 +59,9 @@ The Manage Returns page in Seller Central enables you to manage buyer return and
  information about managing seller fulfilled returns. You can also download your returns data
  through the View Reports link. Find solutions to common questions under Return FAQs and make
  changes to your return settings under Edit Returns Setting.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Optimizing your Seller Fulfilled Prime trial](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/en_US/transcript.md) · [Next in topic：Send inventory to Amazon Warehousing and Distribution (AWD)](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md)

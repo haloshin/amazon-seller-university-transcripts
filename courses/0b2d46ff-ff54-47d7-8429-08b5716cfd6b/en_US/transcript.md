@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # How to add negative keywords to your campaigns
 
 Let's look at how to add negative keywords to a campaign that's already running.
@@ -5,3 +7,9 @@ Let's look at how to add negative keywords to a campaign that's already running.
  Find your campaign or ad group. In the menu on the left, you'll find the negative targeting option.
  From here, click on the button to add negative keywords. Enter your negative keywords, set the match type, add them, and click Save.
  Now your ad won't appear when shopper search terms match your negative keywords.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to add a custom image to your Sponsored Brands campaign](../../../courses/f69b665b-cb6b-4205-a4f4-b016c77c8375/en_US/transcript.md) · [Next in topic：How to add negative product targets to a new Sponsored Products campaign](../../../courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/en_US/transcript.md)

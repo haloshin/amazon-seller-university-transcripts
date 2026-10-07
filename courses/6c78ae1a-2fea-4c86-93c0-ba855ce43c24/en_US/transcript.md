@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Local Selling: Seller Central UI-based fulfillment
 
 Seller Central UI based fulfillment. To assign an order to a delivery associate, first select "Manage Orders" from the Orders menu.
@@ -14,3 +16,9 @@ Seller Central UI based fulfillment. To assign an order to a delivery associate,
  Enter the delivery associate, the date, and the completion time.
  Select "Confirm".
  The order will now be shown as completed on the Manage Orders page.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Link Carrier Accounts In Seller Central To Use Your Own UPS/FedEx Rates](../../../courses/b70e661e-4dae-45be-913d-a46ad2fe147e/en_US/transcript.md) · [Next in topic：Local Selling: Staff Management](../../../courses/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/en_US/transcript.md)

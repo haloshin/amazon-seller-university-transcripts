@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Payments Dashboard overview
 
 [MUSIC PLAYING]
@@ -37,3 +39,9 @@
  To learn more about receiving payments,
  search Payments FAQ in Seller Central.
  (air whooshing)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Must-Do Steps for a New Amazon Seller](../../../courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/transcript.md) · [Next in topic：Sell in the Amazon store: 30-minute overview for beginners](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md)

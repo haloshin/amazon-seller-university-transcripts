@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Send inventory to Amazon Warehousing and Distribution (AWD)
 
 (upbeat music)
@@ -48,3 +50,9 @@
  View the tracking history
  on the Amazon Distribution Center Shipments tab.
  (upbeat music)
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Returns and refunds for seller-fulfilled orders](../../../courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/transcript.md) · [Next in topic：Send to Amazon - Step 1: Choose inventory to send](../../../courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/en_US/transcript.md)

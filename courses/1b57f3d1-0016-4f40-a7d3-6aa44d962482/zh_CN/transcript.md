@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：FBA 控制面板概览
+
 # FBA dashboard overview
 
 欢迎观看我们的亚马逊物流控制面板概述视频。
@@ -48,3 +52,9 @@
 您可以在其中找到要优化的特定库存商品。
 我们对亚马逊物流控制面板的概述到此结束。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：FBA 的优势与费用](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN/transcript.md) · [同主题下一篇：FBA 装箱清单（英文）](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md)

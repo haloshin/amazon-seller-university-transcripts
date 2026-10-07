@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Advertise with goals in mind
 
 Amazon offers a variety of self-service advertising solutions.
@@ -40,3 +42,9 @@ Amazon offers a variety of self-service advertising solutions.
  ad solutions to help meet your business goals. Amazon ads has billions of shopping, streaming,
  and browsing signals to help connect your brand with the right customers at the right time in
  brand-safe placements. Ready to get started? Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：AI Creative Solutions Prompting Best Practices](../../../courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md)

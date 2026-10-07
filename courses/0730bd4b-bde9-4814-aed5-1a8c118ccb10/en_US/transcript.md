@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Inventory Defect and Reimbursement (IDR portal) overview
 
 If you're a fulfillment by Amazon, FBA Seller, the Inventory Defect and Reimbursement IDR Portal can help streamline how you manage inventory-related defects, damages, and losses. The Portal consolidates inventory health data from multiple reports into a single dashboard, making it easier to track inventory problems and gather information needed to file reimbursement claims. Additionally, it  automatically applies FBA reimbursement policy checks, saving you the time of manually researching
@@ -19,3 +21,9 @@ If you're a fulfillment by Amazon, FBA Seller, the Inventory Defect and Reimburs
  with a resolution, you can submit a case with seller support, including the Product Defect Information and a
  Detailed Explanation. We encourage you to leverage the IDR Portal regularly to refine your inventory management
  strategies. For more information, visit the Inventory Defect and Reimbursement IDR Portal Help page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Introduction to Amazon Warehousing and Distribution (AWD)](../../../courses/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/en_US/transcript.md) · [Next in topic：Late Shipment Rate (LSR) overview](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/en_US/transcript.md)

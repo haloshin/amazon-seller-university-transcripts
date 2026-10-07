@@ -1,6 +1,6 @@
-# Address a Multiple Account Policy violation
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+# Address a Multiple Account Policy violation
 
 Welcome to the video on addressing Amazon's multiple accounts policy
  violations. This video covers the following topics; 1. What can you do to
@@ -59,3 +59,9 @@ Welcome to the video on addressing Amazon's multiple accounts policy
  you have engaged a valid third-party service, we recommend listing them as a
  secondary user in the approved app Users User Permissions. We hope this video on
  our multiple accounts policy was helpful. Thank you and happy selling on Amazon!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
+
+[Previous in topic：Account Health overview](../../../courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/en_US/transcript.md) · [Next in topic：Address a Restricted Products policy violation](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # How to detect downward sales trends
 
 (upbeat music)
@@ -24,3 +26,9 @@ Hi everyone! As new sellers, we would love to check our sales all the time, righ
  on top of Amazon.com page. You can check for your niche is your ASIN ranking well relative
  to other competitors. I actually check that daily to make sure my ASIN is well positioned
  within my niche. So those are all the checklists that we should quickly look. Happy selling!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Guide to Amazon Business customers](../../../courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/transcript.md) · [Next in topic：How to Read Amazon Business Reports](../../../courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/en_US/transcript.md)

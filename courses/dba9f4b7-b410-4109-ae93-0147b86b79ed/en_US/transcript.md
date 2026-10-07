@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Respond to a performance notification
 
 If your account receives a performance notification, it means Amazon has detected violations of one or more of Amazon's selling policies, applicable law, or the seller code of conduct.
@@ -23,3 +25,9 @@ If your account receives a performance notification, it means Amazon has detecte
  If the violation led to deactivation of your account, select "Reactivate Your Account" on the Account Health page and follow the provided instructions.
  Note that this information does not constitute legal advice.
  For additional information about customer product reviews policies, visit the Customer Product Reviews Policies Help page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Picture requirements for when you apply to sell](../../../courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/en_US/transcript.md) · [Next in topic：Respond to an A-to-z Guarantee Claims notification](../../../courses/4e174673-a256-4767-b783-7e015e825e35/en_US/transcript.md)

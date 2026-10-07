@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：品牌旗舰店入门
+
 # Introduction to Stores
 
 大家好!
@@ -45,3 +49,9 @@
 这样做有助于持续优化品牌旗舰店。
 准备好开始推广了吗?
 访问 ads.amazon.com
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：品牌旗舰店与 A+ 内容入门](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/zh_CN/transcript.md) · [同主题下一篇：Transparency 透明计划入门](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/zh_CN/transcript.md)

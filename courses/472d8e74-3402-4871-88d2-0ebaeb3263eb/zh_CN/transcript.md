@@ -1,4 +1,6 @@
-# Intro to Fulfillment by Amazon (FBA)
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：亚马逊物流（FBA）入门
 
 # Intro to Fulfillment by Amazon (FBA)
 
@@ -28,3 +30,9 @@
 建议使用亚马逊物流收入计算器来预估这些费用以及其他亚马逊物流费用。
 想要了解有关亚马逊物流的更多信息。
 注册卖家可以在卖家平台中查看亚马逊物流商品资格指南。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Amazon Shipping 入门](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/zh_CN/transcript.md) · [同主题下一篇：卖家自配送（FBM）入门](../../../courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/transcript.md)

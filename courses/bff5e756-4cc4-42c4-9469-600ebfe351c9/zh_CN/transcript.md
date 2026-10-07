@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：申请使用品牌销售权益
+
 # Request access to brand selling benefits
 
 注册加入亚马逊 Brand Registry后,您可以更好地管理商品详情页面。不仅如此,您还可以享受品牌旗舰店、A+商品描述、品牌推广广告活动、品牌分析等诸多权益。使用这些工具有助于改善您的品牌在亚马逊商城中的绩效。请求获得销售权益的流程与申请销售品牌商品不同。
@@ -16,3 +20,9 @@
 请求角色后,您会收到一条通知,告知您品牌管理员是否批准了您的请求。
 如果获得批准,您可以在48小时内获得相关权益。
 有关销售权益的更多信息,请在卖家平台中查看 Brand Registry 销售角色帮助页面。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：通过 IP Accelerator 注册商标](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/zh_CN/transcript.md) · [同主题下一篇：减少商城交易保障索赔与退货的建议](../../../courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/zh_CN/transcript.md)

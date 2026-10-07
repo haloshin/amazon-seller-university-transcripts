@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：设置一天默认备货时间
+
 # Set one-day default handling time
 
 欢迎观看本期关于如何将备货时间设置为一天的培训视频。
@@ -67,3 +71,9 @@ Customer Delivery Promise,
 以上就是关于本期如何将默认备货时间设置为一天的培训视频。
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：为指定 ASIN 设置备货时间](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/zh_CN/transcript.md) · [同主题下一篇：设置订单处理能力](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md)

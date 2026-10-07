@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：增长机会概览
+
 # Growth Opportunities overview
 
 欢迎观看亚马逊的《增长潜力看板》概述。
@@ -42,3 +46,9 @@ View all ASIN opportunities,查看可以提高该ASIN绩效的所有方法。
 找到对您的业务最重要的建议,并采取相应措施。
 以上就是本期增长潜力看板工具培训的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用企业折扣洞察获取定价建议](../../../courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/zh_CN/transcript.md) · [同主题下一篇：亚马逊企业购买家指南（英文）](../../../courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/transcript.md)

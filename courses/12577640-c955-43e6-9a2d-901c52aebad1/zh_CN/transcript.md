@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%85%A8%E7%90%83%E5%BC%80%E5%BA%97) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：开始使用亚马逊全球开店
+
 # How to get started with Amazon Global Selling
 
 准备好让您的生意更上一层楼了吗?
@@ -56,3 +60,9 @@
 最后,亚马逊现在允许买家访问来自世界各地的客户评价,从而帮助您将业务扩展到全球。
 立即访问全球开店Sell Globally控制面板。
 开始您的旅程吧!非常感谢!祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：全球业务扩展：跨境物流指南（英文）](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md) · [同主题下一篇：亚马逊全球商店销售入门](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/transcript.md)

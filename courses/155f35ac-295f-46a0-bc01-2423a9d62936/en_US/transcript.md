@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md)
+
 # Stay Safe from Phishing
 
 Welcome to the Securing Your Seller Account series. It is important to protect yourself from
@@ -43,3 +45,9 @@ Welcome to the Securing Your Seller Account series. It is important to protect y
  immediately contact your credit card company. Note, if you receive a new replacement card,
  then don't forget to update your new card on amazon.com. Amazon takes phishing attempts
  very seriously. To report a suspicious email or learn more about phishing, go to amazon.com/security.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Sales manipulation and competitor abuse](../../../courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/en_US/transcript.md) · [Next in topic：Toys and compliance](../../../courses/0982f544-3c62-43ee-b54a-606892d32662/en_US/transcript.md)

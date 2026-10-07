@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Sustainability Solutions Hub: Introduction
 
 Welcome to our video on the Sustainability Solutions Hub in Seller Central. In this guide, we'll walk you through the Sustainability Solutions Hub, a comprehensive resource for Amazon Sustainability Programs.
@@ -28,3 +30,9 @@ Welcome to our video on the Sustainability Solutions Hub in Seller Central. In t
  Filter options, refine providers by service type or program.
  Visit the Sustainability Solutions Hub in Seller Central and explore how you can support a sustainable world.
  Thank you and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Reduce your referral fees in select product categories](../../../courses/76559113-a4ac-436a-b50a-28c7d282cca4/en_US/transcript.md) · [Next in topic：Why top sellers rank each ASIN before scaling](../../../courses/f366511d-de14-4a25-b0a5-957ad76f014b/en_US/transcript.md)

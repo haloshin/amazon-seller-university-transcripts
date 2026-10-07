@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Multi-Channel Fulfillment: Create fulfillment orders
 
 Welcome to our training on how to create multi-channel fulfillment or MCF orders. MCF allows businesses to use Amazon's storage and fulfillment solutions for orders placed on their own website or other e-commerce channels.
@@ -94,3 +96,9 @@ Welcome to our training on how to create multi-channel fulfillment or MCF orders
  We also recommend watching the Multi-Channel Fulfillment "How It Works" video in Seller University to learn more about the MCF program and its benefits.
  This concludes our training on how to create and manage fulfillment orders with MCF.
  Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Multi-Channel Fulfillment (MCF): How Amazon sellers can use MCF and FBA together](../../../courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/transcript.md) · [Next in topic：Multi-Channel Fulfillment: How it works](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/en_US/transcript.md)

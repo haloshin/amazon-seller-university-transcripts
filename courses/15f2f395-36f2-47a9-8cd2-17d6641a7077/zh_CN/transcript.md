@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：为指定 ASIN 设置备货时间
+
 # Set ASIN-specific handling time
 
 欢迎观看本期关于为卖家自配送ASIN单独设置备货时间的培训视频。
@@ -51,3 +55,9 @@ Account Health
 有关提供最佳买家配送承诺的更多做法,可观看本系列的其他视频。
 以上就是本期关于为ASIN单独设置备货时间的培训视频。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：发送首个 FBA 货件](../../../courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/zh_CN/transcript.md) · [同主题下一篇：设置一天默认备货时间](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/zh_CN/transcript.md)

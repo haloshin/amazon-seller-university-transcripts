@@ -1,6 +1,6 @@
-# Introduction to Transparency
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+# Introduction to Transparency
 
 As a brand, the relationship you have
  with your customers is built on trust.
@@ -42,3 +42,9 @@ As a brand, the relationship you have
  Find a step-by-step walkthrough of the onboarding process
  by searching Transparency onboarding guide
  in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
+
+[Previous in topic：Introduction to Stores](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/en_US/transcript.md) · [Next in topic：Next steps for sellers who’ve enrolled a brand](../../../courses/43146fdf-a110-4056-971d-c287016104f5/en_US/transcript.md)

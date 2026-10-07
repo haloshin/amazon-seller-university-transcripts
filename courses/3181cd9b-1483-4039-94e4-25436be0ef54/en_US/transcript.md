@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
+
 # Amazon Handmade: Product Images
 
 Images are very important to customers.
@@ -60,3 +62,9 @@ Images are very important to customers.
  Check out the help page, Imaging Best Practices for tips,
  tricks, and first-hand advice from other makers
  in the handmade community.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Custom overview](../../../courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/en_US/transcript.md) · [Next in topic：Amazon Product Listing Optimization: What actually works for Revolution Nutrition](../../../courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md)

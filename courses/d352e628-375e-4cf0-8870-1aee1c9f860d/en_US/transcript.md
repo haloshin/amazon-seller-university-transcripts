@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Growth Opportunities overview
 
 Welcome to our overview of the Growth Opportunities tool. After setting up your business and adding products to your catalog, it can be challenging to know which Amazon tools to leverage to help grow your business. The Growth Opportunities tool is geared to help you identify the business objectives, programs, and tasks most likely to impact your performance. It provides a personalized experience for you to prioritize actions at the ASIN level by identifying recommendations that are unique to you and your products. To access the tool, hover over Growth and select Growth Opportunities from the Seller Central main menu. Here, you'll discover ways to increase an ASIN's conversion or sales, reduce costs to operate, or improve traffic, and drive discoverability. Our recommendations are based on a number of factors, like our assessment of your product's sales potential, or the sales lift other sellers experienced after following the recommendation on a similar product. Browse your top 50 opportunities or select an opportunity category on the left side of the page to view a recommendation by goal or type.
@@ -30,3 +32,9 @@ Welcome to our overview of the Growth Opportunities tool. After setting up your 
  Check back as often as you'd like to locate and act on the ones that matter most to your business.
  This concludes our training on the Growth Opportunities tool.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Get pricing recommendations using ‘Business discount insights’](../../../courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/en_US/transcript.md) · [Next in topic：Guide to Amazon Business customers](../../../courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/transcript.md)

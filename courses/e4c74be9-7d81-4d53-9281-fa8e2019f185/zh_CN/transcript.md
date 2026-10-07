@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：二手商品作为新品销售的合规要求
+
 # “Used sold as new” product compliance
 
 欢迎观看本期《将二手商品作为新品发布问题、商品合规培训视频》。
@@ -79,3 +83,9 @@ Sofia还会确认从下拉列表中
 商品合规培训视频的全部内容。
 感谢观看,
 祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：错发商品的合规要求](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/zh_CN/transcript.md)

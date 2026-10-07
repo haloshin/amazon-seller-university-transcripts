@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # How to update your Sponsored Products campaign to have no end date
 
 Let's look at how to update your sponsored products campaign to have no end date, so customers can discover your products year round.
@@ -7,3 +9,9 @@ Let's look at how to update your sponsored products campaign to have no end date
  Select it, then click Apply to save your changes.
  Now, customers can continue to discover your products anytime they're browsing,
  which can help you gain more impressions, clicks, and sales.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to set up your Amazon Ads account](../../../courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/en_US/transcript.md) · [Next in topic：How to use Amazon audiences in your Sponsored Display campaigns](../../../courses/b9848392-da33-4115-b2b9-bd58fb905ffd/en_US/transcript.md)

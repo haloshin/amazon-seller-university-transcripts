@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Amazon Shipping
 
 Amazon Shipping provides reliable ground delivery service for orders placed on Amazon, your own website, and other e-commerce channels. Package pickup and delivery operate seven days a week without additional residential fees or weekend delivery charges, offering a fast and reliable solution for delivering to your customers. To register for Amazon Shipping, navigate to Shipper Central at ship.amazon.com/getstarted/home. Click Log in with Amazon and sign in with the same credentials you use to access Seller Central.
@@ -25,3 +27,9 @@ Amazon Shipping provides reliable ground delivery service for orders placed on A
  directly from an Order's shipment detail page and clicking the file claim button. For additional
  support, access the help page for a list of comprehensive articles and step-by-step instructions
  that can help guide you through each stage of managing your shipments effectively.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Amazon Buy Shipping](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/en_US/transcript.md) · [Next in topic：Intro to Fulfillment by Amazon (FBA)](../../../courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)

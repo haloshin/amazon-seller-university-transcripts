@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # Block counterfeits with Project Zero
 
 For brands like yours, preventing customers from receiving counterfeits is a top priority.
@@ -34,3 +36,9 @@ For brands like yours, preventing customers from receiving counterfeits is a top
  working with Amazon to eliminate counterfeits.
  To learn more, visit projectzero.com.
  Protect your brand with Amazon.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Best practices for reviews and ratings](../../../courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/en_US/transcript.md) · [Next in topic：Boost Hero ASIN Sales with Amazon Bundles](../../../courses/14553ca4-057c-4ea0-8a7f-1962695ba18f/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Automate Pricing: Apply pricing rules
 
 In the Pricing Rules page in Seller Central, you will see a list of all the predefined
@@ -62,3 +64,9 @@ In the Pricing Rules page in Seller Central, you will see a list of all the pred
  as long as you've entered a minimum price.
  The rule will also appear on the Automate Pricing page so you can review and edit the
  SKUs you've assigned to it if needed.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Apply pricing rules in bulk](../../../courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/en_US/transcript.md) · [Next in topic：Automate Pricing: Change or remove a pricing rule](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/transcript.md)

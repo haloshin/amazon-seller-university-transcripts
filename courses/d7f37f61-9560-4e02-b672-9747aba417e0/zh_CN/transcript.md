@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：Send to Amazon 第 3 步：打印箱子标签
+
 # Send to Amazon – Step 3: Print box labels
 
 在第二步中确认货件后,您就可以打印包装箱标签了。
@@ -27,3 +31,9 @@
 您可以在最后一步追踪详情中执行该操作,追踪详情会在您完成第三步后填充。
 您也可以导航到货件处理进度并点击追踪货件来填写。
 对于托盘货件,请选择继续查看承运人和托盘信息,以执行第四步。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Send to Amazon 第 2 步：确认发货](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/zh_CN/transcript.md) · [同主题下一篇：Send to Amazon 第 4 步：确认承运商和托盘信息](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/zh_CN/transcript.md)

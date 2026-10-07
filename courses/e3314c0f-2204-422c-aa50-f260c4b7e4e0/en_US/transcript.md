@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send to Amazon – Step 2: Confirm shipping
 
 Once you've completed, send to Amazon Step 1, confirm inventory to send. You're ready for Step 2, confirm shipping.
@@ -22,3 +24,9 @@ Once you've completed, send to Amazon Step 1, confirm inventory to send. You're 
  The same carrier must be used for all small parcel shipments in a workflow. Note that any changes made to the shipment cards may impact the estimated total cost.
  Finally, review the estimated shipping and placement charges in the bottom right corner before accepting and confirming shipping.
  You're now ready to move on to send to Amazon Step 3, Print Box Labels.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon – Step 1b: Pack individual units](../../../courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 3: Print box labels](../../../courses/d7f37f61-9560-4e02-b672-9747aba417e0/en_US/transcript.md)

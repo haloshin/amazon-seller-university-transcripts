@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：创建持续投放的广告活动
+
 # How to create an always-on campaign
 
 我们将一起了解如何设置无结束日期的广告活动。
@@ -7,3 +11,9 @@
 如果您不小心设置了结束日期,只需简易操作,就能恢复默认设置。
 点击日期后会显示日历,日历右上方会出现"无结束日期"字段。
 点击该字段即可重置。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：创建促销活动（Deal）](../../../courses/54789ffd-acce-49b9-afb2-7873981bf0df/zh_CN/transcript.md) · [同主题下一篇：使用品牌推广为旗舰店引流（英文）](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # Maximize Your Amazon B2B Sales with Fee Discounts
 
 If you're a professional seller, you can receive two types of Amazon Business Fee Discounts when you offer business prices or quantity discounts of 3% or more off your standard price to business-to-business or B2B customers.
@@ -20,3 +22,9 @@ If you're a professional seller, you can receive two types of Amazon Business Fe
  Select the order link to view transaction details, your discounts appear as.
  Discount on FBA per unit fulfillment fee or discount on referral fee for each qualifying order.
  For step-by-step instructions on how to set and optimize business pricing and quantity discounts, read the set business prices and quantity discounts guide in Seller University.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to business reports](../../../courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/en_US/transcript.md) · [Next in topic：Meet customer demand with Product Opportunity Explorer](../../../courses/b4b4965f-32e8-499c-9a67-1fbd54ad622c/en_US/transcript.md)

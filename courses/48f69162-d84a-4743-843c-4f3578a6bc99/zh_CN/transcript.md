@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：使用第三方应用为商品定价
+
 # Price products using third-party apps
 
 亚马逊卖家可利用多种技术来启动、管理、和发展其业务。一些卖家完全依赖卖家平台中的内置工具来发布商品,为商品定价并管理库存。还有一些卖家则通过第三方应用程序来改进其运营体验。
@@ -39,3 +43,9 @@ Seller Engine侧重于实时定价优化,而不是采用标准的10至15分钟�
 您还可以浏览其他应用分类,以简化您销售运营体验的其他方面。
 现在就来访问sellercentral.amazon.com/selling-partner-appstore
 了解这些有价值的业务工具并优化您的定价策略吧。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：制定符合买家需求的商品价格](../../../courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/zh_CN/transcript.md) · [同主题下一篇：商品编码概览](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/zh_CN/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # FBA benefits and costs
 
 [MUSIC PLAYING]
@@ -28,3 +30,9 @@
  To learn more about calculating your potential FBA fees,
  you can review our guide, "Is FBA Right for You?"
  in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Enable weekend operations for MFN orders](../../../courses/e1741fe5-1d91-4595-937d-8bfe4456a771/en_US/transcript.md) · [Next in topic：FBA dashboard overview](../../../courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/en_US/transcript.md)

@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：B2B 应用与 API 概览
+
 # B2B apps and APIs overview
 
 欢迎参加我们关于B2B应用程序和API的培训。
@@ -50,3 +54,9 @@ API用于构建应用程序。
 在该页面上,可以查看已授权的开发者列表,包括名称、ID、应用名称、状态、授权日期,以及MWS授权令牌。
 使用操作列可以启用授权,重新授权,禁用授权,或选择不接受通知。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：用于 B2B 商机的应用与 API（英文）](../../../courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/transcript.md) · [同主题下一篇：B2B Central 概览（英文）](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md)

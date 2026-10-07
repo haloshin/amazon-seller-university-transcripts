@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Customer Review Insights overview
 
 Product opportunity explorers, customer review insights
@@ -53,3 +55,9 @@ Product opportunity explorers, customer review insights
  over time.
  With this information, you can proactively address
  common customer concerns for your products or listings.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create Business-Only Offers](../../../courses/be468b05-3e0c-4d53-9c5d-48309d236c5a/en_US/transcript.md) · [Next in topic：Explore Amazon Business features](../../../courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/en_US/transcript.md)

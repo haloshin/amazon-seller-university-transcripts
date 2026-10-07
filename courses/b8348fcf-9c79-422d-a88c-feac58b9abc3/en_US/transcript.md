@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Move your Amazon Warehousing and Distribution (AWD) inventory
 
 The Move Inventory workflow allows you to manage and distribute your Amazon
@@ -19,3 +21,9 @@ The Move Inventory workflow allows you to manage and distribute your Amazon
  then click Review Move Request. On the Review Move Request page, confirm the
  move request by clicking Confirm Move Request. Once you see the confirmation
  page, your move request has been completed.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Manage your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/en_US/transcript.md) · [Next in topic：Move your FTL shipments with Amazon Freight](../../../courses/56035ae2-6096-4bc5-9085-93895e434294/en_US/transcript.md)

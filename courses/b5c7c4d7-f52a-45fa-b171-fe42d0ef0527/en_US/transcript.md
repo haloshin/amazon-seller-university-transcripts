@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Optimizing listings for brand owners
 
 (gentle music)
@@ -142,3 +144,9 @@
  Top Search Terms Report in Seller University.
  You can find more resources for optimizing your listings
  on the Manage Inventory Help page in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Match or create product listings and variations in bulk](../../../courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/en_US/transcript.md) · [Next in topic：Overview of Manage All Inventory](../../../courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/en_US/transcript.md)

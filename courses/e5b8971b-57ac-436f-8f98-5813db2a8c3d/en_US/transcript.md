@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Five key Sponsored Products reports for campaign optimization
 
 Want to get more from your sponsored products ads?
@@ -41,3 +43,9 @@ Want to get more from your sponsored products ads?
  ad attributed sales, and time in budget regularly
  to stay aligned with your goals.
  View reports in the Advertising Console.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Find Your Best Products to Advertise on Amazon](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md) · [Next in topic：Getting started with Sponsored Brands](../../../courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Track and respond to customer reviews
 
 Welcome to our training on the customer reviews tool. Product reviews are an important part of buying and selling in the Amazon store. They help customers understand the experiences of those who've already purchased products. And they help sellers identify and correct product and listing issues. If you're a professional seller internal to a brand enrolled in Amazon Brand Registry, you can use the customer reviews tool to track product reviews. You can also use it to respond to customers who've left reviews,
@@ -57,3 +59,9 @@ Welcome to our training on the customer reviews tool. Product reviews are an imp
  brand registry. You can also get more information about the eligibility to
  access brand selling benefits by watching videos in our course launch your brand
  in the Amazon store. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Tips to reduce A-to-z Guarantee Claims and returns](../../../courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/en_US/transcript.md) · [Next in topic：Voice of the Customer overview](../../../courses/e52369f9-c402-469f-aa56-c0dd1c706aef/en_US/transcript.md)

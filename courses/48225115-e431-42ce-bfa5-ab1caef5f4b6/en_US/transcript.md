@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to optimize your Sponsored Products campaigns
 
 Campaign Optimization can help you adjust your sponsored products campaigns for better performance.
@@ -15,3 +17,9 @@ Campaign Optimization can help you adjust your sponsored products campaigns for 
  Remember, optimization is ongoing. Consider adjusting your ads and then monitor results for two to four weeks before making further changes.
  Key metrics to monitor, click through rates, CTR, conversion rates, advertising cost of sales, ACOS, return on ad spend, ROAS, and overall sales growth.
  Start optimizing your campaigns in the advertising console.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to optimize your bid with display ads](../../../courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/transcript.md) · [Next in topic：How to optimize your Sponsored Products campaigns: Targeting, bidding, and budget](../../../courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md)

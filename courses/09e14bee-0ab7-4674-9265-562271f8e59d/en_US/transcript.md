@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # Copycat Products Threatening Your Sales? Use Amazon Trademark Tools
 
 Hi, I'm Jerry from The Happy Start.
@@ -42,3 +44,9 @@ Hi, I'm Jerry from The Happy Start.
  If you're serious about building a real brand,
  file your trademark and get registered
  with Amazon's brand registry.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Brand guide for global Amazon Selling Partners with step by step Brand Transfer Guidance](../../../courses/cd9b383b-e1d2-49be-a0d3-e5619543e97b/en_US/transcript.md) · [Next in topic：Customer Service Fundamentals](../../../courses/d937a9f0-9e1a-456b-b962-fbd311451e81/en_US/transcript.md)

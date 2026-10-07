@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：创建首个商品推广广告活动
+
 # Create your first advertising campaign with Sponsored Products
 
 你是否曾想了解如何增加您的商品在亚马逊上的可见度,以便顾客在合适的地方和合适的时间发现您的商品,您可以借助亚马逊广告的商品推广来实现这一点。本视频将介绍商品推广的运作方式,以及如何启动您的首个广告活动,以帮助提高销量并发展品牌。商品推广广告可展示在购物搜索结果首页,和商品详情页上。
@@ -42,3 +46,9 @@
 您还可以利用报告来了解广告活动在此过程中的效果。
 准备好开始了吗?
 访问 ads.amazon.com
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用品牌定制促销创建专属折扣](../../../courses/3498c716-6b42-436f-a44a-9f08c9f637cf/zh_CN/transcript.md) · [同主题下一篇：使用广告与优惠券开展节日营销](../../../courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/zh_CN/transcript.md)

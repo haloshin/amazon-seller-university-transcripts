@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Manage your compliance dashboard
 
 Welcome to our training on the Manage Your Compliance Dashboard. In this module, you'll learn how to view and respond to product compliance requests and how to submit the required documentation.
@@ -35,3 +37,9 @@ Welcome to our training on the Manage Your Compliance Dashboard. In this module,
  To watch this video again, search for Manage Your Compliance Dashboard on Seller University or bookmark the page you're on right now for future reference.
  This concludes our training on the Manage Your Compliance dashboard.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Lithium batteries overview](../../../courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/transcript.md) · [Next in topic：Meet Amazon's compliance requirements using the Compliance Knowledge Portal](../../../courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/en_US/transcript.md)

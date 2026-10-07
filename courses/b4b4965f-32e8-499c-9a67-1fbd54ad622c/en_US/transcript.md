@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Meet customer demand with Product Opportunity Explorer
 
 Determining the right products to sell on Amazon is a critical foundation for brand success. If you have a registered brand, Product Opportunity Explorer can help you make data-informed decisions about what to offer. This tool analyzes what products customers search for, view and purchase, helping you identify what they want and where there may be unmet demand. To access Product Opportunity Explorer,
@@ -30,3 +32,9 @@ Determining the right products to sell on Amazon is a critical foundation for br
  Click the question mark next to any metric column header or open the metrics glossary in the top right corner of the page to see comprehensive definitions for all metrics within product opportunity explorer.
  To view opportunities in a different marketplace, use the Find Opportunities in drop-down just below the glossary.
  To learn more about interpreting and actioning the data in product opportunity explorer, watch the Product Opportunity Explorer Best Practices video in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Maximize Your Amazon B2B Sales with Fee Discounts](../../../courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/transcript.md) · [Next in topic：Product Opportunity Explorer best practices](../../../courses/20873123-2c92-4e67-854e-08994da32d72/en_US/transcript.md)

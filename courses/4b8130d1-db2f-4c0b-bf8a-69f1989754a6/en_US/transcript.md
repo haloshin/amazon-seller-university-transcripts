@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Drive this holiday season with ads and Coupons
 
 Welcome to our training on preparing for the holiday season with ads and coupons.
@@ -89,3 +91,9 @@ Welcome to our training on preparing for the holiday season with ads and coupons
  Remember to combine the strategies we've covered to help you have a successful holiday season.
  This concludes the training on advertising and coupons for the holiday season.
  Thank you, and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create your first advertising campaign with Sponsored Products](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/en_US/transcript.md) · [Next in topic：Drive traffic to your Brand Store homepage with Sponsored Brands](../../../courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md)

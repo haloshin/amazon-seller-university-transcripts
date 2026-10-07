@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Create your first advertising campaign with Sponsored Products
 
 Have you ever wondered if there's a way to make your products more visible on Amazon?
@@ -61,3 +63,9 @@ Have you ever wondered if there's a way to make your products more visible on Am
  to help you keep pace with both your goals and your needs.
  You can also utilize reporting to check campaign performance along the way.
  Ready to get started? Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create exclusive discounts with Brand Tailored Promotions (BTP)](../../../courses/3498c716-6b42-436f-a44a-9f08c9f637cf/en_US/transcript.md) · [Next in topic：Drive this holiday season with ads and Coupons](../../../courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/en_US/transcript.md)

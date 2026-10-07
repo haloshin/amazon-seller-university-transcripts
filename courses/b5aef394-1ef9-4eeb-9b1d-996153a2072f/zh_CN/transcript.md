@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：多渠道配送：创建配送订单
+
 # Multi-Channel Fulfillment: Create fulfillment orders
 
 欢迎参加亚马逊关于如何创建多渠道配送、MCF订单的培训。
@@ -238,3 +242,9 @@ FAQs部分了解有关入门配送和包装以及退货和赔偿的更多信息�
 到此结束
 感谢观看
 祝您销售愉快
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：结合使用多渠道配送（MCF）与 FBA（英文）](../../../courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/transcript.md) · [同主题下一篇：多渠道配送：运作方式](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/zh_CN/transcript.md)

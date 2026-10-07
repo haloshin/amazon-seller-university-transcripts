@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Introduction to display ads
 
 In this video, we'll introduce how sponsored display can help drive traffic to your detail pages and how you can set up your own sponsored display campaigns in the Advertising Console.
@@ -34,3 +36,9 @@ In this video, we'll introduce how sponsored display can help drive traffic to y
  If you choose contextual targeting as your targeting tactic, here you can select categories, products, brands, or features related to your product.
  If you choose audiences as your targeting tactic, here you can further refine audiences by brand, price range, star rating, and shipping eligibility.
  Once you complete these steps, you're ready to launch your first sponsored display campaign. Ready to get started? Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Introduction to Amazon Ads Campaign Manager Budget Rules](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md) · [Next in topic：Introduction to Sponsored Brands](../../../courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/en_US/transcript.md)

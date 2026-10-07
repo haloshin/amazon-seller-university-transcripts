@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Optimizing your Seller Fulfilled Prime trial
 
 [MUSIC PLAYING]
@@ -123,3 +125,9 @@
  during the trial period and use insights
  to improve your shipping and handling processes
  going forward.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：New Seller Central: Manage Shipments](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/en_US/transcript.md) · [Next in topic：Returns and refunds for seller-fulfilled orders](../../../courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/transcript.md)

@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：多渠道配送：运作方式
+
 # Multi-Channel Fulfillment: How it works
 
 欢迎参加关于多渠道配送/MCF 运作方式的培训。
@@ -41,3 +45,9 @@ Download the rate card PDF。
 然后搜索多渠道配送,创建配送订单,multi-channel fulfillment,
 CREATE FULFILLMENT ORDERS,以了解如何创建MCF订单。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：多渠道配送：创建配送订单](../../../courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/zh_CN/transcript.md) · [同主题下一篇：新版卖家平台：管理货件](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/zh_CN/transcript.md)

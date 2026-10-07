@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Best practices for reviews and ratings
 
 Welcome to our training on best practices for getting reviews and ratings in this
@@ -44,3 +46,9 @@ Welcome to our training on best practices for getting reviews and ratings in thi
  practices for getting reviews and ratings you now have the tools to increase your
  chances of getting reviews and ratings thank you and happy selling in the
  Amazon store
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Best practices for creating brand names and logos](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/en_US/transcript.md) · [Next in topic：Block counterfeits with Project Zero](../../../courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md)

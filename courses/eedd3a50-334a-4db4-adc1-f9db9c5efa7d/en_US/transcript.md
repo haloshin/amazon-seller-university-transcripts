@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # Why trademark brands choose Amazon
 
 [Music]
@@ -20,3 +22,9 @@
  So when a customer's on your listing, they'll see at the top of your brand name, and it's a little link.
  And when they click on that, that will bring them to your brand page, which is essentially like a website that you can create for customers to shop all of your products.
  And if you ever need hangers, check out the Kangaroo Hanger.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Why early reviews through Amazon Vine helped The Happy Start succeed](../../../courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/transcript.md)

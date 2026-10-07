@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Introduction to Sponsored Brands
 
 In this video, you'll learn about Sponsored Brands, a solution that helps you build your brand on Amazon to better reach shoppers as they consider which products to purchase.
@@ -56,3 +58,9 @@ In this video, you'll learn about Sponsored Brands, a solution that helps you bu
  You can use sponsored brands to drive broader awareness and consideration for your brand and use sponsored products
  to reach high-intent shoppers looking to make a purchase.
  Ready to get started? Visit ads.amazon.com
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Introduction to display ads](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/en_US/transcript.md) · [Next in topic：Leafael Jewelry uses Creator Connections strategy for sales growth](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md)

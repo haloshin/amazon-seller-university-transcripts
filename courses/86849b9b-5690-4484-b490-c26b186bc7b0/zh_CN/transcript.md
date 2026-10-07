@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：品牌名称与标志设计的最佳实践
+
 # Best practices for creating brand names and logos
 
 欢迎观看我们的创建品牌名称和徽标的最佳实践视频。
@@ -33,3 +37,9 @@
 您也可以考虑向品牌代理商或其他专家咨询相关事宜。
 以上就是本期最佳实践视频的全部内容。
 感谢观看,祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：创建 A+ 内容的最佳实践](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/zh_CN/transcript.md) · [同主题下一篇：评论与评分的最佳实践](../../../courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/zh_CN/transcript.md)

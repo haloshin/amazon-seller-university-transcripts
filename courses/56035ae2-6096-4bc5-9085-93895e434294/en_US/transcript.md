@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Move your FTL shipments with Amazon Freight
 
 Welcome to our training on how to move your FTL shipments with Amazon Freight. Do
@@ -48,3 +50,9 @@ Welcome to our training on how to move your FTL shipments with Amazon Freight. D
  website. This concludes our training on how to move your FTL shipments with
  Amazon Freight. You now have the tools to move your shipments using Amazon's
  network and technology. Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Move your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/b8348fcf-9c79-422d-a88c-feac58b9abc3/en_US/transcript.md) · [Next in topic：Multi-Channel Fulfillment (MCF): How Amazon sellers can use MCF and FBA together](../../../courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/transcript.md)

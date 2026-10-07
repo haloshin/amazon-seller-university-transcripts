@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Amazon Buy Shipping
 
 Amazon Buy Shipping is a tool available to sellers
@@ -55,3 +57,9 @@ Amazon Buy Shipping is a tool available to sellers
  To learn how to use Amazon Buy Shipping for your next order,
  search using Amazon Buy Shipping for seller-fulfilled orders
  on Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to determine product weights and dimensions](../../../courses/4c982766-929e-4a32-bc33-6614f7ddfc78/en_US/transcript.md) · [Next in topic：Intro to Amazon Shipping](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/en_US/transcript.md)

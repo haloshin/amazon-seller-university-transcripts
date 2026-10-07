@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md)
+
 # B2B Central overview
 
 Welcome to our overview of B2B Central. If you're a new professional seller in the Amazon store
@@ -54,3 +56,9 @@ Welcome to our overview of B2B Central. If you're a new professional seller in t
  customer quote requests and update your business profile too. We put all these resources in one
  place to simplify and coordinate your business sales in Seller Central. This concludes our B2B
  central overview. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：B2B apps and APIs overview](../../../courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/en_US/transcript.md) · [Next in topic：Brand Analytics: Demographics report](../../../courses/8628d447-78f5-4fa2-b438-b240dc816a64/en_US/transcript.md)

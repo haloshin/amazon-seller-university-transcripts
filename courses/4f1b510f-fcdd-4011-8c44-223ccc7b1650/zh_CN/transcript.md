@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%85%A5%E9%97%A8%E4%B8%8E%E8%B4%A6%E6%88%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：新卖家入门大礼包介绍
+
 # Intro to New Seller Incentives
 
 欢迎观看本期《新卖家入门大礼包》简介视频。
@@ -78,3 +82,9 @@ MCF运送的前100件商品,
 以上就是本期新卖家入门大礼包简介视频的全部内容。
 感谢观看,
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：完成自助税务信息调查](../../../courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/zh_CN/transcript.md) · [同主题下一篇：卖家平台入门](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md)

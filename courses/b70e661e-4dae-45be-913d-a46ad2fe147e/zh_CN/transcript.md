@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：关联承运商账户并使用自己的 UPS/FedEx 运价
+
 # Link Carrier Accounts In Seller Central To Use Your Own UPS/FedEx Rates
 
 使用亚马逊购买配送服务,您可以在您的FedEx或UPS账户中享受亚马逊协商运费或关联您自己的运费来配送卖家自配送Prime订单或非Prime订单。在关联承运人账户之前,您需要完成两个步骤。
@@ -27,3 +31,9 @@
 查看完毕后,勾选每个承运人对应的我同意复选框,然后选择提交。
 如果您在关联账户或身份验证过程中遇到任何问题,比如页面冻结或出现验证错误。
 请访问管理您的承运人账户和购买配送服务首选项帮助页面。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：迟发率（LSR）概览](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/zh_CN/transcript.md) · [同主题下一篇：本地销售：通过卖家平台完成配送（英文）](../../../courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md)

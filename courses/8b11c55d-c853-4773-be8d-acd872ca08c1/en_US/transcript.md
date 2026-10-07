@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Add offers to products already in Amazon's catalog
 
 Welcome to our training. Add offers to products already in Amazon's catalog.
@@ -45,3 +47,9 @@ Welcome to our training. Add offers to products already in Amazon's catalog.
  matched it to the product's Detail page. When you've completed the required fields, as well as any
  optional fields, click the Save and Finish button to match your Offer. This concludes our training,
  Add offers to products already in Amazon's catalog. Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Amazon Custom overview](../../../courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # CREASEBEAST shares 5 steps to successfully expand your business globally
 
 - Greetings, Seller University.
@@ -45,3 +47,9 @@
  These are a few tools that we've used over the years
  that have helped grow our brand
  and help you check them out as well.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Global Selling - Sell Internationally - Step 4 of 4 - Manage Your Business](../../../courses/b2793d1b-4fd8-40a0-925f-160e71b76136/en_US/transcript.md) · [Next in topic：Expand listings to Amazon.ca and Amazon.com.mx](../../../courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/transcript.md)

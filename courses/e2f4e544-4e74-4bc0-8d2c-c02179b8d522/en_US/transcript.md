@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Apply pricing rules in bulk
 
 In this video, we will be reviewing how to use the automate pricing file to assign SKUs
@@ -93,3 +95,9 @@ In this video, we will be reviewing how to use the automate pricing file to assi
  each SKU.
  Thanks for watching Automate Pricing in Action!
  Happy selling!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Product Listing Optimization: What actually works for Revolution Nutrition](../../../courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md) · [Next in topic：Automate Pricing: Apply pricing rules](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/en_US/transcript.md)

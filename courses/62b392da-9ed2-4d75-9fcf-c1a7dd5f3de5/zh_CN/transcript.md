@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：注册加入亚马逊品牌注册
+
 # Enroll your brand in Amazon Brand Registry
 
 欢迎参加我们关于如何在亚马逊品牌注册中注册品牌的培训。
@@ -180,3 +184,9 @@ View or Respond按钮,
 注册品牌的培训到此结束。
 感谢观看,
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：通过 Amazon Vine 买家评论吸引流量](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/zh_CN/transcript.md) · [同主题下一篇：创建并销售虚拟捆绑商品](../../../courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/zh_CN/transcript.md)

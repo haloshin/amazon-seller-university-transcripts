@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：Send to Amazon 第 5 步：打印托盘标签
+
 # Send to Amazon – Step 5: Print pallet labels
 
 如果您在Send to Amazon工作流程中看到第五步
@@ -28,3 +32,9 @@ ASIN建议您为此托盘粘贴单一ASIN标签
 以及创建提货单
 您需要在取件时向承运人提供
 请查看卖家平台中的管理 Send to Amazon 货件指南
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Send to Amazon 第 4 步：确认承运商和托盘信息](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/zh_CN/transcript.md) · [同主题下一篇：Send to Amazon：创建整箱包装模板](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/zh_CN/transcript.md)

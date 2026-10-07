@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # “Used sold as new” product compliance
 
 Welcome to our used sold as new product compliance training.
@@ -45,3 +47,9 @@ Welcome to our used sold as new product compliance training.
  your customer receives the product in the condition as described on the product detail page.
  This concludes our training on used sold as new product compliance.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Wrong item sent product compliance](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/en_US/transcript.md)

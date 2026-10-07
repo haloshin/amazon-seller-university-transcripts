@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：批量应用定价规则
+
 # Apply pricing rules in bulk
 
 在本视频中,我们将回顾如何使用自动定价文件通过批量上传过程,为重新定价规则分配SKU或停止重新定价。我们还将介绍一些有用的提示,以便您可以充分利用自动定价文件。让我们开始吧。
@@ -79,3 +83,9 @@ Monitor Automate Pricing File Upload Status部分中,
 感谢您观看自动定价的实际操作演示。
 
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Revolution Nutrition 的商品信息优化实践（英文）](../../../courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md) · [同主题下一篇：自动定价：应用定价规则](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md)

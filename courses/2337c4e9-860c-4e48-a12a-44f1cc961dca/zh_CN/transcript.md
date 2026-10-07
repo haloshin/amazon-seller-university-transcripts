@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：通过 Amazon Vine 买家评论吸引流量
+
 # Drive traffic with Amazon Vine customer reviews
 
 如果您已注册加入亚马逊 Brand Registry,则可以注册加入Amazon Vine,运用高质量的Vine评论帮助提升销量、提高商品曝光度并获得有价值的商品洞察信息。
@@ -36,3 +40,9 @@ Vine 控制面板显示了一些系统预选的且符合该计划要求的ASIN�
 但对已被认领的商品发表的评论可能仍会发布。
 要在商品详情页面上找到Vine评论者发表的评论,请搜索标有Vine免费商品买家评论字样的评论。
 有关更多信息,请参阅卖家平台中的Amazon Vine帮助页面。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：客户服务基础](../../../courses/d937a9f0-9e1a-456b-b962-fbd311451e81/zh_CN/transcript.md) · [同主题下一篇：注册加入亚马逊品牌注册](../../../courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/zh_CN/transcript.md)

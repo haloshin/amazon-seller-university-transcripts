@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Use Amazon Buy Shipping for seller-fulfilled orders
 
 Amazon Buy Shipping is a tool available to sellers who handle fulfillment of their own products. This is called Fulfilled by Merchant or FBM. In this video, we will walk you through how to access Amazon Buy Shipping from the Manage Orders Dashboard. However, you can also access Amazon Buy Shipping using Veeqo, our Shipping API connected to your order management software or other multi-channel integrators. To access the Manage Orders Dashboard, hover over the Orders tab in
@@ -30,3 +32,9 @@ Amazon Buy Shipping is a tool available to sellers who handle fulfillment of the
  to print. Click Buy Shipping to submit and generate a printable PDF with all your labels.
  Remember to save the PDF containing your labels in case you need to reprint. Visit the Use
  Buy Shipping Services Help page for additional guidance.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Track your Amazon Warehousing and Distribution (AWD) shipments](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md) · [Next in topic：Use shipping templates](../../../courses/46232ee2-4408-458c-9540-7afc2f650ffe/en_US/transcript.md)

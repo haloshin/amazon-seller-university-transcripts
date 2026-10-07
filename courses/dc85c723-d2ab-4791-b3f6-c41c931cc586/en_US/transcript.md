@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # B2B apps and APIs overview
 
 - Welcome to our training on B2B apps and APIs.
@@ -102,3 +104,9 @@
  reauthorize, disable authorization,
  or opt-out of notification.
  Thank you, and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Apps and APIs for B2B product opportunities](../../../courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/transcript.md) · [Next in topic：B2B Central overview](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md)

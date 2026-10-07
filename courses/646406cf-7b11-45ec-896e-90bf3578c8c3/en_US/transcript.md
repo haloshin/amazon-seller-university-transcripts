@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Configure return settings
 
 In this video, we'll be discussing the return settings page, policies regarding international
@@ -34,3 +36,9 @@ In this video, we'll be discussing the return settings page, policies regarding 
  Finally, in the Return Program Settings tab, you can choose whether to offer free returns
  for all, some, or none of your items.
  Now you're ready to manage your return settings within Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Handmade: Production Time and Delivery Promise](../../../courses/7bfe5496-318f-4e42-8fee-a0f1c8394caf/en_US/transcript.md) · [Next in topic：Enable weekend operations for MFN orders](../../../courses/e1741fe5-1d91-4595-937d-8bfe4456a771/en_US/transcript.md)

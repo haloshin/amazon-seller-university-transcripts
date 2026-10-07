@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Sell in the Amazon store: 5-minute overview for beginners
 
 Selling on Amazon can be broken down into four steps. Step 1. Create an Amazon Seller Central account on sell.amazon.com. Step 2. List Products for Sale. Step 3. Fulfill Customer Orders and Provide Outstanding Customer Service. Step 4. Receive payments from your sales proceeds and maintain your account health. Let's go over these four steps.
@@ -43,3 +45,9 @@ Selling on Amazon can be broken down into four steps. Step 1. Create an Amazon S
  we recommend you to visit account health under the performance tab on seller central to regularly
  monitor your performance as a seller. This wraps up how selling on Amazon works. Thank
   you, and happy selling!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Sell in the Amazon store: 30-minute overview for beginners](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md) · [Next in topic：Welcome to Amazon](../../../courses/c0812372-197d-45eb-a16f-a50d086fbb17/en_US/transcript.md)

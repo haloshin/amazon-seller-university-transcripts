@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Generate return reports
 
 Welcome to our training on return reports. It's wonderful when customers love the products they buy,
@@ -43,3 +45,9 @@ Welcome to our training on return reports. It's wonderful when customers love th
  there are other reports specific to FBA sellers. To access them, click "View FBA Reports" near the
  top of the return reports page. This concludes our training on return reports.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：FBA Pack Lists](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md) · [Next in topic：Get recommendations for case packs](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/en_US/transcript.md)

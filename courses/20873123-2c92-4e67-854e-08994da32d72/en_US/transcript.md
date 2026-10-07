@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Product Opportunity Explorer best practices
 
 With product opportunity explorer, you can analyze market trends and individual product
@@ -45,3 +47,9 @@ With product opportunity explorer, you can analyze market trends and individual 
  click share with low conversion may suggest an unmet customer demand. Customer feedback is also
  a great strategy to use for informing your product selections. Watch the customer reviews
  insights overview video in Seller Central to learn more.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Meet customer demand with Product Opportunity Explorer](../../../courses/b4b4965f-32e8-499c-9a67-1fbd54ad622c/en_US/transcript.md) · [Next in topic：Reduce your referral fees in select product categories](../../../courses/76559113-a4ac-436a-b50a-28c7d282cca4/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Fix inactive or suppressed listings
 
 Welcome to our training fix inactive or suppressed listings. The Fix Your Products page in Seller Central helps you review and address issues causing your listings to be inactive or suppressed from customer search results.
@@ -24,3 +26,9 @@ Welcome to our training fix inactive or suppressed listings. The Fix Your Produc
  We also recommend checking the Fix Your Product page regularly to help ensure that customers can find and purchase your products.
  This concludes our video on how to fix your inactive or search suppressed listings in Seller Central.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Featured Offer eligibility and strategies](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/en_US/transcript.md) · [Next in topic：Generate Product Images with Amazon AI Studio](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md)

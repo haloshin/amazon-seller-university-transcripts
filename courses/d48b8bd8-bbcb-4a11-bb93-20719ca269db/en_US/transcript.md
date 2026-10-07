@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Brand Analytics: Top Search Terms report
 
 Welcome to our training on the Brand Analytics top search terms report.
@@ -85,3 +87,9 @@ Welcome to our training on the Brand Analytics top search terms report.
  If you'd like step-by-step instructions for other brand analytics reports,
  please see our series of modules in Seller University.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Brand Analytics: Search Query Performance report](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/en_US/transcript.md) · [Next in topic：Create Business-Only Offers](../../../courses/be468b05-3e0c-4d53-9c5d-48309d236c5a/en_US/transcript.md)

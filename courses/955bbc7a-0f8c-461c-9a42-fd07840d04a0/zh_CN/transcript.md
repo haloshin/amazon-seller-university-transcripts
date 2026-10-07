@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：阅读亚马逊业务报告
+
 # How to Read Amazon Business Reports
 
 欢迎参加亚马逊的如何阅读亚马逊业务报告培训。
@@ -49,3 +53,9 @@ Maria不确定要购买哪一款酒杯,她反复查看AnyCompany的无柄酒杯�
 也可以在卖家平台中查看。
 如何阅读亚马逊业务报告培训到此结束。
 感谢观看,祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：识别销售下滑趋势（英文）](../../../courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md) · [同主题下一篇：品牌分析入门](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/zh_CN/transcript.md)

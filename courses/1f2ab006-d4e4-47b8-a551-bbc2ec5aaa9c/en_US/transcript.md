@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Product ID overview
 
 Most products sold in the Amazon store are required to have an industry-standard unique product ID number called a Global Trade Item Number or GTIN.
@@ -19,3 +21,9 @@ Most products sold in the Amazon store are required to have an industry-standard
  An ASIN is an automatically assigned number used by Amazon to identify and track products in our catalog, and a SKU is a seller-specific number that can be used internally to help you identify and track your inventory.
  While all three numbers help different groups identify, track, buy, and sell products, only GTINs are universal, and they're the number you'll use most often to list products on Amazon.
  To find category-specific product ID requirements before listing your products, search for GTIN requirements on Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Price products using third-party apps](../../../courses/48f69162-d84a-4743-843c-4f3578a6bc99/en_US/transcript.md) · [Next in topic：Report an error with a product detail page](../../../courses/4efdaeac-dee5-4834-aac8-54ee56b89830/en_US/transcript.md)

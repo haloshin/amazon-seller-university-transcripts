@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Reaching high intent shoppers with Sponsored Brands and Brand Stores
 
 In this video, you will learn how to guide shoppers to sub-pages in your brand store that match their interests with sponsored brands' product collection and video format.
@@ -22,3 +24,9 @@ In this video, you will learn how to guide shoppers to sub-pages in your brand s
  You can then adjust your campaigns to direct more shoppers to underperforming pages or capitalize on your top performing pages.
  Put learning into practice. Create a sponsored brands campaign driving to a sub-page.
  Watch our other two videos in this series to learn more ways to connect sponsored brands to your brand store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Products page](../../../courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md) · [Next in topic：Set up your budgets](../../../courses/b576fddc-129d-4ce1-8c71-15e515b7f551/en_US/transcript.md)

@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：完成品牌注册后的下一步
+
 # Next steps for sellers who’ve enrolled a brand
 
 欢迎观看我们的"适用于已注册品牌的卖家"的后续步骤/培训视频。您已在亚马逊品牌注册中注册自己的品牌。恭喜!
@@ -39,3 +43,9 @@
 请观看管理亚马逊品牌注册角色培训视频。
 我们的培训到此结束。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Transparency 透明计划入门](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/zh_CN/transcript.md) · [同主题下一篇：为品牌注册商标](../../../courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/zh_CN/transcript.md)

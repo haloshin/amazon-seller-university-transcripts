@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Enroll your brand in Amazon Brand Registry
 
 Welcome to our training on enrolling a brand in Amazon Brand Registry.
@@ -136,3 +138,9 @@ Welcome to our training on enrolling a brand in Amazon Brand Registry.
  When Approved, it will move from the Request section to the Connected section.
  This concludes our training on Enrolling a Brand in Brand Registry.
  Thank you, and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Drive traffic with Amazon Vine customer reviews](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/en_US/transcript.md) · [Next in topic：Group and sell products as Virtual Bundles](../../../courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/en_US/transcript.md)

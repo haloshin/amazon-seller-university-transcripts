@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # North America Unified Account
 
 When you register as a professional seller in the US, Canada, or Mexico, you'll automatically
@@ -22,3 +24,9 @@ When you register as a professional seller in the US, Canada, or Mexico, you'll 
  product you list complies with all applicable laws, regulations, and Amazon policies before
  you offer it for sale. For more information about North America Unified
  Accounts, search "North America Marketplaces" in Seller Central Help.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Introduction to Selling on Amazon Global Store](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/en_US/transcript.md) · [Next in topic：Remote Fulfillment with FBA: Enroll/Unenroll ASINs](../../../courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/en_US/transcript.md)

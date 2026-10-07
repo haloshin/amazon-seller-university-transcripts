@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to get started with Amazon Global Selling
 
 With Amazon Global Selling, you can expand your business and reach customers across the globe by listing your products in Amazon stores worldwide.
@@ -31,3 +33,9 @@ With Amazon Global Selling, you can expand your business and reach customers acr
  On the right, Amazon will provide estimated shipping costs and estimates for additional ASIN specific costs if these estimates are applicable and available.
  Use the links in this section to explore additional programs and find trusted service providers to support your expansion journey.
  When you're ready to expand to the target store, simply click "Sign Up" at the top of the Expansion Research page to be taken to the Account Registration page for that store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Global Expansion: A Guide to Cross-Border Logistic](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md) · [Next in topic：Introduction to Selling on Amazon Global Store](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
+
 # Master AI tools for Amazon listings: Quick optimization guide
 
 I'm Lizz, the creator of PO' UP! Card Game,
@@ -62,3 +64,9 @@ I'm Lizz, the creator of PO' UP! Card Game,
  to that portion of your listing.
  I hope you found these tips helpful
  for listing optimization on Amazon.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Manage Your Experiments: set up a test for listing content](../../../courses/05930523-8e15-4010-8bf9-16307ad17eb2/en_US/transcript.md) · [Next in topic：Match or create product listings and variations in bulk](../../../courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/en_US/transcript.md)

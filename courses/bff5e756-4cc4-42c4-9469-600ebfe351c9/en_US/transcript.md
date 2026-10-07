@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Request access to brand selling benefits
 
 [MUSIC PLAYING]
@@ -41,3 +43,9 @@
  For more information about selling benefits,
  review the Brand Registry Selling Roles Help page
  in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Register a trademark through IP Accelerator](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/en_US/transcript.md) · [Next in topic：Tips to reduce A-to-z Guarantee Claims and returns](../../../courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/en_US/transcript.md)

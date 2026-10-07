@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Price products using third-party apps
 
 Amazon sellers leverage various technologies to launch, manage, and grow their businesses.
@@ -49,3 +51,9 @@ Amazon sellers leverage various technologies to launch, manage, and grow their b
  and business requirements. Consider investigating other app categories that might streamline
  additional aspects of your Selling Operations. Visit sellercentral.amazon.com/selling-partner-appstore
  to begin exploring these valuable business tools and optimize your pricing strategy today.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Price products to please your customers](../../../courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/en_US/transcript.md) · [Next in topic：Product ID overview](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/en_US/transcript.md)

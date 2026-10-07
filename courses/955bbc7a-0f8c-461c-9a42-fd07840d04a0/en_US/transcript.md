@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to Read Amazon Business Reports
 
 Welcome to our training on how to read Amazon Business Reports. Amazon Business Reports can help you monitor your product's sales, traffic, and conversion rates. They can also show the effects of changes that you have made in your selling strategy. Business reports are found in Seller Central under the Reports tab. These reports are available if you have the professional selling plan. Let's look at a few examples of  how the data in the business reports can help you understand your sales.
@@ -34,3 +36,9 @@ Welcome to our training on how to read Amazon Business Reports. Amazon Business 
  Amazon Business Reports provide a wealth of information that can be downloaded into a CSV file or viewed in Seller Central.
  This concludes the training on how to read Amazon Business Reports.
  Thank you, and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to detect downward sales trends](../../../courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md) · [Next in topic：Intro to Brand Analytics](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/en_US/transcript.md)

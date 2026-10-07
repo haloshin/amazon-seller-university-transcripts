@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # Boost Hero ASIN Sales with Amazon Bundles
 
 - Hi everyone, today I'm going to talk
@@ -43,3 +45,9 @@
  within the bundle and increase your total order value.
  So those are the few pieces of tips to grow your catalog.
  Thank you.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Block counterfeits with Project Zero](../../../courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md) · [Next in topic：Brand guide for global Amazon Selling Partners with step by step Brand Transfer Guidance](../../../courses/cd9b383b-e1d2-49be-a0d3-e5619543e97b/en_US/transcript.md)

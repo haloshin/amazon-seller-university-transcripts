@@ -1,6 +1,8 @@
-# Expand Your Business to Europe with FBA
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%85%A8%E7%90%83%E5%BC%80%E5%BA%97) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课有一处尚未确认的词句，位置与说明见[阅读说明](校注.md)。
+中文导航名：通过 FBA 将业务扩展至欧洲
+
+# Expand Your Business to Europe with FBA
 
 亚马逊在欧洲经营五大商城分别位于英国、德国、法国、意大利和西班牙。
 如果您目前在美国商城销售,使用统一账户和建立国际商品信息工具在欧洲销售,可简化商品发布流程,
@@ -84,3 +86,9 @@
 请访问services.amazon.co.uk 并选择亚马逊物流。
 要开始使用,请点击下方的全球开店。
 祝您拥有愉快的销售体验。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：将商品扩展至加拿大站和墨西哥站（英文）](../../../courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/transcript.md) · [同主题下一篇：DTocs 通过全球开店拓展加拿大市场的案例（英文）](../../../courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/transcript.md)

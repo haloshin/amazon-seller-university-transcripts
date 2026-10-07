@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Automate Pricing
 
 (gentle music)
@@ -35,3 +37,9 @@
  Ready to start using automate pricing?
  Search create custom pricing rules
  in seller university to learn how.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to use feedback to improve product listings](../../../courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/en_US/transcript.md) · [Next in topic：Intro to listing products](../../../courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md)

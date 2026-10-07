@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Report an error with a product detail page
 
 To report a problem with a product detail page, open the Seller Central Main menu, hover over Performance, click "Account Health".
@@ -8,3 +10,9 @@ To report a problem with a product detail page, open the Seller Central Main men
  You'll need to provide the ASIN attached to the product or products and a description of the problem.
  Then, click "Submit".
  We will review your submission and update you when a course of action has been determined.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Product ID overview](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/en_US/transcript.md) · [Next in topic：Resolve a product-matching error](../../../courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/en_US/transcript.md)

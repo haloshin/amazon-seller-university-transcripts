@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：备货时间与配送设置
+
 # Handling times and fulfillment settings
 
 欢迎,在本视频中,我们将介绍如何管理备货时间和配送设置。
@@ -144,3 +148,9 @@ Shipping Settings Automation,选择所需设置后。
 这样提高买家的满意度,并最大限度地提高您在店铺的绩效。
 我们关于备货时间和配送设置的培训到此结束。
 谢谢!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：配送设置指南](../../../courses/98f10d9f-bf23-418f-b4bb-370a640aef33/zh_CN/transcript.md) · [同主题下一篇：Kangaroo Hangers 使用 FBA 降低运营成本的案例（英文）](../../../courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md)

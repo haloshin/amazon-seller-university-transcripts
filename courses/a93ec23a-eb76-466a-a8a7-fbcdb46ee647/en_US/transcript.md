@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Register a trademark for your brand
 
 Welcome to our video, "Register a Trademark for Your Brand."
@@ -74,3 +76,9 @@ Welcome to our video, "Register a Trademark for Your Brand."
  For step-by-step instructions, see our Seller University video Enroll Your Brand in Amazon Brand Registry.
  This concludes our video on registering a trademark for your brand.
  Thank you, and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Next steps for sellers who’ve enrolled a brand](../../../courses/43146fdf-a110-4056-971d-c287016104f5/en_US/transcript.md) · [Next in topic：Register a trademark through IP Accelerator](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/en_US/transcript.md)

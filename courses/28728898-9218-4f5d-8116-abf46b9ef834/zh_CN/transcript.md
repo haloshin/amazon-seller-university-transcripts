@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：管理您的实验：解读商品内容测试结果
+
 # Manage Your Experiments: interpret results for listing content you’ve tested
 
 欢迎参加我们有关管理您的试验,解读商品信息描述测试结果的培训。这是管理您的试验系列的第三个视频。在本视频中,我们将向您展示如何查看、评估和应用管理您的试验MYE测试结果。
@@ -26,3 +30,9 @@ WORST CASE列
 当然,前提是其表现显著优于现有商品信息描述。
 我们的培训,以及关于MYE的模块系列到此结束。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：无商品编码发布商品：UPC/GTIN 豁免](../../../courses/e8544607-590c-414e-8831-d0b3f0cf3bee/zh_CN/transcript.md) · [同主题下一篇：管理您的实验：规划商品内容测试](../../../courses/16da6b21-dffe-4e57-b001-237ff67ed988/zh_CN/transcript.md)

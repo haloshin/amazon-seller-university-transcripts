@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：危险品概览
+
 # Dangerous goods overview
 
 欢迎学习危险品概览。
@@ -54,3 +58,9 @@ Dangerous Goods Identification Guide 帮助页面。
 违规行为会使我们的员工、承运人和买家面临潜在的健康和安全风险。
 感谢您帮助保护我们的社区和买家安全。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：危险品基础认知](../../../courses/670035e4-6834-46f9-be38-385231351096/zh_CN/transcript.md) · [同主题下一篇：膳食补充剂政策与合规](../../../courses/36837951-3f77-47f9-82f1-e7c845614c5a/zh_CN/transcript.md)

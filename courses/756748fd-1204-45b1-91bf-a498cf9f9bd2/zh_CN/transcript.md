@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：通过合规知识门户了解亚马逊合规要求
+
 # Meet Amazon's compliance requirements using the Compliance Knowledge Portal
 
 了解您的合规性要求是在亚马逊商城销售商品的重要一环。商品只有符合所有适用法律法规要求,才能让买家远离健康与安全风险的威胁。不遵守这些规定可能会对您的账户状况产生负面影响。您存放在亚马逊运营中心的库存可能会被弃置,如果您进行国际配送,可能还会被海关扣留。
@@ -19,3 +23,9 @@
 如需在全球范围内拓展业务,请查看相应地区的合规性要求。
 因为您无法在禁止销售您的商品的商城发布此商品。
 请参考这些提示确保合规性,保证您的商品始终可供买家购买。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：管理合规控制面板](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/zh_CN/transcript.md) · [同主题下一篇：亚马逊销售政策概览](../../../courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md)

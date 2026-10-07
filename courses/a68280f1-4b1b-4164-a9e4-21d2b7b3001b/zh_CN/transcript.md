@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：品牌推广入门
+
 # Introduction to Sponsored Brands
 
 在这个视频中,您将了解品牌推广,这一解决方案可以帮助您在亚马逊上打造品牌,以便在顾客考虑要购买的商品时更好地触达顾客。
@@ -61,3 +65,9 @@
 然后使用商品推广来触达有意愿购买的高意向顾客。
 准备好开始推广了吗?
 请访问:ads.amazon.com
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：展示广告入门](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/zh_CN/transcript.md) · [同主题下一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（英文）](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to determine product weights and dimensions
 
 Welcome to our training on how to determine product weights and dimensions.
@@ -66,3 +68,9 @@ Welcome to our training on how to determine product weights and dimensions.
  and how to measure dimensions and volume.
  This concludes our training on how to determine product weights and dimensions.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How FBA helped Kangaroo Hangers lower operating costs](../../../courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md) · [Next in topic：Intro to Amazon Buy Shipping](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/en_US/transcript.md)

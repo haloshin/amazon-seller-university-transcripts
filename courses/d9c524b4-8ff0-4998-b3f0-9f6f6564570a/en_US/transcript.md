@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Explore product recommendations with B2B product opportunities
 
 Welcome to the video on exploring B2B product recommendations.
@@ -30,3 +32,9 @@ Welcome to the video on exploring B2B product recommendations.
  Explore this resource and others anytime by clicking B2B in the main menu on Seller Central.
  This concludes our video on exploring B2B product recommendations.
  Thank you, and happy selling on Amazon.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Explore Amazon Business features](../../../courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/en_US/transcript.md) · [Next in topic：Generate an inventory report](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/en_US/transcript.md)

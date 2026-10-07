@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # Selling in Japan
 
 [Music]
@@ -19,3 +21,9 @@
  To help you understand cross-market listing, localization, fulfillment, tax and compliance, we've put together a step-by-step guide.
  You can access it on the Sell Globally page in Seller Central.
  We hope to see you selling on Amazon Japan soon. To get started, click Sell Globally below.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Remote Fulfillment with FBA: Enroll/Unenroll ASINs](../../../courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/en_US/transcript.md) · [Next in topic：Shipping to Canada](../../../courses/915791db-c5a1-4c02-ad04-d0c8a4b0211f/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Best practices for creating A+ content
 
 Welcome to the video on best practices for creating A+ content. Using this tool,
@@ -38,3 +40,9 @@ Welcome to the video on best practices for creating A+ content. Using this tool,
  or larger and readable against its background. 11, any kind of restricted
  text. This brings us to the end of this video on best practices for adding A+
  content. Thank you and happy selling on Amazon!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Benefits of enrolling in Amazon Brand Registry](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/transcript.md) · [Next in topic：Best practices for creating brand names and logos](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/en_US/transcript.md)

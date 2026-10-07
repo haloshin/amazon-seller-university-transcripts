@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Manage Your Experiments: plan a test of your listing content
 
 Welcome to our training "Manage Your Experiments" - plan a test of your listing content.
@@ -46,3 +48,9 @@ Welcome to our training "Manage Your Experiments" - plan a test of your listing 
  Test a 50-character product title against a 200-character title, for example, or test static A+ content images of your products against images that show them in motion.
  This concludes our training on planning an M-Y-E test. We encourage you to watch the next video in our series, which provides step-by-step instructions for setting up an M-Y-E experiment.
  Thank you, and happy selling in the Amazon Store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Manage Your Experiments: interpret results for listing content you’ve tested](../../../courses/28728898-9218-4f5d-8116-abf46b9ef834/en_US/transcript.md) · [Next in topic：Manage Your Experiments: set up a test for listing content](../../../courses/05930523-8e15-4010-8bf9-16307ad17eb2/en_US/transcript.md)

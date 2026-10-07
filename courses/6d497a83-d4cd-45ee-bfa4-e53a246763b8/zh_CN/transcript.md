@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：品牌分析入门
+
 # Intro to Brand Analytics
 
 欢迎观看本期《品牌分析/简介》培训视频。
@@ -97,3 +101,9 @@ Market Basket Analysis 报告,
 请参阅卖家大学中的品牌分析系列模块。
 
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：阅读亚马逊业务报告](../../../courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/zh_CN/transcript.md) · [同主题下一篇：企业价格入门](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/transcript.md)

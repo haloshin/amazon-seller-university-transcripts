@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to New Seller Incentives
 
 Welcome to our intro to new seller incentives. In this video, we'll cover the eligibility requirements and perks of the new seller incentives program.
@@ -20,3 +22,9 @@ Welcome to our intro to new seller incentives. In this video, we'll cover the el
  With coupons, you can offer percentage or money-off discounts to help increase the visibility of your products and make them more attractive to customers.
  This concludes our intro to the new seller incentives program.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Complete your self-service tax interview](../../../courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/en_US/transcript.md) · [Next in topic：Intro to Seller Central](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)

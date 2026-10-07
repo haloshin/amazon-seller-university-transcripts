@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # Amazon Global Selling - Sell Internationally - Step 1 of 4 - Decide Where and What to Sell
 
 You've got your sights set on taking your business global and reaching more
@@ -12,3 +14,9 @@ You've got your sights set on taking your business global and reaching more
  Amazon has services that can help manage those details for you, making the global
  selling journey that much easier. With a little thought and help from Amazon global
  selling, you can be open for business all over the world in no time.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Amazon Global Selling - Sell Internationally - Step 2 of 4 - Register and List Your Products](../../../courses/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Earn a Brand Referral Bonus from non-Amazon advertising
 
 Welcome to our training on the brand referral bonus.
@@ -116,3 +118,9 @@ Welcome to our training on the brand referral bonus.
  For an overview of other brand selling benefits, see our Seller University video, Benefits
  of Enrolling a Brand in Amazon Brand Registry.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Drive traffic to your Brand Store homepage with Sponsored Brands](../../../courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md) · [Next in topic：Find Your Best Products to Advertise on Amazon](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md)

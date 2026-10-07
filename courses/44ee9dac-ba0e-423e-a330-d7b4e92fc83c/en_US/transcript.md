@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+
 # Amazon Global Selling - Sell Internationally - Step 3 of 4 - Ship and Fulfill
 
 Whether you're new to international shipping or you're a seasoned expert, it's
@@ -14,3 +16,9 @@ Whether you're new to international shipping or you're a seasoned expert, it's
  prime customers around the world. Wave goodbye to complex global processes and
  say hello to convenient global shipping. It's time to set sail with the help of
  Amazon global selling.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Amazon Global Selling - Sell Internationally - Step 2 of 4 - Register and List Your Products](../../../courses/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/en_US/transcript.md) · [Next in topic：Amazon Global Selling - Sell Internationally - Step 4 of 4 - Manage Your Business](../../../courses/b2793d1b-4fd8-40a0-925f-160e71b76136/en_US/transcript.md)

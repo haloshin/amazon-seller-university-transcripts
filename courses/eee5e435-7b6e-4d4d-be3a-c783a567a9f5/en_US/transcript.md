@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md)
+
 # 3 Essential Tips Every New Amazon Seller Needs to Know
 
 Hey, I'm Michael Koka, head of Digital Commerce at Revolution Nutrition.
@@ -19,3 +21,9 @@ Hey, I'm Michael Koka, head of Digital Commerce at Revolution Nutrition.
  Those basics matter more than any shortcut.
  If you stay focused on customers and keep learning, Amazon can become an incredibly
  powerful growth channel.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Amazon Handmade: Welcome](../../../courses/7e919233-e34f-44f5-83fe-82db49d61d66/en_US/transcript.md)

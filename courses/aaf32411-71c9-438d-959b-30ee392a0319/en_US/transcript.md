@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Create ad ready videos with Video Generator
 
 Video Generator is an AI-powered tool that transforms a single product image or video
@@ -24,3 +26,9 @@ Video Generator is an AI-powered tool that transforms a single product image or 
  You can also change your ASIN to generate additional videos to be used in your ad campaign.
  To recap, by using the ad's video generator, you can quickly turn your existing product
  assets into polished, brand-ready videos that enhance consistency and elevate your brands.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Create a Coupon](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/en_US/transcript.md) · [Next in topic：Create exclusive discounts with Brand Tailored Promotions (BTP)](../../../courses/3498c716-6b42-436f-a44a-9f08c9f637cf/en_US/transcript.md)

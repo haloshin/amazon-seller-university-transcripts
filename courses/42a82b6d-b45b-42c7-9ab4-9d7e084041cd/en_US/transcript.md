@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Leafael Jewelry uses Creator Connections strategy for sales growth
 
 Hi everyone, today I would like to talk about Creator Connections, an easy to use tool that's designed
@@ -26,3 +28,9 @@ Hi everyone, today I would like to talk about Creator Connections, an easy to us
  generate sales the next time when you have a new campaign, definitely send messages to
  invite those effective creators first and really prioritize them in terms of communicating
  and sending samples. So that's my list of tips for Creator Connections. Happy selling.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Introduction to Sponsored Brands](../../../courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/en_US/transcript.md) · [Next in topic：Prepare your product detail pages for advertising](../../../courses/86a775c7-75a3-479b-a2fc-fbc3e1997c00/en_US/transcript.md)

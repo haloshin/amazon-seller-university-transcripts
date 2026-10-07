@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+
 # Showcasing your Brand Store highlights with Sponsored Brands
 
 Learn how sponsored Brands store spotlight format can help you showcase the variety of products or categories you sell by featuring multiple pages from your brand store within the ad. This format displays three pages of your store as a visual menu, allowing shoppers to explore what interests them most while discovering your product range. Let's explore how to create a store spotlight campaign that features three key areas of your store. Step 1. Select sponsored brands and choose the store spotlight format. Then pick three sub-pages that represent different
@@ -21,3 +23,9 @@ Learn how sponsored Brands store spotlight format can help you showcase the vari
  Build a Sponsored Brands Store Spotlight campaign and feature three sections of your brand store.
  Watch our other two videos in this series to learn more ways to connect sponsored brands
  to your brand store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Set up your budgets](../../../courses/b576fddc-129d-4ce1-8c71-15e515b7f551/en_US/transcript.md) · [Next in topic：Sponsored Products advanced features and campaign optimization strategies](../../../courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/en_US/transcript.md)

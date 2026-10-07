@@ -1,6 +1,8 @@
-# Address a Restricted Products policy violation
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：处理受限商品政策违规
+
+# Address a Restricted Products policy violation
 
 本视频将介绍:
 1. 亚马逊为解决违反受限商品政策的问题而采取的措施;
@@ -54,3 +56,9 @@ Account Health可以在商品政策合规性, Product Policy Compliance下,查�
 另外,请务必查看美国食品药品监督管理局官网上的召回清单,市场撤出和安全警示。
 参与亚马逊物流计划的卖家,不只要遵守亚马逊受限商品政策,还要遵守亚马逊物流计划的其他额外商品限制。
 这包括危险品和受《麻醉品法》管制的物质,例如美国食品药品监督管理局禁止销售汽车轮胎和酒精饮料。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：处理多账户政策违规](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/zh_CN/transcript.md) · [同主题下一篇：申请销售商品、品类或品牌](../../../courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/zh_CN/transcript.md)

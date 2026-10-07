@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Sales manipulation and competitor abuse
 
 Welcome to our training, sales manipulation and competitor abuse. In this video, you'll learn
@@ -45,3 +47,9 @@ Welcome to our training, sales manipulation and competitor abuse. In this video,
  to reinstate your account or remove a warning when a policy violation occurs, and the best practices
  you can take to avoid committing policy violations. This concludes our sales manipulation and competitor
  abuse training. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Respond to an Anti-Counterfeiting policy violation](../../../courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/en_US/transcript.md) · [Next in topic：Stay Safe from Phishing](../../../courses/155f35ac-295f-46a0-bc01-2423a9d62936/en_US/transcript.md)

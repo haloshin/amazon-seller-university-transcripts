@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：生成库存报告
+
 # Generate an inventory report
 
 欢迎参加我们关于如何在卖家平台上生成库存报告的培训。
@@ -38,3 +42,9 @@ Report Status 和下载、Download 列中找到您的报告。
 找到有关如何管理和更新库存的更多信息。
 我们关于如何生成库存报告的培训到此结束。
 感谢观看!祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：通过 B2B 商机探索商品推荐](../../../courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/zh_CN/transcript.md) · [同主题下一篇：使用企业折扣洞察获取定价建议](../../../courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/zh_CN/transcript.md)

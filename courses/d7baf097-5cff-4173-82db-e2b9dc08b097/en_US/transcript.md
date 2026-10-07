@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # How to redeem Amazon Ads promotional offers
 
 Are you eligible for Amazon Ads Promotions? They can be useful for maximizing campaign performance while managing advertising costs.
@@ -8,3 +10,9 @@ Are you eligible for Amazon Ads Promotions? They can be useful for maximizing ca
  Step 3. Track your credits. Once you've qualified, your credits appear in your account within 14 days. Visit the promotions page in the ad console to easily monitor your offers, check credit status,
  and view your remaining credit balance all in one convenient location. Your promo terms and conditions will also show how long your credits last, usually 30 days.
  So, don't wait. Put them to work before they expire. Log into the Amazon Ads console and redeem your promotional offer today.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：How to optimize your Sponsored Products campaigns: Targeting, bidding, and budget](../../../courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md) · [Next in topic：How to set up your Amazon Ads account](../../../courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/en_US/transcript.md)

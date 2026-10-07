@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
+
 # Why early reviews through Amazon Vine helped The Happy Start succeed
 
 Hi, I'm Jerry from The Happy Start. One of the hardest things about launching a new product on Amazon is getting those first few reviews. You know your product is great, but customers are hesitant to buy something that doesn't have any reviews yet. Today, I'm going to tell you exactly how we solved that problem using the Amazon Vine program.
@@ -21,3 +23,9 @@ Hi, I'm Jerry from The Happy Start. One of the hardest things about launching a 
  Whether you're a brand new seller or you've been selling for years, those first few reviews
  are critical for a successful launch.
  Vine is hands down one of the best programs Amazon offers.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Voice of the Customer overview](../../../courses/e52369f9-c402-469f-aa56-c0dd1c706aef/en_US/transcript.md) · [Next in topic：Why trademark brands choose Amazon](../../../courses/eedd3a50-334a-4db4-adc1-f9db9c5efa7d/en_US/transcript.md)

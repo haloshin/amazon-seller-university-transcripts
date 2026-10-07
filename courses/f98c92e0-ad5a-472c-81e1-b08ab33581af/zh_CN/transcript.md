@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%90%88%E8%A7%84%E4%B8%8E%E8%B4%A6%E6%88%B7%E5%81%A5%E5%BA%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：处理防伪政策违规
+
 # Respond to an Anti-Counterfeiting policy violation
 
 欢迎参加「关于如何应对亚马逊防伪政策违规情况的培训」。
@@ -70,3 +74,9 @@ Account Health 页面,
 培训的全部内容。
 感谢观看,
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：回复亚马逊商城交易保障索赔通知](../../../courses/4e174673-a256-4767-b783-7e015e825e35/zh_CN/transcript.md) · [同主题下一篇：销售操纵与竞争对手滥用行为](../../../courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/zh_CN/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Manage Your Experiments: set up a test for listing content
 
 Welcome to our training, "Manage Your Experiments, Set Up a Test for Listing Content." In this second video of the "Manage Your Experiments" series, you'll get step-by-step instructions for setting up a test in the M-Y-E tool. If you haven't watched our first video on planning an M-Y-E test, we recommend viewing it before you continue with this second training. We also recommend watching our third video to learn how to interpret the results of an experiment.
@@ -76,3 +78,9 @@ Welcome to our training, "Manage Your Experiments, Set Up a Test for Listing Con
  This concludes our training on setting up an MYE test. We encourage you to watch the next video
  in this series, which explains how to interpret MYE results. Thank you and happy selling in the
  Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Manage Your Experiments: plan a test of your listing content](../../../courses/16da6b21-dffe-4e57-b001-237ff67ed988/en_US/transcript.md) · [Next in topic：Master AI tools for Amazon listings: Quick optimization guide](../../../courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/transcript.md)

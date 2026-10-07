@@ -1,6 +1,8 @@
-# Brand Analytics: Search Query Performance report
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：品牌分析：搜索查询绩效报告
+
+# Brand Analytics: Search Query Performance report
 
 欢迎参加我们关于品牌分析搜索词表现报告的培训。
 在亚马逊品牌注册中注册的品牌,可以享受一系列额外的销售权益,包括卖家平台中的品牌分析工具。
@@ -210,3 +212,9 @@ Metrics Glossary页面上。
 我们对搜索词表现报告的概述到此结束。
 如果您想了解其他品牌分析报告的分步说明,
 请观看卖家大学中的相应模块系列。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：品牌分析：搜索目录绩效报告](../../../courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/zh_CN/transcript.md) · [同主题下一篇：品牌分析：热门搜索词报告](../../../courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/zh_CN/transcript.md)

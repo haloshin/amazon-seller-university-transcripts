@@ -1,6 +1,8 @@
-# Brand Analytics: Demographics report
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+中文导航名：品牌分析：人口统计报告
+
+# Brand Analytics: Demographics report
 
 欢迎参加我们关于品牌分析人口统计数据报告的培训。
 已在亚马逊品牌注册中注册的品牌,可以享受一系列额外的销售权益,包括卖家平台中的品牌分析工具。
@@ -51,3 +53,9 @@
 我们对人口统计数据报告的概述到此结束。
 如果您想了解其他品牌分析报告的分步说明,请观看卖家大学中的相应模块系列。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
+
+[同主题上一篇：B2B Central 概览（英文）](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md) · [同主题下一篇：品牌分析：购物篮分析报告](../../../courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/zh_CN/transcript.md)

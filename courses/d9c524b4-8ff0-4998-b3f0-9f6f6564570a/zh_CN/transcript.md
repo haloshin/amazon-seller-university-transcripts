@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E4%BC%81%E4%B8%9A%E8%B4%AD%E4%B8%8E%E7%BB%8F%E8%90%A5%E5%88%86%E6%9E%90) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：通过 B2B 商机探索商品推荐
+
 # Explore product recommendations with B2B product opportunities
 
 欢迎观看本期视频,探索B2B商品推荐功能。
@@ -36,3 +40,9 @@ B2B销售机会都可帮助您满足企业买家的需求。
 浏览本资源或其他资源。
 以上就是本期探索B2B推荐商品视频的内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：了解亚马逊企业购功能](../../../courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/zh_CN/transcript.md) · [同主题下一篇：生成库存报告](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/zh_CN/transcript.md)

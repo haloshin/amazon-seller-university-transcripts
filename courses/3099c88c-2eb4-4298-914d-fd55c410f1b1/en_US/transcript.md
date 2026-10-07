@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Send your first FBA shipment
 
 Welcome to our Send Your First FBA Shipment Training. We'll help you get started with FBA and learn how to send your first FBA shipment.
@@ -31,3 +33,9 @@ Welcome to our Send Your First FBA Shipment Training. We'll help you get started
  This concludes our Send Your First FBA shipment training.
  You now have the tools to grow your business and get started with FBA.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Send to Amazon: Create a case-pack template](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/en_US/transcript.md) · [Next in topic：Set ASIN-specific handling time](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/en_US/transcript.md)

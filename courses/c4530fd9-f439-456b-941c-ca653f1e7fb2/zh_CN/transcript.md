@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：配送设置自动化（SSA）入门
+
 # Intro to Shipping Settings Automation (SSA)
 
 欢迎参加我们《关于配送设置自动化》也称为SSA的培训。
@@ -47,3 +51,9 @@ Shipping Settings Automation。
 便能为买家提供更快、更准确的配送承诺。
 感谢观看。
 祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Send to Amazon 入门](../../../courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/zh_CN/transcript.md) · [同主题下一篇：FBA 库存页面入门](../../../courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/zh_CN/transcript.md)

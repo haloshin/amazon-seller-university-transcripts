@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Comply with Amazon’s Multiple Account policy
 
 Welcome to our overview of Amazon's multiple accounts policy.
@@ -50,3 +52,9 @@ Welcome to our overview of Amazon's multiple accounts policy.
  policy violation" in Seller University.
  This concludes our training on how to comply with Amazon's multiple accounts policy.
  Thank you and happy selling in the Amazon store!
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Apply to sell a product, category, or brand](../../../courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/en_US/transcript.md) · [Next in topic：Dangerous Goods Awareness](../../../courses/670035e4-6834-46f9-be38-385231351096/en_US/transcript.md)

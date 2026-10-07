@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：在展示型推广中使用浏览再营销
+
 # How to use views remarketing in your Sponsored Display campaigns
 
 让我们了解如何在展示型推广活动中使用浏览重营销来吸引浏览过特定商品详情页的受众,这可以帮助您提升知名度和顾客购买意向,甚至转化错失的销售机会。
@@ -8,3 +12,9 @@
 使用亚马逊广告的建议商品,或者自行搜索您希望对其投放广告的商品。
 设置回溯期以指定浏览的时间段。
 您可以按价格或星级评定等,来细化任意受众。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用品牌推广视频广告形式](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/transcript.md) · [同主题下一篇：商品促销入门](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/transcript.md)

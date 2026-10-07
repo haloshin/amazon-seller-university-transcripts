@@ -1,6 +1,6 @@
-# Apply to sell a product, category, or brand
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
-> 本课附有[阅读说明](校注.md)，涉及原课表述或语言版本差异。
+# Apply to sell a product, category, or brand
 
 Some products, product categories and products from brands enrolled in Amazon
  brand registry require approval before you can list them. Applications help
@@ -56,3 +56,9 @@ Some products, product categories and products from brands enrolled in Amazon
  business days. To check your application status go to view selling applications
  in Seller Central. Once approved click list products to start adding products to
  your inventory.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
+
+[Previous in topic：Address a Restricted Products policy violation](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/en_US/transcript.md) · [Next in topic：Comply with Amazon’s Multiple Account policy](../../../courses/1e699b06-7a02-49f7-a155-4642280a63d0/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Create a Coupon
 
 Welcome to our training on how to set up a coupon.
@@ -52,3 +54,9 @@ Welcome to our training on how to set up a coupon.
  and on the coupon's home page in the Amazon store.
  This concludes our training on how to set up a coupon.
  Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Choose a targeting strategy for your campaign](../../../courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md) · [Next in topic：Create ad ready videos with Video Generator](../../../courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md)

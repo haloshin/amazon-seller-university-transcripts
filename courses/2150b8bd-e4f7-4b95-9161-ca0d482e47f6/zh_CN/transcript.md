@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%93%81%E7%89%8C%E4%B8%8E%E4%B9%B0%E5%AE%B6%E4%BD%93%E9%AA%8C) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：减少商城交易保障索赔与退货的建议
+
 # Tips to reduce A-to-z Guarantee Claims and returns
 
 欢迎观看本期"降低亚马逊商城交易保障索赔和退货频率的一些提示、培训视频。买家可以通过提出亚马逊商城交易保障索赔的方式,要求亚马逊介入"调查卖家在48小时内未能解决的某个订单或商品问题。您可以通过在卖家平台中搜索"亚马逊商城交易保障索赔"
@@ -84,3 +88,9 @@ Check eligibility。
 除此通知外,任何与该索赔相关的讨论都必须在管理SAFE-T 索赔,Manage SAFE-T Claims页面上进行。
 即可开始通过新掌握的工具,帮助自己最大限度地降低索赔和退货频率,并为买家提供卓越的体验。
 感谢观看,祝您销售愉快!
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：申请使用品牌销售权益](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/zh_CN/transcript.md) · [同主题下一篇：跟踪并回复买家评论](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/transcript.md)

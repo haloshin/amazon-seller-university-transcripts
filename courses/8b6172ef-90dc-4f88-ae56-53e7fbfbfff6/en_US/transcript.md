@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Set order-handling capacity
 
 Welcome to our training on how to set a limit on order handling capacity.
@@ -37,3 +39,9 @@ Welcome to our training on how to set a limit on order handling capacity.
  Order handling capacity can help you offer a shorter handling time while still protecting your account health on days when there's a sudden spike in orders.
  And that's good news for sellers and customers alike.
  This concludes our order handling capacity training. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Set one-day default handling time](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/en_US/transcript.md) · [Next in topic：Ship and fulfill using third-party apps](../../../courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/en_US/transcript.md)

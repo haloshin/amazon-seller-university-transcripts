@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
+
 # Manage your Amazon Warehousing and Distribution (AWD) inventory
 
 (upbeat music)
@@ -28,3 +30,9 @@
  More detailed information and instructions
  on how to navigate the dashboard can be found
  on the AWD Inventory Help page.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Local Selling: Using the Tech App - Room of Choice Delivery (Video)](../../../courses/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/en_US/transcript.md) · [Next in topic：Move your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/b8348fcf-9c79-422d-a88c-feac58b9abc3/en_US/transcript.md)

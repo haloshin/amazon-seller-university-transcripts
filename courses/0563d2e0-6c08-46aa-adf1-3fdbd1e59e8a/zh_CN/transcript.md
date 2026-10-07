@@ -1,3 +1,7 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%95%86%E5%93%81%E5%8F%91%E5%B8%83%E4%B8%8E%E5%AE%9A%E4%BB%B7) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+中文导航名：修复不可售或被禁止显示的商品信息
+
 # Fix inactive or suppressed listings
 
 欢迎参加修复不可售或禁止显示的商品信息培训,卖家平台中的修复商品Fix Your Product 页面,可帮助您查看和解决,导致您的商品信息在买家搜索结果中处于不可售或禁止显示状态的问题。
@@ -28,3 +32,9 @@
 以帮助确保买家能够找到并购买您的商品。
 以上就是如何修复卖家平台中不可售或禁止显示的商品信息的视频的全部内容。
 感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：推荐报价资格与策略](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/transcript.md) · [同主题下一篇：使用 Amazon AI Studio 生成商品图片（英文）](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Shipping Settings Automation (SSA)
 
 Welcome to our training on shipping settings automation, also known as SSA. Customers like purchasing products with quick delivery times. If you fulfill your own orders, offering accurate delivery promises can be difficult. To achieve this, you'll have to estimate how long carriers take to deliver to different regions by keeping track of each carrier's delivery performance. When customers shop in the Amazon store, they see the delivery promise you set. On average,
@@ -33,3 +35,9 @@ Welcome to our training on shipping settings automation, also known as SSA. Cust
  SSA, search for Shipping Settings Automation in Seller Central. This concludes our SSA training.
  You now have the tools to enable SSA on your shipping templates and to provide quicker,
  more accurate delivery promises for customers. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Send to Amazon](../../../courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/en_US/transcript.md) · [Next in topic：Intro to the FBA Inventory page](../../../courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/en_US/transcript.md)

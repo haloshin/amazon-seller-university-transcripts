@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
 # Intro to Anti-Counterfeit Policy compliance
 
 Welcome to our training on Amazon anti-counterfeiting policy compliance. The tips we'll share in this video don't take the place of legal advice. So, remember to consult a lawyer. If you have any specific anti-counterfeiting or intellectual property questions, when you list products in the Amazon store, you'll need to comply with all applicable laws and Amazon policies. One of these policies is the Amazon anti-counterfeiting policy.
@@ -13,3 +15,9 @@ Welcome to our training on Amazon anti-counterfeiting policy compliance. The tip
  And their selling account may be either suspended or deactivated. When you and other sellers comply with the anti-counterfeiting policy, you help ensure customers can trust the products they buy in the Amazon store.
  To review the Amazon anti-counterfeiting policy, search for anti-counterfeiting policy in Seller Central.
  This concludes our training on how to comply with the Amazon anti-counterfeiting policy. Thank you and happy selling in the Amazon store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Information about Li-Batt 38.3](../../../courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/en_US/transcript.md) · [Next in topic：Intro to product restrictions, categories, and conditions](../../../courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/transcript.md)

@@ -1,3 +1,5 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md)
+
 # Must-Do Steps for a New Amazon Seller
 
 I'm Lizz and I'm the CEO and Founder of PO' UP! Card Game, Party Game Celebrating Black Experiences from College to the Workplace.
@@ -14,3 +16,9 @@ I'm Lizz and I'm the CEO and Founder of PO' UP! Card Game, Party Game Celebratin
  When orders come in on Amazon, Amazon's warehouse will ship those orders out directly to your customer.
  For me specifically, I recommend starting small and testing out how much product you are able to sell on Amazon before you increase the amount of inventory that you ship to Amazon's warehouse.
  Those are my initial tips for getting ready to sell on Amazon and opting into fulfillment by Amazon, also known as Amazon's FBA program.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Seller University](../../../courses/71df97e1-a698-4e73-a357-ae7903433914/en_US/transcript.md) · [Next in topic：Payments Dashboard overview](../../../courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/en_US/transcript.md)
