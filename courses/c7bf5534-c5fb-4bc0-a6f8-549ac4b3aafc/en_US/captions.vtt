@@ -1,0 +1,688 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.217
+Professional sellers can add products to their Amazon inventory in bulk by uploading a spreadsheet
+
+00:00:08.217 --> 00:00:09.860
+or inventory file.
+
+00:00:10.720 --> 00:00:16.951
+Creating an inventory file takes time, but it can also save time later when you want to add or edit
+
+00:00:16.951 --> 00:00:18.820
+a large number of product listings.
+
+00:00:19.800 --> 00:00:25.800
+Alternatively, Amazon can also generate a template based on the product type that you select.
+
+00:00:26.360 --> 00:00:32.055
+Every product type has attributes that are specific and related to the product type, so it's important
+
+00:00:32.055 --> 00:00:34.400
+to choose the right one when listing.
+
+00:00:35.320 --> 00:00:40.964
+Use them to match your offers to existing listings or to create product detail pages and listings
+
+00:00:40.964 --> 00:00:41.960
+for new products.
+
+00:00:42.620 --> 00:00:49.446
+Remember that you must be a product's brand owner or a brand qualified seller to create a new detail
+
+00:00:49.446 --> 00:00:52.320
+page for an Amazon brand registry enrolled product.
+
+00:00:52.720 --> 00:00:56.560
+There are three basic steps in the bulk listing process.
+
+00:00:57.020 --> 00:00:59.500
+One, download a spreadsheet template.
+
+00:01:00.180 --> 00:01:02.300
+Two, add your product information.
+
+00:01:02.960 --> 00:01:05.580
+And three, upload your file to Seller Central.
+
+00:01:06.120 --> 00:01:12.183
+Once you've uploaded an inventory file, you can monitor its status and correct any errors that are
+
+00:01:12.183 --> 00:01:12.540
+identified.
+
+00:01:13.080 --> 00:01:16.040
+Let's start with creating your inventory file.
+
+00:01:16.240 --> 00:01:22.974
+You can access this option from the Seller Central main menu, hover over Catalog, then click Add
+
+00:01:22.974 --> 00:01:23.400
+Products.
+
+00:01:23.760 --> 00:01:26.640
+On the list your products page, click Spreadsheet.
+
+00:01:27.180 --> 00:01:32.704
+Under the Spreadsheet tab, click Download Blank Template and choose the template you need from the
+
+00:01:32.704 --> 00:01:33.740
+pop-up menu.
+
+00:01:34.480 --> 00:01:38.660
+Let's start with matching to products already sold in the Amazon store.
+
+00:01:39.700 --> 00:01:45.260
+Select Get Listing Loader in the list products already in Amazon's Catalog box.
+
+00:01:45.680 --> 00:01:47.560
+A pop-up box will appear.
+
+00:01:48.100 --> 00:01:56.020
+Select the spreadsheet language and add either the products ASIN, UPC, EAN, or GTIN into the box.
+
+00:01:56.640 --> 00:02:01.720
+You can search up to 500 product IDs to generate a pre-filled spreadsheet.
+
+00:02:02.220 --> 00:02:06.700
+Once you've added all the product IDs, select Generate Spreadsheet.
+
+00:02:07.000 --> 00:02:12.280
+To check the status of your file, click on View Previously Generated Templates.
+
+00:02:12.740 --> 00:02:15.560
+Once your file is ready, you'll see a download button.
+
+00:02:16.120 --> 00:02:18.140
+Click on this button to access your spreadsheet.
+
+00:02:18.900 --> 00:02:23.829
+Start by saving the file as a text-tab-delimited file or .
+
+00:02:23.829 --> 00:02:24.240
+txt.
+
+00:02:25.260 --> 00:02:31.240
+Using this file format will help reduce the chances of your file having errors and being rejected.
+
+00:02:31.820 --> 00:02:36.880
+Consider adding a date to the file name to keep a record of your work on your local computer.
+
+00:02:37.840 --> 00:02:41.640
+When you open your inventory file template, you'll see multiple tabs.
+
+00:02:42.320 --> 00:02:45.600
+You'll add product information to the template tab.
+
+00:02:46.380 --> 00:02:49.900
+The Instructions tab provides guidance on filling in the template.
+
+00:02:50.540 --> 00:02:54.340
+The Data Definitions tab explains the meaning of each attribute.
+
+00:02:54.900 --> 00:03:00.300
+And the Valid Values tab provides guidance on the accepted values for each attribute.
+
+00:03:01.420 --> 00:03:05.627
+It's important that you review all the tabs and read through them carefully
+
+00:03:05.627 --> 00:03:08.540
+before you start making changes on the template tab.
+
+00:03:09.320 --> 00:03:13.400
+Select the template tab and fill out all the information for your offer.
+
+00:03:14.120 --> 00:03:17.380
+Anything that has a gray box doesn't need to be filled out.
+
+00:03:17.780 --> 00:03:23.360
+We recommend filling out as many details as possible, but only those with a red box are required.
+
+00:03:23.360 --> 00:03:28.640
+Once you've entered all the information, save your file on your local computer.
+
+00:03:28.640 --> 00:03:32.880
+Later in this training, we walk you through the steps to upload your spreadsheet.
+
+00:03:33.680 --> 00:03:37.760
+Now, let's review how to create new product listings in bulk.
+
+00:03:38.480 --> 00:03:44.011
+Select Download Product Spreadsheet in the list products that are not currently in Amazon's catalog
+
+00:03:44.011 --> 00:03:44.380
+box.
+
+00:03:45.060 --> 00:03:48.600
+First, you'll search and select the product types you want to list.
+
+00:03:49.220 --> 00:03:55.447
+You can use the Search tool, which allows you to identify and select product categories, also called
+
+00:03:55.447 --> 00:03:56.180
+Product Types.
+
+00:03:57.060 --> 00:04:03.060
+The selections you make add relevant product attribute columns to your inventory file template.
+
+00:04:03.940 --> 00:04:10.911
+For example, if you select the product category digital cameras, columns for video capture, resolution,
+
+00:04:10.911 --> 00:04:13.700
+and audio encoding language will appear.
+
+00:04:14.820 --> 00:04:20.520
+If you want to search for product categories, enter your product name or a descriptor in the search
+
+00:04:20.520 --> 00:04:22.420
+bar and press the Search button.
+
+00:04:22.420 --> 00:04:27.620
+For example, you might search for shoes, basketball, or kids' toys.
+
+00:04:28.340 --> 00:04:31.460
+The Search tool will list all related product types.
+
+00:04:32.420 --> 00:04:37.540
+Browse carefully and click the Select button next to the product type that matches your product.
+
+00:04:38.260 --> 00:04:41.940
+Each selection you make will appear to the right of the search results.
+
+00:04:42.580 --> 00:04:46.020
+You can click the X next to a selection to remove a category.
+
+00:04:46.500 --> 00:04:52.420
+You can also select Browse via product category to manually browse the different product categories.
+
+00:04:53.300 --> 00:04:57.300
+Locate the overarching category for a product from the list.
+
+00:04:57.300 --> 00:05:00.820
+Then select each subcategory to narrow the results.
+
+00:05:00.820 --> 00:05:07.220
+For example, you might select Clothing Shoes and Jewelry, then Men, Watches, and Watch Bands.
+
+00:05:07.780 --> 00:05:13.273
+Click the Select button next to the subcategory that matches your product, which will add it to
+
+00:05:13.273 --> 00:05:15.140
+the list below for your file template.
+
+00:05:15.780 --> 00:05:19.860
+You might see a Lock and Request Approval button next to some product types.
+
+00:05:20.580 --> 00:05:26.260
+That means you need to obtain approval from Amazon before listing products in that category.
+
+00:05:27.140 --> 00:05:32.100
+Click the Request Approval button, which will take you to our Categories and Products Requiring
+
+00:05:32.100 --> 00:05:35.300
+Approval Help page for step-by-step instructions.
+
+00:05:36.100 --> 00:05:41.357
+After selecting the product categories you want added to your spreadsheet, you'll select the stores
+
+00:05:41.357 --> 00:05:43.460
+where you want to create offers.
+
+00:05:44.100 --> 00:05:48.820
+When you're done, click Generate Spreadsheet to download your inventory file template.
+
+00:05:49.620 --> 00:05:53.540
+Once you've created your template, you'll add your product information.
+
+00:05:54.180 --> 00:05:58.980
+Start by saving the template as a text, tab-delimited file or .
+
+00:05:58.980 --> 00:05:59.380
+txt.
+
+00:06:00.660 --> 00:06:04.500
+Be sure to add a date to the file name to keep a record of your work.
+
+00:06:04.500 --> 00:06:08.980
+You'll want to use the most recently downloaded version of the template for product types.
+
+00:06:10.020 --> 00:06:16.180
+Amazon frequently updates templates and old versions may be incompatible and could result in errors.
+
+00:06:17.060 --> 00:06:21.460
+Be sure to enable editing on the spreadsheet before making any revisions.
+
+00:06:21.460 --> 00:06:25.060
+If you don't enable this feature, you won't be able to save your changes.
+
+00:06:25.700 --> 00:06:29.540
+When you open your spreadsheet, you'll see multiple tabs.
+
+00:06:29.540 --> 00:06:32.740
+You'll add product information to the template tab.
+
+00:06:32.740 --> 00:06:41.740
+The instructions, images, example, data definitions, browse data and valid values tabs provide information
+
+00:06:41.740 --> 00:06:42.740
+and guidance.
+
+00:06:43.540 --> 00:06:49.780
+Start by reviewing the Instructions tab, which explains in detail how to use the template.
+
+00:06:49.780 --> 00:06:55.380
+It's worth reading this all the way through, especially the first time you create an inventory file.
+
+00:06:56.020 --> 00:07:00.020
+The Images tab outlines Amazon's image requirements.
+
+00:07:00.020 --> 00:07:04.233
+If you're including images for a new product or if you're recommending
+
+00:07:04.233 --> 00:07:08.580
+updated images for an existing product, review this tab for important guidance.
+
+00:07:09.380 --> 00:07:13.780
+The Example tab provides several sample product rows for your reference.
+
+00:07:14.420 --> 00:07:19.700
+Take a look if you'd like to see in detail how your inventory file should look when it's completed.
+
+00:07:20.500 --> 00:07:25.620
+The Data Definitions tab defines each attribute within your inventory file.
+
+00:07:25.620 --> 00:07:30.420
+If you're unsure how to complete an attribute column or whether it's required,
+
+00:07:30.420 --> 00:07:37.420
+refer to this tab for definitions and use, accepted values, an example of each attribute, as well
+
+00:07:37.420 --> 00:07:39.460
+as the required or optional indicator.
+
+00:07:40.020 --> 00:07:45.540
+The Browse Data tab shows how your products will be found by customers browsing the Amazon store.
+
+00:07:46.340 --> 00:07:52.415
+Finally, the Valid Values tab provides a list of acceptable terms for certain product attribute
+
+00:07:52.415 --> 00:07:52.820
+columns.
+
+00:07:53.380 --> 00:07:59.215
+If you're unsure about an entry for a specific attribute, consult this table and select a value
+
+00:07:59.215 --> 00:08:01.860
+that appears in a corresponding row and column.
+
+00:08:02.980 --> 00:08:07.380
+Back on the Template tab, each row represents a single product.
+
+00:08:07.380 --> 00:08:14.291
+Use one row to match your offer to an existing listing or to create a product detail page and offer
+
+00:08:14.291 --> 00:08:15.620
+for a new product.
+
+00:08:16.660 --> 00:08:19.700
+Each column represents a single product attribute.
+
+00:08:20.340 --> 00:08:25.780
+There are hidden columns in the spreadsheet that can be unhidden by either clicking the "2" button
+
+00:08:25.780 --> 00:08:32.468
+in the top left corner to unhide all columns or by clicking the plus button to unhide all columns
+
+00:08:32.468 --> 00:08:32.820
+individually.
+
+00:08:33.620 --> 00:08:38.740
+Start entering a product's information using the drop-down in column A for product type.
+
+00:08:39.540 --> 00:08:44.527
+Once you've made your selection, all the other required entries for the row will be outlined in
+
+00:08:44.527 --> 00:08:44.820
+red.
+
+00:08:45.460 --> 00:08:50.980
+If your template includes more than one product type, show multiple all entries for other product
+
+00:08:50.980 --> 00:08:54.980
+categories will be grayed out to indicate that they shouldn't be completed.
+
+00:08:55.700 --> 00:09:00.580
+You'll type many entries manually, but some will have a drop-down like column A.
+
+00:09:01.300 --> 00:09:06.660
+Make sure you don't edit any information in the first three rows highlighted in various colors.
+
+00:09:07.380 --> 00:09:10.020
+Doing so will cause errors during upload.
+
+00:09:10.820 --> 00:09:17.454
+Fill in each required entry in red which will include the seller SKU, your stock keeping unit or
+
+00:09:17.454 --> 00:09:24.884
+personal seller identifier, and the external product ID, which will be the ASIN or a GTIN, like
+
+00:09:24.884 --> 00:09:27.540
+a UPC, ISBN, EAN, or JAN.
+
+00:09:28.180 --> 00:09:33.860
+The Record Action column is an important field in the spreadsheet because it will dictate whether
+
+00:09:33.860 --> 00:09:37.780
+you're making a change to every attribute or just some attributes.
+
+00:09:38.580 --> 00:09:45.007
+In some templates, the column is titled Record Action and in other templates, the column is titled
+
+00:09:45.007 --> 00:09:45.780
+Update Delete.
+
+00:09:46.740 --> 00:09:49.780
+This column is used to make changes to all ASINs.
+
+00:09:50.340 --> 00:09:55.220
+The Partial Update column is used to update only specific attributes that have been entered.
+
+00:09:58.180 --> 00:10:04.047
+Your price is also a required field, even if it's zero for a business-only offer or an item that
+
+00:10:04.047 --> 00:10:05.220
+is out of stock.
+
+00:10:05.940 --> 00:10:11.140
+Next, fill in any unoutlined entries for optional attributes that you want to complete.
+
+00:10:12.580 --> 00:10:19.229
+After the required columns in red, you'll find Variation column, an Image column, and a choice to
+
+00:10:19.229 --> 00:10:22.100
+choose either parent or child under Variation.
+
+00:10:22.740 --> 00:10:28.153
+For example, let's say you want to sell a women's shirt that comes in two different sizes, small
+
+00:10:28.153 --> 00:10:28.900
+and large.
+
+00:10:29.620 --> 00:10:32.740
+Maybe it also comes in two colors, yellow and blue.
+
+00:10:33.300 --> 00:10:36.180
+You'll want to start adding information with the parent item.
+
+00:10:36.900 --> 00:10:43.645
+The parent is a non-buyable, non-physical product and is only used to drive product searches and
+
+00:10:43.645 --> 00:10:45.380
+relate buyable child products.
+
+00:10:46.020 --> 00:10:50.900
+This means you only need to complete required columns for the parent items that fulfill these functions.
+
+00:10:51.620 --> 00:10:57.380
+In this example, outer material type is also required due to the product category.
+
+00:10:58.100 --> 00:11:06.900
+These will always include the seller SKU, brand, product ID, product type, title, item type, main
+
+00:11:06.900 --> 00:11:07.700
+image URL.
+
+00:11:09.220 --> 00:11:14.740
+For the child products, you'll need to complete all required attribute columns as you would for
+
+00:11:14.740 --> 00:11:15.940
+any other buyable product.
+
+00:11:17.060 --> 00:11:21.140
+Some of these columns will be identical across a set of child products.
+
+00:11:21.860 --> 00:11:27.300
+The entry for brand must be the same for each child SKU to prevent submission errors.
+
+00:11:28.180 --> 00:11:34.460
+Other attribute columns require unique entries for each product variation because they are different
+
+00:11:34.460 --> 00:11:35.860
+for each child item.
+
+00:11:35.860 --> 00:11:38.260
+For example, different sizes or colors.
+
+00:11:40.580 --> 00:11:46.660
+These always include the seller SKU, title which should include variation information like size
+
+00:11:46.660 --> 00:11:48.660
+and color, and product ID.
+
+00:11:49.700 --> 00:11:55.960
+Your varying attributes, your price and main image URL could be the same or different according
+
+00:11:55.960 --> 00:11:58.340
+to the properties of each child product.
+
+00:11:58.900 --> 00:12:04.150
+After entering the required information for your parent and child products, you'll need to enter
+
+00:12:04.150 --> 00:12:09.620
+four additional attributes in your spreadsheet to establish the parent child relationship.
+
+00:12:10.260 --> 00:12:13.620
+This information links your listings in the Amazon store.
+
+00:12:14.420 --> 00:12:17.460
+Get started by scrolling over to the variation column.
+
+00:12:18.020 --> 00:12:23.932
+In this column, choose parent for your parent item and child for each child item using the drop
+
+00:12:23.932 --> 00:12:24.260
+down.
+
+00:12:24.900 --> 00:12:30.820
+Copy the parent SKU from column B into the variation section in the column parent SKU.
+
+00:12:32.100 --> 00:12:34.180
+Leave this column blank for the parent item.
+
+00:12:34.900 --> 00:12:40.260
+You'll also find columns related to the discovery of products in the Amazon store in green.
+
+00:12:41.060 --> 00:12:44.980
+Light green product enrichment columns for extra product information.
+
+00:12:45.700 --> 00:12:50.260
+Yellow dimensions columns and red fulfillment columns for shipping information.
+
+00:12:50.900 --> 00:12:57.264
+At the end of the spreadsheet, you'll find purple compliance columns, pink and burgundy offer columns
+
+00:12:57.264 --> 00:12:59.620
+for pricing and other listing information.
+
+00:13:00.180 --> 00:13:05.620
+And Jade B2B columns for sellers listing product for Amazon business customers.
+
+00:13:06.260 --> 00:13:11.460
+You'll want to leave column quantity US as zero until you're ready to launch.
+
+00:13:11.460 --> 00:13:14.660
+This way your product won't go live before you're ready to list.
+
+00:13:15.540 --> 00:13:18.500
+You'll also find variation options in teal.
+
+00:13:19.300 --> 00:13:22.500
+Some sellers fill out every attribute column.
+
+00:13:22.500 --> 00:13:24.740
+Some fill out only required columns.
+
+00:13:25.460 --> 00:13:31.540
+In general, the more data you provide, the more information and options customers have while making
+
+00:13:31.540 --> 00:13:32.420
+purchasing decisions.
+
+00:13:33.060 --> 00:13:38.340
+Remember that once you've completed a row for a product, you can keep a saved copy of your file
+
+00:13:38.340 --> 00:13:42.580
+to make quick and easy edits to your product and listing information later.
+
+00:13:43.220 --> 00:13:47.700
+However, it's not recommended to use templates that are more than 90 days old.
+
+00:13:48.420 --> 00:13:52.580
+Instead, download the latest templates to avoid submission errors.
+
+00:13:53.140 --> 00:13:58.660
+When you finish adding products to your inventory file template, make sure you save your changes
+
+00:13:58.660 --> 00:14:00.420
+and keep a copy for your records.
+
+00:14:00.980 --> 00:14:05.620
+Then you're ready for the third and final step, uploading your file to Seller Central.
+
+00:14:05.620 --> 00:14:09.460
+Under the spreadsheet tab, select upload file.
+
+00:14:10.020 --> 00:14:14.900
+Drag and drop your file or click browse files to search for and select your file.
+
+00:14:15.620 --> 00:14:19.780
+Once your file is validated, the submit products button will activate.
+
+00:14:19.780 --> 00:14:25.609
+If your file type isn't recognized, a drop-down will appear instead and you'll be able to select
+
+00:14:25.609 --> 00:14:26.580
+your file type.
+
+00:14:27.140 --> 00:14:32.928
+Before uploading, you can select receive email notifications about this feed if you'd like to be
+
+00:14:32.928 --> 00:14:35.460
+notified when your file is done processing.
+
+00:14:36.100 --> 00:14:38.820
+When you're ready, click the submit products button.
+
+00:14:38.820 --> 00:14:43.620
+If you're only uploading information for a few products, it will take a few minutes to process.
+
+00:14:44.420 --> 00:14:46.740
+Larger uploads can take several hours.
+
+00:14:47.460 --> 00:14:52.980
+Your inventory will be available for purchase in the Amazon store once the upload is complete.
+
+00:14:52.980 --> 00:14:58.500
+You can check the status of an upload by clicking check upload status under the spreadsheet tab,
+
+00:14:58.500 --> 00:15:06.028
+which lists the date, time, batch ID, status and a link to the processing report for your most recent
+
+00:15:06.028 --> 00:15:06.820
+completed uploads.
+
+00:15:07.700 --> 00:15:10.580
+Check your processing report to address any errors.
+
+00:15:11.140 --> 00:15:16.740
+You'll use this process to match offers to existing listings and you'll use it to create product
+
+00:15:16.740 --> 00:15:18.820
+detail pages and listings for new products.
+
+00:15:19.860 --> 00:15:24.340
+You can use a single inventory file to both match and create listings.
+
+00:15:25.140 --> 00:15:32.180
+If your file includes a product ID or GTIN for an item and a matching ID exists in the Amazon store,
+
+00:15:32.180 --> 00:15:36.180
+we'll match your offer to the existing product detail page.
+
+00:15:36.180 --> 00:15:41.502
+We'll also attempt to match a product by manufacturer or other information if you don't include
+
+00:15:41.502 --> 00:15:42.500
+a product ID.
+
+00:15:43.140 --> 00:15:49.003
+If we can't match a product to an existing product in the Amazon store, we'll create a new product
+
+00:15:49.003 --> 00:15:49.620
+detail page.
+
+00:15:50.260 --> 00:15:56.340
+After adding product listings to your inventory, you can use the same process to make edits to listings
+
+00:15:56.340 --> 00:15:59.620
+or to suggest changes to product detail pages in bulk.
+
+00:16:00.740 --> 00:16:06.165
+Start by going back to your saved inventory file and for faster processing, remove any products
+
+00:16:06.165 --> 00:16:09.300
+you don't want to adjust, then save the new copy.
+
+00:16:09.860 --> 00:16:15.988
+If you just want to edit an offer, update your price, quantity, business price, or any other offer-
+
+00:16:15.988 --> 00:16:21.140
+related information in your inventory file, you can leave all other entries the same.
+
+00:16:21.860 --> 00:16:27.220
+Note that if you delete an offer-related entry, it will register as a zero on Seller Central.
+
+00:16:27.780 --> 00:16:32.820
+For example, deleting a price for a product will set the price at $0.
+
+00:16:32.820 --> 00:16:38.793
+If you're a qualified seller and want to suggest changes to your product detail page, make the suggested
+
+00:16:38.793 --> 00:16:41.300
+updates in the relevant attribute column.
+
+00:16:41.300 --> 00:16:45.460
+After making edits to your inventory file, you can upload it normally.
+
+00:16:46.020 --> 00:16:49.300
+You'll see the offer updates within 15 minutes of your upload.
+
+00:16:49.300 --> 00:16:55.380
+We'll also review suggested product changes and make any updates within 24 hours.
+
+00:16:55.940 --> 00:17:01.924
+If for any reason you want to replace your entire inventory in the Amazon Store, there is also an
+
+00:17:01.924 --> 00:17:05.620
+option under the spreadsheet tab to purge and replace your inventory.
+
+00:17:06.260 --> 00:17:11.380
+You'll click the link to select this option, then upload your inventory file normally.
+
+00:17:11.940 --> 00:17:17.492
+Keep in mind that this will delete all your current listings in the Amazon Store, including any
+
+00:17:17.492 --> 00:17:20.180
+products not in the file you're currently uploading.
+
+00:17:20.740 --> 00:17:25.860
+It will replace your entire inventory with the products in your new file only.
+
+00:17:26.900 --> 00:17:32.676
+Matching and creating product listings in bulk might seem daunting at first, but the extra effort
+
+00:17:32.676 --> 00:17:36.020
+can save you time, energy, and effort in the long run.
+
+00:17:36.900 --> 00:17:40.340
+Thank you and happy selling in the Amazon store.

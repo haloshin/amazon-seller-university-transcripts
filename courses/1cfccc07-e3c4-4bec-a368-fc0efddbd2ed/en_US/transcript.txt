@@ -1,0 +1,27 @@
+As a new seller, you'll need to provide tax information
+ to begin selling on Amazon.
+ Amazon uses this information to generate required tax forms
+ for your region and make accurate tax calculations
+ on your fees and transactions.
+ Without proper documentation,
+ you may face trouble in receiving your payments.
+ To get started, take the self-service tax interview
+ if you haven't already.
+ You can find it by going to Settings, clicking Account Info,
+ and selecting Tax Information and Tax Information.
+ In this form, you'll verify your identity
+ and whether you're operating as an individual or business.
+ You'll also provide residency and citizenship information
+ along with tax identity details.
+ If you're unsure about any form field,
+ click the Learn link or the information icon
+ for specific guidance.
+ Double-check all your inputs as misspellings
+ or incorrect numbers may cause the validation
+ of your form to fail.
+ As your business grows, keep your tax information updated
+ on Seller Central.
+ Remember, your VAT GST sales taxes are determined
+ by your location and the Amazon Product Tax Code
+ of your product category.
+ Take time now to verify your tax information is up to date.

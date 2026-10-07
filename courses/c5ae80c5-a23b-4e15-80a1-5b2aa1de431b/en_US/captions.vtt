@@ -1,0 +1,238 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.880
+Welcome to our training on the Brand Analytics Search Catalog Performance Report.
+
+00:00:05.560 --> 00:00:11.221
+Brands enrolled in Amazon Brand Registry enjoy access to a suite of additional selling benefits,
+
+00:00:11.221 --> 00:00:14.240
+including the Brand Analytics tool in Seller Central.
+
+00:00:14.240 --> 00:00:20.901
+In this video, we'll review the features and functionality of one of the reports you'll find in
+
+00:00:20.901 --> 00:00:21.685
+Brand Analytics,
+
+00:00:21.685 --> 00:00:22.860
+Search Catalog Performance.
+
+00:00:23.440 --> 00:00:28.642
+This report provides brands with insights into the ways customers interact with their products
+
+00:00:28.642 --> 00:00:30.500
+after searching the Amazon store.
+
+00:00:31.140 --> 00:00:35.220
+It can help them identify customer drop-off points for their products,
+
+00:00:35.220 --> 00:00:37.940
+or find gaps in discoverability and sales conversion.
+
+00:00:38.380 --> 00:00:43.769
+You can access the Search Catalog Performance Report and others in the Brand Analytics tool
+
+00:00:43.769 --> 00:00:48.080
+if you're a seller internal to a brand enrolled in Brand Registry.
+
+00:00:48.800 --> 00:00:54.490
+Simply select Brands in the main menu in Seller Central, then click Brand Analytics,
+
+00:00:54.490 --> 00:00:58.960
+or click All Brand Benefits, then locate the Brand Analytics card.
+
+00:00:59.660 --> 00:01:04.496
+For more information about accessing Brand Analytics and other Brand Registry tools,
+
+00:01:04.496 --> 00:01:10.540
+see our modules in Seller University about requesting or managing access to brand selling benefits.
+
+00:01:11.000 --> 00:01:15.278
+After accessing the Brand Analytics tool, you can select Search Catalog Performance
+
+00:01:15.278 --> 00:01:19.200
+from the list of reports at the top of the screen.
+
+00:01:19.640 --> 00:01:22.320
+The report lists your brand's products by title.
+
+00:01:22.780 --> 00:01:26.120
+In the second column, you'll see Product ASINs and Categories.
+
+00:01:26.900 --> 00:01:31.380
+Then you'll see a sequence of metrics that represents customer activity throughout the shopping
+
+00:01:31.380 --> 00:01:31.700
+funnel.
+
+00:01:32.540 --> 00:01:37.155
+Impressions is the number of times a product appeared on Search Results pages
+
+00:01:37.155 --> 00:01:39.640
+and includes both organic and sponsored products.
+
+00:01:39.640 --> 00:01:42.944
+This number doesn't include product appearances in widgets,
+
+00:01:42.944 --> 00:01:46.660
+like those for highly rated products or new arrivals.
+
+00:01:47.300 --> 00:01:50.980
+Next to Impressions, you'll see the median price the product appeared with.
+
+00:01:51.540 --> 00:01:57.286
+For example, a pair of sunglasses that are a part of your brand appeared on Search Results pages
+
+00:01:57.286 --> 00:01:59.840
+100 times with a median price of $50.
+
+00:02:00.800 --> 00:02:06.160
+Clicks is the number of times customers clicked a product after it appeared on Search Results pages.
+
+00:02:06.960 --> 00:02:11.814
+Next to clicks, you'll see the click rate for the product, which is the percentage of time it was
+
+00:02:11.814 --> 00:02:12.580
+clicked by customers.
+
+00:02:13.300 --> 00:02:18.199
+For example, if your sunglasses were clicked 50 times after having 100 impressions,
+
+00:02:18.199 --> 00:02:20.460
+their click rate would be 50%.
+
+00:02:20.460 --> 00:02:26.812
+Cart Adds is the number of times customers searched, clicked, then used the Add to Cart button on
+
+00:02:26.812 --> 00:02:28.224
+the product's Detail page
+
+00:02:28.224 --> 00:02:31.400
+to put it in their cart for purchase later.
+
+00:02:32.120 --> 00:02:38.120
+For example, after receiving 50 clicks, your sunglasses might have 25 cart adds.
+
+00:02:38.120 --> 00:02:42.720
+Purchases is the number of times that customers searched, clicked, then ordered the product.
+
+00:02:43.540 --> 00:02:48.260
+This metric includes your sales as well as the sales of other sellers who list the product.
+
+00:02:49.040 --> 00:02:54.505
+Next to the number of purchases, you'll see the amount in associated sales as well as the conversion
+
+00:02:54.505 --> 00:02:55.720
+rate for the product,
+
+00:02:56.080 --> 00:02:59.860
+which is the percentage of time it was purchased after being clicked by customers.
+
+00:03:00.120 --> 00:03:06.700
+For example, maybe 10 pairs of your sunglasses were purchased by customers for a total of $525.
+
+00:03:07.620 --> 00:03:14.151
+The conversion rate in this scenario would be 20%, because 10 pairs were purchased after the product
+
+00:03:14.151 --> 00:03:16.840
+received 50 clicks on Search Results pages.
+
+00:03:17.340 --> 00:03:23.735
+Note that the metrics in the Search Catalog Performance Report are specific to Search and may not
+
+00:03:23.735 --> 00:03:27.120
+match metrics available in other Amazon reports and dashboards.
+
+00:03:27.460 --> 00:03:32.720
+That's because every report and dashboard defines and presents customer activity differently.
+
+00:03:33.520 --> 00:03:38.607
+When you first access the Search Catalog Performance Report, it'll be defaulted to show products
+
+00:03:38.607 --> 00:03:41.320
+across all your brands for the previous week.
+
+00:03:42.040 --> 00:03:46.520
+You can use the drop-down menus at the top to view a specific time period.
+
+00:03:47.320 --> 00:03:53.280
+When doing so, keep in mind that data is generally available in brand analytics within 72 hours.
+
+00:03:53.880 --> 00:03:58.320
+After selecting a time period, click the Apply button to refresh the report.
+
+00:03:59.100 --> 00:04:04.160
+You can also use filters to narrow the report for a specific brand or collection of products.
+
+00:04:04.940 --> 00:04:11.736
+Click Show Filters and use the drop-down menu to select a brand, or enter up to 100 ASINs in the
+
+00:04:11.736 --> 00:04:14.680
+search bar separated by either a space or comma.
+
+00:04:15.220 --> 00:04:18.440
+Then click the Refine Results button to refresh the report.
+
+00:04:18.440 --> 00:04:24.404
+If you'd like to add or remove columns on the Search Catalog Performance Report, click Customize
+
+00:04:24.404 --> 00:04:26.640
+Columns on the right-hand side.
+
+00:04:27.000 --> 00:04:29.400
+Then check or uncheck boxes in the pop-up.
+
+00:04:30.000 --> 00:04:32.860
+Click the Save button to return to the updated report.
+
+00:04:33.580 --> 00:04:37.260
+To download a copy of the report, click the Generate Download button.
+
+00:04:37.660 --> 00:04:44.251
+Then in the pop-up, select either Simple View to download the report you see on screen or select
+
+00:04:44.251 --> 00:04:47.720
+Comprehensive View to download the report with all relevant columns.
+
+00:04:48.680 --> 00:04:53.693
+Click the Generate Download button to start your download, which you can monitor by accessing the
+
+00:04:53.693 --> 00:04:54.320
+Download Manager.
+
+00:04:54.880 --> 00:05:00.988
+Finally, if you want more information about how a specific metric is calculated, click Metrics Glossary
+
+00:05:00.988 --> 00:05:03.660
+to see a set of comprehensive definitions.
+
+00:05:04.540 --> 00:05:09.600
+On the Metrics Glossary page, you can expand each section to see additional details.
+
+00:05:10.500 --> 00:05:15.773
+We encourage brands to use all the features and functionality of the Search Catalog Performance
+
+00:05:15.773 --> 00:05:19.640
+Report to gain insights into their performance in the Amazon Store.
+
+00:05:20.020 --> 00:05:25.620
+Use drop-off points at the click stage to decide which product detail pages might need updating,
+
+00:05:26.060 --> 00:05:31.895
+or use other metrics to develop advertising strategies that can help drive more traffic to your
+
+00:05:31.895 --> 00:05:32.260
+products.
+
+00:05:32.960 --> 00:05:36.500
+This concludes our overview of the Search Catalog Performance Report.
+
+00:05:37.040 --> 00:05:43.364
+If you'd like step-by-step instructions for other brand analytics reports, see our series of modules
+
+00:05:43.364 --> 00:05:44.480
+in Seller University.
+
+00:05:45.080 --> 00:05:48.120
+Thank you, and happy selling in the Amazon Store!

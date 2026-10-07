@@ -1,0 +1,280 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.560
+In this video, we will be reviewing how to use the automate pricing file to assign SKUs
+
+00:00:08.560 --> 00:00:13.460
+to a re-pricing rule or stop re-pricing in a bulk upload process.
+
+00:00:13.460 --> 00:00:18.320
+We'll also cover some helpful tips so you can make the most of using the automate pricing
+
+00:00:18.320 --> 00:00:19.320
+file.
+
+00:00:19.320 --> 00:00:21.560
+Let's get started.
+
+00:00:21.560 --> 00:00:26.520
+Automate pricing saves you time and effort by adjusting prices based on the rules that
+
+00:00:26.520 --> 00:00:28.360
+you set.
+
+00:00:28.360 --> 00:00:33.040
+After you've created a pricing rule in the automate pricing tool in Seller Central, you
+
+00:00:33.040 --> 00:00:39.160
+can either assign SKUs to that rule in the tool up to 50 SKUs per time, or use the automate
+
+00:00:39.160 --> 00:00:42.080
+pricing file for bulk uploads.
+
+00:00:42.080 --> 00:00:46.800
+The automate pricing file gives you greater flexibility when managing a large catalog
+
+00:00:46.800 --> 00:00:51.080
+by letting you assign a rule to thousands of SKUs at a time.
+
+00:00:51.080 --> 00:00:56.640
+There are six steps to assigning SKUs to a rule using the automate pricing file.
+
+00:00:56.640 --> 00:01:02.500
+Before we walk you through the process in detail, let's look at an overview of each step.
+
+00:01:02.500 --> 00:01:03.500
+Step 1.
+
+00:01:03.500 --> 00:01:06.800
+Download the automate pricing file.
+
+00:01:06.800 --> 00:01:07.800
+Step 2.
+
+00:01:07.800 --> 00:01:12.320
+Select the SKUs in the country you want to assign to a pricing rule.
+
+00:01:12.320 --> 00:01:13.320
+Step 3.
+
+00:01:13.320 --> 00:01:18.240
+Set a minimum price so your price stays above the minimum price you set.
+
+00:01:18.240 --> 00:01:19.240
+Step 4.
+
+00:01:19.240 --> 00:01:23.400
+Enter the rule you wish to re-price in the rule name column.
+
+00:01:23.400 --> 00:01:27.400
+Step 5.
+
+00:01:27.400 --> 00:01:29.280
+Enter start or stop depending on whether you wish to start re-pricing with a rule or stop
+
+00:01:29.280 --> 00:01:32.880
+re-pricing and remove the SKU from the rule.
+
+00:01:32.880 --> 00:01:35.040
+And finally, step 6.
+
+00:01:35.040 --> 00:01:38.120
+Upload the template into Seller Central.
+
+00:01:38.120 --> 00:01:42.400
+Now that you have the steps, let's walk you through them with some examples.
+
+00:01:42.400 --> 00:01:47.600
+To access the automate pricing file, log in to Seller Central and select automate pricing
+
+00:01:47.600 --> 00:01:50.120
+from the pricing tab.
+
+00:01:50.120 --> 00:01:56.120
+Select edit SKUs on the predefined pricing rule and select manage SKUs via file upload,
+
+00:01:56.120 --> 00:02:00.400
+which will take you to the download center of automate pricing.
+
+00:02:00.400 --> 00:02:03.040
+Select the store of the offers that you want to manage.
+
+00:02:03.040 --> 00:02:09.240
+You can download a blank automate pricing file or a file that has your information pre-filled.
+
+00:02:09.240 --> 00:02:11.640
+We will walk you through both types of files.
+
+00:02:11.640 --> 00:02:17.160
+For now, let's select the blank file and click on download automate pricing file.
+
+00:02:17.160 --> 00:02:21.960
+Once the file downloads, you can review the file instructions, data definitions, and a
+
+00:02:21.960 --> 00:02:24.480
+sample of a completed file.
+
+00:02:24.480 --> 00:02:28.360
+Next, select the SKUs you want to start re-pricing.
+
+00:02:28.360 --> 00:02:31.960
+For our example, we'll enter just three SKUs.
+
+00:02:31.960 --> 00:02:36.480
+For each SKU, you'll need to enter a minimum price to ensure your re-pricing rules don't
+
+00:02:36.480 --> 00:02:40.000
+send your price below the minimum price you want.
+
+00:02:40.000 --> 00:02:45.360
+While optional, you can also enter a maximum price to ensure your price stays below it.
+
+00:02:45.360 --> 00:02:49.960
+If you don't enter a maximum price, automate pricing will protect customer trust on your
+
+00:02:49.960 --> 00:02:55.900
+behalf by ensuring that your offers are not priced significantly higher than recent prices,
+
+00:02:55.900 --> 00:03:00.520
+so that your offers remain eligible to become the featured offer.
+
+00:03:00.520 --> 00:03:04.200
+Then enter the country and currency code where the offer is active.
+
+00:03:04.200 --> 00:03:09.240
+Now, enter the exact name of the re-pricing rule you want to assign.
+
+00:03:09.240 --> 00:03:13.040
+To do this, just copy and paste the name from the automate pricing tool.
+
+00:03:13.040 --> 00:03:17.080
+Finally, enter start or stop in the rule action field.
+
+00:03:17.080 --> 00:03:22.600
+If you select start, the SKU will start re-pricing using the rule you have specified.
+
+00:03:22.600 --> 00:03:26.320
+If you select stop, the SKU will stop re-pricing.
+
+00:03:26.320 --> 00:03:31.200
+If you choose to stop re-pricing, you don't need to enter a rule name, minimum price, maximum
+
+00:03:31.200 --> 00:03:34.960
+price, or currency code.
+
+00:03:34.960 --> 00:03:38.960
+Download a pre-populated file to save the time and effort needed to enter the required
+
+00:03:38.960 --> 00:03:41.320
+information for each SKU.
+
+00:03:41.320 --> 00:03:46.520
+To access the pre-populated automate pricing file, go to the download center of automate
+
+00:03:46.520 --> 00:03:48.080
+pricing.
+
+00:03:48.080 --> 00:03:50.280
+Select the pre-populated file.
+
+00:03:50.280 --> 00:03:54.280
+At this time, you can only filter for the SKUs that are not enrolled in the automate pricing
+
+00:03:54.280 --> 00:03:57.040
+tool sorted by sales rank.
+
+00:03:57.040 --> 00:03:59.240
+Choose the number of SKUs you want to download.
+
+00:03:59.240 --> 00:04:04.800
+The options are 500, 5000, or 15,000 SKUs.
+
+00:04:04.800 --> 00:04:07.560
+Select the request automate pricing file.
+
+00:04:07.560 --> 00:04:11.720
+You can monitor the status of the download in the bottom section.
+
+00:04:11.720 --> 00:04:14.840
+Click on refresh to get the latest status.
+
+00:04:14.840 --> 00:04:18.560
+After the request is complete, click on the download link.
+
+00:04:18.560 --> 00:04:23.840
+The SKU, item name, country, country code, and rule action will already be filled out
+
+00:04:23.840 --> 00:04:25.160
+for you.
+
+00:04:25.160 --> 00:04:29.560
+In addition, if you've already set a minimum and maximum price, those fields will also
+
+00:04:29.560 --> 00:04:31.240
+be filled in.
+
+00:04:31.240 --> 00:04:35.440
+The pre-populated file also contains your current offer price.
+
+00:04:35.440 --> 00:04:40.120
+featured offer price and the lowest price at the time of download, to help you set or update
+
+00:04:40.120 --> 00:04:43.880
+your minimum and maximum prices.
+
+00:04:43.880 --> 00:04:47.400
+Enter the exact name of the re-pricing rule you want to use.
+
+00:04:47.400 --> 00:04:51.480
+You can copy and paste the name from the automate pricing tool.
+
+00:04:51.480 --> 00:04:55.200
+It's a good idea to review your SKUs to make sure that the right SKUs have been assigned
+
+00:04:55.200 --> 00:05:00.400
+to the rules you want, with the correct minimum and maximum prices, optional.
+
+00:05:00.400 --> 00:05:06.480
+If all the information looks good, save your file as a UTF-8 tab delimited text file.
+
+00:05:06.480 --> 00:05:11.560
+For information on saving the file in UTF-8 format, please refer to the instructions tab
+
+00:05:11.560 --> 00:05:14.040
+in the download template.
+
+00:05:14.040 --> 00:05:19.240
+After you have saved the file, using UTF-8 encoding format, go back to the Manage SKUs
+
+00:05:19.240 --> 00:05:22.720
+in bulk via download and upload files screen.
+
+00:05:22.720 --> 00:05:25.000
+Click upload center.
+
+00:05:25.000 --> 00:05:28.200
+Click on choose file to identify and select your file.
+
+00:05:28.200 --> 00:05:31.880
+Then, click on the upload automate pricing file.
+
+00:05:31.880 --> 00:05:36.800
+In the monitor automate pricing file upload status section, you can get the latest status
+
+00:05:36.800 --> 00:05:41.280
+on the processing of your file by clicking on the refresh button.
+
+00:05:41.280 --> 00:05:45.400
+As your SKUs process, they will begin re-pricing.
+
+00:05:45.400 --> 00:05:49.720
+After the file is processed, you can download the processing report to see the result of
+
+00:05:49.720 --> 00:05:51.320
+each SKU.
+
+00:05:51.320 --> 00:05:53.800
+Thanks for watching Automate Pricing in Action!
+
+00:05:53.800 --> 00:05:54.560
+Happy selling!

@@ -1,0 +1,47 @@
+# Sales manipulation and competitor abuse
+
+Welcome to our training, sales manipulation and competitor abuse. In this video, you'll learn
+ what sales manipulation and competitor abuse are, as well as how it occurs. You'll also learn about
+ our seller code of conduct and ways to be responsible with your account when partnering with third-party
+ service providers. Other topics we'll cover include actions taken when policy violations occur,
+ how to reinstate your account or resolve a warning, and best practices to help you avoid
+ committing policy violations. Sales manipulation occurs when sellers hire a third-party service
+ provider or use controlled buyer accounts to place orders or generate search traffic against
+ their own listing. Competitor abuse occurs when a seller uses a controlled buyer account to damage
+ another seller. Buyer accounts can be used to tie up another seller's inventory, place fake reviews
+ or feedback, or send abusive buyer seller messages. The seller code of conduct is a policy that
+ requires all sellers to act fairly and honestly in the Amazon store to ensure a safe buying and
+ selling experience. Some examples of seller code of conduct violations include manipulating any
+ sales by placing orders against your own listings using controlled buyer accounts, compensating
+ customers to purchase your products, and creating a super URL to artificially inflate traffic on a
+ search word or a specific ASIN. You also shouldn't allow other people to act on your behalf in a way
+ that violates Amazon's seller code of conduct policy or your agreement with Amazon. Some other
+ examples include if a third-party you work with violates Amazon policies on your behalf,
+ you'll be held accountable whether the violation was conducted with or without your knowledge.
+ It's your responsibility to ensure the right people have access to your seller central account.
+ Violating the seller code of conduct or any other Amazon policy may result in warnings or
+ actions against your account, such as cancellation of listings, suspension or forfeiture of payments,
+ and removal of selling privileges. Make sure to review our selling policies and seller code of
+ conduct help page for more information. You'll also receive warnings about your policy violations
+ under policy compliance on your account health page. Click policy violation warnings to learn
+ more about a violation. When an account is deactivated, you'll receive an alert on your seller central
+ page and your account health page stating your account has been deactivated. To resolve the warnings
+ on your account, review the warnings on your account health page and then follow the guidance
+ in the next steps column. If we don't receive the requested information, the warning will remain
+ on your account for 180 days from the date when it was first posted. To reinstate your account,
+ click reactivate your account on the main seller central page or click the reactivate your account
+ button in the message box on the account health page. Let's cover some best practices to consider
+ when maintaining your account health dashboard. Make sure to always check the seller central and
+ account health page where you can quickly learn about any enforcements. Check these pages for all
+ stores you operate in. Be careful about working with any third parties that say they want to help
+ you. Get specific details on how they'll help you. You will be responsible for actions they take on
+ your behalf, even if you aren't aware of those actions. Check and read any Amazon emails for
+ important information regarding selling in the Amazon store, our policies, and actions you need
+ to take. Ensure your employees are trained and that you have appropriate account access controls
+ in place. You're responsible for any action conducted through your buyer or seller accounts.
+ In this video, you learned about how sales manipulation and competitor abuse occur,
+ as well as the seller code of conduct and our policy regarding partnerships with third party
+ service providers. We also discussed the actions we take when policy violations occur. The ways
+ to reinstate your account or remove a warning when a policy violation occurs, and the best practices
+ you can take to avoid committing policy violations. This concludes our sales manipulation and competitor
+ abuse training. Thank you and happy selling in the Amazon store.

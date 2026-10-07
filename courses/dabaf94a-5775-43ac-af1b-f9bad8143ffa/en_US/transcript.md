@@ -1,0 +1,88 @@
+# Add business certifications to your profile
+
+(upbeat music)
+ Many customers who shop with Amazon
+ are looking for ways to help them buy from diverse.
+ Small, local, sustainable, and compliant businesses.
+ Some companies who shop with Amazon business
+ have specific spending targets
+ and use Amazon to buy from suppliers
+ that are registered as small or diverse businesses.
+ Business customers can also set buying policies
+ to help them prioritize products from certified sellers.
+ For example, buyers looking for woman-owned
+ or small business suppliers can set up preferences
+ in their accounts to filter and prioritize those products.
+ Customers with buying policies spend millions on products
+ sold by sellers with certifications every year.
+ Customers may want to support entrepreneurs
+ in their communities or align their purchases
+ with their values.
+ Certifications are attached to your business profile,
+ which you can find in B2B Central within Seller Central.
+ A complete business profile can help build trust
+ with customers and show you're a credible professional seller.
+ A detailed profile helps buyers better understand
+ your business, your values, and what makes you unique.
+ Before adding certifications to your profile,
+ understand the difference between credentials
+ and certifications.
+ Amazon automatically grants credentials
+ to eligible sellers based on industry standards
+ and trusted third-party data sources.
+ You don't need to take any action to receive a credential.
+ Certifications require action on your part.
+ You must obtain recognition from government
+ or third-party organizations
+ and upload documentation to Seller Central.
+ Certifications verify you meet specific standards
+ for diversity, quality, or compliance.
+ While both certifications and credentials
+ can increase your visibility, many business customers
+ specifically require certifications
+ to meet their high standards.
+ Amazon recognizes several certification types.
+ Diversity certifications include minority-owned,
+ women-owned, veteran-owned, and LGBT-owned businesses.
+ Small business certifications include
+ registered small business status.
+ Federal certifications include section 889 compliance,
+ which shows your products meet government purchasing requirements.
+ Quality certifications such as ISO 9001,
+ which demonstrate that a seller's products
+ meet specific quality standards
+ that business buyers require.
+ You can add certifications to your profile in two ways,
+ through the certifications page
+ or directly within your business profile.
+ From the certifications and credentials page,
+ you will be able to upload documentation
+ for your certification under the certifications tab.
+ From your business profile,
+ you can access the certifications and credentials page
+ by clicking manage certifications.
+ Whichever method you choose,
+ you'll start by selecting your certification type.
+ Next, select the specific certification
+ you'd like to upload, complete any required fields,
+ and upload any required certification documentation.
+ If you're adding federal certification
+ and you're already registered with SAM.gov,
+ you can use your unique entity identifier,
+ which can be found on your entity registration page
+ within SAM.gov to make the process easier.
+ You can also add this information to your business profile.
+ After submitting your certification,
+ the initial status will show as under review.
+ The Amazon team will complete the review
+ within seven to 10 business days.
+ If accepted, your certification will display as active.
+ If there are any issues,
+ your certification will be set to suspended,
+ and you'll receive an email with next steps.
+ Your uploaded certifications will then be viewable
+ to Amazon customers.
+ For more information or to view a full list of certifications,
+ search for certification in Seller Central
+ and choose certifications or the add a certification help page.
+ (upbeat music)

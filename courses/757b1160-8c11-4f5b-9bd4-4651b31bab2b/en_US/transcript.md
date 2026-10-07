@@ -1,0 +1,71 @@
+# Brand Analytics: Search Query Performance report
+
+Welcome to our training on the Brand Analytics Search Query Performance Report.
+ Brands enrolled in Amazon Brand Registry enjoy access to a suite of additional selling benefits,
+ including the Brand Analytics tool in Seller Central.
+ In this video, we'll review the features and functionality of one of the reports you'll find in Brand Analytics, Search Query Performance.
+ This report shows sellers how customers search for their brand in the Amazon store.
+ It can help them understand the ways customers discover their products,
+ highlighting trends and opportunities to expand their product catalog.
+ You can access the Search Query Performance Report and others in the Brand Analytics tool
+ if you're a seller internal to a brand enrolled in Brand Registry.
+ Simply select Brands in the main menu in Seller Central.
+ Then click Brand Analytics, or click All Brand Benefits, then locate the Brand Analytics card.
+ For more information about accessing Brand Analytics and other Brand Registry tools,
+ see our modules in Seller University about requesting or managing access to brand selling benefits.
+ When you access the Brand Analytics tool, you'll be brought directly to the Search Query Performance Report.
+ You can access additional reports using the tabs at the top of the screen.
+ The Search Query Performance Report lists customer queries associated with your brand's products.
+ The most popular query will have the highest score and appear at the top, with all other queries in descending order below.
+ Up to 1,000 queries are shown.
+ Next to each query, you'll see a sequence of metrics.
+ Search Query Volume is the number of times customers search the Amazon store using a query.
+ For example, maybe customers searched using the phrase "water pitcher" 100 times.
+ Impressions is the number of products that appeared on Search Results pages after a query was used.
+ It includes both organic and sponsored products.
+ You'll see the total count or total number of product impressions, as well as a brand count and brand share for the query.
+ Brand count is the number of product impressions specifically for your brand.
+ Brand share is that same number divided by the total number of impressions for the query.
+ For example, after customers used the query "water pitcher" 100 times, 1,000 products appeared on Search Results pages.
+ If 300 of those impressions were for a water pitcher that is part of your brand, the brand count listed would be 300 and the brand share listed would be 30%.
+ Note that impressions don't include product appearances in widgets like those for highly rated products or new arrivals.
+ Clicks is the number of times customers clicked products that appeared on Search Results pages after a query was used.
+ Like with impressions, you'll see a total count, brand count and brand share for clicks.
+ You'll also see a column for same day shipping speed, which is the number of times products were clicked while the same day shipping option was viewable.
+ For example, if customers clicked various products 50 times after using the query "water pitcher" and 25 of those clicks were for your water pitcher, the brand count listed would be 25 and the brand share listed would be 50%.
+ If you always offered same day shipping for the pitcher while no other seller offered this option, the same day shipping speed would also be 25.
+ Cart adds is the number of times that customers used a query, clicked a product, then used the Add to Cart button on the product's detail page to put it in their cart for purchase later.
+ Like with clicks, we provide a total count, brand count and brand share for cart adds as well as a column for same day shipping speed.
+ We also provide a cart add rate, which is the percentage of time customers clicked the Add to Cart button after viewing a product detail page.
+ For example, after clicking various products 50 times on Search Results pages for the query "water pitcher", customers added various products to their carts 30 times.
+ If 10 of those products were your water pitcher, which was always the only product offered with same day shipping, the brand share listed would be 33.33%.
+ And the same day shipping speed would be 10.
+ If, in addition to the 10 cart adds, 10 other customers viewed your product detail page but didn't add the product to their cart, the cart add rate would be 50%.
+ Finally, purchases is the number of times that customers used a query, clicked a product, then ordered the product.
+ This metric includes your sales as well as the sales of other sellers.
+ We provide a total count, purchase rate, brand count, brand share and same day shipping speed just like for cart adds.
+ For example, after clicking various products 50 times on Search Results pages for the query "water pitcher", customers purchased products 20 times.
+ If 5 of those products were your water pitcher, the brand share listed would be 25%, and the same day shipping speed would be 5.
+ If, in addition to the 5 purchases, 5 other customers viewed your product detail page but didn't purchase the product, the purchase rate would be 50%.
+ Note that the metrics in the Search Query Performance Report are specific to Search and may not match metrics available in other Amazon reports and dashboards.
+ That's because every report and dashboard defines and presents customer activity differently.
+ When you first access the Search Query Performance Report, it'll be defaulted to show all the queries associated with your brand's products used by Amazon customers in the previous week.
+ You can click "ASIN View" at the top of the report to view queries associated with a specific product instead of your entire brand.
+ Use the search bar to find the product, select a specific time period using the drop-down menus, then click the "Apply" button to refresh the report.
+ When selecting a time period, keep in mind that data is generally available in brand analytics within 72 hours.
+ Back on the "Brand View" section of the report, you can use the first drop-down menu to narrow the report to a specific brand.
+ You can also use the other two drop-down menus to view a specific time period.
+ After making selections, click the "Apply" button to refresh the report.
+ If you'd like to add or remove columns on the Search Query Performance Report, click "Customize Columns" on the right-hand side, then check or uncheck boxes in the pop-up.
+ Click the "Save" button to return to the updated report.
+ To download a copy of the report, click the "Generate Download" button.
+ Then in the pop-up, select either "Simple View" to download the report you see on screen or select "Comprehensive View" to download the report with all relevant columns.
+ Click the "Generate Download" button to start your download, which you can monitor by accessing the Download Manager.
+ Finally, if you want more information about how a specific metric is calculated, click "Metrics Glossary" to see a set of comprehensive definitions.
+ On the "Metrics Glossary" page, you can expand each section to see additional details.
+ We encourage brands to use all the features and functionality of the Search Query Performance Report to gain insights into their performance in the Amazon Store.
+ Use it to suggest updates to the keywords associated with your product detail pages or to decide which product detail pages to enhance with A+ content.
+ You can also use the report to identify keywords for sponsored products ads and to spot trends and new product opportunities.
+ This concludes our overview of the Search Query Performance Report.
+ If you'd like step-by-step instructions for other brand analytics reports, see our series of modules in Seller University.
+ Thank you and happy selling in the Amazon Store!

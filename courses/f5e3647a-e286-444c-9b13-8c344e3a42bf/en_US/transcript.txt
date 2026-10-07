@@ -1,0 +1,13 @@
+As of January 1st, 2020, many governments worldwide require manufacturers and subsequent
+ distributors of lithium cells or batteries, and products powered by lithium cells or batteries,
+ to make available a battery testing summary.
+ This battery testing summary requirement is most commonly known as UN38.3, and applies
+ to all lithium batteries and cells manufactured after June 30th, 2003.
+ To be compliant with this standard, all selling partners must provide a test summary for any
+ lithium cells or batteries or products powered by lithium cells or batteries.
+ Test summaries are required to confirm that lithium batteries meet UN38.3 testing requirements.
+ Failure to provide this information can result in regulatory enforcement or other actions.
+ For more information about the UN38.3 test summary requirements and how to upload the
+ test document, please visit Amazon Help pages in Seller Central and Vendor Central.
+ Thank you for partnering with us to maintain a safe, compliant marketplace for lithium
+ cells and batteries.

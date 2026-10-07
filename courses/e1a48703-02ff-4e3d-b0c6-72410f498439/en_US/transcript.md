@@ -1,0 +1,17 @@
+# FBA Pack Lists
+
+[MUSIC]
+ The upload file feature allows you to download a pack list file,
+ fill it out, and then upload it back into
+ Seller Central to provide your box content information.
+ This feature works for any type of shipment.
+ Enter the number of boxes in
+ your shipment and download the Excel-based template.
+ Open the file in a spreadsheet program.
+ For each box, enter the number of units per product,
+ expiration dates if applicable, and the box weight and dimensions.
+ After you're done entering the information, save the file.
+ Upload it back into Seller Central.
+ You do not need to convert the file into a different format.
+ You may instead download a text tab delimited version of the template.
+ If you prefer to work in that file format.

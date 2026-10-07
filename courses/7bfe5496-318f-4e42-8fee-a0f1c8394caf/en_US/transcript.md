@@ -1,0 +1,39 @@
+# Amazon Handmade: Production Time and Delivery Promise
+
+What is a delivery promise?
+ It's the delivery date shown to customers on the product's detail page.
+ And it's equal to your production time plus your shipping time.
+ So, check your catalog and
+ make sure you're advertising the best possible delivery date for your customers.
+ Let's talk about how to set your production time.
+ When you list your product, you'll be asked to enter the production time.
+ That's the number of days from when you receive an order to when you're ready to ship it.
+ And it includes the time it takes you to produce, customize and package your product.
+ You can edit the production time for an existing product anytime.
+ Now, let's talk about how to set shipping times.
+ You can create multiple shipping settings for different SKUs.
+ Start by going to your shipping settings.
+ Under the Shipping Templates tab, select the shipping template that you want to edit.
+ Click Edit Template.
+ Then, select the Shipping and Regions option that you want to apply.
+ And use the transit time excluding handling time drop down to set your transit time.
+ You can repeat this for as many different shipping options and regions as you need.
+ To select the SKUs you want to apply the shipping template to go to Manage Inventory,
+ select SKUs,
+ Edit,
+ Change Shipping Template,
+ then select Template.
+ The shipping options, rates and estimated delivery dates displayed to customers for a SKU
+ are directly determined by the shipping template the SKU is assigned to.
+ When you create a new SKU, it will automatically be assigned to the default template.
+ Keep in mind that for standard shipping, you need to be able to ship anywhere in the continental US.
+ When a customer places an order, you will see a ship by date that corresponds to the production time you set for the product.
+ You must confirm shipment within 30 days of the order date, or the order will be cancelled,
+ and you will not receive payment, even if you ship the order later.
+ You can review and confirm orders using the Manage Orders tool.
+ Find it in the Orders tab of your Seller Central account, a hand-made tip.
+ Keep track of your production and shipping times.
+ If you are consistently delivering items quicker than advertised, consider reducing your production time
+ or your shipping time for a more accurate delivery date.
+ Want to learn more?
+ Check out Help in Seller Central for more about delivery times.

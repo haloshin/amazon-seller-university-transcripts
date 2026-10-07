@@ -1,0 +1,187 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.100
+In the Pricing Rules page in Seller Central, you will see a list of all the predefined
+
+00:00:10.100 --> 00:00:12.760
+and custom rules available to apply.
+
+00:00:12.760 --> 00:00:17.700
+Each rule will have columns with details about the rule, including a short summary of what
+
+00:00:17.700 --> 00:00:19.180
+the rule does.
+
+00:00:19.180 --> 00:00:24.840
+The Business Catalog Rule by Amazon applies to all SKUs in your catalog, including newly
+
+00:00:24.840 --> 00:00:31.160
+added SKUs across all regions, and excluding SKUs assigned to other business pricing rules
+
+00:00:31.160 --> 00:00:33.860
+and SKUs with business-only offers.
+
+00:00:33.860 --> 00:00:37.160
+To apply this rule, select Setup Rule.
+
+00:00:37.160 --> 00:00:41.580
+This will take you to the Review and Activate Rule page, where you can learn more about
+
+00:00:41.580 --> 00:00:42.580
+the rule.
+
+00:00:42.580 --> 00:00:47.880
+Set your parameters for minimum price percentages, add business discounts, and hit Save and
+
+00:00:47.880 --> 00:00:49.040
+Activate.
+
+00:00:49.040 --> 00:00:53.120
+The rule will show as processing in the Rule Status column.
+
+00:00:53.120 --> 00:00:58.360
+As the status changes to active, this rule will apply to all applicable SKUs in your
+
+00:00:58.360 --> 00:00:59.600
+catalog.
+
+00:00:59.600 --> 00:01:03.680
+To apply all other rules, select Edit SKUs.
+
+00:01:03.680 --> 00:01:08.400
+Custom Pricing Rules will have an additional drop-down, which allows you to pause, edit,
+
+00:01:08.400 --> 00:01:10.440
+or delete your custom rule.
+
+00:01:10.440 --> 00:01:17.120
+The Competitive Price Rule by Amazon Pre-Defined Rule can't be paused, edited, or deleted.
+
+00:01:17.120 --> 00:01:22.320
+Watch the Automate Pricing Change or Remove a Pricing Rule video in Seller University to
+
+00:01:22.320 --> 00:01:29.000
+learn how to edit a Pricing Rule, pause, resume, or delete it or review price history.
+
+00:01:29.000 --> 00:01:33.400
+Click Edit SKUs to enroll them one by one or in bulk.
+
+00:01:33.400 --> 00:01:38.400
+Pricing Rules won't adjust any of your prices until you've added SKUs.
+
+00:01:38.400 --> 00:01:44.080
+To enroll SKUs one by one, select each one individually and enter your minimum and maximum
+
+00:01:44.080 --> 00:01:45.180
+prices.
+
+00:01:45.180 --> 00:01:48.120
+You can think of these prices as bumpers.
+
+00:01:48.120 --> 00:01:53.640
+They let Automate Pricing adjust your prices based on the parameters of the rule, but only
+
+00:01:53.640 --> 00:01:55.320
+within a certain range.
+
+00:01:55.320 --> 00:02:00.240
+Note that only SKUs with a minimum price can be enrolled, so remember to complete this
+
+00:02:00.240 --> 00:02:01.240
+step.
+
+00:02:01.240 --> 00:02:06.120
+Next, select the Take Action drop-down menu next to the SKU.
+
+00:02:06.120 --> 00:02:10.840
+Select the rule you would like to apply in the Assign to Rule section and click Start
+
+00:02:10.840 --> 00:02:12.320
+Repricing.
+
+00:02:12.320 --> 00:02:17.720
+To enroll SKUs in bulk, check the boxes to the left of each SKU or click the topmost
+
+00:02:17.720 --> 00:02:21.400
+box to select all SKUs listed on the page.
+
+00:02:21.400 --> 00:02:27.400
+Next, select the Bulk Action drop-down menu and select the rule you want to apply and
+
+00:02:27.400 --> 00:02:31.600
+select Start Repricing to confirm your selection.
+
+00:02:31.600 --> 00:02:37.560
+Another way to enroll SKUs in bulk is by selecting Manage SKUs via File Upload.
+
+00:02:37.560 --> 00:02:41.360
+Use the Download Center tab to download a bulk template.
+
+00:02:41.360 --> 00:02:45.480
+You can choose a blank file or one that's pre-populated.
+
+00:02:45.480 --> 00:02:52.840
+The pre-populated file includes your top 500 to top 50,000 SKUs depending on the file size
+
+00:02:52.840 --> 00:02:53.840
+you select.
+
+00:02:53.840 --> 00:02:56.700
+It sorts SKUs by sales rank.
+
+00:02:56.700 --> 00:03:01.960
+We recommend using the pre-populated file, especially if you're not sure which SKUs you'd
+
+00:03:01.960 --> 00:03:03.960
+like to apply to the rule.
+
+00:03:03.960 --> 00:03:08.560
+If you're a business seller, we recommend using the blank file template.
+
+00:03:08.560 --> 00:03:13.560
+Make your selections, then select Request Automate Pricing File.
+
+00:03:13.560 --> 00:03:17.640
+Use the Refresh button to view the status of your download.
+
+00:03:17.640 --> 00:03:22.640
+Complete the required fields in the downloaded file, save the template sheet, and upload it
+
+00:03:22.640 --> 00:03:24.760
+in the Upload Center tab.
+
+00:03:24.760 --> 00:03:28.800
+The upload may take several minutes depending on the size.
+
+00:03:28.800 --> 00:03:34.320
+You may receive an error message or a processing report if the required fields are completed
+
+00:03:34.320 --> 00:03:36.080
+incorrectly.
+
+00:03:36.080 --> 00:03:41.360
+Review the section, tips to resolve common errors, and reference the 15,000 series error
+
+00:03:41.360 --> 00:03:44.120
+codes help page to troubleshoot.
+
+00:03:44.120 --> 00:03:47.040
+Re-upload after you've corrected your spreadsheet.
+
+00:03:47.040 --> 00:03:53.040
+Return to the Manage SKUs page at any point to assign more SKUs to a rule, move SKUs to
+
+00:03:53.040 --> 00:04:00.800
+different rules, change your minimum and maximum prices, or end re-pricing on a rule altogether.
+
+00:04:00.800 --> 00:04:06.520
+Whether one by one or in bulk, your SKUs will re-price after you select Start re-pricing
+
+00:04:06.520 --> 00:04:09.120
+as long as you've entered a minimum price.
+
+00:04:09.120 --> 00:04:13.880
+The rule will also appear on the Automate Pricing page so you can review and edit the
+
+00:04:13.880 --> 00:04:16.040
+SKUs you've assigned to it if needed.

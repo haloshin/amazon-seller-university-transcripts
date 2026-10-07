@@ -1,0 +1,145 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.700
+Welcome to our training on how to set ASIN specific handling times.
+
+00:00:04.700 --> 00:00:10.907
+In this video, we'll show you how to set specific handling times for ASINs that may need special
+
+00:00:10.907 --> 00:00:14.700
+attention or require different preparations than the rest of your catalog.
+
+00:00:14.700 --> 00:00:20.200
+Doing so can help you manage your order processing pipeline and protect your account health.
+
+00:00:20.200 --> 00:00:24.600
+Every offer in the Amazon store comes with a customer delivery promise.
+
+00:00:24.600 --> 00:00:28.200
+This tells a customer when they can expect an order to arrive.
+
+00:00:28.200 --> 00:00:33.895
+Customers don't like to be kept waiting, and having a shorter default handling time might make your
+
+00:00:33.895 --> 00:00:34.900
+listings more attractive.
+
+00:00:34.900 --> 00:00:40.600
+At the same time, keeping the customer delivery promise is very important, meaning late packages
+
+00:00:40.600 --> 00:00:42.500
+can affect your account health.
+
+00:00:42.500 --> 00:00:47.680
+What if you want to set a one-day default handling time, but some of the ASINs in your catalog are
+
+00:00:47.680 --> 00:00:49.900
+hard to get out the door in one day?
+
+00:00:49.900 --> 00:00:53.900
+Setting ASIN specific handling times can be the solution.
+
+00:00:53.900 --> 00:00:59.100
+ASIN specific handling times set exceptions to your normal processing times.
+
+00:00:59.100 --> 00:01:04.317
+If you have a product that you can ship out faster than your default time, or one that needs more
+
+00:01:04.317 --> 00:01:05.100
+time than normal,
+
+00:01:05.100 --> 00:01:10.700
+you can use an ASIN specific handling time to give your customer an accurate delivery promise.
+
+00:01:10.700 --> 00:01:16.548
+As an example, if you've set a one-day default handling time, but one particularly delicate product
+
+00:01:16.548 --> 00:01:19.300
+needs special prep before it gets shipped out,
+
+00:01:19.300 --> 00:01:26.000
+you could set that ASIN to a two-day handling time while still delivering your other products swiftly.
+
+00:01:26.000 --> 00:01:31.800
+Because ASIN specific handling times need to be set separately for each ASIN that you want to change,
+
+00:01:31.800 --> 00:01:35.300
+you'll need to set them from the Manage Inventory screen.
+
+00:01:35.300 --> 00:01:41.238
+To get there, open the main menu in Seller Central by selecting the button in the upper left corner
+
+00:01:41.238 --> 00:01:42.800
+with the three horizontal lines.
+
+00:01:42.800 --> 00:01:46.700
+Go to Inventory, then select Manage Inventory.
+
+00:01:46.700 --> 00:01:51.900
+Select the checkbox next to the ASIN in your inventory that you want to modify.
+
+00:01:51.900 --> 00:01:55.400
+Then select the Edit button at the far right end of that row.
+
+00:01:55.400 --> 00:02:00.900
+Depending on the size of your screen, you may have to scroll to the right to find that button.
+
+00:02:00.900 --> 00:02:07.414
+On the screen for editing the details for that ASIN, select the Offer tab and then scroll down to
+
+00:02:07.414 --> 00:02:08.100
+Handling Time.
+
+00:02:08.100 --> 00:02:11.200
+You can set the handling time here in Business Days.
+
+00:02:11.200 --> 00:02:16.520
+So if you enter two, it means that you'll have two business days after receiving an order for that
+
+00:02:16.520 --> 00:02:16.800
+ASIN,
+
+00:02:16.800 --> 00:02:21.600
+in which to both ship the product and confirm that shipment in Seller Central.
+
+00:02:21.600 --> 00:02:26.500
+While you'll normally need to set ASIN specific handling times for ASINs one by one,
+
+00:02:26.500 --> 00:02:33.132
+you can upload a file to set handling times in bulk if you're familiar with the Inventory Loader
+
+00:02:33.132 --> 00:02:33.500
+tool.
+
+00:02:33.500 --> 00:02:38.500
+Search for Modify Handling Time in Seller Central to learn more about this option.
+
+00:02:38.500 --> 00:02:43.500
+Handling Time is a key part of the Customer Delivery Promise and your account health,
+
+00:02:43.500 --> 00:02:48.300
+so it's important to have an accurate handling time for each product in your catalog.
+
+00:02:48.300 --> 00:02:53.200
+If you can ship most of your products swiftly, try setting a one-day default handling time,
+
+00:02:53.200 --> 00:02:58.700
+and then setting a longer ASIN specific handling time for products that require more care.
+
+00:02:58.700 --> 00:03:04.612
+That can help you offer customers the shortest delivery time possible, while also protecting your
+
+00:03:04.612 --> 00:03:05.400
+account health.
+
+00:03:05.400 --> 00:03:09.800
+For even more techniques about offering the best customer delivery promise possible,
+
+00:03:09.800 --> 00:03:12.700
+check out the other videos in this series.
+
+00:03:12.700 --> 00:03:17.000
+This concludes our training on how to set ASIN specific handling times.
+
+00:03:17.000 --> 00:03:20.400
+Thank you, and happy selling in the Amazon Store!

@@ -1,0 +1,139 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.880
+Variations let you group similar products under a single listing, called a parent listing.
+
+00:00:07.880 --> 00:00:12.640
+The parent groups all the variations of your product together, with each variation as a
+
+00:00:12.640 --> 00:00:16.880
+child listing with its own price and inventory.
+
+00:00:16.880 --> 00:00:21.880
+Variations allow customers to compare options like size, color, or style on a single product
+
+00:00:21.880 --> 00:00:27.200
+detail page, making shopping easier and helping to increase visibility and sales.
+
+00:00:27.200 --> 00:00:32.480
+You can create variations when listing your products one by one or in bulk, or add variations
+
+00:00:32.480 --> 00:00:34.680
+to existing products later.
+
+00:00:34.680 --> 00:00:38.520
+The one by one experience works well when you're launching a new product family or want more
+
+00:00:38.520 --> 00:00:42.760
+control over how each variation is set up.
+
+00:00:42.760 --> 00:00:46.960
+The available themes will depend on the product category you selected in the Product Identity
+
+00:00:46.960 --> 00:00:48.360
+tab.
+
+00:00:48.360 --> 00:00:52.000
+This will add the Variations tab to your listing workflow.
+
+00:00:52.000 --> 00:00:56.360
+In the Variations tab, you'll start by selecting a Variation theme.
+
+00:00:56.360 --> 00:00:59.440
+This defines how your products differ from each other.
+
+00:00:59.440 --> 00:01:04.040
+The available themes will depend on the product category you selected in the Product Identity
+
+00:01:04.040 --> 00:01:05.040
+tab.
+
+00:01:05.040 --> 00:01:08.880
+For example, for footwear, you might choose size and color.
+
+00:01:08.880 --> 00:01:13.000
+For apparel, you might select size, color, and pattern.
+
+00:01:13.000 --> 00:01:17.120
+You'll see all valid theme combinations in a dropdown menu.
+
+00:01:17.120 --> 00:01:21.680
+You can search for a specific theme if you don't want to scroll through the full list.
+
+00:01:21.680 --> 00:01:26.200
+After selecting your theme, you'll specify the actual values for each attribute.
+
+00:01:26.200 --> 00:01:30.680
+For example, if you're adding shoe sizes, you might note that all sizes are measured
+
+00:01:30.680 --> 00:01:36.560
+on a women's size chart, and then enter sizes 9, 10, and 11.
+
+00:01:36.560 --> 00:01:40.560
+If you try to add a size that's already in your list, you'll see a message letting you
+
+00:01:40.560 --> 00:01:43.400
+know that option already exists.
+
+00:01:43.400 --> 00:01:48.440
+Once you've added all variation types, you'll see a complete list of variants based on your
+
+00:01:48.440 --> 00:01:49.440
+selections.
+
+00:01:49.440 --> 00:01:54.840
+For example, if you selected two sizes and three colors, you'll see six variants in
+
+00:01:54.840 --> 00:01:55.840
+total.
+
+00:01:55.840 --> 00:01:58.060
+Each variant appears as a card.
+
+00:01:58.060 --> 00:02:02.560
+The first card is prefilled with the information you provided for your first variant earlier
+
+00:02:02.560 --> 00:02:05.240
+in the form.
+
+00:02:05.240 --> 00:02:10.520
+You can filter this view to see all variants, only variants that need additional information,
+
+00:02:10.520 --> 00:02:12.560
+or variants you've disabled.
+
+00:02:12.560 --> 00:02:16.040
+You have two ways to add more information to your variants.
+
+00:02:16.040 --> 00:02:18.840
+Bulk Edit and Individual Edit.
+
+00:02:18.840 --> 00:02:24.120
+Bulk Edit lets you apply the same information across multiple variants at once.
+
+00:02:24.120 --> 00:02:28.960
+Choose the attribute you want to edit, like image or title, and it will be applied to
+
+00:02:28.960 --> 00:02:31.560
+all the variants you selected.
+
+00:02:31.560 --> 00:02:35.200
+Individual Edit lets you customize each child variation.
+
+00:02:35.200 --> 00:02:40.200
+For example, if you have a different SKU for each child variation, you can input those
+
+00:02:40.200 --> 00:02:42.560
+details one by one here.
+
+00:02:42.560 --> 00:02:47.360
+Make sure to complete all your variation details before moving on to the Offer tab, where you'll
+
+00:02:47.360 --> 00:02:51.720
+be able to add offer information for the variations you provided.
+
+00:02:51.720 --> 00:02:55.940
+For more information about how to list your products one by one, review our How to List
+
+00:02:55.940 --> 00:02:58.280
+Your First Product Guide in Seller University.

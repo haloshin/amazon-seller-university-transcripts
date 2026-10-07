@@ -1,0 +1,316 @@
+WEBVTT
+
+00:00:02.600 --> 00:00:05.280
+Send to Amazon is a multi-step workflow
+
+00:00:05.280 --> 00:00:07.960
+for shipping products to Amazon for distribution
+
+00:00:07.960 --> 00:00:10.040
+with the FBA program.
+
+00:00:10.040 --> 00:00:13.600
+To access Send to Amazon in the Seller Central Main menu,
+
+00:00:13.600 --> 00:00:16.680
+click Inventory and select Shipments.
+
+00:00:16.680 --> 00:00:18.640
+At the top of the shipping queue page,
+
+00:00:18.640 --> 00:00:21.040
+hover over the Shipments dropdown menu
+
+00:00:21.040 --> 00:00:23.320
+and select Send to Amazon.
+
+00:00:23.320 --> 00:00:26.160
+First, you'll set the address that you want to ship from
+
+00:00:26.160 --> 00:00:28.680
+and the Marketplace destination.
+
+00:00:28.680 --> 00:00:30.440
+These details can't be changed
+
+00:00:30.440 --> 00:00:34.040
+after you complete Send to Amazon step two.
+
+00:00:34.040 --> 00:00:37.560
+You can choose from two options for selecting SKUs.
+
+00:00:37.560 --> 00:00:40.840
+Select from List or File Upload.
+
+00:00:40.840 --> 00:00:43.520
+With either method, you may ship case packs,
+
+00:00:43.520 --> 00:00:46.920
+individual units or a combination of both.
+
+00:00:46.920 --> 00:00:49.160
+If you choose Select from List,
+
+00:00:49.160 --> 00:00:51.080
+you'll see a list of all your SKUs
+
+00:00:51.080 --> 00:00:53.440
+that have been converted to FBA.
+
+00:00:53.440 --> 00:00:56.240
+If you have created any case pack templates,
+
+00:00:56.240 --> 00:01:00.720
+you can select the filter, only show SKUs with case pack template.
+
+00:01:00.720 --> 00:01:03.600
+First, let's look at adding case packs.
+
+00:01:03.600 --> 00:01:05.800
+If you're shipping boxes with one or more units
+
+00:01:05.800 --> 00:01:10.120
+of the same SKU, case pack templates save your packing details
+
+00:01:10.120 --> 00:01:11.760
+so you won't have to re-enter them
+
+00:01:11.760 --> 00:01:13.720
+every time you ship that SKU.
+
+00:01:13.720 --> 00:01:16.560
+To start, choose the template you want to use
+
+00:01:16.560 --> 00:01:19.640
+and input how many boxes you plan to ship.
+
+00:01:19.640 --> 00:01:21.600
+If you have remaining individual units
+
+00:01:21.600 --> 00:01:24.600
+that don't fit into your current case pack template,
+
+00:01:24.600 --> 00:01:26.600
+you can select more inputs.
+
+00:01:26.600 --> 00:01:30.720
+Click Ready to Send to add the case pack to the shipment.
+
+00:01:30.720 --> 00:01:34.400
+You can repeat this process for as many case packs you need.
+
+00:01:34.400 --> 00:01:36.440
+To add products as individual units,
+
+00:01:36.440 --> 00:01:38.800
+select individual units.
+
+00:01:38.800 --> 00:01:41.720
+Then enter information about the prep and labeling
+
+00:01:41.720 --> 00:01:43.080
+of each unit.
+
+00:01:43.080 --> 00:01:46.400
+Enter the number of units of that product you intend to ship
+
+00:01:46.400 --> 00:01:48.440
+and click Ready to Pack.
+
+00:01:48.440 --> 00:01:50.520
+If you choose File Upload,
+
+00:01:50.520 --> 00:01:52.720
+you can upload a file with the list of SKUs
+
+00:01:52.720 --> 00:01:54.480
+you want to replenish.
+
+00:01:54.480 --> 00:01:55.760
+To create the template,
+
+00:01:55.760 --> 00:01:58.720
+select from a list of customization options.
+
+00:01:58.720 --> 00:02:01.400
+Then select Generate and Download Template.
+
+00:02:02.560 --> 00:02:05.280
+Be sure to enter all of the required information
+
+00:02:05.280 --> 00:02:06.760
+for each SKU.
+
+00:02:06.760 --> 00:02:09.875
+Save your file as an Excel file.
+
+00:02:09.875 --> 00:02:10.320
+xlsx
+
+00:02:10.320 --> 00:02:13.320
+or as a tab delimited file.
+
+00:02:13.320 --> 00:02:15.320
+txt and upload it.
+
+00:02:15.320 --> 00:02:17.480
+If there are no errors in the file,
+
+00:02:17.480 --> 00:02:19.000
+we will populate the SKUs
+
+00:02:19.000 --> 00:02:22.720
+in the SKUs Ready to Send tab for you to review.
+
+00:02:22.720 --> 00:02:26.480
+Whether you selected SKUs from a list or uploaded a file,
+
+00:02:26.480 --> 00:02:30.160
+review your selections in the SKUs Ready to Send tab
+
+00:02:30.160 --> 00:02:32.560
+to ensure everything is correct.
+
+00:02:32.560 --> 00:02:35.240
+If you selected Seller as the labeling owner
+
+00:02:35.240 --> 00:02:36.720
+of any of your units,
+
+00:02:36.720 --> 00:02:38.880
+you will notice the Print SKU labels link
+
+00:02:38.880 --> 00:02:42.040
+at the bottom of your SKUs Ready to Send list.
+
+00:02:42.040 --> 00:02:43.800
+These are different from packing labels,
+
+00:02:43.800 --> 00:02:45.520
+which you will print later.
+
+00:02:45.520 --> 00:02:48.480
+Print the SKU labels and apply them to each unit.
+
+00:02:48.480 --> 00:02:50.960
+If you selected Amazon as the labeling owner,
+
+00:02:50.960 --> 00:02:52.440
+skip this step.
+
+00:02:52.440 --> 00:02:54.480
+Your confirmation button will look different
+
+00:02:54.480 --> 00:02:57.160
+depending on the contents of your shipment.
+
+00:02:57.160 --> 00:02:59.640
+If your shipment contains only case packs,
+
+00:02:59.640 --> 00:03:03.000
+click Confirm and Continue to move on to step two,
+
+00:03:03.000 --> 00:03:04.560
+Confirm Shipping.
+
+00:03:04.560 --> 00:03:07.160
+If your shipment contains any individual units,
+
+00:03:07.160 --> 00:03:10.280
+click Pack Individual Units to continue.
+
+00:03:10.280 --> 00:03:12.080
+This will bring up step one B,
+
+00:03:12.080 --> 00:03:13.520
+which walks you through packing
+
+00:03:13.520 --> 00:03:16.960
+and labeling the individual units in your shipment.
+
+00:03:16.960 --> 00:03:18.800
+It's important to pack your SKUs
+
+00:03:18.800 --> 00:03:21.920
+according to the pack groups listed in this step.
+
+00:03:21.920 --> 00:03:24.000
+Knowing the contents of each box
+
+00:03:24.000 --> 00:03:26.680
+allows us to move your inventory through our network
+
+00:03:26.680 --> 00:03:30.320
+and make your inventory available for sale faster.
+
+00:03:30.320 --> 00:03:31.600
+For each packing group,
+
+00:03:31.600 --> 00:03:34.200
+determine if everything will fit in one box
+
+00:03:34.200 --> 00:03:37.000
+or if multiple boxes will be needed.
+
+00:03:37.000 --> 00:03:38.520
+If only one box is needed,
+
+00:03:38.520 --> 00:03:40.720
+input box dimensions and weight.
+
+00:03:40.720 --> 00:03:42.760
+If you select multiple boxes,
+
+00:03:42.760 --> 00:03:43.880
+you have a few choices
+
+00:03:43.880 --> 00:03:47.080
+for how you would like to upload box information.
+
+00:03:47.080 --> 00:03:49.560
+You can upload information in a web form,
+
+00:03:49.560 --> 00:03:52.240
+Excel file or with scan and pack
+
+00:03:52.240 --> 00:03:55.520
+if you have a mix of individual units and case packs.
+
+00:03:55.520 --> 00:03:57.800
+You can also utilize 2D barcodes
+
+00:03:57.800 --> 00:04:01.840
+or have Amazon manually process box contents for a fee
+
+00:04:01.840 --> 00:04:05.760
+as long as you have no case pack templates in your shipment.
+
+00:04:05.760 --> 00:04:07.800
+Read the descriptions for each option
+
+00:04:07.800 --> 00:04:10.880
+to determine what works best for your shipment.
+
+00:04:10.880 --> 00:04:13.880
+As you pack, make sure to label your boxes.
+
+00:04:13.880 --> 00:04:17.880
+For example, Pack Group 2, Box 3.
+
+00:04:17.880 --> 00:04:19.760
+This will make matching shipping labels
+
+00:04:19.760 --> 00:04:22.360
+to the correct box much easier.
+
+00:04:22.360 --> 00:04:25.360
+Once you have completed packing all individual units
+
+00:04:25.360 --> 00:04:27.600
+and uploaded box information,
+
+00:04:27.600 --> 00:04:31.520
+click Confirm and Continue to move on to step two,
+
+00:04:31.520 --> 00:04:32.700
+Confirm Shipping.

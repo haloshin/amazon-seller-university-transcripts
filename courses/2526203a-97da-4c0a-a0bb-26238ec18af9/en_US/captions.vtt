@@ -1,0 +1,600 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.800
+- Welcome to our training on how to prevent or resolve
+
+00:00:06.800 --> 00:00:10.200
+product detail page policy violations.
+
+00:00:11.080 --> 00:00:12.960
+Amazon's product detail page policies
+
+00:00:12.960 --> 00:00:15.216
+help ensure customers have a clear
+
+00:00:15.216 --> 00:00:16.720
+and consistent buying experience.
+
+00:00:17.320 --> 00:00:20.064
+In this video, we'll share an overview of these policies
+
+00:00:20.064 --> 00:00:22.260
+and tips to help you comply with them.
+ -
+
+00:00:22.760 --> 00:00:25.184
+We'll also share resources you can use
+
+00:00:25.184 --> 00:00:28.301
+to learn more about specific error codes you've received
+
+00:00:28.301 --> 00:00:29.340
+while creating offers.
+
+00:00:30.000 --> 00:00:31.807
+Amazon's product detail page policies
+
+00:00:31.807 --> 00:00:35.420
+require all sellers to comply with a set of guidelines.
+
+00:00:35.980 --> 00:00:38.940
+The majority of these guidelines relate to four requirements.
+
+00:00:39.980 --> 00:00:41.940
+Each product detail page must.
+
+00:00:41.940 --> 00:00:45.360
+One, cover a single unique item.
+
+00:00:45.360 --> 00:00:49.128
+Two, comply with relevant style guides,
+
+00:00:49.128 --> 00:00:51.857
+which include formatting and style rules,
+
+00:00:51.857 --> 00:00:55.040
+character limits, and prohibited information and images.
+
+00:00:55.040 --> 00:00:58.873
+Three, exclude false or promotional content or actions
+
+00:00:58.873 --> 00:01:01.207
+like cross promotion of a product
+
+00:01:01.207 --> 00:01:04.709
+or the creation of a new product detail page
+
+00:01:04.709 --> 00:01:08.211
+for a product that's already listed in Amazon's catalog.
+
+00:01:08.211 --> 00:01:10.965
+And four, only be updated with edits
+
+00:01:10.965 --> 00:01:12.935
+that make the page better
+
+00:01:12.935 --> 00:01:15.300
+or more accurately describe the product.
+ -
+
+00:01:16.300 --> 00:01:20.136
+Keep in mind that this video is not a replacement
+
+00:01:20.136 --> 00:01:23.205
+for closely reviewing Amazon's product detail page policies
+
+00:01:23.205 --> 00:01:24.740
+or category specific guidelines.
+
+00:01:25.380 --> 00:01:27.620
+It's important to familiarize yourself with them
+
+00:01:27.620 --> 00:01:30.180
+to help you avoid interruptions to your business.
+
+00:01:30.780 --> 00:01:33.835
+Search product detail page rules in Seller Central
+
+00:01:33.835 --> 00:01:34.980
+for more information.
+
+00:01:35.420 --> 00:01:38.180
+Now let's review these four requirements in more detail.
+
+00:01:40.960 --> 00:01:43.969
+Beginning with how to ensure each product detail page
+
+00:01:43.969 --> 00:01:45.640
+covers a single unique item.
+
+00:01:46.040 --> 00:01:48.496
+How you list products depends on whether or not
+
+00:01:48.496 --> 00:01:50.680
+they're already being sold in the Amazon store.
+
+00:01:51.360 --> 00:01:54.005
+You'll either create an offer for an existing product
+
+00:01:54.005 --> 00:01:55.475
+or create a new listing
+
+00:01:55.475 --> 00:01:58.120
+for one that isn't already in the Amazon catalog.
+
+00:01:58.600 --> 00:02:01.480
+If you're new to selling in the Amazon store,
+
+00:02:01.480 --> 00:02:04.360
+pause here and complete the list product video series
+
+00:02:04.360 --> 00:02:05.320
+in Seller University.
+
+00:02:06.040 --> 00:02:07.982
+You'll get step-by-step instructions
+
+00:02:07.982 --> 00:02:10.247
+for each part of the listing process
+
+00:02:10.247 --> 00:02:13.160
+and learn how to manage product IDs and exemptions.
+
+00:02:14.280 --> 00:02:16.080
+If you've already listed products,
+
+00:02:16.080 --> 00:02:17.880
+you're likely familiar with variations.
+
+00:02:18.440 --> 00:02:20.960
+If you have products that are similar in nature
+
+00:02:20.960 --> 00:02:23.480
+but differ from each other by a few factors
+
+00:02:23.480 --> 00:02:24.600
+like color and size,
+
+00:02:24.600 --> 00:02:26.840
+you won't create new listings for each item.
+
+00:02:27.360 --> 00:02:30.095
+Instead, you can create a single variation family
+
+00:02:30.095 --> 00:02:31.120
+for these products.
+
+00:02:33.000 --> 00:02:34.726
+When your product has variations,
+
+00:02:34.726 --> 00:02:38.524
+it has a parent ASIN and one or more child ASINs
+
+00:02:38.524 --> 00:02:39.560
+or child variations.
+
+00:02:40.040 --> 00:02:43.129
+For example, if you sell a shirt in different sizes
+
+00:02:43.129 --> 00:02:45.600
+and colors, the shirt represents the parent ASIN.
+
+00:02:46.160 --> 00:02:49.651
+The shirt's variations, such as blue and medium,
+
+00:02:49.651 --> 00:02:50.960
+represent child ASINs.
+
+00:02:51.840 --> 00:02:55.147
+You can violate Amazon's product detail page policy
+
+00:02:55.147 --> 00:02:56.800
+if you misuse variations.
+
+00:02:57.280 --> 00:02:59.981
+Remember to ensure only one unique product
+
+00:02:59.981 --> 00:03:03.840
+is featured on each page and only use valid variations.
+
+00:03:04.400 --> 00:03:06.716
+To determine whether or not they're valid,
+
+00:03:06.716 --> 00:03:08.040
+ask yourself these questions.
+
+00:03:08.840 --> 00:03:10.840
+Are the products fundamentally the same?
+
+00:03:11.840 --> 00:03:13.960
+Could the products share the same title?
+
+00:03:15.080 --> 00:03:18.344
+Do the products vary only in a few specific ways
+
+00:03:18.344 --> 00:03:21.934
+that don't alter the core essence and nature of the item
+
+00:03:21.934 --> 00:03:23.240
+like color and size?
+
+00:03:24.320 --> 00:03:26.857
+Would customers expect to find these products together
+
+00:03:26.857 --> 00:03:28.760
+on a single product detail page?
+
+00:03:29.840 --> 00:03:32.480
+Let's use these criteria to evaluate two examples.
+
+00:03:33.120 --> 00:03:34.249
+In the first example,
+
+00:03:34.249 --> 00:03:36.791
+a seller is listing a cell phone charging cable
+
+00:03:36.791 --> 00:03:37.920
+and a portable charger.
+
+00:03:38.640 --> 00:03:40.495
+Should they use a variation family
+
+00:03:40.495 --> 00:03:42.040
+or list these products separately?
+
+00:03:42.800 --> 00:03:44.190
+While the items are related,
+
+00:03:44.190 --> 00:03:45.580
+they're not the same product
+
+00:03:45.580 --> 00:03:48.360
+and shouldn't be listed on the same product detail page.
+
+00:03:49.880 --> 00:03:52.027
+Another seller is listing a single brand
+
+00:03:52.027 --> 00:03:53.560
+and type of dog treats,
+
+00:03:53.560 --> 00:03:55.400
+but in different quantities and flavors,
+
+00:03:56.000 --> 00:03:57.942
+are the products closely related enough
+
+00:03:57.942 --> 00:03:59.560
+to be considered child products?
+
+00:04:00.280 --> 00:04:01.640
+The answer is yes,
+
+00:04:01.640 --> 00:04:04.360
+meaning the items should be listed as variations
+
+00:04:04.360 --> 00:04:06.400
+on the same product detail page.
+
+00:04:07.200 --> 00:04:09.562
+For more information on variations,
+
+00:04:09.562 --> 00:04:11.452
+search variation relationships overview
+
+00:04:11.452 --> 00:04:14.760
+and ASIN creation policy in Seller Central.
+
+00:04:15.440 --> 00:04:18.040
+Let's move on to the second guideline,
+
+00:04:18.040 --> 00:04:20.640
+comply with relevant style and information guides.
+
+00:04:23.760 --> 00:04:27.360
+You can find general rules that apply to all products
+
+00:04:27.360 --> 00:04:30.240
+in the Amazon Services Quick Start Style Guide,
+
+00:04:30.240 --> 00:04:34.200
+which you'll find on the product detail page rules help page.
+
+00:04:35.040 --> 00:04:37.560
+Certain product categories have extra style guidelines,
+
+00:04:37.560 --> 00:04:40.800
+which you can reference on that same help page.
+
+00:04:41.640 --> 00:04:43.160
+Certain guidelines aren't obvious.
+
+00:04:43.680 --> 00:04:46.060
+For example, formatting rules or character limits
+
+00:04:46.060 --> 00:04:48.780
+can be difficult to notice by only skimming
+
+00:04:48.780 --> 00:04:49.800
+an existing page.
+
+00:04:50.520 --> 00:04:52.258
+Closely review the style guides
+
+00:04:52.258 --> 00:04:56.080
+and take note of any help text while creating an offer.
+
+00:04:56.520 --> 00:04:59.310
+There are also guidelines for the types of content
+
+00:04:59.310 --> 00:05:01.480
+you include on a product detail page.
+
+00:05:01.920 --> 00:05:02.784
+In general,
+
+00:05:02.784 --> 00:05:06.240
+make sure you accurately describe and categorize products.
+
+00:05:06.840 --> 00:05:09.487
+Never infringe upon the intellectual property rights
+
+00:05:09.487 --> 00:05:11.000
+of any third party.
+
+00:05:11.520 --> 00:05:13.905
+Avoid including inappropriate content,
+
+00:05:13.905 --> 00:05:18.080
+links, contact information or requests for reviews.
+
+00:05:18.840 --> 00:05:21.173
+This brings us to our third guideline.
+
+00:05:21.173 --> 00:05:22.840
+Avoid false or promotional content.
+
+00:05:25.640 --> 00:05:28.995
+A few examples include requesting positive customer reviews,
+
+00:05:28.995 --> 00:05:31.511
+highlighting specific reviews, quotes or testimonials,
+
+00:05:31.511 --> 00:05:35.285
+linking to other websites where customers can place orders
+
+00:05:35.285 --> 00:05:38.640
+or adding your watermark to images or videos.
+
+00:05:41.840 --> 00:05:44.153
+Finally, you can also violate Amazon policies
+
+00:05:44.153 --> 00:05:46.797
+if you create a new product detail page
+
+00:05:46.797 --> 00:05:49.440
+when one already exists for that same product.
+
+00:05:50.120 --> 00:05:52.520
+Keep this in mind before you create a new offer.
+
+00:05:53.200 --> 00:05:54.170
+As a reminder,
+
+00:05:54.170 --> 00:05:56.435
+you can verify whether one already exists
+
+00:05:56.435 --> 00:05:58.052
+by searching for the product
+
+00:05:58.052 --> 00:06:00.640
+on the product adding page in Seller Central.
+
+00:06:00.640 --> 00:06:04.352
+To get there, open the Seller Central main menu,
+
+00:06:04.352 --> 00:06:07.240
+hover over catalog and click Add Products.
+
+00:06:07.240 --> 00:06:09.345
+But after you list a product,
+
+00:06:09.345 --> 00:06:12.153
+you may be able to suggest an edit
+
+00:06:12.153 --> 00:06:14.960
+to improve an existing product detail page's accuracy.
+
+00:06:14.960 --> 00:06:17.668
+Since these pages are shared with other sellers,
+
+00:06:17.668 --> 00:06:19.360
+we have guardrails in place.
+
+00:06:19.360 --> 00:06:22.816
+For example, your ability to suggest an edit
+
+00:06:22.816 --> 00:06:25.840
+depends on your relationship with the product.
+
+00:06:25.840 --> 00:06:29.122
+If a product is enrolled in Amazon brand registry,
+
+00:06:29.122 --> 00:06:32.040
+only three types of sellers can suggest edits.
+
+00:06:32.040 --> 00:06:34.792
+The original rights owner who enrolled the brand,
+
+00:06:34.792 --> 00:06:37.544
+other sellers verified as internal to the brand,
+
+00:06:37.544 --> 00:06:40.296
+and resellers who are associated with the brand
+
+00:06:40.296 --> 00:06:42.360
+and approved to sell its products.
+
+00:06:42.360 --> 00:06:46.116
+If the product isn't part of a brand enrolled
+
+00:06:46.116 --> 00:06:47.368
+in brand registry,
+
+00:06:47.368 --> 00:06:50.707
+the seller who created the product detail page
+
+00:06:50.707 --> 00:06:54.880
+and all sellers who have matched offers can suggest edits.
+
+00:06:54.880 --> 00:06:57.100
+To learn how to suggest edits,
+
+00:06:57.100 --> 00:06:58.950
+complete the Suggest an edit
+
+00:06:58.950 --> 00:07:02.280
+to a product detail page training in Seller University.
+
+00:07:02.280 --> 00:07:04.780
+Keep in mind that Amazon policies
+
+00:07:04.780 --> 00:07:07.280
+don't allow incorrect detail page modifications.
+
+00:07:07.280 --> 00:07:09.697
+Incorrect modifications are any changes
+
+00:07:09.697 --> 00:07:13.565
+that cause the product to become inaccurately described
+
+00:07:13.565 --> 00:07:18.400
+or less accurately described than it was before the change.
+
+00:07:18.400 --> 00:07:21.600
+We only allow updates that improve the detail page.
+
+00:07:21.600 --> 00:07:23.402
+This can include changes
+
+00:07:23.402 --> 00:07:26.555
+like improving the accuracy of the content,
+
+00:07:26.555 --> 00:07:28.807
+making the content grammatically correct,
+
+00:07:28.807 --> 00:07:31.960
+or removing content that violates Amazon policies.
+
+00:07:31.960 --> 00:07:35.067
+Let's review an example of an Amazon seller
+
+00:07:35.067 --> 00:07:38.950
+who is in violation of Amazon's product detail page policies
+
+00:07:38.950 --> 00:07:41.280
+because they incorrectly modified a page.
+
+00:07:41.280 --> 00:07:43.753
+A seller has gained the appropriate documentation
+
+00:07:43.753 --> 00:07:47.640
+and approvals to sell a branded product in the Amazon store.
+
+00:07:47.640 --> 00:07:49.390
+They successfully listed the product,
+
+00:07:49.390 --> 00:07:51.840
+but returned to the product detail page
+
+00:07:51.840 --> 00:07:53.240
+to make some changes.
+
+00:07:53.240 --> 00:07:56.592
+They wanted to promote their own company's name to customers,
+
+00:07:56.592 --> 00:08:00.280
+so they added it to the ASIN title and product description.
+
+00:08:00.280 --> 00:08:02.080
+In this example,
+
+00:08:02.080 --> 00:08:06.880
+the seller failed to comply with Amazon's policies.
+
+00:08:06.880 --> 00:08:09.897
+Even the best intentioned sellers can make mistakes
+
+00:08:09.897 --> 00:08:12.160
+when listing products and creating offers.
+
+00:08:12.160 --> 00:08:15.573
+Amazon uses error messages to prevent incorrect information
+
+00:08:15.573 --> 00:08:18.560
+from being displayed in the Amazon store.
+
+00:08:18.560 --> 00:08:22.213
+You'll receive an error if you don't meet Amazon's requirements
+
+00:08:22.213 --> 00:08:24.040
+for a properly formatted entry.
+
+00:08:24.040 --> 00:08:26.690
+For example, we won't include your contribution
+
+00:08:26.690 --> 00:08:29.340
+if you attempt to create an offer
+
+00:08:29.340 --> 00:08:31.990
+with a description that exceeds 1,000 characters,
+
+00:08:31.990 --> 00:08:34.640
+but your offer will still be available.
+
+00:08:34.640 --> 00:08:37.573
+You can browse a list of error messages
+
+00:08:37.573 --> 00:08:40.140
+along with their definitions and suggested solutions
+
+00:08:40.140 --> 00:08:41.240
+in Seller Central.
+
+00:08:41.240 --> 00:08:43.126
+Search error code explanations
+
+00:08:43.126 --> 00:08:47.840
+and locate the error code in the all articles list.
+
+00:08:47.840 --> 00:08:50.550
+For more information on how to create
+
+00:08:50.550 --> 00:08:52.872
+effective and compliant product detail pages,
+
+00:08:52.872 --> 00:08:55.582
+watch the Intro to Product Detail pages
+
+00:08:55.582 --> 00:08:58.292
+and best practices for product detail pages,
+
+00:08:58.292 --> 00:08:59.840
+videos in Seller University.
+
+00:08:59.840 --> 00:09:03.840
+They'll help you comply with Amazon standards and style guides.
+
+00:09:03.840 --> 00:09:06.827
+This concludes our training on how to prevent
+
+00:09:06.827 --> 00:09:09.440
+or resolve product detail page policy violations.
+
+00:09:09.440 --> 00:09:11.662
+Continue to the next video in this series
+
+00:09:11.662 --> 00:09:14.440
+to learn how to avoid making other common listing errors.
+
+00:09:14.440 --> 00:09:17.640
+Thank you and happy selling in the Amazon store.

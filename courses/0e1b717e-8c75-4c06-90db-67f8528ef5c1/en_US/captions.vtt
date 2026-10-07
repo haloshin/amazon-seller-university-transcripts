@@ -1,0 +1,214 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.500
+Welcome to our training on the Brand Analytics Market Basket Analysis Report.
+
+00:00:05.500 --> 00:00:11.520
+Brands enrolled in Amazon Brand Registry enjoy access to a suite of additional selling benefits,
+
+00:00:11.520 --> 00:00:15.420
+including the Brand Analytics Tool in Seller Central.
+
+00:00:15.420 --> 00:00:21.844
+In this video, we'll review the features and functionality of one of the reports you'll find in
+
+00:00:21.844 --> 00:00:22.600
+Brand Analytics.
+
+00:00:22.600 --> 00:00:25.000
+Market Basket Analysis.
+
+00:00:25.000 --> 00:00:30.900
+This report displays products that customers have purchased in combination with a brand's products.
+
+00:00:30.900 --> 00:00:35.300
+It can help brands identify opportunities to bundle their own products,
+
+00:00:35.300 --> 00:00:39.200
+or they can use it to assess cross-marketing opportunities.
+
+00:00:39.200 --> 00:00:45.100
+You can access the Market Basket Analysis Report and others in the Brand Analytics Tool
+
+00:00:45.100 --> 00:00:49.700
+if you're a seller internal to a brand enrolled in Brand Registry.
+
+00:00:49.700 --> 00:00:56.100
+Simply select Brands in the main menu in Seller Central, then click Brand Analytics,
+
+00:00:56.100 --> 00:01:01.400
+or click All Brand Benefits, then locate the Brand Analytics card.
+
+00:01:01.400 --> 00:01:06.800
+For more information about access to Brand Analytics and other Brand Registry tools,
+
+00:01:06.800 --> 00:01:13.700
+see our modules in Seller University about requesting or managing access to brand selling benefits.
+
+00:01:13.700 --> 00:01:19.822
+After accessing the Brand Analytics Tool, you can select Market Basket Analysis from the list of
+
+00:01:19.822 --> 00:01:22.500
+reports at the top of the screen.
+
+00:01:22.500 --> 00:01:28.800
+The report lists your brand's products according to the number of orders received across all sellers.
+
+00:01:28.800 --> 00:01:35.242
+That means it captures your orders as well as any orders received by other sellers who list your
+
+00:01:35.242 --> 00:01:35.600
+products.
+
+00:01:35.600 --> 00:01:41.300
+In the row for each product, you'll see its asin and the number of orders received.
+
+00:01:41.300 --> 00:01:46.200
+You'll also see the three products that are most frequently purchased at the same time.
+
+00:01:46.200 --> 00:01:50.200
+Those three products will be listed by Title and Asin.
+
+00:01:50.200 --> 00:01:53.900
+They can belong to your brand or to a competitor.
+
+00:01:53.900 --> 00:01:58.100
+Next to all three products, you'll see a combination percent.
+
+00:01:58.100 --> 00:02:04.016
+That's the number of times the product was purchased with your product divided by the number of
+
+00:02:04.016 --> 00:02:06.800
+times any product was purchased with your product.
+
+00:02:06.800 --> 00:02:13.600
+For example, a flower pot that's part of your brand was purchased ten times with one other product.
+
+00:02:13.600 --> 00:02:19.600
+It was purchased four times with the first product shown in the Market Basket Analysis Report,
+
+00:02:19.600 --> 00:02:23.400
+which is another flower pot that's part of your brand.
+
+00:02:23.400 --> 00:02:29.654
+It was purchased three times with the second product in the report, which is a pack of seeds that's
+
+00:02:29.654 --> 00:02:31.300
+also part of your brand.
+
+00:02:31.300 --> 00:02:37.496
+It was purchased two times with the third product in the report, which is a watering can that isn't
+
+00:02:37.496 --> 00:02:38.800
+part of your brand.
+
+00:02:38.800 --> 00:02:44.300
+And it was purchased one time with a garden hose not shown in the report.
+
+00:02:44.300 --> 00:02:52.719
+In this scenario, the combination percent for the top three products shown in the report would be
+
+00:02:52.719 --> 00:02:54.700
+40%, 30%, and 20%.
+
+00:02:54.700 --> 00:03:00.972
+When you first access the Market Basket Analysis Report, it'll be defaulted to show your products
+
+00:03:00.972 --> 00:03:04.500
+across all categories and brands for the previous week.
+
+00:03:04.500 --> 00:03:10.100
+You can use the drop-down menus at the top to view a specific time period.
+
+00:03:10.100 --> 00:03:18.200
+When doing so, keep in mind that data is generally available in brand analytics within 72 hours.
+
+00:03:18.200 --> 00:03:23.700
+After selecting a time period, click the Apply button to refresh the report.
+
+00:03:23.700 --> 00:03:30.486
+You can also use filters to narrow the report so that the three products shown only belong to your
+
+00:03:30.486 --> 00:03:33.700
+brand or so that they only belong to competitors.
+
+00:03:33.700 --> 00:03:42.123
+Click Show Filters, then use the first drop-down menu to select either Same Brand Combination Only
+
+00:03:42.123 --> 00:03:44.600
+or Same Brand Combination Excluded.
+
+00:03:44.600 --> 00:03:49.700
+You can use the other drop-down menu to narrow the report to a specific brand.
+
+00:03:49.700 --> 00:03:56.941
+Or to narrow the report to a specific set of products, you can enter up to 100 ASINs in the search
+
+00:03:56.941 --> 00:03:59.700
+bar separated by either a space or comma.
+
+00:03:59.700 --> 00:04:04.700
+After setting filters, click the Refine Results button to refresh the report.
+
+00:04:04.700 --> 00:04:11.655
+If you'd like to add or remove columns on the Market Basket Analysis Report, click Customize Columns
+
+00:04:11.655 --> 00:04:13.700
+on the right-hand side.
+
+00:04:13.700 --> 00:04:16.700
+Then check or uncheck boxes in the pop-up.
+
+00:04:16.700 --> 00:04:20.700
+Click the Save button to return to the updated report.
+
+00:04:20.700 --> 00:04:25.700
+To download a copy of the report, click the Generate Download button.
+
+00:04:25.700 --> 00:04:32.907
+Then, in the pop-up, select either Simple View to download the report you see on screen or select
+
+00:04:32.907 --> 00:04:36.700
+Comprehensive View to download the report with all relevant columns.
+
+00:04:36.700 --> 00:04:42.922
+Click the Generate Download button to start your download, which you can monitor by accessing the
+
+00:04:42.922 --> 00:04:43.700
+Download Manager.
+
+00:04:43.700 --> 00:04:51.352
+Finally, if you want more information about how a specific metric is calculated, click Metrics Glossary
+
+00:04:51.352 --> 00:04:54.700
+to see a set of comprehensive definitions.
+
+00:04:54.700 --> 00:05:00.700
+On the Metrics Glossary page, you can expand each section to see additional details.
+
+00:05:00.700 --> 00:05:07.469
+We encourage brands to use all the features and functionality of the Market Basket Analysis Report
+
+00:05:07.469 --> 00:05:11.700
+to gain insights into their performance in the Amazon Store.
+
+00:05:11.700 --> 00:05:17.963
+Use it to understand how you might encourage sales of multiple products within your brand by bundling
+
+00:05:17.963 --> 00:05:18.700
+them together.
+
+00:05:18.700 --> 00:05:24.700
+Or use competitor products to identify opportunities to expand your catalog.
+
+00:05:24.700 --> 00:05:28.700
+This concludes our overview of the Market Basket Analysis Report.
+
+00:05:28.700 --> 00:05:36.350
+If you'd like step-by-step instructions for other brand analytics reports, see our series of modules
+
+00:05:36.350 --> 00:05:37.700
+in Seller University.
+
+00:05:37.700 --> 00:05:41.560
+Thank you, and happy selling in the Amazon Store!

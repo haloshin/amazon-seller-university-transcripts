@@ -1,0 +1,196 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.038
+Welcome to our training on the business discount insights tool.
+
+00:00:04.038 --> 00:00:10.500
+Amazon Business helps professional sellers set B2B prices and attract business customers using two
+
+00:00:10.500 --> 00:00:13.327
+basic mechanisms, business prices and quantity discounts.
+
+00:00:13.327 --> 00:00:20.596
+A business price is a lower price viewable by Amazon business customers for the purchase of a single
+
+00:00:20.596 --> 00:00:21.000
+unit.
+
+00:00:21.000 --> 00:00:26.660
+A quantity discount is an additional discount viewable by Amazon business customers for the purchase
+
+00:00:26.660 --> 00:00:28.547
+of two or more units.
+
+00:00:28.547 --> 00:00:34.962
+If you'd like to set business prices and quantity discounts, but aren't sure which products to discount
+
+00:00:34.962 --> 00:00:41.000
+or what discounts to set, you can use the business discount insights tool in Seller Central.
+
+00:00:41.000 --> 00:00:48.367
+This tool provides professional sellers with a list of B2B product recommendations along with suggested
+
+00:00:48.367 --> 00:00:50.967
+business prices and quantity discount tiers.
+
+00:00:50.967 --> 00:00:54.000
+Let's find out how the tool works.
+
+00:00:54.000 --> 00:01:00.303
+To access the Business Discount Insights tool, open the main menu in Seller Central, hover over
+
+00:01:00.303 --> 00:01:05.424
+B2B, click B2B Central, then click Business Discount Insights.
+
+00:01:05.424 --> 00:01:12.515
+On the Business Discount Insights page, you'll see a list of the top 10 products from your catalog
+
+00:01:12.515 --> 00:01:14.879
+that we recommend business discounts for.
+
+00:01:14.879 --> 00:01:20.000
+These products are ranked based on the potential impact of a business discount.
+
+00:01:20.000 --> 00:01:26.375
+The higher the rank, the more likely the product is to attract Amazon business customers when a
+
+00:01:26.375 --> 00:01:28.625
+B2B discount is applied.
+
+00:01:28.625 --> 00:01:34.625
+Next to each product, we list its fulfillment method, MFN for products you fulfill directly, and
+
+00:01:34.625 --> 00:01:38.000
+FBA for products you send to Amazon for fulfillment.
+
+00:01:38.000 --> 00:01:45.485
+We then list your current landed price for the product, the current B2B featured offer price, the
+
+00:01:45.485 --> 00:01:51.000
+difference between these two prices expressed as a percentage, and a recommended business price.
+
+00:01:51.000 --> 00:01:57.128
+Your landed price is the single unit price plus shipping that Amazon business customers see when
+
+00:01:57.128 --> 00:01:58.660
+they view your offer.
+
+00:01:58.660 --> 00:02:05.936
+The B2B featured offer price is the single unit price plus shipping that's prominent on the products
+
+00:02:05.936 --> 00:02:09.000
+detail page when viewed by Amazon business customers.
+
+00:02:09.000 --> 00:02:14.735
+The percentage difference between these two prices can help you estimate the business discount you'd
+
+00:02:14.735 --> 00:02:22.000
+need to offer on a single unit in order for it to become the B2B featured offer.
+
+00:02:22.000 --> 00:02:28.415
+The recommended business price is the single unit B2B price we suggest for the product.
+
+00:02:28.415 --> 00:02:35.208
+We base recommended business prices on current B2B featured offer prices as well as the average
+
+00:02:35.208 --> 00:02:41.245
+business discounts set by other sellers in the same price bands for the same product categories
+
+00:02:41.245 --> 00:02:42.000
+or subcategories.
+
+00:02:42.000 --> 00:02:47.795
+This means that our recommended business price may be close to your landed price after the percent
+
+00:02:47.795 --> 00:02:53.932
+difference in the previous column is applied, or it may be lower if other sellers offer other products
+
+00:02:53.932 --> 00:02:57.000
+in the same price band and category for less.
+
+00:02:57.000 --> 00:03:03.857
+In addition to a recommended business price for a single unit, you'll see recommended tiers for
+
+00:03:03.857 --> 00:03:06.000
+quantity discounts in each row.
+
+00:03:06.000 --> 00:03:13.200
+These are the numbers of units we recommend you group and sell to business customers at an additional
+
+00:03:13.200 --> 00:03:13.600
+discount.
+
+00:03:13.600 --> 00:03:20.000
+We base our suggestions on common quantities bought by business customers in the same price bands
+
+00:03:20.000 --> 00:03:22.000
+for the same product subcategories.
+
+00:03:22.000 --> 00:03:29.000
+As you use the business discount insights tool, remember to keep your own profits, margins and costs
+
+00:03:29.000 --> 00:03:29.824
+in mind.
+
+00:03:29.824 --> 00:03:36.000
+Perform your own analysis and make sure our suggestions align with your operations and goals.
+
+00:03:36.000 --> 00:03:41.885
+To see a full list of every product in your catalog that we suggest business discounts for, click
+
+00:03:41.885 --> 00:03:46.135
+the generate a report button in the upper right corner of the tool.
+
+00:03:46.135 --> 00:03:51.365
+When you're ready to set business discounts for a product, click the manage inventory button at
+
+00:03:51.365 --> 00:03:53.000
+the end of its row.
+
+00:03:53.000 --> 00:03:58.895
+If the business price column isn't already visible on the manage inventory page, click the preferences
+
+00:03:58.895 --> 00:04:05.895
+button, check the box next to business price on the next page, and then scroll down and click the
+
+00:04:05.895 --> 00:04:07.000
+save changes button.
+
+00:04:07.000 --> 00:04:13.316
+You can also set dynamic business discounts for your products using the automate pricing tool in
+
+00:04:13.316 --> 00:04:14.105
+Seller Central.
+
+00:04:14.105 --> 00:04:20.026
+Professional sellers can access this tool anytime by opening the main menu, hovering over pricing
+
+00:04:20.026 --> 00:04:22.000
+and then clicking automate pricing.
+
+00:04:22.000 --> 00:04:28.222
+For step-by-step instructions for setting business prices and quantity discounts using automate
+
+00:04:28.222 --> 00:04:34.000
+pricing, see our module create and apply business pricing rules in Seller University.
+
+00:04:34.000 --> 00:04:40.737
+Finally, to monitor the impact of the business discounts you set, use the sales snapshot dashboard
+
+00:04:40.737 --> 00:04:42.000
+in Seller Central.
+
+00:04:42.000 --> 00:04:49.273
+To view this dashboard, open the main menu, hover over B2B, and then click B2B Central.
+
+00:04:49.273 --> 00:04:56.182
+Set a relevant date range using the drop-down menu and look for trends or turning points that align
+
+00:04:56.182 --> 00:04:58.000
+with the discounts you set.
+
+00:04:58.000 --> 00:05:02.211
+This concludes our training on the business discount insights tool.
+
+00:05:02.211 --> 00:05:06.000
+Thank you and happy selling in the Amazon store.

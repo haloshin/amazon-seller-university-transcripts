@@ -1,0 +1,3 @@
+# How to add a custom image to your Sponsored Brands campaign
+
+Add a custom image to your sponsored Brands product collection campaign to help tell your brand story. Here's how. When you're setting up your campaign, you'll find an option in the creative section to include a custom image. From here, add your image, like one showing your product in use. You can either upload one from your computer or choose from images you've already added to your creative assets. Make any adjustments, then click Done when you're ready.

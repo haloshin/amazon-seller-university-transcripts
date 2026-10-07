@@ -1,0 +1,28 @@
+(upbeat music)
+ The Amazon warehousing and distribution inventory dashboard
+ provides you with near real time inventory data
+ and allows you to take actions directly from the page,
+ making it a valuable tool for inventory management.
+ To access the dashboard in Seller Central,
+ go to the Inventory dropdown menu
+ and then select warehousing and distribution, AWD.
+ Inventory data can be filtered by SKU.
+ You can also sort inventory data for your SKUs
+ by clicking on a column.
+ For example, all SKUs in AWD.
+ All the data is refreshed near real time,
+ except for available in FBA, which is refreshed daily.
+ The dashboard also allows you to take action
+ on your inventory.
+ To take actions like sending inventory to AWD,
+ the action menu can be found
+ on the right side of the dashboard.
+ If you believe Amazon's auto replenishment
+ won't be enough to meet expected sales,
+ you can also manually move inventory
+ by clicking move from AWD on the top right corner
+ of the page.
+ Have any questions?
+ More detailed information and instructions
+ on how to navigate the dashboard can be found
+ on the AWD Inventory Help page.

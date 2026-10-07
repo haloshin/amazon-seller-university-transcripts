@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.000
+Welcome to our training "Manage Your Experiments" - plan a test of your listing content.
+
+00:00:06.000 --> 00:00:12.000
+Brands enrolled in Amazon Brand Registry enjoy greater control over their product detail pages,
+
+00:00:12.000 --> 00:00:18.000
+but it can still be challenging to decide which listing content will drive the most sales.
+
+00:00:18.000 --> 00:00:23.000
+That's why we created the "Manage Your Experiments" tool, or M-Y-E.
+
+00:00:23.000 --> 00:00:29.955
+M-Y-E lets brands compare components of their current detail page content with an alternate version
+
+00:00:29.955 --> 00:00:32.000
+to see which performs better.
+
+00:00:32.000 --> 00:00:38.588
+You can test two main images, product titles, product descriptions, or sets of "About This Item"
+
+00:00:38.588 --> 00:00:39.000
+bullets,
+
+00:00:39.000 --> 00:00:43.000
+or you can test two versions of an A+ content product description.
+
+00:00:43.000 --> 00:00:49.667
+In this first video of the "Manage Your Experiments" series, we'll show you how to plan an M-Y-E
+
+00:00:49.667 --> 00:00:50.000
+test.
+
+00:00:50.000 --> 00:00:56.720
+You can also learn how to set up a test in the M-Y-E tool and how to interpret the results of an
+
+00:00:56.720 --> 00:00:57.000
+experiment
+
+00:00:57.000 --> 00:01:01.000
+by watching the second and third videos in this series.
+
+00:01:01.000 --> 00:01:05.000
+Before we review the steps for planning an M-Y-E test,
+
+00:01:05.000 --> 00:01:11.609
+it's important to note that a product needs to belong to a brand enrolled in Brand Registry to be
+
+00:01:11.609 --> 00:01:13.000
+part of an experiment.
+
+00:01:13.000 --> 00:01:19.000
+The seller setting up the experiment in M-Y-E also needs to be internal to the brand.
+
+00:01:19.000 --> 00:01:24.333
+If you'd like more information about Brand Registry and access to brand selling benefits like M-
+
+00:01:24.333 --> 00:01:25.000
+Y-E,
+
+00:01:25.000 --> 00:01:29.000
+see the series of modules in our Seller University course,
+
+00:01:29.000 --> 00:01:32.000
+launch your brand in the Amazon store.
+
+00:01:32.000 --> 00:01:37.913
+You should start planning your M-Y-E experiment by identifying the ASINs associated with the detail
+
+00:01:37.913 --> 00:01:40.000
+page content you want to test.
+
+00:01:40.000 --> 00:01:47.000
+We recommend going into the M-Y-E tool to double-check that those ASINs are eligible for testing.
+
+00:01:47.000 --> 00:01:51.000
+Hover over Brands in the main menu in Seller Central.
+
+00:01:51.000 --> 00:01:57.000
+Click Build Your Brand, then click Manage Your Experiments in the list of supporting programs.
+
+00:01:57.000 --> 00:02:04.000
+On the next page, click the Get Started with Manage Your Experiments button to go to the tool.
+
+00:02:04.000 --> 00:02:10.857
+Then click the Create a New Experiment drop-down menu and select the type of listing content you're
+
+00:02:10.857 --> 00:02:12.000
+planning to test.
+
+00:02:12.000 --> 00:02:19.200
+If you select bullet points, main image, product description, or product title, a pop-up containing
+
+00:02:19.200 --> 00:02:21.000
+reference ASINs will appear.
+
+00:02:21.000 --> 00:02:27.552
+If you select A+ content, you'll be taken to the A+ content manager where you can click the Select
+
+00:02:27.552 --> 00:02:31.000
+a Reference ASIN button to open a similar pop-up.
+
+00:02:31.000 --> 00:02:37.296
+Products are displayed as reference ASINs in either pop-up when they've had enough detail page traffic
+
+00:02:37.296 --> 00:02:41.000
+in recent weeks to support reliable M-Y-E testing.
+
+00:02:41.000 --> 00:02:45.000
+The exact amount of traffic needed varies by product category.
+
+00:02:45.000 --> 00:02:49.000
+It may require several dozen orders per week or more.
+
+00:02:49.000 --> 00:02:57.000
+Each of the reference ASINs displayed for M-Y-E will also have an eligibility status listed.
+
+00:02:57.000 --> 00:03:04.000
+If an ASIN is currently ineligible for M-Y-E testing, you'll see a reason and may be able to make
+
+00:03:04.000 --> 00:03:06.000
+adjustments so the ASIN becomes eligible.
+
+00:03:06.000 --> 00:03:13.083
+As you review eligible reference ASINs, keep in mind that for title and image experiments, you can
+
+00:03:13.083 --> 00:03:16.000
+test multiple products within a variation family.
+
+00:03:16.000 --> 00:03:23.125
+When you select an ASIN that's part of a variation family during setup, M-Y-E will populate both
+
+00:03:23.125 --> 00:03:25.000
+the parent and child products.
+
+00:03:25.000 --> 00:03:31.800
+You'll be able to deselect individual child products, but the parent product must be part of your
+
+00:03:31.800 --> 00:03:37.000
+M-Y-E test because it's the primary driver of detail page traffic.
+
+00:03:37.000 --> 00:03:44.125
+If you're planning to test A+ content with M-Y-E, keep in mind that we'll cascade your experiment
+
+00:03:44.125 --> 00:03:49.000
+across all products that have your existing content published on their detail pages.
+
+00:03:49.000 --> 00:03:57.636
+After you select the A+ content you want to test during setup, you'll be able to see all associated
+
+00:03:57.636 --> 00:03:59.000
+ASINs, including variations.
+
+00:03:59.000 --> 00:04:03.263
+But you won't be able to deselect associated ASINs.
+
+00:04:03.263 --> 00:04:08.000
+That's to prevent mismatched A+ content from appearing to customers.
+
+00:04:08.000 --> 00:04:13.333
+While identifying ASINs for your experiment, it's also important to remember that you can only run
+
+00:04:13.333 --> 00:04:17.000
+one M-Y-E test at a time on a product.
+
+00:04:17.000 --> 00:04:23.750
+If you're testing two different titles, you can't also test two images for the same ASIN, but you
+
+00:04:23.750 --> 00:04:29.000
+can run multiple M-Y-E tests for different ASINs at the same time.
+
+00:04:29.000 --> 00:04:36.500
+And we recommend running multiple tests on the same ASIN one after the other to help refine results
+
+00:04:36.500 --> 00:04:39.000
+and increase the impact of testing.
+
+00:04:39.000 --> 00:04:45.400
+After identifying ASINs for your M-Y-E test, the next step is defining a hypothesis.
+
+00:04:45.400 --> 00:04:52.200
+We recommend writing it down and collecting feedback so you can be sure your hypothesis is specific
+
+00:04:52.200 --> 00:04:55.000
+and based on a well-defined assumption.
+
+00:04:55.000 --> 00:05:01.538
+For example, your hypothesis might be adding descriptive detail to my product title will increase
+
+00:05:01.538 --> 00:05:08.949
+the number of customers who make a purchase, or replacing A+ content product images with an infographic
+
+00:05:08.949 --> 00:05:12.000
+will increase the number of units sold.
+
+00:05:12.000 --> 00:05:19.049
+As the final piece of planning for your M-Y-E experiment, you'll design your alternate content.
+
+00:05:19.049 --> 00:05:23.195
+Draft your title about this item bullets or product description.
+
+00:05:23.195 --> 00:05:29.000
+Create a new main image or collect everything you'll need for new A+ content.
+
+00:05:29.000 --> 00:05:36.600
+Doing this work now can help prevent errors during setup for your test, and it will allow you to
+
+00:05:36.600 --> 00:05:40.200
+build your experiment in M-Y-E more quickly.
+
+00:05:40.200 --> 00:05:45.000
+While designing your alternate content, we recommend reviewing relevant requirements and guidelines
+
+00:05:45.000 --> 00:05:47.000
+on Seller Central Help pages.
+
+00:05:47.000 --> 00:05:53.136
+You should also keep in mind that successful experiments usually test content very different from
+
+00:05:53.136 --> 00:05:56.000
+what's already published in the Amazon Store.
+
+00:05:56.000 --> 00:06:03.034
+Test a 50-character product title against a 200-character title, for example, or test static A+
+
+00:06:03.034 --> 00:06:08.000
+content images of your products against images that show them in motion.
+
+00:06:08.000 --> 00:06:11.972
+This concludes our training on planning an M-Y-E test.
+
+00:06:11.972 --> 00:06:18.111
+We encourage you to watch the next video in our series, which provides step-by-step instructions
+
+00:06:18.111 --> 00:06:21.000
+for setting up an M-Y-E experiment.
+
+00:06:21.000 --> 00:06:27.000
+Thank you, and happy selling in the Amazon Store!

@@ -1,0 +1,49 @@
+# Guide to shipping settings
+
+Welcome to our understanding shipping settings training. In this video we'll
+ discuss what the customer delivery promise is, how your shipping settings
+ impact it, what shipping settings are, and how you can configure them. By the end of
+ the video you'll know how to configure your general shipping settings and
+ identify how they'll affect your customer delivery promise. When shopping in the
+ Amazon store a customer sees a specific date or date range of when a product can
+ be expected to arrive on a product detail page. That date or date range is
+ what we call a customer delivery promise. The customer delivery promise for a
+ product is composed of handling time, transit time, and a small buffer in case
+ of the unexpected like inclement weather. Keep in mind that non-business days such
+ as weekends and holidays can also impact your handling time. This is why
+ configuring your shipping settings can help you meet your customer delivery
+ promises. Shipping settings are the delivery options you can configure to
+ determine your customer delivery promise. Your shipping settings have two
+ sections your shipping templates and your general shipping settings. In this
+ video we'll specifically focus on general shipping settings. To learn more
+ about shipping templates check out our video Understand Shipping Templates. In
+ Seller Central click the gear icon in the upper right corner and then click
+ shipping settings. From here you'll see two tabs the general shipping settings
+ tab and the shipping templates tab. By clicking the general shipping settings
+ tab you can review and edit your shipping information such as your default
+ shipping address, order fulfillment settings, handling time, and holiday
+ shipping schedules. Under default shipping address you can configure the
+ primary physical location you use for shipping orders. Also under order
+ fulfillment settings you can configure your general fulfillment settings as
+ well as settings for shipping region automation. You can adjust your cutoff
+ time settings either by day of the week or by carrier. You can also adjust settings
+ for weekend operations and deliveries. Adjusting your weekend delivery settings
+ can help shorten your customer delivery promise if your business is open and if
+ the carriers you use ship products on weekends. Under the handling time section
+ you can set your default handling time for your account to either one or two
+ days. This will be the number of days you have to package and hand your products
+ over to your carrier. This will apply to all of your products unless you set an
+ asin-specific handling time for that product. You can also set an order
+ handling capacity which is the number of orders you can manage per day within
+ your default handling time. Any order above this limit will receive one more
+ day of handling time without being considered a late shipment. In the
+ holidays section you can see which days Amazon considers holidays. These won't
+ count as operating days unless you decide to enable them. You can also take a tour
+ of your shipping settings page by clicking take the tour. Make sure to check
+ out our help pages on how to create new shipping templates or to edit existing
+ ones. Other help pages also explain weekend carrier operations and holiday
+ settings. In this video you've learned about the customer delivery promise what
+ settings affect it and how to navigate the general shipping settings tab in
+ Seller Central. Make sure to return to the shipping settings page to review and
+ update your settings and templates as needed. This concludes our training on
+ shipping settings. Thank you and happy selling in the Amazon store.

@@ -1,0 +1,310 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.240
+Welcome to our training on how to upload your own size charts for your products in Seller Central.
+
+00:00:06.240 --> 00:00:13.907
+Our self-service size chart tool can help you upload a new size chart or edit an existing one without
+
+00:00:13.907 --> 00:00:15.440
+contacting Selling Partner Support.
+
+00:00:15.440 --> 00:00:19.320
+Size charts are the industry standard for sizing communication.
+
+00:00:19.320 --> 00:00:25.073
+Customers rely on size charts to understand product sizing and make informed purchase decisions
+
+00:00:25.073 --> 00:00:28.360
+on the best fit for their body measurements.
+
+00:00:28.360 --> 00:00:35.022
+Including accurate and reliable sizing information helps reduce customer returns due to incorrect
+
+00:00:35.022 --> 00:00:36.560
+sizing or fit.
+
+00:00:36.560 --> 00:00:42.850
+In this training, we will review what information to include in your size charts, how to upload
+
+00:00:42.850 --> 00:00:49.880
+them, how to edit existing size charts, and how to bulk upload up to 1,000 ASINs at a time.
+
+00:00:49.880 --> 00:00:55.360
+To get started, you'll need to know what information needs to be included in your size chart.
+
+00:00:55.360 --> 00:01:01.693
+This can vary depending on your product, as well as if you are including only local or local and
+
+00:01:01.693 --> 00:01:02.360
+international sizes.
+
+00:01:02.360 --> 00:01:06.760
+To create your size chart, you will need three pieces of information.
+
+00:01:06.760 --> 00:01:08.760
+First, your brand size.
+
+00:01:08.760 --> 00:01:14.993
+These are the sizes listed on your manufacturer label and should be the exact sizes the customer
+
+00:01:14.993 --> 00:01:19.760
+references when choosing from the size selector drop-down on your product page.
+
+00:01:19.760 --> 00:01:22.960
+Second, you will need the corresponding body measurements.
+
+00:01:22.960 --> 00:01:25.760
+These will vary based on the product.
+
+00:01:25.760 --> 00:01:32.124
+For example, men's pants will typically require waist and in-seam measurements, whereas women's
+
+00:01:32.124 --> 00:01:35.760
+dresses may require bust, waist, and hip measurements.
+
+00:01:35.760 --> 00:01:39.760
+You will need these measurements for each brand size you sell.
+
+00:01:39.760 --> 00:01:44.760
+These can be a range or one value and should be in the local unit of measurement.
+
+00:01:44.760 --> 00:01:50.760
+Third, you may need to include other country sizes as well as local sizes in your size chart.
+
+00:01:50.760 --> 00:01:57.348
+This is especially important for products like shoes which don't always have universal translations
+
+00:01:57.348 --> 00:01:58.760
+between international sizes.
+
+00:01:58.760 --> 00:02:04.655
+Once you have all the essential information for your product, you can get started with uploading
+
+00:02:04.655 --> 00:02:05.760
+your size chart.
+
+00:02:05.760 --> 00:02:12.305
+To access our self-service size chart tool, go to Catalog in the Seller Central main menu, then
+
+00:02:12.305 --> 00:02:13.760
+click Add Size Charts.
+
+00:02:13.760 --> 00:02:20.189
+The size chart tool is available for brand representatives and authorized resellers who have been
+
+00:02:20.189 --> 00:02:22.760
+registered through the Amazon brand registry.
+
+00:02:22.760 --> 00:02:30.653
+You gain automatic entry to the tool upon registration if you have a product listing in apparel,
+
+00:02:30.653 --> 00:02:35.760
+shoes, sports, or outdoors where body size chart information is applicable.
+
+00:02:35.760 --> 00:02:41.792
+If you're unable to access the size chart tool, you can contact your primary account manager to
+
+00:02:41.792 --> 00:02:46.760
+enable size chart permissions by clicking the Settings icon and going to User Permissions.
+
+00:02:46.760 --> 00:02:52.760
+To edit or upload a new size chart, first, select your target location.
+
+00:02:52.760 --> 00:02:54.760
+Next, search for an ASIN.
+
+00:02:54.760 --> 00:03:01.427
+Once you have selected your location and ASIN, you will be able to download a size chart template
+
+00:03:01.427 --> 00:03:04.760
+based on the location and product type you selected.
+
+00:03:04.760 --> 00:03:11.737
+To add or edit a size chart for multiple ASINs under one product type, you can search for any ASIN
+
+00:03:11.737 --> 00:03:17.318
+within that product type that is currently using the correct size chart and it will automatically
+
+00:03:17.318 --> 00:03:19.760
+load the parent ASIN in the tool.
+
+00:03:19.760 --> 00:03:25.760
+Depending on the product, you may have the option to choose between a pre-filled template with existing
+
+00:03:25.760 --> 00:03:28.760
+measurements based on the ASIN or a blank template.
+
+00:03:28.760 --> 00:03:35.760
+If there isn't a size chart template available for the ASIN you selected, check that your website
+
+00:03:35.760 --> 00:03:41.525
+display group, department attribute, and product type don't have any catalog defects before contacting
+
+00:03:41.525 --> 00:03:42.760
+Selling Partner Support.
+
+00:03:42.760 --> 00:03:49.510
+If the size chart still is not available, you can contact Selling Partner Support to submit a request
+
+00:03:49.510 --> 00:03:51.760
+for a new size chart template.
+
+00:03:51.760 --> 00:03:57.918
+Size chart templates are location specific and measurements and information requirements will be
+
+00:03:57.918 --> 00:04:00.760
+unique to the location you selected.
+
+00:04:00.760 --> 00:04:03.760
+Templates are downloaded as Excel files.
+
+00:04:03.760 --> 00:04:09.760
+Make sure you don't add or delete rows or columns as this will cause your template upload to fail.
+
+00:04:09.760 --> 00:04:16.392
+Now you're ready to enter or edit the measurements in your template based on your ASIN or product
+
+00:04:16.392 --> 00:04:16.760
+type.
+
+00:04:16.760 --> 00:04:22.189
+Any cells you leave empty will not appear on the size chart when it is published on the product
+
+00:04:22.189 --> 00:04:22.760
+detail page.
+
+00:04:22.760 --> 00:04:29.617
+Make sure to submit all measurements in the same unit, such as centimeters or inches, that is listed
+
+00:04:29.617 --> 00:04:30.760
+in the template.
+
+00:04:30.760 --> 00:04:36.942
+If necessary, the unit type will be automatically converted for you when the size chart is published
+
+00:04:36.942 --> 00:04:38.760
+on the product detail page.
+
+00:04:38.760 --> 00:04:44.991
+After you have added all the measurements for your ASIN or product type, you will select from one
+
+00:04:44.991 --> 00:04:47.760
+of two ways to apply your size chart.
+
+00:04:47.760 --> 00:04:50.760
+The first option you can select is across product type.
+
+00:04:50.760 --> 00:04:57.960
+This will apply your size chart to all ASINs across one product type from your brand, for example,
+
+00:04:57.960 --> 00:04:58.760
+Men's Pants.
+
+00:04:58.760 --> 00:05:04.093
+This is the least recommended option since different ASINs in a product group could have different
+
+00:05:04.093 --> 00:05:07.760
+sizing schemes or measurements that are specific to a certain ASINs.
+
+00:05:07.760 --> 00:05:15.760
+ASINs with an existing single chart upload will be excluded from product type uploads.
+
+00:05:15.760 --> 00:05:19.760
+The second option you can choose is Select ASINs.
+
+00:05:19.760 --> 00:05:26.093
+This allows you to apply your size chart to a single ASIN or multiple ASINs under one location and
+
+00:05:26.093 --> 00:05:26.760
+product type.
+
+00:05:26.760 --> 00:05:33.189
+Whenever possible, try to upload only one size chart table to a single ASIN to ensure the information
+
+00:05:33.189 --> 00:05:36.760
+is as accurate and specific to the ASIN as possible.
+
+00:05:36.760 --> 00:05:43.760
+Choosing this option is most likely to reduce returns related to incorrect sizing and fit.
+
+00:05:43.760 --> 00:05:50.803
+However, you can upload up to three size chart tables when uploading to a single ASIN to support
+
+00:05:50.803 --> 00:05:52.760
+ASINs with specific sizing information.
+
+00:05:52.760 --> 00:05:59.760
+For example, a set that includes top and bottom measurements or a plus and regular size chart.
+
+00:05:59.760 --> 00:06:04.760
+You can add up to 1,000 unique ASINs when using the Select ASIN option.
+
+00:06:04.760 --> 00:06:08.760
+Once you have added your ASINs, click Validate.
+
+00:06:08.760 --> 00:06:13.760
+A notification will pop up to let you know if they were validated successfully.
+
+00:06:13.760 --> 00:06:20.348
+If any were not validated, click Download the Validation Report in the notification box to learn
+
+00:06:20.348 --> 00:06:20.760
+why.
+
+00:06:20.760 --> 00:06:25.760
+You can still proceed with the size chart upload for all validated ASINs.
+
+00:06:25.760 --> 00:06:31.578
+Once your ASINs have been validated, you can upload your completed size chart template into the
+
+00:06:31.578 --> 00:06:33.760
+Self Service Size Chart Upload tool.
+
+00:06:33.760 --> 00:06:38.760
+If your template was filled out correctly, you will see a preview of your size chart.
+
+00:06:38.760 --> 00:06:43.760
+Review the size chart preview carefully to ensure everything is correct.
+
+00:06:43.760 --> 00:06:50.240
+If your size chart has errors, you may get a notification to correct these errors and re-upload
+
+00:06:50.240 --> 00:06:52.760
+your size chart before you can publish.
+
+00:06:52.760 --> 00:06:59.076
+Errors may include mismatched sizes from your size selector on the product page, missing measurements,
+
+00:06:59.076 --> 00:07:00.760
+incorrect units of measurement,
+
+00:07:00.760 --> 00:07:06.760
+incorrect measurement range order, or garment measurements being used instead of body measurements.
+
+00:07:06.760 --> 00:07:13.060
+Correct the errors listed in your error report in the Excel template, and then re-upload the template
+
+00:07:13.060 --> 00:07:13.760
+to continue.
+
+00:07:13.760 --> 00:07:18.760
+The size chart preview will populate when all errors have been addressed.
+
+00:07:18.760 --> 00:07:24.760
+After double-checking your size chart preview, your size chart is ready to publish.
+
+00:07:24.760 --> 00:07:31.412
+Size charts will be visible on your Amazon product detail page within 8 hours of publishing through
+
+00:07:31.412 --> 00:07:33.760
+our Self Service Size Chart tool.
+
+00:07:33.760 --> 00:07:39.710
+Now you're ready to start uploading and editing your own size charts with our Self Service Size
+
+00:07:39.710 --> 00:07:40.760
+Chart Upload tool.
+
+00:07:40.760 --> 00:07:44.760
+Thank you and happy selling in the Amazon store.

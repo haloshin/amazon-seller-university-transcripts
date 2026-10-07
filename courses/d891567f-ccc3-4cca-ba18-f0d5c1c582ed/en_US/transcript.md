@@ -1,0 +1,4 @@
+# How to add negative product targets to a new Sponsored Products campaign
+
+Let's see how to add negative product targets to a new sponsored products campaign. If you're using product targeting, you'll find negative product targeting toward the end of creating your campaign. You can search for brands you don't want your ad to show against, and then click "Exclude." You can also exclude only certain products from your targeting, and there are three ways to do this. Search for products and click "Exclude," enter ASINs one by one, or upload a list. Now, when you launch your campaign, your ad won't show against these products.
+ [MUSIC PLAYING]

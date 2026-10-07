@@ -1,0 +1,385 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.737
+Welcome to our training, "Manage Your Experiments, Set Up a Test for Listing Content." In this second
+
+00:00:05.737 --> 00:00:11.115
+video of the "Manage Your Experiments" series, you'll get step-by-step instructions for setting
+
+00:00:11.115 --> 00:00:14.341
+up a test in the M-Y-E tool.
+
+00:00:14.341 --> 00:00:21.154
+If you haven't watched our first video on planning an M-Y-E test, we recommend viewing it before
+
+00:00:21.154 --> 00:00:23.305
+you continue with this second training.
+
+00:00:23.305 --> 00:00:29.400
+We also recommend watching our third video to learn how to interpret the results of an experiment.
+
+00:00:29.400 --> 00:00:35.720
+Before we review the steps for setting up an M-Y-E test, remember that a product needs to belong
+
+00:00:35.720 --> 00:00:41.155
+to a brand enrolled in Amazon Brand Registry to be part of an experiment.
+
+00:00:41.155 --> 00:00:42.320
+The seller setting
+
+00:00:42.320 --> 00:00:47.278
+up the experiment in M-Y-E also needs to be internal to the brand.
+
+00:00:47.278 --> 00:00:48.600
+If you'd like more
+
+00:00:48.600 --> 00:00:55.080
+information about Brand Registry and access to brand-selling benefits like M-Y-E, see
+
+00:00:55.080 --> 00:01:01.000
+the series of modules in our Seller University course, launch your brand in the Amazon store.
+
+00:01:01.000 --> 00:01:07.160
+When you've finished planning your M-Y-E test, you can begin setup in Seller Central any time.
+
+00:01:07.160 --> 00:01:10.485
+Hover over "Brands" in the main menu.
+
+00:01:10.485 --> 00:01:14.760
+Click "Build Your Brand." Then click "Manage Your Experiments"
+
+00:01:14.760 --> 00:01:17.259
+in the list of supporting programs.
+
+00:01:17.259 --> 00:01:21.840
+On the next page, click the "Get Started with Manage Your Experiments"
+
+00:01:21.840 --> 00:01:24.132
+button to go to the tool.
+
+00:01:24.132 --> 00:01:29.480
+Then click the "Create a New Experiment drop-down" menu and select the type
+
+00:01:29.480 --> 00:01:32.508
+of listing content you want to test.
+
+00:01:32.508 --> 00:01:36.400
+If you select bullet points, main image, product description,
+
+00:01:36.400 --> 00:01:42.095
+or product title, you'll then select your reference asin in the pop-up and continue setup in the
+
+00:01:42.095 --> 00:01:43.360
+M-Y-E tool.
+
+00:01:43.360 --> 00:01:50.800
+Remember that if you're testing a product title or main image, M-Y-E will populate your experiment
+
+00:01:50.800 --> 00:01:53.611
+with both parent and child products.
+
+00:01:53.611 --> 00:01:57.360
+You'll be able to deselect individual child products,
+
+00:01:57.360 --> 00:02:03.840
+but the parent product must be part of your M-Y-E test because it's the primary driver of detail
+
+00:02:03.840 --> 00:02:04.707
+page traffic.
+
+00:02:04.707 --> 00:02:12.080
+If you select A+ content as your test type, you'll be taken to the A+ content manager
+
+00:02:12.080 --> 00:02:17.413
+where you can click the "Select a Reference Asin" button to open a similar pop-up.
+
+00:02:17.413 --> 00:02:18.080
+You'll then
+
+00:02:18.080 --> 00:02:23.107
+continue setting up your M-Y-E experiment in the A+ content manager.
+
+00:02:23.107 --> 00:02:25.040
+Remember that we cascade your
+
+00:02:25.040 --> 00:02:30.560
+experiment across all products that have your existing content published on their detail pages.
+
+00:02:31.760 --> 00:02:38.080
+You'll be able to see all these associated asins later when you select the A+ content you want to
+
+00:02:38.080 --> 00:02:38.508
+test.
+
+00:02:38.508 --> 00:02:45.360
+But to prevent mismatched A+ content from appearing to customers, you won't be able to deselect
+
+00:02:45.360 --> 00:02:46.240
+associated asins.
+
+00:02:46.240 --> 00:02:53.280
+After selecting a reference asin in either the M-Y-E tool or A+ content manager,
+
+00:02:53.280 --> 00:02:56.668
+you can review and add details to your test.
+
+00:02:56.668 --> 00:02:59.680
+If you're testing a title, image, product description,
+
+00:02:59.680 --> 00:03:05.840
+or about this item bullets, your experiment's details will automatically default to help optimize
+
+00:03:05.840 --> 00:03:06.536
+your test.
+
+00:03:06.536 --> 00:03:11.064
+But you can review and update them by clicking the "View Settings" toggle.
+
+00:03:11.064 --> 00:03:11.760
+You can
+
+00:03:11.760 --> 00:03:17.120
+update the name for your experiment, which helps you identify and review your test results later.
+
+00:03:17.680 --> 00:03:22.071
+You can also add the hypothesis you developed during M-Y-E planning.
+
+00:03:22.071 --> 00:03:23.760
+This can help you assess
+
+00:03:23.760 --> 00:03:26.124
+your results when they're available weeks later.
+
+00:03:26.124 --> 00:03:29.840
+The last details for your M-Y-E test are duration,
+
+00:03:29.840 --> 00:03:31.686
+start date, and publication.
+
+00:03:31.686 --> 00:03:35.840
+For duration, the default is To significance, meaning we'll
+
+00:03:35.840 --> 00:03:40.053
+automatically end your experiment when enough data has been collected.
+
+00:03:40.053 --> 00:03:42.160
+For start date, the default
+
+00:03:42.160 --> 00:03:47.040
+is the first day after the standard validation period for the content type you're testing.
+
+00:03:47.680 --> 00:03:53.200
+You can adjust your start date by clicking the calendar icon and selecting any date after the
+
+00:03:53.200 --> 00:03:54.544
+content validation period.
+
+00:03:54.544 --> 00:03:59.920
+Or you can adjust your experiment's start date and duration by selecting
+
+00:03:59.920 --> 00:04:00.720
+set duration.
+
+00:04:00.720 --> 00:04:07.520
+If you select a specific duration for your M-Y-E test instead of using To significance,
+
+00:04:07.520 --> 00:04:13.280
+we recommend using eight or ten weeks whenever possible because shorter durations can produce
+
+00:04:13.280 --> 00:04:14.178
+misleading results.
+
+00:04:14.178 --> 00:04:19.120
+Next, you'll see the default "Start My Experiment" sooner if possible.
+
+00:04:19.840 --> 00:04:23.884
+This means we'll move your start date up if we complete validation early.
+
+00:04:23.884 --> 00:04:25.440
+But you can de-select
+
+00:04:25.440 --> 00:04:30.356
+this setting if you prefer to begin your experiment on the original start date.
+
+00:04:30.356 --> 00:04:31.760
+If you're running a
+
+00:04:31.760 --> 00:04:37.120
+title or image experiment, you'll also see a default for auto-publishing winning content.
+
+00:04:37.840 --> 00:04:42.480
+If you keep this setting defaulted, we'll automatically replace your current title or
+
+00:04:42.480 --> 00:04:46.530
+image with the alternate version if it performs significantly better.
+
+00:04:46.530 --> 00:04:48.960
+But you can de-select this
+
+00:04:48.960 --> 00:04:51.661
+setting if you prefer to publish manually.
+
+00:04:51.661 --> 00:04:55.520
+If you're using M-Y-E to test A+ content,
+
+00:04:55.520 --> 00:04:58.917
+your experiment's details won't be automatically defaulted.
+
+00:04:58.917 --> 00:05:02.800
+But you can enter a name and hypothesis
+
+00:05:02.800 --> 00:05:05.893
+and select a duration and start date manually.
+
+00:05:05.893 --> 00:05:09.760
+After the details for your M-Y-E experiment are
+
+00:05:09.760 --> 00:05:16.720
+set, you'll provide the alternate or B content you want to test against the current A content
+
+00:05:16.720 --> 00:05:18.626
+published in the Amazon store.
+
+00:05:18.626 --> 00:05:23.200
+If you're testing an alternate title, enter it in the space provided,
+
+00:05:23.200 --> 00:05:28.606
+double checking that it's no more than 200 characters, including spaces.
+
+00:05:28.606 --> 00:05:30.080
+For some product
+
+00:05:30.080 --> 00:05:34.700
+categories, your title may need to be fewer than 200 characters.
+
+00:05:34.700 --> 00:05:36.800
+If you're testing an alternate
+
+00:05:36.800 --> 00:05:40.000
+main image, click the upload image button.
+
+00:05:40.000 --> 00:05:43.200
+Making sure your image is high resolution
+
+00:05:43.200 --> 00:05:48.560
+and on a white background, and that it's a good representation of your products and packaging.
+
+00:05:49.200 --> 00:05:54.240
+If you're testing alternate about this item bullets, enter them in the spaces provided.
+
+00:05:55.120 --> 00:06:00.480
+Remember that good bullet points often start with a short phrase followed by a fragment that
+
+00:06:00.480 --> 00:06:02.112
+offers additional information.
+
+00:06:02.112 --> 00:06:05.920
+If you're testing an alternate product description,
+
+00:06:05.920 --> 00:06:10.560
+enter it in the space provided, double checking that you've used complete sentences.
+
+00:06:11.360 --> 00:06:17.760
+Finally, if you're testing alternate A+ content, start by using the drop-down menu on the left
+
+00:06:17.760 --> 00:06:23.360
+to select a content that's already published on the detail page for your reference asin.
+
+00:06:24.000 --> 00:06:30.880
+Then for your alternate B content, use the drop-down menu on the right to select create new A+ content,
+
+00:06:31.440 --> 00:06:37.360
+meaning you'll build alternate content from scratch, or select duplicate A content,
+
+00:06:37.360 --> 00:06:42.193
+meaning you'll copy your A content and adjust it into an alternate version.
+
+00:06:42.193 --> 00:06:43.680
+If you created A+
+
+00:06:43.680 --> 00:06:50.080
+content previously in MYE, you can also select an existing content variation from the drop-down
+
+00:06:50.080 --> 00:06:50.480
+menu.
+
+00:06:51.360 --> 00:06:58.000
+After creating the B content for your MYE test, review each part of your experiment again to
+
+00:06:58.000 --> 00:07:00.504
+make sure it's set up as intended.
+
+00:07:00.504 --> 00:07:04.080
+If you're running a title or image experiment, for example,
+
+00:07:04.080 --> 00:07:09.330
+make sure you've deselected any child product that you want excluded from the test.
+
+00:07:09.330 --> 00:07:10.080
+Then submit
+
+00:07:10.080 --> 00:07:15.141
+your experiment to Amazon by clicking the button in the upper right corner.
+
+00:07:15.141 --> 00:07:15.920
+After submission,
+
+00:07:15.920 --> 00:07:20.636
+you can check the status of your experiment anytime on the MYE home page.
+
+00:07:20.636 --> 00:07:22.320
+If your experiment has a
+
+00:07:22.320 --> 00:07:26.461
+scheduled status, you're able to view its details and make edits.
+
+00:07:26.461 --> 00:07:28.720
+You'll only be able to deselect
+
+00:07:28.720 --> 00:07:35.120
+defaults for duration, start date, and publication for 48 hours after submitting your experiment.
+
+00:07:35.760 --> 00:07:39.749
+But you can make other adjustments until your experiment becomes active.
+
+00:07:39.749 --> 00:07:41.200
+If you adjust your
+
+00:07:41.200 --> 00:07:47.840
+MYE test, keep in mind that for any scheduled experiment already validated by Amazon,
+
+00:07:47.840 --> 00:07:51.168
+you'll be required to restart the validation process.
+
+00:07:51.168 --> 00:07:54.080
+If your experiment is active and running,
+
+00:07:54.080 --> 00:07:56.353
+you're no longer able to make edits.
+
+00:07:56.353 --> 00:07:59.600
+But you can view the experiment's details and cancel it
+
+00:07:59.600 --> 00:08:00.498
+if needed.
+
+00:08:00.498 --> 00:08:05.440
+If your experiment didn't pass validation, you'll see a failed status.
+
+00:08:06.080 --> 00:08:10.800
+You can view details, then edit the experiment, and resubmit for validation.
+
+00:08:11.440 --> 00:08:14.684
+This concludes our training on setting up an MYE test.
+
+00:08:14.684 --> 00:08:17.280
+We encourage you to watch the next video
+
+00:08:17.280 --> 00:08:21.092
+in this series, which explains how to interpret MYE results.
+
+00:08:21.092 --> 00:08:23.760
+Thank you and happy selling in the
+
+00:08:23.760 --> 00:08:25.760
+Amazon Store.

@@ -1,0 +1,241 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.978
+Welcome to our understanding shipping settings training.
+
+00:00:02.978 --> 00:00:04.680
+In this video we'll
+
+00:00:04.680 --> 00:00:08.580
+discuss what the customer delivery promise is, how your shipping settings
+
+00:00:08.580 --> 00:00:12.315
+impact it, what shipping settings are, and how you can configure them.
+
+00:00:12.315 --> 00:00:13.560
+By the end of
+
+00:00:13.560 --> 00:00:17.160
+the video you'll know how to configure your general shipping settings and
+
+00:00:17.160 --> 00:00:20.413
+identify how they'll affect your customer delivery promise.
+
+00:00:20.413 --> 00:00:22.040
+When shopping in the
+
+00:00:22.040 --> 00:00:27.000
+Amazon store a customer sees a specific date or date range of when a product can
+
+00:00:27.000 --> 00:00:30.216
+be expected to arrive on a product detail page.
+
+00:00:30.216 --> 00:00:32.360
+That date or date range is
+
+00:00:32.360 --> 00:00:34.858
+what we call a customer delivery promise.
+
+00:00:34.858 --> 00:00:37.000
+The customer delivery promise for a
+
+00:00:37.000 --> 00:00:41.640
+product is composed of handling time, transit time, and a small buffer in case
+
+00:00:41.640 --> 00:00:43.937
+of the unexpected like inclement weather.
+
+00:00:43.937 --> 00:00:47.000
+Keep in mind that non-business days such
+
+00:00:47.000 --> 00:00:50.877
+as weekends and holidays can also impact your handling time.
+
+00:00:50.877 --> 00:00:52.040
+This is why
+
+00:00:52.040 --> 00:00:55.360
+configuring your shipping settings can help you meet your customer delivery
+
+00:00:55.360 --> 00:00:55.747
+promises.
+
+00:00:55.747 --> 00:00:59.620
+Shipping settings are the delivery options you can configure to
+
+00:00:59.620 --> 00:01:02.170
+determine your customer delivery promise.
+
+00:01:02.170 --> 00:01:04.720
+Your shipping settings have two
+
+00:01:04.720 --> 00:01:08.549
+sections your shipping templates and your general shipping settings.
+
+00:01:08.549 --> 00:01:09.400
+In this
+
+00:01:09.400 --> 00:01:12.455
+video we'll specifically focus on general shipping settings.
+
+00:01:12.455 --> 00:01:13.600
+To learn more
+
+00:01:13.600 --> 00:01:17.782
+about shipping templates check out our video Understand Shipping Templates.
+
+00:01:17.782 --> 00:01:18.200
+In
+
+00:01:18.200 --> 00:01:22.480
+Seller Central click the gear icon in the upper right corner and then click
+
+00:01:22.480 --> 00:01:23.253
+shipping settings.
+
+00:01:23.253 --> 00:01:27.120
+From here you'll see two tabs the general shipping settings
+
+00:01:27.120 --> 00:01:29.690
+tab and the shipping templates tab.
+
+00:01:29.690 --> 00:01:32.260
+By clicking the general shipping settings
+
+00:01:32.260 --> 00:01:36.120
+tab you can review and edit your shipping information such as your default
+
+00:01:36.120 --> 00:01:40.240
+shipping address, order fulfillment settings, handling time, and holiday
+
+00:01:40.240 --> 00:01:41.052
+shipping schedules.
+
+00:01:41.052 --> 00:01:44.300
+Under default shipping address you can configure the
+
+00:01:44.300 --> 00:01:47.573
+primary physical location you use for shipping orders.
+
+00:01:47.573 --> 00:01:48.800
+Also under order
+
+00:01:48.800 --> 00:01:52.520
+fulfillment settings you can configure your general fulfillment settings as
+
+00:01:52.520 --> 00:01:54.900
+well as settings for shipping region automation.
+
+00:01:54.900 --> 00:01:56.600
+You can adjust your cutoff
+
+00:01:56.600 --> 00:01:59.680
+time settings either by day of the week or by carrier.
+
+00:01:59.680 --> 00:02:01.080
+You can also adjust settings
+
+00:02:01.080 --> 00:02:03.240
+for weekend operations and deliveries.
+
+00:02:03.240 --> 00:02:05.400
+Adjusting your weekend delivery settings
+
+00:02:05.400 --> 00:02:09.400
+can help shorten your customer delivery promise if your business is open and if
+
+00:02:09.400 --> 00:02:12.575
+the carriers you use ship products on weekends.
+
+00:02:12.575 --> 00:02:14.560
+Under the handling time section
+
+00:02:14.560 --> 00:02:18.300
+you can set your default handling time for your account to either one or two
+
+00:02:18.300 --> 00:02:18.551
+days.
+
+00:02:18.551 --> 00:02:22.320
+This will be the number of days you have to package and hand your products
+
+00:02:22.320 --> 00:02:23.480
+over to your carrier.
+
+00:02:23.480 --> 00:02:26.960
+This will apply to all of your products unless you set an
+
+00:02:26.960 --> 00:02:29.695
+asin-specific handling time for that product.
+
+00:02:29.695 --> 00:02:32.040
+You can also set an order
+
+00:02:32.040 --> 00:02:35.840
+handling capacity which is the number of orders you can manage per day within
+
+00:02:35.840 --> 00:02:37.206
+your default handling time.
+
+00:02:37.206 --> 00:02:40.280
+Any order above this limit will receive one more
+
+00:02:40.280 --> 00:02:43.880
+day of handling time without being considered a late shipment.
+
+00:02:43.880 --> 00:02:44.600
+In the
+
+00:02:44.600 --> 00:02:48.433
+holidays section you can see which days Amazon considers holidays.
+
+00:02:48.433 --> 00:02:49.200
+These won't
+
+00:02:49.200 --> 00:02:51.962
+count as operating days unless you decide to enable them.
+
+00:02:51.962 --> 00:02:53.620
+You can also take a tour
+
+00:02:53.620 --> 00:02:56.491
+of your shipping settings page by clicking take the tour.
+
+00:02:56.491 --> 00:02:57.640
+Make sure to check
+
+00:02:57.640 --> 00:03:02.080
+out our help pages on how to create new shipping templates or to edit existing
+
+00:03:02.080 --> 00:03:02.578
+ones.
+
+00:03:02.578 --> 00:03:07.560
+Other help pages also explain weekend carrier operations and holiday
+
+00:03:07.560 --> 00:03:07.963
+settings.
+
+00:03:07.963 --> 00:03:12.400
+In this video you've learned about the customer delivery promise what
+
+00:03:12.400 --> 00:03:16.480
+settings affect it and how to navigate the general shipping settings tab in
+
+00:03:16.480 --> 00:03:17.131
+Seller Central.
+
+00:03:17.131 --> 00:03:21.040
+Make sure to return to the shipping settings page to review and
+
+00:03:21.040 --> 00:03:23.467
+update your settings and templates as needed.
+
+00:03:23.467 --> 00:03:25.200
+This concludes our training on
+
+00:03:25.200 --> 00:03:26.291
+shipping settings.
+
+00:03:26.291 --> 00:03:29.633
+Thank you and happy selling in the Amazon store.

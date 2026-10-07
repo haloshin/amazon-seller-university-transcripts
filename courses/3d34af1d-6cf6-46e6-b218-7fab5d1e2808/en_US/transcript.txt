@@ -1,0 +1,9 @@
+Staff management, adding a delivery associate.
+ Log in to Seller Central and select Service Settings from the Settings menu.
+ Under the Staff Management tab, select Add Staff.
+ Enter the name and contact details for the delivery associate and add a photo.
+ Select if they perform jobs and/or if they assign jobs.
+ You can also select which coverage areas they can see orders in.
+ After entering all relevant details, select Save.
+ Back on the Staff Management tab, you will see your new staff member
+ and can monitor background check status for all your delivery associates.

@@ -1,0 +1,181 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.580
+Amazon Buy Shipping is a tool available to sellers who handle fulfillment of their own products.
+
+00:00:08.580 --> 00:00:11.511
+This is called Fulfilled by Merchant or FBM.
+
+00:00:11.511 --> 00:00:18.790
+In this video, we will walk you through how to access Amazon Buy Shipping from the Manage Orders
+
+00:00:18.790 --> 00:00:19.254
+Dashboard.
+
+00:00:19.254 --> 00:00:26.271
+However, you can also access Amazon Buy Shipping using Veeqo, our Shipping API connected to your
+
+00:00:26.271 --> 00:00:29.840
+order management software or other multi-channel integrators.
+
+00:00:29.840 --> 00:00:35.265
+To access the Manage Orders Dashboard, hover over the Orders tab in
+
+00:00:35.265 --> 00:00:39.119
+the Seller Central main menu, then select Manage Orders.
+
+00:00:39.119 --> 00:00:42.313
+Navigate to the Unshipped tab, then choose
+
+00:00:42.313 --> 00:00:45.678
+the order you'd like to ship and select Buy Shipping.
+
+00:00:45.678 --> 00:00:47.764
+Next, review the order details and
+
+00:00:47.764 --> 00:00:49.786
+make sure everything looks correct.
+
+00:00:49.786 --> 00:00:52.616
+Then, enter your product's packaging dimensions and
+
+00:00:52.616 --> 00:00:56.114
+weight and select the shipping service you'd like to use.
+
+00:00:56.114 --> 00:00:58.176
+You will see badges that indicate
+
+00:00:58.176 --> 00:01:00.999
+either claims protected or OTDR protected.
+
+00:01:00.999 --> 00:01:03.973
+These indicate shipping services that have
+
+00:01:03.973 --> 00:01:07.167
+a higher likelihood of arriving on time.
+
+00:01:07.167 --> 00:01:10.580
+When you choose shipping services with these badges,
+
+00:01:10.580 --> 00:01:16.252
+Amazon will provide refunds on A to Z claims related to delivery issues and protection
+
+00:01:16.252 --> 00:01:21.756
+from late deliveries as long as you have shipping settings automation and automated handling
+
+00:01:21.756 --> 00:01:22.615
+time enabled.
+
+00:01:22.615 --> 00:01:28.713
+To set this up in Seller Central, hover over Settings in the top right corner
+
+00:01:28.713 --> 00:01:30.260
+and select Shipping Settings.
+
+00:01:30.260 --> 00:01:34.468
+Go to the Shipping Templates tab and select Edit Template to
+
+00:01:34.468 --> 00:01:36.355
+turn on Shipping Setting Automation.
+
+00:01:36.355 --> 00:01:40.300
+Then go to the General Shipping Settings tab to enable
+
+00:01:40.300 --> 00:01:41.560
+automated handling time.
+
+00:01:41.560 --> 00:01:45.340
+Automated handling time is only required for Standard Orders.
+
+00:01:45.340 --> 00:01:50.921
+While Seller-fulfilled Prime and Premium Shipping Orders simply need to be shipped
+
+00:01:50.921 --> 00:01:51.780
+on time.
+
+00:01:51.780 --> 00:01:54.315
+To submit, click the Buy Shipping button.
+
+00:01:54.315 --> 00:01:56.849
+On the next page, select Print Label
+
+00:01:56.849 --> 00:01:58.660
+to print your shipping label.
+
+00:01:58.660 --> 00:02:01.908
+Amazon Buy Shipping will remember your product details
+
+00:02:01.908 --> 00:02:06.780
+for this ASIN, making it faster to purchase shipping labels next time.
+
+00:02:06.780 --> 00:02:08.136
+It will also remember
+
+00:02:08.136 --> 00:02:11.864
+the shipping service you chose for this product in this region.
+
+00:02:11.864 --> 00:02:14.220
+This will be used to set more
+
+00:02:14.220 --> 00:02:19.220
+accurate delivery dates on future orders of the same product going to the same region.
+
+00:02:19.220 --> 00:02:25.220
+To purchase shipping labels in Bulk, return to the Unshipped tab on the Manage Orders page.
+
+00:02:25.220 --> 00:02:31.057
+You can select all Unshipped Orders by clicking the checkbox in the upper left hand corner
+
+00:02:31.057 --> 00:02:34.340
+or choose up to 100 orders one by one.
+
+00:02:34.340 --> 00:02:37.850
+Once you have made your selections, click Buy Shipping
+
+00:02:37.850 --> 00:02:38.630
+in Bulk.
+
+00:02:38.630 --> 00:02:42.140
+Update the weight and packaging information for each order.
+
+00:02:42.140 --> 00:02:43.232
+Next, verify the
+
+00:02:43.232 --> 00:02:45.780
+shipping service that will ship your order.
+
+00:02:45.780 --> 00:02:49.416
+To choose a different one, click Change under
+
+00:02:49.416 --> 00:02:50.780
+Selected Shipping Service.
+
+00:02:50.780 --> 00:02:54.460
+Check the declared value of the order and the delivery confirmation
+
+00:02:54.460 --> 00:02:58.140
+to be notified when the order was delivered or signed for.
+
+00:02:58.140 --> 00:03:00.471
+At the bottom of the page,
+
+00:03:00.471 --> 00:03:03.580
+input your ship from location and ship date.
+
+00:03:03.580 --> 00:03:05.980
+Then choose how you would like your labels
+
+00:03:05.980 --> 00:03:06.580
+to print.
+
+00:03:06.580 --> 00:03:11.980
+Click Buy Shipping to submit and generate a printable PDF with all your labels.
+
+00:03:11.980 --> 00:03:17.100
+Remember to save the PDF containing your labels in case you need to reprint.
+
+00:03:17.100 --> 00:03:18.420
+Visit the Use
+
+00:03:18.420 --> 00:03:21.940
+Buy Shipping Services Help page for additional guidance.

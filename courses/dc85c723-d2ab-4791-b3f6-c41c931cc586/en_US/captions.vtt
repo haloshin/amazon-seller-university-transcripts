@@ -1,0 +1,307 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.360
+- Welcome to our training on B2B apps and APIs.
+
+00:00:04.360 --> 00:00:07.000
+Amazon Business provides a suite of features
+
+00:00:07.000 --> 00:00:11.240
+that help optimize business to business or B2B sales.
+
+00:00:11.240 --> 00:00:13.640
+These include apps that can help you manage
+
+00:00:13.640 --> 00:00:17.080
+and automate your B2B operations with features
+
+00:00:17.080 --> 00:00:19.280
+that help with pricing and discounts,
+
+00:00:19.280 --> 00:00:23.120
+offer product opportunities and delivery options.
+
+00:00:23.120 --> 00:00:25.320
+Apps are software solutions that connect
+
+00:00:25.320 --> 00:00:27.200
+with your Seller Central account,
+
+00:00:27.200 --> 00:00:29.520
+allowing you to perform various tasks
+
+00:00:29.520 --> 00:00:31.960
+throughout the selling life cycle.
+
+00:00:31.960 --> 00:00:35.160
+APIs or application program interfaces
+
+00:00:35.160 --> 00:00:37.000
+are a set of rules and protocols
+
+00:00:37.000 --> 00:00:39.520
+that allow different software applications
+
+00:00:39.520 --> 00:00:42.760
+to communicate and interact with each other.
+
+00:00:42.760 --> 00:00:46.760
+APIs act as point of contact between a client and a server
+
+00:00:46.760 --> 00:00:48.520
+with the client sending requests
+
+00:00:48.520 --> 00:00:51.040
+and the server sending responses.
+
+00:00:51.040 --> 00:00:53.880
+API documentation contains information
+
+00:00:53.880 --> 00:00:56.800
+on how developers should structure these requests
+
+00:00:56.800 --> 00:00:58.080
+and responses.
+
+00:00:58.080 --> 00:01:00.640
+APIs are used to build apps.
+
+00:01:00.640 --> 00:01:03.960
+For example, your weather app utilizes an API
+
+00:01:03.960 --> 00:01:07.200
+that communicates with the Weather Bureau's software system
+
+00:01:07.200 --> 00:01:09.720
+to show you daily weather data.
+
+00:01:09.720 --> 00:01:13.440
+You have two options for adopting APIs as a seller.
+
+00:01:13.440 --> 00:01:16.480
+You can use existing public apps with APIs
+
+00:01:16.480 --> 00:01:20.480
+developed by third party integrators or three PIs
+
+00:01:20.480 --> 00:01:24.040
+or you can build your own app using our API.
+
+00:01:24.040 --> 00:01:26.920
+Making your own app may involve hiring a developer
+
+00:01:26.920 --> 00:01:29.640
+if you do not already have one on your team
+
+00:01:29.640 --> 00:01:31.640
+in order to create a custom app
+
+00:01:31.640 --> 00:01:33.960
+to meet your business's needs.
+
+00:01:33.960 --> 00:01:36.840
+Private apps are built just for your Seller account
+
+00:01:36.840 --> 00:01:39.120
+so only you can use them.
+
+00:01:39.120 --> 00:01:42.200
+To develop your own app, go to apps and services
+
+00:01:42.200 --> 00:01:46.320
+in the Seller Central main menu and click develop apps.
+
+00:01:46.320 --> 00:01:49.320
+Next, click on the add new app client button,
+
+00:01:49.320 --> 00:01:54.320
+then enter your app name and choose API type as SP API.
+
+00:01:54.760 --> 00:01:58.280
+Finally, choose the right roles for your developer profile
+
+00:01:58.280 --> 00:02:01.520
+and hit save and exit to get the needed data privileges
+
+00:02:01.520 --> 00:02:03.040
+for your application.
+
+00:02:03.040 --> 00:02:06.520
+For more information on how to assign roles to a developer
+
+00:02:06.520 --> 00:02:09.000
+and how to integrate a private app,
+
+00:02:09.000 --> 00:02:12.440
+watch our video series about selling partner apps
+
+00:02:12.440 --> 00:02:17.440
+starting with SP API overview on Seller University.
+
+00:02:17.640 --> 00:02:21.440
+If you intend to use an app across various e-commerce channels
+
+00:02:21.440 --> 00:02:23.520
+and do not want to build your own,
+
+00:02:23.520 --> 00:02:25.520
+you can use a public app.
+
+00:02:25.520 --> 00:02:27.480
+To adopt an existing app,
+
+00:02:27.480 --> 00:02:31.400
+go to the selling partner app store in Seller Central.
+
+00:02:31.400 --> 00:02:33.400
+There you'll find a list of public apps
+
+00:02:33.400 --> 00:02:35.200
+to meet your business's needs
+
+00:02:35.200 --> 00:02:37.880
+when you filter by Amazon business.
+
+00:02:37.880 --> 00:02:40.800
+While you can browse and search all the apps we carry
+
+00:02:40.800 --> 00:02:42.800
+in the selling partner app store,
+
+00:02:42.800 --> 00:02:45.560
+the best way to view the list of B2B apps
+
+00:02:45.560 --> 00:02:49.080
+is on the page Amazon Business APIs.
+
+00:02:49.080 --> 00:02:52.520
+Select B2B from the Seller Central main menu
+
+00:02:52.520 --> 00:02:55.120
+and click B2B Central.
+
+00:02:55.120 --> 00:03:00.000
+From here, you'll find B2B API overview in the menu.
+
+00:03:00.000 --> 00:03:01.840
+Scroll to the bottom of that page
+
+00:03:01.840 --> 00:03:03.800
+to see the third-party integrators
+
+00:03:03.800 --> 00:03:07.960
+that have adopted an Amazon business or AB feature.
+
+00:03:07.960 --> 00:03:11.120
+This section illustrates the AB features included
+
+00:03:11.120 --> 00:03:14.080
+with each third-party integrated app.
+
+00:03:14.080 --> 00:03:17.440
+The three PIs are organized by the features available,
+
+00:03:17.440 --> 00:03:20.280
+like business prices and quantity discounts,
+
+00:03:20.280 --> 00:03:22.640
+pricing, delivery experience,
+
+00:03:22.640 --> 00:03:26.960
+multi-location inventory, and package hierarchy.
+
+00:03:26.960 --> 00:03:30.120
+You can search the heading for the features you're looking for.
+
+00:03:30.120 --> 00:03:32.560
+If you're looking for an app that includes pricing
+
+00:03:32.560 --> 00:03:35.120
+or reports and analytics, for instance,
+
+00:03:35.120 --> 00:03:38.160
+look for three PIs in those sections.
+
+00:03:38.160 --> 00:03:40.080
+After you identify your selections,
+
+00:03:40.080 --> 00:03:43.720
+click the name of the three PIs to find out more about it.
+
+00:03:43.720 --> 00:03:46.760
+Each has a detailed page where you can review its features,
+
+00:03:46.760 --> 00:03:50.040
+read a description to learn about the intended users,
+
+00:03:50.040 --> 00:03:52.360
+its pricing, and reviews.
+
+00:03:52.360 --> 00:03:56.120
+On the right-side menu, you'll find options under functionality
+
+00:03:56.120 --> 00:03:58.120
+and supported languages.
+
+00:03:58.120 --> 00:04:01.240
+Note, while we work to keep our information accurate,
+
+00:04:01.240 --> 00:04:05.040
+click Visit Developer website to go directly to their page
+
+00:04:05.040 --> 00:04:08.400
+for the most up-to-date information about the app.
+
+00:04:08.400 --> 00:04:11.160
+Select Authorize Now to start the process
+
+00:04:11.160 --> 00:04:15.320
+of authorizing the three PIs to access your seller data.
+
+00:04:15.320 --> 00:04:16.960
+Don't forget to mark the checkbox.
+
+00:04:16.960 --> 00:04:20.160
+I direct Amazon to provide the three PIs access
+
+00:04:20.160 --> 00:04:23.560
+to my selling partner account and related data.
+
+00:04:23.560 --> 00:04:28.120
+I am responsible for any actions taken by the application.
+
+00:04:28.120 --> 00:04:31.520
+Then, click Sign Up to reach the login page.
+
+00:04:31.520 --> 00:04:33.720
+To manage your apps once authorized,
+
+00:04:33.720 --> 00:04:35.960
+go to the Seller Central Main menu
+
+00:04:35.960 --> 00:04:38.560
+and select Apps and Services.
+
+00:04:38.560 --> 00:04:40.720
+Then, click Manage Your Apps.
+
+00:04:40.720 --> 00:04:43.440
+From this page, you can see the list of developers
+
+00:04:43.440 --> 00:04:47.600
+you've authorized, including their name, ID, app name,
+
+00:04:47.600 --> 00:04:53.360
+status, authorization date, and MWS authorization token.
+
+00:04:53.360 --> 00:04:56.720
+Use the Actions column to enable authorization,
+
+00:04:56.720 --> 00:04:59.960
+reauthorize, disable authorization,
+
+00:04:59.960 --> 00:05:02.600
+or opt-out of notification.
+
+00:05:02.600 --> 00:05:06.360
+Thank you, and happy selling in the Amazon store.

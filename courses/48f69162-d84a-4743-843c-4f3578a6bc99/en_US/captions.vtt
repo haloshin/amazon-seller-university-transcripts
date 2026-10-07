@@ -1,0 +1,247 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:10.880
+Amazon sellers leverage various technologies to launch, manage, and grow their businesses.
+
+00:00:10.880 --> 00:00:17.040
+While some sellers rely exclusively on Seller Central's built-in tools for listing, pricing,
+
+00:00:17.040 --> 00:00:23.280
+and inventory management, others enhance their operations through third-party applications.
+
+00:00:23.280 --> 00:00:29.840
+These specialized apps provide advanced functionality to streamline and scale business operations,
+
+00:00:29.840 --> 00:00:36.560
+similar to how smartphone apps complete specific tasks like restaurant reviews or weather checks.
+
+00:00:36.560 --> 00:00:42.960
+Amazon maintains a comprehensive catalog of approved applications in the Selling Partner App Store,
+
+00:00:42.960 --> 00:00:45.780
+accessible at sellercentral.
+
+00:00:45.780 --> 00:00:46.720
+amazon.
+
+00:00:46.720 --> 00:00:50.480
+com/selling-partner-appstore.
+
+00:00:50.480 --> 00:00:57.680
+This centralized marketplace houses vetted applications that integrate with your selling operations.
+
+00:00:57.680 --> 00:01:03.840
+To navigate the App Store, select an app category from the home page or use the search functionality
+
+00:01:03.840 --> 00:01:07.000
+to locate specific applications by name.
+
+00:01:07.000 --> 00:01:10.160
+Each app's detail page provides comprehensive
+
+00:01:10.160 --> 00:01:16.800
+information about features, functionality, and developer contact details for quick access and
+
+00:01:16.800 --> 00:01:17.367
+implementation.
+
+00:01:17.367 --> 00:01:23.600
+Every application in the Selling Partner App Store undergoes Amazon's review
+
+00:01:23.600 --> 00:01:25.376
+and authorization process.
+
+00:01:25.376 --> 00:01:29.520
+The developers publishing these applications are similarly
+
+00:01:29.520 --> 00:01:33.311
+vetted by Amazon, ensuring quality and reliability.
+
+00:01:33.311 --> 00:01:36.560
+Applications access your selling data through
+
+00:01:36.560 --> 00:01:45.280
+secure API services, the current Selling Partner API, SP API, or the Legacy Marketplace Web Services,
+
+00:01:45.280 --> 00:01:46.507
+Amazon MWS.
+
+00:01:46.507 --> 00:01:52.640
+Third-party pricing applications offer distinct advantages over standard Seller
+
+00:01:52.640 --> 00:01:53.733
+Central tools.
+
+00:01:53.733 --> 00:01:59.200
+These applications can automate pricing with reduced manual effort, helping
+
+00:01:59.200 --> 00:02:02.708
+maintain competitive positioning in the marketplace.
+
+00:02:02.708 --> 00:02:06.800
+Advanced pricing criteria options such as fulfillment
+
+00:02:06.800 --> 00:02:12.495
+method-based pricing provide greater flexibility in pricing strategies.
+
+00:02:12.495 --> 00:02:13.760
+Specialized scheduling
+
+00:02:13.760 --> 00:02:19.760
+features allow synchronization with major shopping events like Prime Day, optimizing revenue during
+
+00:02:19.760 --> 00:02:21.440
+high traffic periods.
+
+00:02:21.440 --> 00:02:26.480
+These enhanced capabilities enable more sophisticated pricing approaches than
+
+00:02:26.480 --> 00:02:27.975
+basic automation tools.
+
+00:02:27.975 --> 00:02:32.960
+To demonstrate the range of available pricing solutions, consider three
+
+00:02:32.960 --> 00:02:36.960
+applications from the Selling Partner App Store, informed.
+
+00:02:36.960 --> 00:02:40.460
+co, re-price it, and Seller Engine.
+
+00:02:40.460 --> 00:02:40.960
+These
+
+00:02:40.960 --> 00:02:46.160
+examples illustrate different approaches to pricing automation without constituting Amazon
+
+00:02:46.160 --> 00:02:46.856
+recommendations.
+
+00:02:46.856 --> 00:02:47.552
+Informed.
+
+00:02:47.552 --> 00:02:53.120
+co provides both predefined and customizable pricing rules
+
+00:02:53.120 --> 00:02:55.013
+for comprehensive pricing control.
+
+00:02:55.013 --> 00:02:58.800
+Create rules that price products based on either
+
+00:02:58.800 --> 00:03:05.360
+FBA or MFN Seller offers or optimize pricing when no featured offer exists for a product.
+
+00:03:06.400 --> 00:03:11.280
+The application handles scenarios where you're the sole seller for a particular ASIN.
+
+00:03:12.160 --> 00:03:17.527
+The platform includes pricing data visualization and filtering capabilities.
+
+00:03:17.527 --> 00:03:18.720
+View profits,
+
+00:03:18.720 --> 00:03:25.120
+margins, and costs associated with each product to identify high performing and underperforming
+
+00:03:25.120 --> 00:03:26.000
+listings quickly.
+
+00:03:26.000 --> 00:03:31.280
+Re-price it offers flexible pricing rules and options tailored to different
+
+00:03:31.280 --> 00:03:32.240
+product conditions.
+
+00:03:32.240 --> 00:03:38.000
+Create specific rules for new or used items or exclude individual products
+
+00:03:38.000 --> 00:03:39.973
+from broader inventory rules.
+
+00:03:39.973 --> 00:03:43.920
+The application supports pricing schedules aligned with Amazon
+
+00:03:43.920 --> 00:03:48.006
+Shopping events for strategic pricing during peak periods.
+
+00:03:48.006 --> 00:03:50.560
+Detailed reporting features help track
+
+00:03:50.560 --> 00:03:56.560
+pricing history fluctuations, providing insights into pricing performance and market dynamics.
+
+00:03:57.520 --> 00:04:03.920
+Seller Engine focuses on real-time pricing optimization rather than standard 10-15-minute
+
+00:04:03.920 --> 00:04:05.187
+update intervals.
+
+00:04:05.187 --> 00:04:11.520
+The application calculates minimum prices using associated costs and fees
+
+00:04:11.520 --> 00:04:16.751
+with options to add minimum markup percentages to ensure profitability.
+
+00:04:16.751 --> 00:04:18.320
+Cross-checking capabilities
+
+00:04:18.320 --> 00:04:20.048
+help price ASINs effectively.
+
+00:04:20.048 --> 00:04:24.800
+When you're the only seller for a product, Seller Engine identifies
+
+00:04:24.800 --> 00:04:28.669
+similar listings to inform pricing strategy development.
+
+00:04:28.669 --> 00:04:30.880
+These three applications represent
+
+00:04:30.880 --> 00:04:36.288
+a small sample of available pricing solutions in the Selling Partner App Store.
+
+00:04:36.288 --> 00:04:37.120
+To discover
+
+00:04:37.120 --> 00:04:43.040
+additional pricing applications, navigate to the automated pricing category on the App Store home
+
+00:04:43.040 --> 00:04:43.618
+page.
+
+00:04:43.618 --> 00:04:50.560
+Use available filters to search by specific programs, star ratings, supported languages,
+
+00:04:50.560 --> 00:04:52.312
+or marketplace compatibility.
+
+00:04:52.312 --> 00:04:56.400
+Third-party pricing applications provide powerful tools
+
+00:04:56.400 --> 00:05:01.760
+to enhance your Amazon Selling Operations beyond basic Seller Central functionality.
+
+00:05:02.480 --> 00:05:08.480
+Explore the Selling Partner App Store to find applications that match your specific pricing needs
+
+00:05:08.480 --> 00:05:10.095
+and business requirements.
+
+00:05:10.095 --> 00:05:14.400
+Consider investigating other app categories that might streamline
+
+00:05:14.400 --> 00:05:18.498
+additional aspects of your Selling Operations.
+
+00:05:18.498 --> 00:05:19.865
+Visit sellercentral.
+
+00:05:19.865 --> 00:05:20.548
+amazon.
+
+00:05:20.548 --> 00:05:23.280
+com/selling-partner-appstore
+
+00:05:23.280 --> 00:05:34.000
+to begin exploring these valuable business tools and optimize your pricing strategy today.

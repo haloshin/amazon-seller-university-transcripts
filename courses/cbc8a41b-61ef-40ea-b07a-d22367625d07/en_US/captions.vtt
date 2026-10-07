@@ -1,0 +1,406 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.768
+Welcome to our training on virtual bundles.
+
+00:00:02.768 --> 00:00:09.096
+Amazon customers often shop for multiple items at once and use brands to help identify products
+
+00:00:09.096 --> 00:00:10.282
+that go together.
+
+00:00:10.282 --> 00:00:15.819
+A flower pot and a pack of seeds, for example, or shampoo and conditioner.
+
+00:00:15.819 --> 00:00:22.542
+To make it easier for customers to find and purchase related products, we created the Virtual Bundles
+
+00:00:22.542 --> 00:00:22.937
+program.
+
+00:00:22.937 --> 00:00:29.660
+A virtual bundle is a group of two to five products on a single product detail page.
+
+00:00:30.000 --> 00:00:36.300
+The individual products are all part of the same brand and are available on their own product detail
+
+00:00:36.300 --> 00:00:37.000
+pages too.
+
+00:00:37.000 --> 00:00:42.000
+But the virtual bundle allows customers to purchase them as a group.
+
+00:00:42.000 --> 00:00:46.000
+Let's find out how brands create virtual bundles.
+
+00:00:46.000 --> 00:00:52.000
+Before we review the process, let's go over a few key requirements and conditions.
+
+00:00:52.000 --> 00:00:56.000
+There are two basic requirements for all virtual bundles.
+
+00:00:56.000 --> 00:01:02.650
+The first is that the products they contain need to be part of a brand enrolled in Amazon brand
+
+00:01:02.650 --> 00:01:03.000
+registry.
+
+00:01:03.000 --> 00:01:08.000
+The seller who creates a bundle needs to be internal to the brand too.
+
+00:01:08.000 --> 00:01:14.588
+If you'd like more information about brand registry and access to brand selling benefits like virtual
+
+00:01:14.588 --> 00:01:15.000
+bundles,
+
+00:01:15.000 --> 00:01:22.000
+see the series of modules in our Seller University course, launch your brand in the Amazon store.
+
+00:01:22.000 --> 00:01:29.391
+The second basic requirement for virtual bundles is that the products they contain need to be shipped
+
+00:01:29.391 --> 00:01:32.000
+through fulfillment by Amazon or FBA.
+
+00:01:32.000 --> 00:01:38.000
+The seller who creates the bundle also needs to have an FBA account in good standing.
+
+00:01:38.000 --> 00:01:44.967
+Your FBA products must be in new condition too, and they can't be a gift card or an electronically
+
+00:01:44.967 --> 00:01:49.000
+delivered item like digital music, a video or an e-book.
+
+00:01:49.000 --> 00:01:55.400
+When a customer orders a virtual bundle through FBA, each item is fulfilled separately, just like
+
+00:01:55.400 --> 00:01:57.000
+for a standard order.
+
+00:01:57.000 --> 00:02:01.000
+We don't charge additional FBA or selling fees.
+
+00:02:01.000 --> 00:02:07.000
+Sellers don't have to package products together or make any other changes to their inventory either.
+
+00:02:07.000 --> 00:02:13.261
+The quantity of virtual bundles you have in stock is determined by the smallest quantity available
+
+00:02:13.261 --> 00:02:16.000
+for an individual product in the bundle.
+
+00:02:16.000 --> 00:02:23.378
+For example, if you sell a bundle that contains a dart board and a set of 5 darts, and you have
+
+00:02:23.378 --> 00:02:26.892
+10 dart boards and 15 sets of darts in stock,
+
+00:02:26.892 --> 00:02:29.000
+you'll have 10 virtual bundles available.
+
+00:02:29.000 --> 00:02:37.000
+All 25 of your products will still be stored separately in our fulfillment centers and available
+
+00:02:37.000 --> 00:02:39.000
+for individual purchase too.
+
+00:02:39.000 --> 00:02:45.045
+When a customer buys one of your 10 dart boards, you'll have 9 dart boards and 9 virtual bundles
+
+00:02:45.045 --> 00:02:46.000
+left in stock.
+
+00:02:46.000 --> 00:02:53.200
+And when another customer buys your bundle, you'll have 8 bundles, 8 dart boards, and 14 sets of
+
+00:02:53.200 --> 00:02:54.000
+darts left.
+
+00:02:54.000 --> 00:03:02.000
+In addition to the requirements for brand registry and FBA, virtual bundles need to meet a few conditions.
+
+00:03:02.000 --> 00:03:06.000
+First, they need to be organized around a main product.
+
+00:03:06.000 --> 00:03:12.800
+We use this main product to drive searches for your virtual bundle, which means its keywords become
+
+00:03:12.800 --> 00:03:14.000
+the bundle's keywords.
+
+00:03:14.000 --> 00:03:21.000
+Other attributes from the main product, like category, are also carried over to your bundle.
+
+00:03:21.000 --> 00:03:26.000
+The same main product can be used to create multiple virtual bundles.
+
+00:03:26.000 --> 00:03:32.000
+For example, a t-shirt could be bundled 4 times with 4 different pairs of pants from your brand.
+
+00:03:32.000 --> 00:03:37.950
+But make sure you don't create bundles that contain the same group of products with a different
+
+00:03:37.950 --> 00:03:39.000
+main product assigned.
+
+00:03:39.000 --> 00:03:45.514
+Don't create a bundle with a t-shirt as a main product, and pants as another product, then create
+
+00:03:45.514 --> 00:03:48.257
+a second bundle with the same two items
+
+00:03:48.257 --> 00:03:51.000
+that uses the pants as the main product.
+
+00:03:51.000 --> 00:03:56.000
+It's also important to note that sellers can't create virtual bundles as variations.
+
+00:03:56.000 --> 00:04:02.632
+If you want to create bundles that contain different versions of a product, for color or size, for
+
+00:04:02.632 --> 00:04:03.000
+example,
+
+00:04:03.000 --> 00:04:10.000
+create a separate bundle for each version rather than trying to establish variation relationships.
+
+00:04:10.000 --> 00:04:16.222
+In addition, each virtual bundle you create needs to contain two to five different products within
+
+00:04:16.222 --> 00:04:17.000
+your brand.
+
+00:04:17.000 --> 00:04:24.000
+A virtual bundle can't be a group of the same product, like a multi-pack, case pack, or pallet.
+
+00:04:24.000 --> 00:04:30.000
+Virtual bundles can contain multiple units of a single product in combination with other products.
+
+00:04:30.000 --> 00:04:36.967
+For example, a virtual bundle could contain two of the same coffee mugs, as long as it also included
+
+00:04:36.967 --> 00:04:41.000
+other products like a bag of coffee and a coffee pot.
+
+00:04:41.000 --> 00:04:46.684
+It's important to note, however, that you can't have multiple units of a main product in a virtual
+
+00:04:46.684 --> 00:04:47.000
+bundle.
+
+00:04:47.000 --> 00:04:54.273
+In our example, either the bag of coffee or the coffee pot could be the main product, but the two
+
+00:04:54.273 --> 00:04:55.000
+mugs couldn't.
+
+00:04:55.000 --> 00:05:01.000
+Make sure the products you include in a bundle are also complementary and compatible.
+
+00:05:01.000 --> 00:05:04.000
+Group products that are used together.
+
+00:05:04.000 --> 00:05:09.368
+And if you're bundling products like a phone and charging cable, make sure they're designed to be
+
+00:05:09.368 --> 00:05:10.000
+used together.
+
+00:05:10.000 --> 00:05:16.667
+The last condition for a virtual bundle is that its price needs to be either the same as the total
+
+00:05:16.667 --> 00:05:19.000
+price for the products in the bundle,
+
+00:05:19.000 --> 00:05:25.000
+or lower if you'd like to offer customers a discount for purchasing multiple items at once.
+
+00:05:25.000 --> 00:05:29.000
+Remember that reduced prices can help attract customers.
+
+00:05:29.000 --> 00:05:34.667
+If the price of an individual product in your virtual bundle decreases, make sure that the price
+
+00:05:34.667 --> 00:05:41.000
+of the bundle is still equal to or lower than the combined price for all the products in it.
+
+00:05:41.000 --> 00:05:48.000
+Bundle prices don't update automatically in response to updates in the prices of individual products.
+
+00:05:48.000 --> 00:05:54.000
+So make sure you check your bundle prices when you update individual products.
+
+00:05:54.000 --> 00:06:00.611
+Or set pricing rules that keep virtual bundle prices at or below the combined price for bundled
+
+00:06:00.611 --> 00:06:01.000
+products.
+
+00:06:01.000 --> 00:06:07.333
+Note too that a bundle that's priced higher than the sum of its product prices can't become a featured
+
+00:06:07.333 --> 00:06:09.000
+offer in the Amazon store.
+
+00:06:09.000 --> 00:06:14.000
+Now that you know requirements and conditions for virtual bundles, let's learn how to create one.
+
+00:06:14.000 --> 00:06:19.667
+All sellers who meet the requirements for virtual bundles can access the tool by hovering over brands
+
+00:06:19.667 --> 00:06:21.000
+in the main menu,
+
+00:06:21.000 --> 00:06:27.000
+clicking Build Your Brand, then scrolling down and locating the virtual bundles card.
+
+00:06:27.000 --> 00:06:32.000
+On the new virtual bundle page, you'll start by selecting two to five products.
+
+00:06:32.000 --> 00:06:39.500
+Click the Add Products button, then in the pop-up, browse for products or enter one asin at a time
+
+00:06:39.500 --> 00:06:41.000
+in the search bar.
+
+00:06:41.000 --> 00:06:46.000
+Click Add to Bundle at the end of a row to make it part of the bundle.
+
+00:06:46.000 --> 00:06:50.000
+The product you add first will be set as your bundle's main product.
+
+00:06:50.000 --> 00:06:56.261
+When you're finished adding products, click the Done Adding Products button to return to the new
+
+00:06:56.261 --> 00:06:59.000
+virtual bundle page with your products populated.
+
+00:06:59.000 --> 00:07:05.906
+Next, underneath your bundle's product list, click Select Images and Layout to go to a second pop-
+
+00:07:05.906 --> 00:07:12.000
+up where you'll upload a main image for your bundle and select Additional Product Images.
+
+00:07:12.000 --> 00:07:17.542
+For your main image, click the Browse button to upload a new image that shows each product in your
+
+00:07:17.542 --> 00:07:19.000
+bundle against a white background.
+
+00:07:19.000 --> 00:07:25.667
+For your additional images, you can either click Upload a New Image or Select Images that are already
+
+00:07:25.667 --> 00:07:29.000
+on the product detail pages for your individual products.
+
+00:07:29.000 --> 00:07:36.000
+Click the Save button to return to the new virtual bundle page with your images populated.
+
+00:07:36.000 --> 00:07:42.955
+Finally, enter a full title, a short title, a price, a description, bullet points and an optional
+
+00:07:42.955 --> 00:07:45.000
+SKU for your virtual bundle.
+
+00:07:45.000 --> 00:07:52.500
+We recommend a brief descriptive bundle title that names the main product and additional products,
+
+00:07:52.500 --> 00:07:55.000
+for example, Shampoo Plus Conditioner.
+
+00:07:55.000 --> 00:08:00.000
+Your short title is what displays in spaces that are too small for your full title.
+
+00:08:00.000 --> 00:08:06.000
+Try abbreviating your full title by eliminating accessory products or shortening words.
+
+00:08:06.000 --> 00:08:12.000
+Remember that your price needs to be equal to or lower than the combined price for your products,
+
+00:08:12.000 --> 00:08:14.000
+which we display to the right.
+
+00:08:14.000 --> 00:08:20.263
+Your description and bullet points should be in the same format used on product detail pages for
+
+00:08:20.263 --> 00:08:21.000
+individual products.
+
+00:08:21.000 --> 00:08:24.000
+But make sure to highlight what's in your bundle.
+
+00:08:24.000 --> 00:08:30.769
+Use complete sentences for the description and start each bullet with a short phrase that identifies
+
+00:08:30.769 --> 00:08:35.000
+a value, followed by a fragment that offers additional information.
+
+00:08:35.000 --> 00:08:38.000
+You don't have to enter a SKU for a bundle.
+
+00:08:38.000 --> 00:08:45.600
+If you leave this field blank, we'll create one on your behalf, along with a unique asin for the
+
+00:08:45.600 --> 00:08:46.000
+bundle.
+
+00:08:46.000 --> 00:08:49.000
+But if you do enter a SKU, make sure it's unique.
+
+00:08:49.000 --> 00:08:56.000
+Don't reuse a SKU from an individual product within the bundle or from any other part of your catalog.
+
+00:08:56.000 --> 00:09:01.667
+After entering each piece of information for your bundle, click the Save and Publish button to create
+
+00:09:01.667 --> 00:09:02.000
+it.
+
+00:09:02.000 --> 00:09:08.000
+A new virtual bundle usually appears in the Amazon store within 24 hours.
+
+00:09:08.000 --> 00:09:11.000
+It'll link to the individual products in your bundle.
+
+00:09:11.000 --> 00:09:17.333
+And the product detail page for the main product may also link to your new virtual bundle from a
+
+00:09:17.333 --> 00:09:19.000
+Make It a Bundle widget.
+
+00:09:19.000 --> 00:09:26.000
+If you need to update an existing bundle, hover over Inventory in the main menu in Seller Central,
+
+00:09:26.000 --> 00:09:29.000
+then click Manage All Inventory.
+
+00:09:29.000 --> 00:09:35.000
+Locate the bundle, which will be listed with your other products, with bundle as its status.
+
+00:09:35.000 --> 00:09:41.581
+You can update the price, title, description, bullet points, and images, but you won't be able to
+
+00:09:41.581 --> 00:09:47.000
+update the products in the bundle, adjust the main product, or change the SKU.
+
+00:09:47.000 --> 00:09:54.000
+If you need to update these attributes, delete your bundle, then recreate it using a different SKU,
+
+00:09:54.000 --> 00:09:59.000
+or recreate it using the same SKU after 24 hours have passed.
+
+00:09:59.000 --> 00:10:02.000
+This concludes our training on virtual bundles.
+
+00:10:02.000 --> 00:10:08.303
+We encourage you to watch our Seller University video on the Brand Analytics Market Basket Analysis
+
+00:10:08.303 --> 00:10:14.606
+Report if you'd like help determining which products in your brand catalog might make an effective
+
+00:10:14.606 --> 00:10:15.000
+bundle.
+
+00:10:15.000 --> 00:10:19.000
+Thank you, and happy selling in the Amazon Store!

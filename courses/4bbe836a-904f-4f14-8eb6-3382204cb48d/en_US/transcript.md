@@ -1,0 +1,11 @@
+# Generic Product Policy: Resolve error code 5882
+
+Welcome to the Seller University module. Today we'll discuss the generic product policy error code 5882 and how to address it.
+ If you receive error code 5882, you may be attempting to create a generic product listing that has been flagged as infringing on the intellectual property IP of a brand.
+ Using another brand's IP in your generic product listing or listing a branded product as generic violates Amazon's listing policies.
+ To ensure compliance, first review the Amazon brand name policy and Amazon intellectual property policy.
+ If you believe you are following all policies and are still encountering this error code, click Help, then Get Help and Resources.
+ Select My Issue Is Not Listed and say I want to create a generic ASIN and receive error 5882.
+ A member of Selling Partner Support will reach out to assist.
+ Remember, maintaining the integrity of the Amazon Store is crucial for your success as a selling partner.
+ Thank you and happy selling in the Amazon Store.

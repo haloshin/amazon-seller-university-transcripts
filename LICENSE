@@ -1,0 +1,13 @@
+Licensing scope
+===============
+
+This repository has no blanket license for all of its contents.
+
+1. Amazon Seller University course content, transcripts, captions, course titles,
+   and third-party material are not relicensed by this project. Rights remain
+   with Amazon or the respective rights holders. See NOTICE.md.
+2. The original validation code in scripts/ is licensed under the MIT License
+   included at LICENSES/MIT.txt.
+3. No license stated here grants rights to Amazon trademarks or other
+   third-party material. Public repository visibility is not an additional
+   permission to reuse the underlying courses.

@@ -1,0 +1,208 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+Welcome to the training apps and APIs for B2B product opportunities.
+
+00:00:05.000 --> 00:00:10.000
+Professional Amazon sellers can access personalized B2B product recommendations
+
+00:00:10.000 --> 00:00:14.000
+to help increase their sales to Amazon business customers.
+
+00:00:14.000 --> 00:00:18.000
+Using the B2B product opportunities tool in Seller Central,
+
+00:00:18.000 --> 00:00:23.000
+they can view high-demand products in categories and brands they already sell.
+
+00:00:23.000 --> 00:00:29.000
+Sellers can also review a list of customer-requested products not yet available in the Amazon store.
+
+00:00:29.000 --> 00:00:32.000
+Based on these two types of recommendations,
+
+00:00:32.000 --> 00:00:36.000
+they can decide which types of products they might want to add to their inventory.
+
+00:00:36.000 --> 00:00:41.000
+If a seller wants to enhance or streamline the way they review B2B product opportunities,
+
+00:00:41.000 --> 00:00:44.000
+they can also use applications or apps.
+
+00:00:44.000 --> 00:00:48.000
+These apps are similar to the apps many of us open every day
+
+00:00:48.000 --> 00:00:51.000
+to rate restaurants or find a ride to the airport,
+
+00:00:51.000 --> 00:00:57.000
+but are instead designed for the kinds of e-commerce activities that take place on Seller Central.
+
+00:00:57.000 --> 00:01:02.000
+A seller might use an app to retrieve and review B2B product recommendations
+
+00:01:02.000 --> 00:01:07.000
+so they can avoid manually transferring the information from Seller Central to another system.
+
+00:01:07.000 --> 00:01:12.000
+Or they might use an app that lets them download the B2B product opportunities report
+
+00:01:12.000 --> 00:01:16.000
+in a format that's more intuitive for their employees
+
+00:01:16.000 --> 00:01:19.000
+or that lets their business use the data more efficiently.
+
+00:01:19.000 --> 00:01:24.000
+If you're a seller interested in using apps to get B2B product recommendations,
+
+00:01:24.000 --> 00:01:31.000
+you can review current Amazon approved apps by visiting the Amazon Partner Network or APN.
+
+00:01:31.000 --> 00:01:36.000
+Sign in to Seller Central and select Partner Network from the main menu.
+
+00:01:36.000 --> 00:01:39.000
+Then click Find Apps and Services.
+
+00:01:39.000 --> 00:01:45.000
+This will take you to the APN home page where you can browse apps by category or search.
+
+00:01:45.000 --> 00:01:48.000
+To review apps that support B2B operations,
+
+00:01:48.000 --> 00:01:52.000
+click a category name and then refine the results on the next page
+
+00:01:52.000 --> 00:01:55.000
+by selecting Amazon Business B2B.
+
+00:01:55.000 --> 00:02:01.000
+Each app has its own detail page which describes its features and functionality.
+
+00:02:01.000 --> 00:02:07.000
+We also provide contact information and web links so sellers can purchase and download apps.
+
+00:02:07.000 --> 00:02:12.000
+If you're a seller interested in building or using an app not yet available on APN
+
+00:02:12.000 --> 00:02:15.000
+or if you want to use a private app not listed by Amazon,
+
+00:02:15.000 --> 00:02:21.000
+you or your developer can create a new app and connect it to your Seller Central account.
+
+00:02:21.000 --> 00:02:25.000
+You can integrate an app specifically for B2B product recommendations
+
+00:02:25.000 --> 00:02:28.000
+or build apps for other selling related functions.
+
+00:02:28.000 --> 00:02:32.000
+For more information about creating and connecting apps to a Seller account,
+
+00:02:32.000 --> 00:02:36.000
+see our module Introduction to B2B Apps and APIs
+
+00:02:36.000 --> 00:02:40.000
+as well as our Selling Partner API course on Seller University.
+
+00:02:40.000 --> 00:02:44.000
+These modules provide an overview of our two API services,
+
+00:02:44.000 --> 00:02:51.000
+Selling Partner Application Program Interface or SPAPI and Amazon MWS.
+
+00:02:51.000 --> 00:02:56.000
+Apps that have been integrated with SPAPI or Amazon MWS
+
+00:02:56.000 --> 00:03:01.000
+can use the Reports API to retrieve the same product recommendations
+
+00:03:01.000 --> 00:03:05.000
+available through the B2B product opportunities tool.
+
+00:03:05.000 --> 00:03:09.000
+But the Reports API can pull batches of 10,000 recommendations
+
+00:03:09.000 --> 00:03:13.000
+instead of the 1,000 available through Seller Central.
+
+00:03:13.000 --> 00:03:17.000
+When Sellers use the Reports API, they can also get product recommendations
+
+00:03:17.000 --> 00:03:20.000
+for categories and brands in which they don't yet sell.
+
+00:03:20.000 --> 00:03:25.000
+That's in addition to the product recommendations they receive on Seller Central
+
+00:03:25.000 --> 00:03:29.000
+for the categories and brands in which they do already sell.
+
+00:03:29.000 --> 00:03:33.000
+These additional recommendations are often helpful to new B2B Sellers,
+
+00:03:33.000 --> 00:03:38.000
+who make decisions about the kinds of products they want to add to their inventory.
+
+00:03:38.000 --> 00:03:43.000
+Developers can refer to the Selling Partner API documentation on GitHub
+
+00:03:43.000 --> 00:03:49.000
+or search for the Amazon MWS documentation to learn how to use the Reports API.
+
+00:03:49.000 --> 00:03:53.000
+In the documentation for SPAPI, click the References folder,
+
+00:03:53.000 --> 00:03:57.000
+then search for and click the Reports API folder.
+
+00:03:57.000 --> 00:04:02.000
+Select the Report Type Values page and then locate and click the B2B
+
+00:04:02.000 --> 00:04:06.000
+Product Opportunities report from the list of categories.
+
+00:04:06.000 --> 00:04:11.000
+We provide full information for developers for both the Recommended for You report
+
+00:04:11.000 --> 00:04:14.000
+and the Not Yet on Amazon report.
+
+00:04:14.000 --> 00:04:19.000
+Be sure to use the Depersonalized Report option value when getting either report
+
+00:04:19.000 --> 00:04:23.000
+if you want to receive product recommendations for categories and brands
+
+00:04:23.000 --> 00:04:27.000
+in which a seller doesn't yet sell in the Amazon store.
+
+00:04:27.000 --> 00:04:32.000
+In the documentation for Amazon MWS, click the API References folder
+
+00:04:32.000 --> 00:04:35.000
+and then search for and click the Reports folder.
+
+00:04:35.000 --> 00:04:39.000
+If you're a seller who would like to learn more about B2B Product Recommendations,
+
+00:04:39.000 --> 00:04:43.000
+we encourage you to review our module Explore Product Recommendations
+
+00:04:43.000 --> 00:04:46.000
+with B2B Product Opportunities.
+
+00:04:46.000 --> 00:04:51.000
+We also encourage you to review our module Apps and APIs for business prices
+
+00:04:51.000 --> 00:04:55.000
+and quantity discounts to learn about additional offerings.
+
+00:04:55.000 --> 00:05:00.000
+This concludes our training on Apps and APIs for B2B Product Opportunities.
+
+00:05:00.000 --> 00:05:03.617
+Thanks for watching and happy selling in the Amazon store.

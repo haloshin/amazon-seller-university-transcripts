@@ -1,0 +1,217 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.660
+Welcome to our training on the Brand Analytics Demographics Report.
+
+00:00:04.660 --> 00:00:10.882
+Brands enrolled in Amazon Brand Registry enjoy access to a suite of additional selling benefits
+
+00:00:10.882 --> 00:00:14.200
+including the Brand Analytics tool in Seller Central.
+
+00:00:14.200 --> 00:00:21.459
+In this video, we'll review the features and functionality of one of the reports you'll find in
+
+00:00:21.459 --> 00:00:22.740
+Brand Analytics, Demographics.
+
+00:00:22.740 --> 00:00:28.684
+This report provides brands with a breakdown of sales for their products using various customer
+
+00:00:28.684 --> 00:00:29.080
+categories.
+
+00:00:29.080 --> 00:00:35.749
+It can help them understand who is buying their products, and they can use it to define advertising
+
+00:00:35.749 --> 00:00:36.120
+strategies.
+
+00:00:36.120 --> 00:00:42.621
+You can access the Demographics report and others in the Brand Analytics tool if you're a seller
+
+00:00:42.621 --> 00:00:45.680
+internal to a brand enrolled in Brand Registry.
+
+00:00:45.680 --> 00:00:53.078
+Simply select Brands in the main menu in Seller Central, then click Brand Analytics, or click All
+
+00:00:53.078 --> 00:00:56.560
+Brand Benefits, then locate the Brand Analytics card.
+
+00:00:56.560 --> 00:01:03.004
+For more information about accessing Brand Analytics and other Brand Registry tools, see our modules
+
+00:01:03.004 --> 00:01:08.160
+in Seller University about requesting or managing access to Brand Selling benefits.
+
+00:01:08.160 --> 00:01:14.042
+After accessing the Brand Analytics tool, you can select Demographics from the list of reports at
+
+00:01:14.042 --> 00:01:15.880
+the top of the screen.
+
+00:01:15.880 --> 00:01:23.462
+The report provides a breakdown of sales for your brand's products across five customer categories,
+
+00:01:23.462 --> 00:01:27.000
+age, income, education, gender, and marital status.
+
+00:01:27.000 --> 00:01:34.424
+The data shown is reflective of primary customer account holders, and includes sales of your brand's
+
+00:01:34.424 --> 00:01:36.280
+products across all sellers.
+
+00:01:36.280 --> 00:01:42.971
+To help ensure customer privacy, we only surface brands and customer categories associated with
+
+00:01:42.971 --> 00:01:45.360
+at least 100 unique customers.
+
+00:01:45.360 --> 00:01:50.640
+In each section of the report, a customer category is divided into segments.
+
+00:01:50.640 --> 00:01:57.571
+For example, age is divided into six segments in the Demographics report, starting with 18 to 24-
+
+00:01:57.571 --> 00:02:01.240
+year-olds and ending with those 65 and older.
+
+00:02:01.240 --> 00:02:07.606
+For each segment, you'll see the total number of unique customers, as well as a percentage of total,
+
+00:02:07.606 --> 00:02:13.619
+that's the number of unique customers in the segment divided by the number of unique customers in
+
+00:02:13.619 --> 00:02:14.680
+the entire category.
+
+00:02:14.680 --> 00:02:21.140
+You'll also see a percentage of total change versus prior period for each segment, which is the
+
+00:02:21.140 --> 00:02:26.080
+difference in the number of unique customers compared to the previous reporting period.
+
+00:02:26.080 --> 00:02:33.498
+For example, if in the current week your brand had 300 customers who were 18 to 24-years-old and
+
+00:02:33.498 --> 00:02:38.320
+1,000 total customers, the percentage of total for the segment would be 30%.
+
+00:02:38.320 --> 00:02:45.505
+If in the previous week your brand had 150 customers who were 18 to 24-years-old, the percentage
+
+00:02:45.505 --> 00:02:51.935
+of total change versus prior period would be 100% because the number of customers in the segment
+
+00:02:51.935 --> 00:02:54.960
+had doubled from one week to the next.
+
+00:02:54.960 --> 00:03:00.842
+In the second set of rows in the Demographics report, you'll see similar metrics for the number
+
+00:03:00.842 --> 00:03:01.880
+of units sold.
+
+00:03:01.880 --> 00:03:09.680
+For example, in the current week, 18 to 24-year-olds purchased 600 units associated with your brand
+
+00:03:09.680 --> 00:03:12.280
+and 3,000 units were purchased overall.
+
+00:03:12.280 --> 00:03:17.360
+In this scenario, the percentage of total for the segment would be 20%.
+
+00:03:17.360 --> 00:03:25.384
+If in the previous week 300 units were purchased by 18 to 24-year-olds, the percent of total change
+
+00:03:25.384 --> 00:03:30.600
+versus prior period would be 100% because the number of units purchased doubled.
+
+00:03:30.600 --> 00:03:37.139
+When you first access the Demographics report, it'll be defaulted to show sales across all product
+
+00:03:37.139 --> 00:03:40.000
+categories and brands for the previous week.
+
+00:03:40.000 --> 00:03:45.840
+You can use the first two drop-down menus at the top to view a specific time period.
+
+00:03:45.840 --> 00:03:52.401
+Keep in mind that data is generally available in brand analytics within three days and that for
+
+00:03:52.401 --> 00:03:58.962
+the Demographics report, month-end data is available within four days and quarter-end data is available
+
+00:03:58.962 --> 00:04:00.120
+within one week.
+
+00:04:00.120 --> 00:04:05.440
+You can use the remaining drop-down menus to select a specific brand or category.
+
+00:04:05.440 --> 00:04:10.120
+After making selections, click the Apply button to refresh the report.
+
+00:04:10.120 --> 00:04:16.556
+If you'd like to add or remove columns on the Demographics report, click Customize Columns on the
+
+00:04:16.556 --> 00:04:20.720
+right-hand side, then check or uncheck boxes in the popup.
+
+00:04:20.720 --> 00:04:24.520
+Click the Save button to return to the updated report.
+
+00:04:24.520 --> 00:04:28.920
+To download a copy of the report, click the Generate Download button.
+
+00:04:28.920 --> 00:04:35.606
+Then, in the popup, select either Simple View to download the report you see on screen or select
+
+00:04:35.606 --> 00:04:39.320
+Comprehensive View to download the report with all relevant columns.
+
+00:04:39.320 --> 00:04:45.542
+Click the Generate Download button to start your download, which you can monitor by accessing the
+
+00:04:45.542 --> 00:04:46.320
+Download Manager.
+
+00:04:46.320 --> 00:04:53.137
+Finally, if you want more information about how a specific metric is calculated, click Metrics Glossary
+
+00:04:53.137 --> 00:04:56.120
+to see a set of comprehensive definitions.
+
+00:04:56.120 --> 00:05:02.640
+On the Metrics Glossary page, you can expand each section to see additional details.
+
+00:05:02.640 --> 00:05:08.960
+We encourage brands to use all the features and functionality of the Demographics report to gain
+
+00:05:08.960 --> 00:05:12.120
+insights into their performance in the Amazon Store.
+
+00:05:12.120 --> 00:05:16.320
+Use it to help make strategic decisions about your brand catalog.
+
+00:05:16.320 --> 00:05:22.034
+If you notice your products are being purchased by certain demographic segments, you can explore
+
+00:05:22.034 --> 00:05:24.320
+other products popular with those segments.
+
+00:05:24.320 --> 00:05:31.520
+Or you can use the report to develop advertising campaigns focused on one or more customer categories.
+
+00:05:31.520 --> 00:05:34.920
+This concludes our overview of the Demographics report.
+
+00:05:34.920 --> 00:05:41.890
+If you'd like step-by-step instructions for other brand analytics reports, see our series of modules
+
+00:05:41.890 --> 00:05:43.120
+in Seller University.
+
+00:05:43.120 --> 00:05:46.920
+Thank you and happy selling in the Amazon Store!

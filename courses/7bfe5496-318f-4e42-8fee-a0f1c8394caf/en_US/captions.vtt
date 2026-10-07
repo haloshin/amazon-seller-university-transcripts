@@ -1,0 +1,121 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.876
+What is a delivery promise?
+
+00:00:03.876 --> 00:00:13.180
+It's the delivery date shown to customers on the product's detail page.
+
+00:00:13.720 --> 00:00:16.800
+And it's equal to your production time plus your shipping time.
+
+00:00:17.260 --> 00:00:18.960
+So, check your catalog and
+
+00:00:18.960 --> 00:00:23.040
+make sure you're advertising the best possible delivery date for your customers.
+
+00:00:24.400 --> 00:00:26.760
+Let's talk about how to set your production time.
+
+00:00:27.280 --> 00:00:30.240
+When you list your product, you'll be asked to enter the production time.
+
+00:00:30.900 --> 00:00:34.420
+That's the number of days from when you receive an order to when you're ready to ship it.
+
+00:00:35.140 --> 00:00:39.260
+And it includes the time it takes you to produce, customize and package your product.
+
+00:00:40.020 --> 00:00:43.160
+You can edit the production time for an existing product anytime.
+
+00:00:44.380 --> 00:00:46.880
+Now, let's talk about how to set shipping times.
+
+00:00:47.180 --> 00:00:50.580
+You can create multiple shipping settings for different SKUs.
+
+00:00:51.500 --> 00:00:53.980
+Start by going to your shipping settings.
+
+00:00:54.840 --> 00:00:58.460
+Under the Shipping Templates tab, select the shipping template that you want to edit.
+
+00:01:00.020 --> 00:01:01.560
+Click Edit Template.
+
+00:01:02.660 --> 00:01:06.080
+Then, select the Shipping and Regions option that you want to apply.
+
+00:01:06.920 --> 00:01:11.700
+And use the transit time excluding handling time drop down to set your transit time.
+
+00:01:12.700 --> 00:01:16.980
+You can repeat this for as many different shipping options and regions as you need.
+
+00:01:18.160 --> 00:01:23.640
+To select the SKUs you want to apply the shipping template to go to Manage Inventory,
+
+00:01:25.000 --> 00:01:26.160
+select SKUs,
+
+00:01:28.160 --> 00:01:28.800
+Edit,
+
+00:01:29.660 --> 00:01:31.120
+Change Shipping Template,
+
+00:01:33.320 --> 00:01:35.140
+then select Template.
+
+00:01:36.140 --> 00:01:40.975
+The shipping options, rates and estimated delivery dates displayed to customers for a SKU
+
+00:01:40.975 --> 00:01:45.120
+are directly determined by the shipping template the SKU is assigned to.
+
+00:01:45.920 --> 00:01:50.560
+When you create a new SKU, it will automatically be assigned to the default template.
+
+00:01:51.020 --> 00:01:55.862
+Keep in mind that for standard shipping, you need to be able to ship anywhere in the continental
+
+00:01:55.862 --> 00:01:57.360
+US.
+
+00:01:57.360 --> 00:02:02.010
+When a customer places an order, you will see a ship by date that corresponds to the production
+
+00:02:02.010 --> 00:02:03.560
+time you set for the product.
+
+00:02:04.500 --> 00:02:09.249
+You must confirm shipment within 30 days of the order date, or the order will be cancelled,
+
+00:02:09.249 --> 00:02:12.880
+and you will not receive payment, even if you ship the order later.
+
+00:02:13.820 --> 00:02:17.040
+You can review and confirm orders using the Manage Orders tool.
+
+00:02:18.060 --> 00:02:23.120
+Find it in the Orders tab of your Seller Central account, a hand-made tip.
+
+00:02:23.700 --> 00:02:25.720
+Keep track of your production and shipping times.
+
+00:02:25.840 --> 00:02:30.596
+If you are consistently delivering items quicker than advertised, consider reducing your production
+
+00:02:30.596 --> 00:02:30.962
+time
+
+00:02:30.962 --> 00:02:34.620
+or your shipping time for a more accurate delivery date.
+
+00:02:35.720 --> 00:02:36.380
+Want to learn more?
+
+00:02:36.860 --> 00:02:40.500
+Check out Help in Seller Central for more about delivery times.

@@ -1,0 +1,13 @@
+# When to use broad match in your keyword targeting
+
+"When you're setting up a campaign with manual keyword targeting, the match type determines
+ how closely the keywords you bid on match the shopping queries customers are using. Because
+ broad match gives you the highest traffic exposure of any of the match types, it's
+ best for driving awareness or to learn which terms customers use, helping you refine campaigns
+ later on. Let's take the example of a set of blue cotton sheets that you're advertising
+ and you've included blue cotton sheets in your keywords. This one keyword is a combination
+ of three terms – blue, cotton and sheets. If you're using the broad match type, your
+ ad may display when customers browse using all three of those terms in any order, plus
+ close variations like plurals. If customers use other terms along with these anywhere in
+ their queries, your ad may also appear.
+ (upbeat music)

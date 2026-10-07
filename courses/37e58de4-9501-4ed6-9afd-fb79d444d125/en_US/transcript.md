@@ -1,0 +1,7 @@
+# How to use product targeting in your Sponsored Brands campaign
+
+Let's see how to use product targeting in your sponsored brands campaign.
+ Say you're advertising kids' sunscreens. In the targeting section, choose product targeting.
+ First, you can target entire categories of products, add or refine our suggested categories, or search for ones yourself.
+ Or you can target individual products. Use our suggestions, search, or you can enter a list, or upload one.
+ Now, your ad will be eligible to show when the products you target appear in customer shopping results.

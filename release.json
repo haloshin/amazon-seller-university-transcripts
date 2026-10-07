@@ -1,0 +1,18 @@
+{
+  "version": "0.1.0",
+  "archiveDate": "2026-07-27",
+  "calibrationDate": "2026-10-07",
+  "courseCount": 270,
+  "transcriptCount": 455,
+  "locales": {
+    "en_US": 270,
+    "zh_CN": 185
+  },
+  "unresolvedAssets": 2,
+  "editorialNotesAssets": 29,
+  "originalVideoCount": 458,
+  "quarantinedSources": 3,
+  "internalReviewedDifferenceGroups": 3723,
+  "internalAppliedChanges": 1222,
+  "humanListeningPerformed": false
+}

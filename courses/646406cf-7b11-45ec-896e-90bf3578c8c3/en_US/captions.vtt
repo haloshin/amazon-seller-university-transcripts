@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.320
+In this video, we'll be discussing the return settings page, policies regarding international
+
+00:00:08.320 --> 00:00:13.480
+sales and returns, and how to configure your return settings.
+
+00:00:13.480 --> 00:00:20.040
+When processing an international return for orders shipped to customers in the US, Canada,
+
+00:00:20.040 --> 00:00:28.840
+Mexico, Japan, and our European marketplaces, you need to provide either a returnless refund,
+
+00:00:28.840 --> 00:00:34.640
+a domestic return option, or a prepaid international return shipping label.
+
+00:00:34.640 --> 00:00:38.960
+If you don't offer one of these options for an international return request within five
+
+00:00:38.960 --> 00:00:45.560
+days, Amazon may refund the customer on your behalf and charge the amount to your seller
+
+00:00:45.560 --> 00:00:47.040
+account.
+
+00:00:47.040 --> 00:00:53.080
+If you're fulfilling customer orders to the US from outside the US, you must provide Amazon
+
+00:00:53.080 --> 00:00:58.400
+with a valid US return address for items under $25.
+
+00:00:58.400 --> 00:01:04.560
+Amazon will use this address to generate prepaid return labels for customers on eligible return
+
+00:01:04.560 --> 00:01:06.120
+requests.
+
+00:01:06.120 --> 00:01:11.920
+If a US return address isn't provided, Amazon will issue the customer a refund for eligible
+
+00:01:11.920 --> 00:01:16.520
+returns without requiring the item to be returned.
+
+00:01:16.520 --> 00:01:20.040
+This is also known as a returnless refund.
+
+00:01:20.040 --> 00:01:25.520
+Our international returns provider on the solution provider network can help if you don't have
+
+00:01:25.520 --> 00:01:27.840
+a local return address.
+
+00:01:27.840 --> 00:01:32.760
+To get to the return settings page from the seller central home page, click the settings
+
+00:01:32.760 --> 00:01:36.680
+icon and then return settings.
+
+00:01:36.680 --> 00:01:39.160
+Here you'll find four tabs.
+
+00:01:39.160 --> 00:01:43.440
+The first tab, general settings, will already be selected.
+
+00:01:43.440 --> 00:01:50.000
+Within this tab, you can adjust the settings for each store where you sell based on authorization.
+
+00:01:50.000 --> 00:01:57.560
+Amazon prepaid return labels, label type, return merchandise authorization, or RMA, labels
+
+00:01:57.560 --> 00:02:01.720
+for exempt items, and return instructions.
+
+00:02:01.720 --> 00:02:08.520
+In the resolutions tab, you can create a returnless resolution rule by clicking the Create Returnless
+
+00:02:08.520 --> 00:02:11.480
+Resolution Rule button.
+
+00:02:11.480 --> 00:02:18.040
+Create the rule name, then add a product category, return reason, and marketplace.
+
+00:02:18.040 --> 00:02:24.400
+Click the plus icon to add multiple product categories, return reasons, and marketplaces
+
+00:02:24.400 --> 00:02:27.480
+that this rule will apply to.
+
+00:02:27.480 --> 00:02:33.320
+In the Manage Return Addresses tab, you can review your current default return addresses
+
+00:02:33.320 --> 00:02:37.160
+and add or edit addresses for each marketplace.
+
+00:02:37.160 --> 00:02:43.120
+Finally, in the Return Program Settings tab, you can choose whether to offer free returns
+
+00:02:43.120 --> 00:02:48.400
+for all, some, or none of your items.
+
+00:02:48.400 --> 00:02:52.040
+Now you're ready to manage your return settings within Seller Central.

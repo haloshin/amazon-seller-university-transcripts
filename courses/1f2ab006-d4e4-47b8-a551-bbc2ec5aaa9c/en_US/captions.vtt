@@ -1,0 +1,118 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+Most products sold in the Amazon store are required to have an industry-standard unique product
+
+00:00:08.000 --> 00:00:13.000
+ID number called a Global Trade Item Number or GTIN.
+
+00:00:13.000 --> 00:00:20.500
+This universal system, managed by Global Standards 1 or GS1, ensures accurate product identification
+
+00:00:20.500 --> 00:00:25.000
+to help sort and track items across international marketplaces.
+
+00:00:25.000 --> 00:00:30.000
+Each GTIN pairs with a unique barcode, which makes product IDs scannable.
+
+00:00:30.000 --> 00:00:36.364
+In most cases, you will need to provide a GTIN when you create a new product detail page in the
+
+00:00:36.364 --> 00:00:37.000
+Amazon store.
+
+00:00:37.000 --> 00:00:43.667
+A GTIN is also the surest way to match your offer to an existing product already sold in the Amazon
+
+00:00:43.667 --> 00:00:44.000
+store.
+
+00:00:44.000 --> 00:00:50.892
+If you match a listing using other information, like a brand or product name, Amazon will automatically
+
+00:00:50.892 --> 00:00:57.784
+associate your offer with the GTIN provided by the brand owner or brand qualified seller who first
+
+00:00:57.784 --> 00:00:59.000
+listed the product.
+
+00:00:59.000 --> 00:01:05.000
+Most product categories sold in the Amazon store require a specific type of GTIN.
+
+00:01:05.000 --> 00:01:11.217
+In many cases, it will be a 12-digit universal product code, UPC.
+
+00:01:11.217 --> 00:01:18.870
+Other accepted formats include the generic 14-digit GTIN, a 13-digit European article number, EAN,
+
+00:01:18.870 --> 00:01:27.000
+a 13-digit Japanese article number, JAN, or a 10-13-digit international standard book number, ISBN.
+
+00:01:27.000 --> 00:01:31.400
+EANs and JANs are also sometimes referred to as international article numbers.
+
+00:01:31.400 --> 00:01:38.000
+You can often find a product's ID above or below the barcode on its packaging or shipping container.
+
+00:01:38.000 --> 00:01:42.000
+Each variation of a product will need to have its own product ID.
+
+00:01:42.000 --> 00:01:47.649
+For example, a small blue shirt will have a different product ID than the same blue shirt in medium,
+
+00:01:47.649 --> 00:01:53.000
+and a large green shirt will have a different product ID than the same large shirt in red.
+
+00:01:53.000 --> 00:01:58.714
+There are a few rare cases in which a product ID may not be required to create a product detail
+
+00:01:58.714 --> 00:01:59.000
+page.
+
+00:01:59.000 --> 00:02:05.263
+This could occur if you're selling a private label or handmade product for which the brand manufacturer
+
+00:02:05.263 --> 00:02:11.526
+or publisher does not provide a product ID, or if you're selling product parts or bundled products
+
+00:02:11.526 --> 00:02:13.000
+in a single pack.
+
+00:02:13.000 --> 00:02:18.478
+If your product is eligible for a GTIN exemption, you will be prompted to apply for an exemption
+
+00:02:18.478 --> 00:02:20.000
+during the listing setup process.
+
+00:02:20.000 --> 00:02:28.312
+To see if you meet the requirements for a GTIN exemption, search for list products that do not have
+
+00:02:28.312 --> 00:02:34.000
+a product ID, UPC, EAN, JAN, or ISBN help page in Seller Central.
+
+00:02:34.000 --> 00:02:40.857
+It's important to note that a GTIN is different from an Amazon standard identification number, ASIN,
+
+00:02:40.857 --> 00:02:43.000
+and stock keeping units, SKUs.
+
+00:02:43.000 --> 00:02:49.538
+An ASIN is an automatically assigned number used by Amazon to identify and track products in our
+
+00:02:49.538 --> 00:02:56.462
+catalog, and a SKU is a seller-specific number that can be used internally to help you identify
+
+00:02:56.462 --> 00:02:58.000
+and track your inventory.
+
+00:02:58.000 --> 00:03:04.000
+While all three numbers help different groups identify, track, buy, and sell products, only GTINs
+
+00:03:04.000 --> 00:03:10.000
+are universal, and they're the number you'll use most often to list products on Amazon.
+
+00:03:10.000 --> 00:03:17.000
+To find category-specific product ID requirements before listing your products, search for GTIN
+
+00:03:17.000 --> 00:03:19.000
+requirements on Seller Central.

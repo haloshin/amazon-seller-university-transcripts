@@ -1,0 +1,69 @@
+# Next steps for sellers who’ve enrolled a brand
+
+Welcome to our video next steps for sellers who've enrolled a brand. You've
+ enrolled your brand in Amazon brand registry. Congrats! After brand registry
+ approves your enrollment, both your brand registry and seller central accounts will
+ be associated with your brand, and you'll be ready to enjoy additional selling
+ benefits, added protections, and greater control over your product detail pages.
+ As you begin to explore all the opportunities available, make sure you
+ also complete a few key steps in order. Your first step after enrollment with
+ brand registry should be listing your products. If you haven't already listed
+ your brand's products in the Amazon store, wait until after you've received
+ confirmation that your enrollment is approved. After approval, you can list
+ using our standard processes. You'll be able to use the brand name field to
+ select or enter your registered brand name. If you enter your brand name
+ manually, make sure it matches the name on your trademark exactly. This helps
+ ensure that your products are associated with your brand and integrated into the
+ tools reserved for enrolled brands. To get step-by-step instructions for the
+ full listing process, see the series of modules in our list products course in
+ Seller University. If you previously listed products within your brand by
+ entering an unregistered brand name in the brand name field, you should contact
+ Seller Support after your enrollment in brand registry is approved. Tell them that
+ you want to sync your existing listings with your newly registered brand name
+ and provide the name of your brand as it appears on your trademark as well as a
+ list of relevant ASINs. You should do this even if the name in the brand name
+ field isn't changing so that your existing products can be associated with
+ your brand's registration. If you previously listed your brand's products
+ in the Amazon store by entering or selecting generic in the brand name
+ field, you should delete those listings and create new ones using your newly
+ registered brand name. We can't associate an existing listing with a
+ registered brand after generic has been used as a brand name value. After your
+ products are listed and associated with your brand, you can activate each brand
+ benefit for your selling account. You can find them all by hovering over the
+ Brands section of the main menu in Seller Central clicking build your brand
+ and scrolling down to the bottom of the page. There's no exact order for
+ activating selling benefits. Some brands configure settings for the subscribe and
+ save program then use brand analytics dashboards to understand the impact.
+ Others review brand analytics dashboards first then decide to group and sell
+ their products as virtual bundles. But it's important to note that some
+ benefits are designed to be activated ahead of others. For example, a brand
+ needs to create a store before they can use posts to attract followers. They also
+ need a store before they can create sponsored brands campaigns because those
+ campaigns include a link to their store. In general, we recommend starting with
+ selling benefits that can help grow the audience for your brand like A+ content
+ and stores. Then we recommend investing in programs like subscribe and save and
+ virtual bundles which can generate repeat purchases and other types of
+ customer loyalty. When you've optimized your brand's Amazon footprint and
+ operations, we recommend informing your strategy with tools like Manage Your Experiments and brand analytics. It's also never a bad time to reinvest in
+ protections for your brand. If you qualify for programs like Transparency or
+ Project Zero, enrolling in them can help keep you and your customers safe from
+ counterfeits and other types of IP infringement. And every enrolled brand can
+ use the report a violation tool at any time to notify Amazon of suspected IP
+ violations. As you use various brand benefits, you can also reach out to seller
+ support if you ever suspect that one of your products hasn't been successfully
+ associated with your enrolled brand. For example, if a product appears to be
+ missing from a brand analytics dashboard, provide seller support with the exact
+ brand name that appears on your trademark along with the ASIN that you
+ think may not yet be associated. Another step you may want to take after
+ enrolling your brand is connecting it to additional seller central or brand
+ registry accounts. By doing so, you can provide additional Amazon sellers with
+ listing privileges for the brand, meaning they can create or suggest updates to
+ your brand's product detail pages. These additional sellers are eligible to
+ activate brand selling benefits too. Through separate processes, you can also
+ assign one or more roles to additional brand registry accounts, which gives
+ them access to various permission settings and protection tools. For more
+ information about associating additional seller central accounts with your brand,
+ see our seller university video "Manage Selling Benefits for Your Brand" and to
+ learn more about affiliating additional brand registry accounts, see our video
+ "Manage Amazon Brand Registry Roles". This concludes our training. Thank you and
+ happy selling in the Amazon store.

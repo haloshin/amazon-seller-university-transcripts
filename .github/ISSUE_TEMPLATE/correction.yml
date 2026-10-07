@@ -1,0 +1,24 @@
+name: 转写纠错 / Transcript correction
+description: 提供原课程证据，帮助修正文字或校注。
+title: "[纠错] "
+body:
+  - type: input
+    id: course
+    attributes:
+      label: 课程原标题或文件路径
+    validations:
+      required: true
+  - type: input
+    id: location
+    attributes:
+      label: 语言与时间位置
+      placeholder: "zh_CN, 02:58–03:16"
+    validations:
+      required: true
+  - type: textarea
+    id: correction
+    attributes:
+      label: 当前文字、建议更正与依据
+      description: 请提供可核对的官方来源；不要上传账号信息或私密材料。
+    validations:
+      required: true

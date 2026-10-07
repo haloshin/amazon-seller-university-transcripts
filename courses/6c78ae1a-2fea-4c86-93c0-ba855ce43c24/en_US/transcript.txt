@@ -1,0 +1,14 @@
+Seller Central UI based fulfillment. To assign an order to a delivery associate, first select "Manage Orders" from the Orders menu.
+ Find the order you would like to complete and select "Confirm" under the "Appointment" column.
+ Here you can add any delivery notes and schedule the delivery.
+ For a doorstep delivery, select a specific date from the range and confirm.
+ For an attended delivery, you can first call the customer to align schedules.
+ Select the agreed-upon date and time, and then confirm.
+ For a room of choice delivery, choose from the options the customer has provided and confirm.
+ Once the delivery date has been set, select Assign to choose the delivery associate that will complete the job.
+ Choose your delivery associate from the list. Once you select "Save", all the relevant details are shown on the Manage Orders page.
+ Once the order is delivered, you can select the "Complete Job" button.
+ Use Seller Central UI based fulfillment to enter the order completion details.
+ Enter the delivery associate, the date, and the completion time.
+ Select "Confirm".
+ The order will now be shown as completed on the Manage Orders page.

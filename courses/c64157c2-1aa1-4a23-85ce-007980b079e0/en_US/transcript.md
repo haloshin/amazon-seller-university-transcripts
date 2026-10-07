@@ -1,0 +1,36 @@
+# Block counterfeits with Project Zero
+
+For brands like yours, preventing customers from receiving counterfeits is a top priority.
+ And protecting customers, brands, and sellers is incredibly important at Amazon.
+ Amazon strictly prohibits the sale of counterfeit products,
+ and our customers expect that when they make a purchase,
+ either directly from Amazon or one of its millions of third-party sellers,
+ they'll receive authentic products.
+ That's why we launched Amazon Project Zero.
+ By combining our advanced technology, machine learning, and innovation
+ with your expert knowledge of your own intellectual property and products,
+ we can work together with your brand to drive counterfeits to zero.
+ Here's how it works.
+ Once you join Project Zero, just provide trademarks, logos,
+ and other key data points about your brand,
+ and our automated protections scan billions of attempted listing updates every day
+ to find and remove suspected counterfeits before they're added to our stores.
+ These protections are continuously fed new information,
+ so we constantly get better at automatically preventing
+ and blocking potential counterfeit listings.
+ And if you do spot a counterfeit listing,
+ you'll have the unprecedented ability to remove it yourself immediately
+ without the need to contact us.
+ These removals help our automated protections get smarter and stronger, too.
+ You can also choose to enroll some or all of your products
+ in our optional serialization service.
+ Applying a unique code to each unit you manufacture
+ allows us to easily scan and confirm the authenticity
+ of every item listed and purchased in our stores,
+ stopping counterfeits before they reach customers.
+ While this is optional, enrolled brands see the best results
+ when using our serialization technology.
+ Tens of thousands of brands are now enrolled in Project Zero,
+ working with Amazon to eliminate counterfeits.
+ To learn more, visit projectzero.com.
+ Protect your brand with Amazon.

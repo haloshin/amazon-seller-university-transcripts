@@ -1,0 +1,151 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+As an Amazon seller, there are multiple ways for you to price your products competitively
+
+00:00:08.000 --> 00:00:11.400
+when selling to Amazon business customers.
+
+00:00:11.400 --> 00:00:16.280
+You can set business discounts to encourage Amazon business customers to purchase your
+
+00:00:16.280 --> 00:00:17.440
+products.
+
+00:00:17.440 --> 00:00:25.040
+Business discounts fall under one of two categories, business prices and quantity discounts.
+
+00:00:25.040 --> 00:00:29.520
+Business prices are a single unit discount that is lower than the cost of the same product
+
+00:00:29.520 --> 00:00:31.540
+to retail customers.
+
+00:00:31.540 --> 00:00:37.600
+For example, you might sell an office chair to consumers at $50 but offer that same chair
+
+00:00:37.600 --> 00:00:41.280
+to business customers at $45.
+
+00:00:41.280 --> 00:00:46.920
+Quantity discounts are percentage off discounts or fixed discounts offered to business customers
+
+00:00:46.920 --> 00:00:48.800
+who buy in bulk.
+
+00:00:48.800 --> 00:00:54.720
+For example, you might offer 10% off of the total price when purchasing 5 office chairs
+
+00:00:54.720 --> 00:00:59.740
+and 15% off when purchasing 10 or more office chairs.
+
+00:00:59.740 --> 00:01:04.880
+When you set a business discount, only registered business customers will be able to see the
+
+00:01:04.880 --> 00:01:06.280
+discount.
+
+00:01:06.280 --> 00:01:09.280
+You can set business discounts in multiple ways.
+
+00:01:09.280 --> 00:01:16.180
+First, you'll need to decide whether to set static business prices or use dynamic pricing.
+
+00:01:16.180 --> 00:01:21.360
+Static prices and discounts are entered and updated manually in the product recommendations
+
+00:01:21.360 --> 00:01:27.840
+tab in the growth opportunities page or on the manage all inventory page.
+
+00:01:27.840 --> 00:01:32.040
+They don't change until you change them, which makes them useful if you always want
+
+00:01:32.040 --> 00:01:36.240
+to offer the same pricing to Amazon business buyers.
+
+00:01:36.240 --> 00:01:41.760
+Dynamic business pricing and quantity discounts change automatically in response to changes
+
+00:01:41.760 --> 00:01:43.920
+in your standard prices.
+
+00:01:43.920 --> 00:01:49.400
+By creating and applying business pricing rules using the automate pricing tool, you
+
+00:01:49.400 --> 00:01:54.480
+can keep the same discounts in place for Amazon business customers even when your standard
+
+00:01:54.480 --> 00:01:56.480
+prices fluctuate.
+
+00:01:56.480 --> 00:02:01.800
+For example, you might set a rule that keeps your single unit business price 5% lower than
+
+00:02:01.800 --> 00:02:03.920
+your standard retail price.
+
+00:02:03.920 --> 00:02:10.800
+When your product sells to retail customers for $100 and then for $120, it will sell to
+
+00:02:10.800 --> 00:02:17.600
+Amazon business customers for $95 and then $114.
+
+00:02:17.600 --> 00:02:21.600
+Using your business pricing in this way keeps your prices aligned.
+
+00:02:21.600 --> 00:02:26.040
+It also means you don't have to update prices in multiple places.
+
+00:02:26.040 --> 00:02:31.400
+You'll revisit the automate pricing tool in Seller Central each time you want to add or
+
+00:02:31.400 --> 00:02:34.080
+update a business pricing rule.
+
+00:02:34.080 --> 00:02:40.280
+In fact, we encourage you to review your B2B sales regularly, make updates to your pricing
+
+00:02:40.280 --> 00:02:43.560
+rules whenever you think they'll be beneficial.
+
+00:02:43.560 --> 00:02:48.640
+In addition to business pricing rules, the automate pricing tool can be used to create
+
+00:02:48.640 --> 00:02:53.880
+and apply standard retail pricing rules to your products and automatically syncs  your
+
+00:02:53.880 --> 00:02:56.680
+standard and business pricing rules.
+
+00:02:56.680 --> 00:03:01.960
+For example, if you set two rules, one that keeps your standard price $1 lower than the
+
+00:03:01.960 --> 00:03:07.280
+featured offer, and another that keeps your business price 5% lower than your standard
+
+00:03:07.280 --> 00:03:13.520
+price, these two rules will both run whenever you apply them to the same SKU.
+
+00:03:13.520 --> 00:03:18.720
+Your non-business price will always be $1 lower than the featured offer and your business
+
+00:03:18.720 --> 00:03:24.540
+price will always be 5% less than that competitive standard price.
+
+00:03:24.540 --> 00:03:28.800
+You can also manage your dynamic business pricing using the Amazon Selling Partner
+
+00:03:28.800 --> 00:03:33.680
+API or the Amazon Service Provider Network.
+
+00:03:33.680 --> 00:03:39.040
+Business pricing rules can be a great way to keep up with your Amazon business customers.
+
+00:03:39.040 --> 00:03:43.800
+They're also useful for streamlining and coordinating your pricing efforts.
+
+00:03:43.800 --> 00:03:49.960
+To learn more about how to use business pricing tools, search set business prices or quantity
+
+00:03:49.960 --> 00:03:54.520
+discounts or intro to automate pricing in Seller University.

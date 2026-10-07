@@ -1,0 +1,1025 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.580
+(upbeat music)
+
+00:00:05.560 --> 00:00:07.520
+Welcome to our training on how to prevent
+
+00:00:07.520 --> 00:00:11.000
+or resolve listing policy violations.
+
+00:00:11.000 --> 00:00:12.640
+In this training, we'll share a number
+
+00:00:12.640 --> 00:00:14.600
+of common listing violations
+
+00:00:14.600 --> 00:00:17.080
+and our tips for resolving them.
+
+00:00:17.080 --> 00:00:20.640
+We'll cover quality alerts and listing suppression,
+
+00:00:20.640 --> 00:00:23.720
+duplicate ASINs, invalid GTINs,
+
+00:00:23.720 --> 00:00:26.520
+prohibited and restricted products.
+
+00:00:26.520 --> 00:00:28.920
+We'll also share how to access a list of errors
+
+00:00:28.920 --> 00:00:32.160
+you might run into while listing products.
+
+00:00:32.160 --> 00:00:33.120
+Let's get started.
+
+00:00:34.880 --> 00:00:37.600
+You might receive alerts if you submit a product listing
+
+00:00:37.600 --> 00:00:39.960
+that doesn't meet Amazon's requirements.
+
+00:00:39.960 --> 00:00:41.920
+Your product could also become suppressed
+
+00:00:41.920 --> 00:00:43.640
+from customer search results.
+
+00:00:43.640 --> 00:00:45.880
+In certain cases, we won't add your listing
+
+00:00:45.880 --> 00:00:47.480
+to the Amazon store.
+
+00:00:47.480 --> 00:00:50.060
+This is to ensure customers don't encounter listings
+
+00:00:50.060 --> 00:00:52.760
+with incorrect or missing information.
+
+00:00:52.760 --> 00:00:54.360
+To check any listings of yours
+
+00:00:54.360 --> 00:00:56.360
+that don't meet Amazon's requirements,
+
+00:00:56.360 --> 00:00:58.600
+open the Seller Central main menu,
+
+00:00:58.600 --> 00:01:02.640
+hover over inventory and select manage all inventory.
+
+00:01:04.080 --> 00:01:07.520
+Filter the manage inventory page by a product status
+
+00:01:07.520 --> 00:01:11.640
+like inactive, listing removed or search suppressed.
+
+00:01:11.640 --> 00:01:14.800
+Or click search suppressed and inactive listings
+
+00:01:14.800 --> 00:01:16.520
+to review and manage issues.
+
+00:01:17.640 --> 00:01:19.960
+When you're ready to address a listing issue,
+
+00:01:19.960 --> 00:01:23.680
+you can do so directly from the fix your products page.
+
+00:01:23.680 --> 00:01:25.960
+Here are some examples of issues you can address
+
+00:01:25.960 --> 00:01:26.920
+from this page.
+
+00:01:28.120 --> 00:01:31.040
+You can add a missing core detail page requirement
+
+00:01:31.040 --> 00:01:34.360
+like a product description or a compliant main image.
+
+00:01:34.360 --> 00:01:36.720
+You can address out of stock SKUs
+
+00:01:36.720 --> 00:01:40.120
+by updating the quantity or selecting restock.
+
+00:01:40.120 --> 00:01:42.840
+Or you can review a potential duplicate.
+
+00:01:42.840 --> 00:01:45.560
+If you determine the listings shown are not duplicates,
+
+00:01:45.560 --> 00:01:48.720
+choose these are not duplicates to fix the issue.
+
+00:01:49.640 --> 00:01:51.560
+Review the descriptions of each suppressed
+
+00:01:51.560 --> 00:01:53.120
+or inactive listing.
+
+00:01:53.120 --> 00:01:55.920
+Then take the necessary steps for resolution.
+
+00:01:55.920 --> 00:01:58.840
+For a full walkthrough of the Fix Your products page
+
+00:01:58.840 --> 00:02:00.480
+and how to address an issue,
+
+00:02:00.480 --> 00:02:03.560
+watch the fix inactive or Suppressed listings video
+
+00:02:03.560 --> 00:02:04.840
+in Seller University.
+
+00:02:05.960 --> 00:02:08.520
+You may also experience blocked listings
+
+00:02:08.520 --> 00:02:11.320
+which appear on the manage inventory page
+
+00:02:11.320 --> 00:02:14.520
+with an inactive blocked status.
+
+00:02:14.520 --> 00:02:17.840
+Next to that status, you'll notice either a red icon
+
+00:02:17.840 --> 00:02:19.400
+or a yellow icon.
+
+00:02:19.400 --> 00:02:22.520
+The red icon means the product can't be re-listed
+
+00:02:22.520 --> 00:02:24.720
+while the yellow icon means it can.
+
+00:02:25.920 --> 00:02:28.840
+Click the link next to the icon to learn more
+
+00:02:28.840 --> 00:02:31.280
+and to correct any problems with the listing.
+ -
+
+00:02:33.640 --> 00:02:35.720
+In the previous video in this series,
+
+00:02:35.720 --> 00:02:40.720
+3.2 Prevent or Resolve product detail page policy violations.
+
+00:02:40.800 --> 00:02:43.200
+You learned about product variations
+
+00:02:43.200 --> 00:02:44.760
+and tips to remain compliant
+
+00:02:44.760 --> 00:02:47.720
+with Amazon's variation guidelines.
+
+00:02:47.720 --> 00:02:51.360
+Creating a new ASIN when a matching one already exists
+
+00:02:51.360 --> 00:02:55.440
+in the Amazon store or incorrectly using variations
+
+00:02:55.440 --> 00:02:58.200
+make product searching and purchasing decisions
+
+00:02:58.200 --> 00:02:59.760
+difficult for customers.
+
+00:03:00.640 --> 00:03:04.040
+Here's how you can check for potential ASIN duplicates.
+
+00:03:04.040 --> 00:03:08.520
+Return to the same manage inventory page we just visited.
+
+00:03:08.520 --> 00:03:11.480
+Then select potential duplicates.
+
+00:03:11.480 --> 00:03:12.720
+If you don't see this option,
+
+00:03:12.720 --> 00:03:15.800
+this means none of your listings have been search suppressed
+
+00:03:15.800 --> 00:03:18.160
+due to potential duplicates.
+
+00:03:18.160 --> 00:03:21.080
+Click review duplicates next to an ASIN
+
+00:03:21.080 --> 00:03:23.280
+to review more details.
+
+00:03:23.280 --> 00:03:25.520
+Then select the appropriate button to confirm
+
+00:03:25.520 --> 00:03:28.040
+whether the ASIN is a duplicate.
+
+00:03:28.040 --> 00:03:31.240
+You have 30 days from the date the ASIN first showed up
+
+00:03:31.240 --> 00:03:34.880
+on this page to review and respond to potential duplicates.
+
+00:03:34.880 --> 00:03:37.400
+Otherwise your ASIN will be suppressed from search results
+
+00:03:37.400 --> 00:03:39.960
+and will no longer appear on this page.
+
+00:03:39.960 --> 00:03:42.360
+If you find identical product detail pages,
+
+00:03:42.360 --> 00:03:44.480
+you can request to merge them
+
+00:03:44.480 --> 00:03:47.160
+using the self-service merge duplicate product
+
+00:03:47.160 --> 00:03:48.920
+detail pages tool.
+
+00:03:48.920 --> 00:03:52.320
+To access it, search merge duplicate product pages
+
+00:03:52.320 --> 00:03:55.200
+in Seller Central and complete the requested fields.
+ -
+
+00:03:57.680 --> 00:03:59.920
+Most products sold in the Amazon store
+
+00:03:59.920 --> 00:04:03.600
+are required to have an industry standard product ID.
+
+00:04:03.600 --> 00:04:06.560
+Product IDs are part of the GTIN system.
+
+00:04:06.560 --> 00:04:09.040
+This universal system is used by Amazon
+
+00:04:09.040 --> 00:04:11.120
+and across other marketplaces.
+
+00:04:11.120 --> 00:04:13.600
+It's managed by an international organization
+
+00:04:13.600 --> 00:04:17.260
+called Global Standards One or GS 1 for short.
+
+00:04:18.520 --> 00:04:21.720
+GTINs ensure that products are uniquely identified
+
+00:04:21.720 --> 00:04:23.400
+while being bought and sold
+
+00:04:23.400 --> 00:04:26.520
+and also help sort and track items in transit.
+
+00:04:26.520 --> 00:04:29.000
+Each GTIN pairs with a unique barcode
+
+00:04:29.000 --> 00:04:31.640
+which makes product IDs scannable.
+
+00:04:31.640 --> 00:04:33.520
+Depending on the product you're listing,
+
+00:04:33.520 --> 00:04:36.200
+you might need to locate an existing GTIN,
+
+00:04:36.200 --> 00:04:38.960
+obtain a new one or apply for an exemption.
+
+00:04:40.080 --> 00:04:42.480
+In most cases, you'll need to provide a GTIN
+
+00:04:42.480 --> 00:04:44.480
+when you create a new product detail page
+
+00:04:44.480 --> 00:04:46.160
+in the Amazon store.
+
+00:04:46.160 --> 00:04:48.960
+A GTIN is also the surest way to match your offer
+
+00:04:48.960 --> 00:04:52.840
+to an existing product already sold in the Amazon store.
+
+00:04:52.840 --> 00:04:55.280
+If you match a product using other information
+
+00:04:55.280 --> 00:04:57.240
+like a brand or product name,
+
+00:04:57.240 --> 00:04:59.680
+Amazon will automatically associate your offer
+
+00:04:59.680 --> 00:05:02.160
+with the GTIN provided by the brand owner
+
+00:05:02.160 --> 00:05:05.280
+or brand qualified seller who first listed the product.
+
+00:05:06.600 --> 00:05:08.800
+There are a few cases in which a GTIN
+
+00:05:08.800 --> 00:05:12.000
+isn't required to create a product detail page.
+
+00:05:12.000 --> 00:05:16.040
+In those cases, you'll apply for a GTIN exemption instead.
+
+00:05:16.040 --> 00:05:19.040
+This could occur if you're selling a private label
+
+00:05:19.040 --> 00:05:22.720
+or handmade product for which the brand, manufacturer
+
+00:05:22.720 --> 00:05:25.480
+or publisher doesn't provide a GTIN.
+
+00:05:25.480 --> 00:05:27.440
+You might also apply for an exemption
+
+00:05:27.440 --> 00:05:30.480
+if you're selling product parts or bundled products
+
+00:05:30.480 --> 00:05:31.520
+in a single pack.
+
+00:05:32.640 --> 00:05:35.200
+For more information on applying for an exemption
+
+00:05:35.200 --> 00:05:36.960
+and creating a new product detail page
+
+00:05:36.960 --> 00:05:38.560
+without a product ID,
+
+00:05:38.560 --> 00:05:41.080
+complete the apply for a product ID
+
+00:05:41.080 --> 00:05:44.140
+or GTIN exemption training in Seller university.
+
+00:05:45.800 --> 00:05:48.000
+When you list the product in the Amazon store,
+
+00:05:48.000 --> 00:05:51.760
+you may encounter an error stating you are using UPCs,
+
+00:05:51.760 --> 00:05:56.760
+EANs, ISBNs, ASINs or JAN codes
+
+00:05:56.800 --> 00:05:59.600
+that do not match the product you are trying to list.
+
+00:05:59.600 --> 00:06:03.200
+We recommend taking the following steps to resolve the error.
+
+00:06:03.200 --> 00:06:05.680
+One, check that the product information,
+
+00:06:05.680 --> 00:06:08.000
+including the brand is properly recorded
+
+00:06:08.000 --> 00:06:10.320
+on the GS1 database.
+
+00:06:10.320 --> 00:06:13.040
+Two, ensure that the information included
+
+00:06:13.040 --> 00:06:16.720
+in the GS1 database matches your listing exactly.
+
+00:06:16.720 --> 00:06:19.440
+Differences in capitalization and punctuation
+
+00:06:19.440 --> 00:06:21.680
+could result in a listing error.
+
+00:06:21.680 --> 00:06:25.200
+Three, provide proof that the brand is affiliated
+
+00:06:25.200 --> 00:06:26.800
+with the GTIN owner.
+
+00:06:26.800 --> 00:06:30.320
+Valid forms of proof include a copyright, trademark,
+
+00:06:30.320 --> 00:06:33.200
+legal agreement or a letter of affiliation.
+
+00:06:34.520 --> 00:06:37.480
+After Amazon confirms that the product ID you provided
+
+00:06:37.480 --> 00:06:40.000
+is valid, you can relist the product.
+
+00:06:41.280 --> 00:06:43.200
+For more information about GTINs,
+
+00:06:43.200 --> 00:06:45.920
+including requirements by product category,
+
+00:06:45.920 --> 00:06:50.120
+search GTIN or product ID in Seller Central.
+ -
+
+00:06:52.120 --> 00:06:53.960
+You've just learned that you'll need to confirm
+
+00:06:53.960 --> 00:06:56.840
+a product is okay to sell before you list it.
+
+00:06:56.840 --> 00:06:58.520
+It needs to be safe,
+
+00:06:58.520 --> 00:07:00.920
+comply with all laws and regulations
+
+00:07:00.920 --> 00:07:03.520
+and comply with Amazon's restricted product
+
+00:07:03.520 --> 00:07:06.080
+and product compliance policies.
+
+00:07:06.080 --> 00:07:08.840
+This helps ensure it isn't prohibited by Amazon
+
+00:07:08.840 --> 00:07:12.000
+and meets all product-specific requirements.
+
+00:07:12.000 --> 00:07:13.240
+You'll also need to determine
+
+00:07:13.240 --> 00:07:16.160
+if the product requires any approvals.
+
+00:07:16.160 --> 00:07:17.600
+Although products can be listed
+
+00:07:17.600 --> 00:07:19.480
+in the Amazon store without approval,
+
+00:07:19.480 --> 00:07:22.840
+we require that you apply to list certain products,
+
+00:07:22.840 --> 00:07:27.280
+categories and brands enrolled in Amazon brand registry.
+
+00:07:27.280 --> 00:07:28.960
+If you're just joining us in this series,
+
+00:07:28.960 --> 00:07:32.880
+watch the 3.1 Apply to Sell a Restricted Product,
+
+00:07:32.880 --> 00:07:36.000
+category or brand video in Seller University
+
+00:07:36.000 --> 00:07:38.440
+for an in-depth walkthrough of apply to list
+
+00:07:38.440 --> 00:07:40.760
+an existing product that requires category
+
+00:07:40.760 --> 00:07:42.440
+or brand approval.
+
+00:07:42.440 --> 00:07:44.800
+You can also search categories and products
+
+00:07:44.800 --> 00:07:46.840
+that require approval in Seller Central
+
+00:07:46.840 --> 00:07:48.560
+for more information.
+
+00:07:48.560 --> 00:07:49.880
+While selling in the Amazon store,
+
+00:07:49.880 --> 00:07:52.360
+you'll also need to assign the correct condition
+
+00:07:52.360 --> 00:07:54.120
+to each product you list.
+
+00:07:54.120 --> 00:07:56.280
+This helps ensure customers receive products
+
+00:07:56.280 --> 00:07:58.120
+in the condition they expect,
+
+00:07:58.120 --> 00:08:01.880
+an important part of a positive customer experience.
+
+00:08:01.880 --> 00:08:03.840
+You can search condition guidelines
+
+00:08:03.840 --> 00:08:06.440
+in Seller Central for more information.
+
+00:08:06.440 --> 00:08:09.000
+We also recommend watching the Prevent Product
+
+00:08:09.000 --> 00:08:11.600
+Condition Complaints video in Seller University
+
+00:08:11.600 --> 00:08:15.040
+for tips on preventing and managing negative feedback
+
+00:08:15.040 --> 00:08:16.560
+due to a product's condition.
+ -
+
+00:08:18.960 --> 00:08:20.160
+As with violations,
+
+00:08:20.160 --> 00:08:22.840
+you may encounter errors while listing products.
+
+00:08:22.840 --> 00:08:25.920
+These errors can prevent your listing from being created.
+
+00:08:25.920 --> 00:08:28.720
+In certain cases, the listing will be created,
+
+00:08:28.720 --> 00:08:30.600
+but the error will cause it to be suppressed
+
+00:08:30.600 --> 00:08:32.260
+from customer search results.
+
+00:08:33.280 --> 00:08:35.560
+Because the Amazon store features products
+
+00:08:35.560 --> 00:08:37.320
+sold by multiple sellers,
+
+00:08:37.320 --> 00:08:38.800
+listing issues are commonly due
+
+00:08:38.800 --> 00:08:40.720
+to incorrectly matching your products
+
+00:08:40.720 --> 00:08:42.680
+to an existing listing.
+
+00:08:42.680 --> 00:08:46.480
+Amazon uses product matching to eliminate duplicate listings,
+
+00:08:46.480 --> 00:08:48.880
+meaning customers can browse by product
+
+00:08:48.880 --> 00:08:50.560
+and use the product detail page
+
+00:08:50.560 --> 00:08:53.200
+to make an informed buying decision.
+
+00:08:53.200 --> 00:08:55.880
+Then they can choose to shop the featured offer
+
+00:08:55.880 --> 00:08:59.920
+or continue navigating through offers from other sellers.
+
+00:08:59.920 --> 00:09:01.400
+When you correctly match your product
+
+00:09:01.400 --> 00:09:02.800
+to an existing listing,
+
+00:09:02.800 --> 00:09:06.200
+you help customers find your offer.
+
+00:09:06.200 --> 00:09:08.800
+You may encounter matching or conflicting errors
+
+00:09:08.800 --> 00:09:11.040
+when you attempt to create a new product listing
+
+00:09:11.040 --> 00:09:13.320
+or update an existing one.
+
+00:09:13.320 --> 00:09:16.800
+These errors notify you about one of two issues.
+
+00:09:16.800 --> 00:09:19.400
+Either the product ID or SKU you provided
+
+00:09:19.400 --> 00:09:21.080
+may be assigned to a different product
+
+00:09:21.080 --> 00:09:22.240
+in the Amazon store
+
+00:09:22.240 --> 00:09:24.600
+than the one you're trying to list and sell.
+
+00:09:24.600 --> 00:09:27.320
+Or the product ID you provided is associated
+
+00:09:27.320 --> 00:09:28.840
+with one or more Asins,
+
+00:09:28.840 --> 00:09:31.440
+but at least one product attribute you entered
+
+00:09:31.440 --> 00:09:32.800
+doesn't match those Asins.
+
+00:09:34.160 --> 00:09:37.840
+For example, imagine you correctly entered a product ID
+
+00:09:37.840 --> 00:09:39.960
+that matches your product with the same item
+
+00:09:39.960 --> 00:09:41.400
+in the Amazon catalog.
+
+00:09:41.400 --> 00:09:43.120
+But when you created your offer,
+
+00:09:43.120 --> 00:09:46.280
+you entered a brand, color, scent, size
+
+00:09:46.280 --> 00:09:48.360
+or other attribute that doesn't match
+
+00:09:48.360 --> 00:09:50.880
+what's already present for that particular Asin.
+
+00:09:52.000 --> 00:09:55.080
+Amazon can't match your product IDs to existing Asins
+
+00:09:55.080 --> 00:09:58.400
+unless the attributes you provide are identical to them.
+
+00:09:58.400 --> 00:10:00.160
+Otherwise, we can't be sure
+
+00:10:00.160 --> 00:10:02.960
+that the similar product we found in the Amazon catalog
+
+00:10:02.960 --> 00:10:05.440
+is the same as the one you're trying to list.
+
+00:10:05.440 --> 00:10:06.720
+Let's review your options
+
+00:10:06.720 --> 00:10:09.680
+after receiving matching or conflicting errors.
+
+00:10:09.680 --> 00:10:12.680
+You can often resolve them in one of three ways.
+
+00:10:12.680 --> 00:10:15.040
+Confirming the product ID is correct.
+
+00:10:15.040 --> 00:10:16.800
+Changing your listing's attributes
+
+00:10:16.800 --> 00:10:19.360
+to match the existing product detail page
+
+00:10:19.360 --> 00:10:21.080
+or replacing the product ID
+
+00:10:21.080 --> 00:10:23.840
+with the Asin provided in the error message you received.
+
+00:10:25.320 --> 00:10:27.800
+If you receive a matching or conflicting error,
+
+00:10:27.800 --> 00:10:30.360
+you should first check that the product ID you provided
+
+00:10:30.360 --> 00:10:33.520
+is correct and the product found in the Amazon store
+
+00:10:33.520 --> 00:10:35.800
+is the same one you're trying to list.
+
+00:10:35.800 --> 00:10:38.720
+The error message includes the product ID you provided
+
+00:10:38.720 --> 00:10:41.400
+and the product we think it matches in the Amazon store.
+
+00:10:41.400 --> 00:10:45.640
+A GTIN is also the surest way to match your offer
+
+00:10:45.640 --> 00:10:47.880
+to an existing Amazon listing.
+
+00:10:47.880 --> 00:10:50.880
+Note that you must always use a unique product identifier
+
+00:10:50.880 --> 00:10:53.480
+obtained from the GS1 database.
+
+00:10:53.480 --> 00:10:55.600
+Amazon uses this database to verify
+
+00:10:55.600 --> 00:10:58.640
+that the product identifiers you and other sellers provide
+
+00:10:58.640 --> 00:11:00.120
+are authentic.
+
+00:11:00.120 --> 00:11:04.080
+Identifiers purchased from other websites won't be accepted.
+
+00:11:04.080 --> 00:11:06.000
+If your product is different than the Asin
+
+00:11:06.000 --> 00:11:08.880
+but the product ID you provided is correct
+
+00:11:08.880 --> 00:11:11.960
+and was obtained from the GS1 database,
+
+00:11:11.960 --> 00:11:15.000
+click request Amazon to update.
+
+00:11:15.000 --> 00:11:16.480
+A pop-up window will appear
+
+00:11:16.480 --> 00:11:18.840
+and describe the information you'll need to provide
+
+00:11:18.840 --> 00:11:20.920
+about the discrepancy.
+
+00:11:20.920 --> 00:11:23.120
+Amazon will analyze the information
+
+00:11:23.120 --> 00:11:27.240
+and update the status of your request in your case log.
+
+00:11:27.240 --> 00:11:29.800
+To review your case log, select help
+
+00:11:29.800 --> 00:11:33.040
+in the top right corner of Seller Central.
+
+00:11:33.040 --> 00:11:36.800
+Then click case log and locate the request ID.
+
+00:11:37.720 --> 00:11:40.600
+If you've confirmed the product found in the Amazon catalog
+
+00:11:40.600 --> 00:11:42.720
+is the same one you're trying to submit,
+
+00:11:42.720 --> 00:11:44.520
+you can modify your product listing
+
+00:11:44.520 --> 00:11:48.960
+to reflect the existing Asin's product detail page.
+
+00:11:48.960 --> 00:11:52.840
+In certain cases you'll see an accept Amazon's value option
+
+00:11:52.840 --> 00:11:54.360
+in the error message.
+
+00:11:54.360 --> 00:11:57.520
+Select it and Amazon will process your submission.
+
+00:11:58.600 --> 00:12:00.440
+If the error message doesn't include
+
+00:12:00.440 --> 00:12:02.880
+the accept Amazon's value option,
+
+00:12:02.880 --> 00:12:05.040
+refer to the error message you received
+
+00:12:05.040 --> 00:12:07.160
+to find the correct attributes.
+
+00:12:07.160 --> 00:12:09.520
+Or if you used an inventory file,
+
+00:12:09.520 --> 00:12:11.680
+when you tried to create the listing,
+
+00:12:11.680 --> 00:12:14.460
+you can find this information in your error report.
+
+00:12:15.800 --> 00:12:19.280
+Make any necessary changes and then resubmit your listing.
+
+00:12:19.280 --> 00:12:22.080
+Your product will display on the manage inventory page
+
+00:12:22.080 --> 00:12:23.520
+in Seller Central.
+
+00:12:23.520 --> 00:12:26.840
+As a reminder, you can get there by opening the main menu,
+
+00:12:26.840 --> 00:12:31.640
+hovering over inventory and selecting manage all inventory.
+
+00:12:31.640 --> 00:12:34.040
+If your product doesn't appear within 15 minutes
+
+00:12:34.040 --> 00:12:35.520
+of resubmitting your listing,
+
+00:12:35.520 --> 00:12:38.520
+select search suppressed and inactive listings
+
+00:12:38.520 --> 00:12:41.000
+to return to the fix your products page
+
+00:12:41.000 --> 00:12:43.320
+we reviewed earlier in this video.
+
+00:12:43.320 --> 00:12:45.560
+Remember, you can search for the product,
+
+00:12:45.560 --> 00:12:47.200
+review other listing issues,
+
+00:12:47.200 --> 00:12:50.660
+and submit the required information from this page.
+
+00:12:51.680 --> 00:12:53.960
+There may be instances when you've confirmed
+
+00:12:53.960 --> 00:12:55.960
+the product found in the Amazon catalog
+
+00:12:55.960 --> 00:12:58.280
+is the same one you're trying to submit.
+
+00:12:58.280 --> 00:12:59.800
+But one or more attributes
+
+00:12:59.800 --> 00:13:03.640
+on the existing ASIN's product detail page aren't correct.
+
+00:13:03.640 --> 00:13:05.200
+After you list a product,
+
+00:13:05.200 --> 00:13:07.280
+you may be able to suggest an edit
+
+00:13:07.280 --> 00:13:10.600
+to a product detail page you share with other sellers
+
+00:13:10.600 --> 00:13:13.360
+to help improve the page's accuracy.
+
+00:13:13.360 --> 00:13:14.920
+Your ability to suggest an edit
+
+00:13:14.920 --> 00:13:17.560
+depends on your relationship with the product.
+
+00:13:17.560 --> 00:13:19.720
+If a product is part of a brand enrolled
+
+00:13:19.720 --> 00:13:22.560
+in brand registry, only three types of sellers
+
+00:13:22.560 --> 00:13:24.360
+can suggest edits.
+
+00:13:24.360 --> 00:13:27.320
+The original rights owner who enrolled the brand,
+
+00:13:27.320 --> 00:13:30.840
+other sellers verified as internal to the brand,
+
+00:13:30.840 --> 00:13:33.160
+and resellers authorized by the brand.
+
+00:13:34.080 --> 00:13:36.120
+If the product isn't part of a brand enrolled
+
+00:13:36.120 --> 00:13:37.440
+in brand registry,
+
+00:13:37.440 --> 00:13:40.160
+both the seller who created the product detail page
+
+00:13:40.160 --> 00:13:43.680
+and all sellers who've matched offers can suggest edits.
+
+00:13:44.640 --> 00:13:46.040
+To learn how to suggest edits,
+
+00:13:46.040 --> 00:13:47.960
+complete the suggest an edit
+
+00:13:47.960 --> 00:13:51.960
+to a product detail page training in Seller University.
+ -
+
+00:13:51.960 --> 00:13:53.960
+If you're not eligible to suggest edits,
+
+00:13:53.960 --> 00:13:57.040
+but would like to report an incorrect product detail page,
+
+00:13:57.040 --> 00:13:59.720
+we recommend you contact seller support.
+
+00:13:59.720 --> 00:14:02.120
+You may be asked to provide supporting materials
+
+00:14:02.120 --> 00:14:03.800
+like manufacturer documents.
+
+00:14:04.720 --> 00:14:06.080
+You may encounter other errors
+
+00:14:06.080 --> 00:14:08.120
+while completing the listing process.
+
+00:14:08.120 --> 00:14:09.560
+To learn more about an error,
+
+00:14:09.560 --> 00:14:11.240
+search the word "error"
+
+00:14:11.240 --> 00:14:13.600
+followed by the numerical code you received.
+
+00:14:13.600 --> 00:14:17.600
+In this example, a seller received error 8571.
+
+00:14:17.600 --> 00:14:19.440
+Reviewed its related help page
+
+00:14:19.440 --> 00:14:22.560
+and learned that they've reached their ASIN creation limit.
+
+00:14:22.560 --> 00:14:25.640
+To protect the on-site shopping experience for our customers,
+
+00:14:25.640 --> 00:14:27.280
+we limit the number of listings,
+
+00:14:27.280 --> 00:14:31.000
+both ASINs and offers you can create in a given week
+
+00:14:31.000 --> 00:14:34.200
+until you establish a sales history with Amazon.
+
+00:14:34.200 --> 00:14:37.560
+As you increase your sales, your capacity will increase.
+
+00:14:37.560 --> 00:14:40.520
+We encourage you to prioritize the products you are listing
+
+00:14:40.520 --> 00:14:42.720
+to increase your sales quickly.
+
+00:14:42.720 --> 00:14:43.960
+If you're an established seller
+
+00:14:43.960 --> 00:14:46.280
+and have created a high number of new listings,
+
+00:14:46.280 --> 00:14:50.160
+we may temporarily remove your ability to create new listings.
+
+00:14:50.160 --> 00:14:53.320
+We'll then re-evaluate your status on a weekly basis
+
+00:14:53.320 --> 00:14:56.400
+until your listing privileges are reinstated.
+ -
+
+00:14:56.400 --> 00:14:58.520
+This concludes our training on how to prevent
+
+00:14:58.520 --> 00:15:01.360
+or resolve listing policy violations.
+
+00:15:01.360 --> 00:15:04.000
+Continue to the next training to learn how to prevent
+
+00:15:04.000 --> 00:15:08.920
+or resolve intellectual property or IP policy violations.
+
+00:15:08.920 --> 00:15:11.480
+Thank you and happy selling in the Amazon store.
+ (
+
+00:15:11.480 --> 00:15:14.060
+upbeat music)

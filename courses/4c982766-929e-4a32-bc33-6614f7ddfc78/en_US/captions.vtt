@@ -1,0 +1,220 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.400
+Welcome to our training on how to determine product weights and dimensions.
+
+00:00:04.400 --> 00:00:06.800
+Getting the right product measurements can be tricky.
+
+00:00:06.800 --> 00:00:10.700
+So it's important that you understand how to measure them accurately.
+
+00:00:10.700 --> 00:00:14.500
+In this video, we'll discuss the importance of accurate product measurements,
+
+00:00:14.500 --> 00:00:18.800
+how fulfillment centers do their measurements, and how to avoid mismatch,
+
+00:00:18.800 --> 00:00:22.300
+how to measure weight such as dimensional weight and scale weight,
+
+00:00:22.300 --> 00:00:24.800
+and how to measure dimension and volume.
+
+00:00:24.800 --> 00:00:29.400
+By the end of this video, you should know how to measure a product's weight,
+
+00:00:29.400 --> 00:00:35.400
+measure a product's dimensions, and avoid discrepancies between your and fulfillment center measurements.
+
+00:00:35.400 --> 00:00:41.047
+Item package weight and dimensions refer to the weight and dimensions of an individual product or
+
+00:00:41.047 --> 00:00:41.400
+item
+
+00:00:41.400 --> 00:00:45.900
+that you're listing under a fulfillment network SKU or FNSKU.
+
+00:00:45.900 --> 00:00:51.400
+The weight and dimensions also include the item's packaging, such as a box or poly bag.
+
+00:00:51.400 --> 00:00:56.900
+An item, item, package, and case can all have specific weights and dimensions.
+
+00:00:56.900 --> 00:01:04.400
+Fees for fulfillment by Amazon or FBA are then calculated based on item package weight and dimensions.
+
+00:01:04.400 --> 00:01:08.900
+Let's review how Amazon measures products in our fulfillment centers.
+
+00:01:08.900 --> 00:01:15.400
+Amazon uses multiple sensors installed throughout our fulfillment centers to capture item measurements.
+
+00:01:15.400 --> 00:01:19.900
+The sensors capture your item packaging edge to edge, including loose materials
+
+00:01:19.900 --> 00:01:23.400
+such as plastic bags and loose parts such as handles.
+
+00:01:23.400 --> 00:01:27.400
+The most common cause of differences between seller and fulfillment center measurements
+
+00:01:27.400 --> 00:01:30.400
+is the type of packaging material in use.
+
+00:01:30.400 --> 00:01:33.400
+To minimize discrepancies between the dimensions you expect
+
+00:01:33.400 --> 00:01:37.400
+and the dimensions captured by fulfillment center sensors,
+
+00:01:37.400 --> 00:01:41.400
+make sure that the packaging is uniform in size across your units
+
+00:01:41.400 --> 00:01:44.400
+and that it doesn't show loose material or bulges.
+
+00:01:44.400 --> 00:01:47.400
+Use tight fitting or vacuum sealed poly bags,
+
+00:01:47.400 --> 00:01:51.400
+taping down flaps, and avoiding packaging that easily bulges
+
+00:01:51.400 --> 00:01:54.400
+can help prevent dimension variation.
+
+00:01:54.400 --> 00:01:57.400
+Let's take a look at how to determine a product's dimensions.
+
+00:01:57.400 --> 00:02:00.400
+To replicate potential sensor measurements,
+
+00:02:00.400 --> 00:02:05.400
+take a single item package with the item inside as it would be received by a customer.
+
+00:02:05.400 --> 00:02:12.400
+On a flat surface, fully extend loose packaging materials such as poly bag flaps and package handles
+
+00:02:12.400 --> 00:02:15.400
+to capture the maximum item package dimensions.
+
+00:02:15.400 --> 00:02:18.400
+Measure the item package's longest edge as its length,
+
+00:02:18.400 --> 00:02:23.400
+its second longest edge as its width, and its shortest edge as its height.
+
+00:02:23.400 --> 00:02:28.400
+If one or more of these dimensions differs across the package, such as a bulge,
+
+00:02:28.400 --> 00:02:31.400
+measure the longest or thickest part of that dimension.
+
+00:02:31.400 --> 00:02:36.400
+To determine your item's girth, add its median length to its shortest length
+
+00:02:36.400 --> 00:02:38.400
+and multiply by two.
+
+00:02:38.400 --> 00:02:43.400
+To determine your item's girth plus length, add its girth and its longest length.
+
+00:02:43.400 --> 00:02:45.400
+Let's take a look at measuring weight in a product.
+
+00:02:45.400 --> 00:02:50.400
+Amazon uses two different types of weight, unit weight and dimensional weight.
+
+00:02:50.400 --> 00:02:56.100
+Unit weight is determined by how much a single unit of your item package weighs when placed on a
+
+00:02:56.100 --> 00:02:56.400
+scale.
+
+00:02:56.400 --> 00:03:00.400
+Dimensional weight is calculated using your item package's dimensions.
+
+00:03:00.400 --> 00:03:06.900
+To calculate dimensional weight, multiply the package's overall length, width, and height, then
+
+00:03:06.900 --> 00:03:08.400
+divide by 139.
+
+00:03:08.400 --> 00:03:13.400
+For any apparel items that have a unit weight of 3/4 of a pound or less,
+
+00:03:13.400 --> 00:03:21.453
+any non-apparel small standard items and any special oversize items, only unit weight is used in
+
+00:03:21.453 --> 00:03:22.400
+fee calculation.
+
+00:03:22.400 --> 00:03:28.025
+For apparel items, dimensional weight may apply when calculating fees for items that are standard
+
+00:03:28.025 --> 00:03:28.400
+size
+
+00:03:28.400 --> 00:03:34.400
+and weigh more than 3/4 of a pound or are oversized but not considered special oversize.
+
+00:03:34.400 --> 00:03:40.400
+For non-apparel items, dimensional weight fees may also apply if the item is large standard size
+
+00:03:40.400 --> 00:03:47.400
+but not small standard size or if the item is oversized but not considered special oversize.
+
+00:03:47.400 --> 00:03:52.400
+A standard size item is one that meets all of the following criteria when fully packaged.
+
+00:03:52.400 --> 00:03:56.400
+Unit weight that is less than or equal to 20 pounds.
+
+00:03:56.400 --> 00:03:59.400
+The length is less than or equal to 18 inches.
+
+00:03:59.400 --> 00:04:03.400
+The width is less than or equal to 14 inches.
+
+00:04:03.400 --> 00:04:07.400
+And the height is less than or equal to 8 inches.
+
+00:04:07.400 --> 00:04:12.400
+A small standard size item is one that meets all of the following criteria when fully packaged.
+
+00:04:12.400 --> 00:04:16.400
+The length is less than or equal to 15 inches.
+
+00:04:16.400 --> 00:04:19.400
+The width is less than or equal to 12 inches.
+
+00:04:19.400 --> 00:04:23.400
+And the height is less than or equal to 3/4 of an inch.
+
+00:04:23.400 --> 00:04:30.355
+The greater of dimensional weight and unit weight is used to calculate fees for any item that's
+
+00:04:30.355 --> 00:04:32.400
+eligible to receive dimensional weight.
+
+00:04:32.400 --> 00:04:35.347
+Now let's review what you've learned so far.
+
+00:04:35.347 --> 00:04:39.400
+In this video, we've covered the importance of accurate product measurements,
+
+00:04:39.400 --> 00:04:43.400
+how fulfillment centers take measurements and how to avoid mismatches,
+
+00:04:43.400 --> 00:04:47.400
+how to measure weight such as dimensional weight and scale weight,
+
+00:04:47.400 --> 00:04:50.400
+and how to measure dimensions and volume.
+
+00:04:50.400 --> 00:04:54.400
+This concludes our training on how to determine product weights and dimensions.
+
+00:04:54.400 --> 00:04:57.400
+Thank you and happy selling in the Amazon store.

@@ -1,0 +1,202 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.080
+The Manage Returns page in Seller Central enables you to manage buyer return and replacement
+
+00:00:08.080 --> 00:00:12.320
+requests for seller-fulfilled orders across your stores.
+
+00:00:12.320 --> 00:00:18.640
+To get there from the main menu in Seller Central, select Manage Returns listed under Orders.
+
+00:00:18.640 --> 00:00:24.160
+The Manage Returns page displays four main tabs for organizing return requests.
+
+00:00:24.160 --> 00:00:28.160
+View All shows all return and replacement requests from buyers.
+
+00:00:28.160 --> 00:00:32.560
+Pending actions lists open requests that require your attention,
+
+00:00:32.560 --> 00:00:36.160
+such as authorizing return requests or issuing refunds.
+
+00:00:36.160 --> 00:00:40.800
+Completed includes all completed and closed return requests.
+
+00:00:40.800 --> 00:00:47.360
+And the Returns with A to Z claims tab shows returns with active A to Z guarantee claims.
+
+00:00:47.360 --> 00:00:53.760
+To locate a specific return, enter the order ID, return merchandise authorization ID,
+
+00:00:53.760 --> 00:00:56.800
+tracking ID or ASIN in the search bar.
+
+00:00:56.800 --> 00:01:01.840
+Narrow results using the sort By, date range and marketplace filters.
+
+00:01:01.840 --> 00:01:09.520
+Access detailed return information by selecting more information at the bottom of any return request.
+
+00:01:09.520 --> 00:01:17.246
+This displays shipping information, order details, total order value, item details and resolution
+
+00:01:17.246 --> 00:01:17.840
+type.
+
+00:01:17.840 --> 00:01:23.120
+To authorize a return, select Authorize Request from the Actions column.
+
+00:01:23.120 --> 00:01:29.920
+Under Return Merchandise Authorization, specify whether you want Amazon to generate a RMA number
+
+00:01:29.920 --> 00:01:32.560
+or if you prefer to provide your own.
+
+00:01:32.560 --> 00:01:39.040
+Then choose between an Amazon-provided unpaid label or your own prepaid return label.
+
+00:01:39.040 --> 00:01:43.040
+Provide any return instructions, then press Save.
+
+00:01:43.040 --> 00:01:48.762
+Note that if you sell in the US, you're automatically enrolled in Amazon's prepaid return labels
+
+00:01:48.762 --> 00:01:49.120
+program,
+
+00:01:49.120 --> 00:01:56.020
+which issues return labels on your behalf for eligible domestic returns through Amazon Buy Shipping
+
+00:01:56.020 --> 00:01:56.480
+Services.
+
+00:01:56.480 --> 00:02:01.360
+If you sell in the US but don't have a US domestic return address,
+
+00:02:01.360 --> 00:02:07.280
+visit the Customer Returns for International Sales Help page for additional guidance.
+
+00:02:07.280 --> 00:02:13.280
+If you sell in other marketplaces, you may enroll in the Amazon prepaid return labels program
+
+00:02:13.280 --> 00:02:16.960
+from your return settings if available in your region.
+
+00:02:16.960 --> 00:02:20.400
+Otherwise, you'll need to generate and upload those labels yourself.
+
+00:02:21.120 --> 00:02:28.000
+For auto-authorized returns, you can select Edit Authorization to view your return address,
+
+00:02:28.000 --> 00:02:32.800
+update customer instructions or, if available, download the return label.
+
+00:02:33.440 --> 00:02:37.760
+To learn more about the policies related to Amazon prepaid labels,
+
+00:02:37.760 --> 00:02:43.440
+refer to the prepaid returns for seller-fulfilled orders help page in Seller Central.
+
+00:02:43.440 --> 00:02:47.600
+In some cases, you may be prompted to upload a prepaid return shipping label.
+
+00:02:48.480 --> 00:02:51.920
+Select Issue Return Shipping Label to upload your label
+
+00:02:51.920 --> 00:02:56.240
+and return shipping information, such as the shipping carrier and tracking ID.
+
+00:02:56.880 --> 00:03:02.880
+To process a refund, select Issue Refund from the Actions tab and choose the Refund reason.
+
+00:03:03.520 --> 00:03:08.960
+For damaged or materially different returns, you have the option to issue a restocking fee.
+
+00:03:09.600 --> 00:03:15.840
+Select Charge Restocking Fee, grade your returned item, enter the restocking fee percentage
+
+00:03:15.840 --> 00:03:19.760
+and upload photos of the damaged or materially different items.
+
+00:03:20.400 --> 00:03:23.920
+Add any additional refund amounts and select Submit Refund.
+
+00:03:24.480 --> 00:03:28.640
+Be sure to process refunds within two business days of receiving returns.
+
+00:03:29.280 --> 00:03:34.720
+If you do not take action regarding the refund, Amazon might refund the customer on your behalf.
+
+00:03:35.520 --> 00:03:41.840
+Finally, when no additional action is required, complete the return process by selecting Complete
+
+00:03:41.840 --> 00:03:43.382
+from the Actions column.
+
+00:03:43.382 --> 00:03:46.080
+Choose the completion reason and click Save.
+
+00:03:46.800 --> 00:03:52.320
+You can also provide instant resolutions to buyers, streamline return management processing,
+
+00:03:52.320 --> 00:03:58.000
+and reduce return shipping costs by issuing a refund or replacement and letting the buyer
+
+00:03:58.000 --> 00:03:59.691
+keep the original product.
+
+00:03:59.691 --> 00:04:03.920
+This process is also known as offering a returnless resolution.
+
+00:04:04.640 --> 00:04:10.880
+To offer a returnless resolution, navigate to Edit Returns Setting at the top of the Manage
+
+00:04:10.880 --> 00:04:11.817
+Returns page.
+
+00:04:11.817 --> 00:04:17.440
+Select the Resolutions tab and click the Create Returnless Resolution Rule button
+
+00:04:17.440 --> 00:04:24.240
+to set parameters on criteria like Product Category, Return Reason, Marketplace, or Price Range.
+
+00:04:24.960 --> 00:04:30.800
+Note that if you cancel the rule, any orders placed before then will still be subject to that rule.
+
+00:04:31.520 --> 00:04:38.240
+To offer or remove returnless resolutions for specific SKUs, go to Manage Return Templates
+
+00:04:38.240 --> 00:04:40.720
+from the Return Settings page.
+
+00:04:40.720 --> 00:04:43.200
+Download the Returnless Resolution template
+
+00:04:43.200 --> 00:04:49.280
+and follow the instructions to request or remove returnless resolutions for individual products.
+
+00:04:50.000 --> 00:04:55.520
+You can visit the Returnless Resolutions for Seller Fulfilled Returns Help page for additional
+
+00:04:55.520 --> 00:04:55.907
+guidance.
+
+00:04:55.907 --> 00:05:02.480
+At the top of the Manage Returns page, you will find links and resources for more detailed
+
+00:05:02.480 --> 00:05:05.286
+information about managing seller fulfilled returns.
+
+00:05:05.286 --> 00:05:08.560
+You can also download your returns data
+
+00:05:08.560 --> 00:05:10.720
+through the View Reports link.
+
+00:05:10.720 --> 00:05:15.040
+Find solutions to common questions under Return FAQs and make
+
+00:05:15.040 --> 00:05:24.080
+changes to your return settings under Edit Returns Setting.

@@ -1,0 +1,124 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:08.000
+With Amazon Buy Shipping, you can access Amazon's negotiated shipping rates or link your own rates
+
+00:00:08.000 --> 00:00:15.000
+from your FedEx or UPS account for seller-fulfilled prime or non-prime orders.
+
+00:00:15.000 --> 00:00:19.000
+Before linking a carrier account, there are two steps you need to take.
+
+00:00:19.000 --> 00:00:26.000
+First, review the terms and conditions in the Buy Shipping Services Terms and Conditions Help page.
+
+00:00:26.000 --> 00:00:31.000
+Second, update your contact information in the Buy Shipping Preferences.
+
+00:00:31.000 --> 00:00:40.000
+Go to Settings, click Account Info, click Shipping and Returns Information, then Buy Shipping Preferences.
+
+00:00:40.000 --> 00:00:46.611
+Under Manage Your Ship From Locations, click Edit and review or update your email address and phone
+
+00:00:46.611 --> 00:00:47.000
+number.
+
+00:00:47.000 --> 00:00:53.400
+To begin linking your carrier accounts, go to Buy Shipping Preferences in Seller Central and click
+
+00:00:53.400 --> 00:00:55.000
+Manage Your Carrier Accounts.
+
+00:00:55.000 --> 00:00:56.867
+Then click Link Account.
+
+00:00:56.867 --> 00:01:02.000
+Choose either the FedEx or UPS tile to start the process.
+
+00:01:02.000 --> 00:01:08.923
+For FedEx accounts, you'll need to provide your 9-digit account number, contact information including
+
+00:01:08.923 --> 00:01:14.000
+name and address, your FedEx email address and your company name.
+
+00:01:14.000 --> 00:01:21.083
+For UPS accounts, you'll need your UPS account number, the account zip code from your original UPS
+
+00:01:21.083 --> 00:01:24.000
+registration and your current shipping location information.
+
+00:01:24.000 --> 00:01:29.000
+After entering your information, you'll authenticate your account.
+
+00:01:29.000 --> 00:01:34.000
+For FedEx, you'll receive a one-time password by email or phone.
+
+00:01:34.000 --> 00:01:40.000
+For UPS, you'll sign in through the UPS website using your UPS.
+
+00:01:40.000 --> 00:01:41.000
+com credentials.
+
+00:01:41.000 --> 00:01:46.000
+Once authentication is complete, your account status will show as active.
+
+00:01:46.000 --> 00:01:52.263
+It's important to note that your shipping rates should appear within 3-5 business days after linking
+
+00:01:52.263 --> 00:01:53.000
+your account.
+
+00:01:53.000 --> 00:02:00.714
+If you linked your FedEx account before May 2025 or your UPS account uses Access Key-Based Authorization,
+
+00:02:00.714 --> 00:02:05.000
+you'll need to re-authenticate your accounts in Seller Central.
+
+00:02:05.000 --> 00:02:11.000
+Without re-authentication, you'll only see Amazon's pre-negotiated rates instead of your own.
+
+00:02:11.000 --> 00:02:17.346
+To re-authenticate your accounts, go to Manage Your Carrier Accounts and select Authenticate next
+
+00:02:17.346 --> 00:02:22.000
+to your FedEx or UPS account and enter your account information.
+
+00:02:22.000 --> 00:02:30.550
+For FedEx, choose to receive a one-time password by email or phone and enter the password to complete
+
+00:02:30.550 --> 00:02:31.000
+authentication.
+
+00:02:31.000 --> 00:02:35.714
+For UPS, sign in through the UPS website using your UPS.
+
+00:02:35.714 --> 00:02:40.000
+com credentials and follow the prompts to complete the process.
+
+00:02:40.000 --> 00:02:45.000
+Each UPS account must be re-authenticated individually.
+
+00:02:45.000 --> 00:02:50.714
+The Merchant Fulfillment API is another way for you to purchase shipping through Buy Shipping without
+
+00:02:50.714 --> 00:02:55.000
+the need to log in to your Seller account in Seller Central.
+
+00:02:55.000 --> 00:03:00.684
+You'll need to review and agree to the terms and conditions for each carrier service you plan to
+
+00:03:00.684 --> 00:03:01.000
+use.
+
+00:03:01.000 --> 00:03:08.000
+After reviewing, select the "I agree" checkbox for each carrier, then select Submit.
+
+00:03:08.000 --> 00:03:14.774
+If you experience any issues during the linking or authentication process, such as frozen pages
+
+00:03:14.774 --> 00:03:21.548
+or validation errors, visit the Manage Your Carrier Accounts and the Buy Shipping Preferences Help
+
+00:03:21.548 --> 00:03:22.000
+pages.

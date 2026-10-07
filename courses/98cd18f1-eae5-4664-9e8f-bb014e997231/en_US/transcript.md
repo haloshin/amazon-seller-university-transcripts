@@ -1,0 +1,14 @@
+# How to use views remarketing in your Sponsored Display campaigns
+
+Let's see how to use Views Remarketing in your Sponsored display campaigns to engage
+ audiences who have viewed specific product detail pages, which can help you drive awareness
+ and consideration, even convert missed sales.
+ In your Sponsored display campaign, choose Audiences as your targeting strategy.
+ Then, pick Views Remarketing.
+ Include audiences who have viewed your advertised product's detail pages or the detail pages
+ of similar products.
+ You'll see these already added by default, and you can keep or remove any of them.
+ Plus, you can reach shoppers who view detail pages in various categories, use our suggestions
+ or search for ones yourself, set the look back window to specify the window of time
+ for Views.
+ You can refine any of them by features like price or star rating.

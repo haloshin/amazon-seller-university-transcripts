@@ -1,0 +1,214 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:02.930
+Welcome to our intro to business reports.
+
+00:00:02.930 --> 00:00:08.791
+Your Amazon Seller Central account gives you access to a number of business reports.
+
+00:00:08.791 --> 00:00:15.488
+You can use them to help identify sales trends, recognize your top performing products, and discover
+
+00:00:15.488 --> 00:00:18.000
+new opportunities to grow your business.
+
+00:00:18.000 --> 00:00:24.729
+To access your business reports, select the menu icon in the top left corner of Seller Central.
+
+00:00:24.729 --> 00:00:27.500
+Hover over reports and select business reports.
+
+00:00:27.500 --> 00:00:33.438
+You'll arrive at the sales dashboard page, which provides a summary of your sales metrics.
+
+00:00:33.438 --> 00:00:37.000
+Use this information to identify trends and act quickly.
+
+00:00:37.000 --> 00:00:41.231
+The sales snapshot section displays your current sales and order performance.
+
+00:00:41.231 --> 00:00:47.385
+Use the compare sales section to compare these numbers to your sales and order performance from
+
+00:00:47.385 --> 00:00:52.000
+yesterday, the same day last week, and the same day last year.
+
+00:00:52.000 --> 00:00:57.855
+Customize these views by selecting a custom date range, specific category, or fulfillment method.
+
+00:00:57.855 --> 00:01:00.782
+Then click apply to update the page.
+
+00:01:00.782 --> 00:01:07.473
+You can also filter by selecting the checkboxes in the compare sales section and toggle between
+
+00:01:07.473 --> 00:01:09.564
+graph view and table view.
+
+00:01:09.564 --> 00:01:15.000
+Your sales snapshot is refreshed about once per hour, so check back regularly.
+
+00:01:15.000 --> 00:01:21.545
+On the left side of the sales dashboard page, you'll see a number of business reports arranged by
+
+00:01:21.545 --> 00:01:23.364
+date, ASIN, and other categories.
+
+00:01:23.364 --> 00:01:25.909
+Click a report name to open it.
+
+00:01:25.909 --> 00:01:31.000
+We recommend starting with the detail page, sales, and traffic by child item report.
+
+00:01:31.000 --> 00:01:36.353
+This includes information on the performance of your products and each of their variations.
+
+00:01:36.353 --> 00:01:42.471
+If your product has variations, that product is considered the parent item and its variations are
+
+00:01:42.471 --> 00:01:44.000
+considered its child items.
+
+00:01:44.000 --> 00:01:50.448
+For example, if you sell a shirt in different sizes and colors, the shirt represents the parent
+
+00:01:50.448 --> 00:01:50.828
+item.
+
+00:01:50.828 --> 00:01:55.000
+The shirt's variations, such as blue and medium, represent child items.
+
+00:01:55.000 --> 00:02:02.071
+The detail page, sales, and traffic by child item report is organized by child items, so you can
+
+00:02:02.071 --> 00:02:06.000
+compare how unique variations of the same product are performing.
+
+00:02:06.000 --> 00:02:12.000
+The default time frame for this report is one month, but you can choose a specific date range you'd
+
+00:02:12.000 --> 00:02:13.263
+like to review instead.
+
+00:02:13.263 --> 00:02:18.000
+There are many ways to interact with the report to help inform your business strategies.
+
+00:02:18.000 --> 00:02:19.565
+We recommend the following.
+
+00:02:19.565 --> 00:02:25.826
+Sort the ordered product sales column in descending order to see which product variations have the
+
+00:02:25.826 --> 00:02:27.000
+most unit sales.
+
+00:02:27.000 --> 00:02:33.737
+Sort the ordered product sales column in ascending order to see which product variations have the
+
+00:02:33.737 --> 00:02:35.000
+least unit sales.
+
+00:02:35.000 --> 00:02:41.207
+Sort the page views column in ascending order to see which of your items customers find most often,
+
+00:02:41.207 --> 00:02:45.000
+or in descending order to see which they find least often.
+
+00:02:45.000 --> 00:02:51.333
+If an item isn't selling well but has a high number of page views, we recommend pricing the product
+
+00:02:51.333 --> 00:02:52.000
+more competitively.
+
+00:02:52.000 --> 00:02:59.200
+If page views are low, you might benefit from promoting the product with a coupon or a sponsored
+
+00:02:59.200 --> 00:03:00.000
+products campaign.
+
+00:03:00.000 --> 00:03:06.000
+Note that this and other business reports don't automatically factor in returns or refunds.
+
+00:03:06.000 --> 00:03:12.588
+Click Show Hide Columns and select the checkboxes next to Units Refunded, Refund Rate, and Claims
+
+00:03:12.588 --> 00:03:13.000
+Amount.
+
+00:03:13.000 --> 00:03:17.000
+Then select Save Columns to show these values.
+
+00:03:17.000 --> 00:03:22.000
+As with the sales dashboard, you can also modify the report to show a custom date range.
+
+00:03:22.000 --> 00:03:29.435
+Bookmark the page in your browser or copy and paste the URL into your personal notes to save the
+
+00:03:29.435 --> 00:03:31.000
+report parameters you selected.
+
+00:03:31.000 --> 00:03:35.200
+If you'd like to download this or other business reports, select download.
+
+00:03:35.200 --> 00:03:38.000
+csv at the top of the reports page.
+
+00:03:38.000 --> 00:03:44.032
+For more information on the metrics included in the Detail Page Sales and Traffic by Child Item
+
+00:03:44.032 --> 00:03:49.000
+Report, select Learn More at the top of the page or click Column Titles.
+
+00:03:49.000 --> 00:03:55.000
+We also recommend using the Sales and Traffic and Seller Performance business reports.
+
+00:03:55.000 --> 00:04:01.087
+You can use the Sales and Traffic Report to review your daily sales metrics on a line graph or in
+
+00:04:01.087 --> 00:04:02.000
+a detailed table.
+
+00:04:02.000 --> 00:04:07.000
+Each of the table's columns include an icon that reveals a drop-down list when clicked.
+
+00:04:07.000 --> 00:04:13.462
+Click the icon to remove a metric from your report, add a metric to the line graph, or read a brief
+
+00:04:13.462 --> 00:04:15.000
+description of what it measures.
+
+00:04:15.000 --> 00:04:20.000
+The Seller Performance report helps you understand customer satisfaction.
+
+00:04:20.000 --> 00:04:23.000
+Here are a few of the metrics in this report.
+
+00:04:23.000 --> 00:04:29.000
+The Refund Rate metric shows you what percentage of your orders are being returned or refunded.
+
+00:04:29.000 --> 00:04:34.250
+The received negative feedback rate metric calculates the percentage of your orders that received
+
+00:04:34.250 --> 00:04:38.000
+negative feedback on the day listed in the date column.
+
+00:04:38.000 --> 00:04:45.579
+Finally, the By Week and By Month metrics allow you to view customer satisfaction information received
+
+00:04:45.579 --> 00:04:47.000
+within those timeframes.
+
+00:04:47.000 --> 00:04:50.000
+You can also select custom dates for the report.
+
+00:04:50.000 --> 00:04:53.000
+This concludes our Intro to Business reports.
+
+00:04:53.000 --> 00:05:00.143
+As a next step, we recommend customizing your reports and determining which reports, metrics, and
+
+00:05:00.143 --> 00:05:03.000
+timeframes work best for your business.
+
+00:05:03.000 --> 00:05:06.000
+Thank you and happy selling in the Amazon Store!

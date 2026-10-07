@@ -1,0 +1,136 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.720
+After confirming your shipments in step 2, it's time to print your box labels.
+
+00:00:06.720 --> 00:00:08.160
+If you have
+
+00:00:08.160 --> 00:00:13.355
+any pallets in your shipment, you'll confirm those details and print carrier labels in the next
+
+00:00:13.355 --> 00:00:13.680
+steps.
+
+00:00:14.560 --> 00:00:18.160
+If there are no pallets in your shipment, this will be your final step.
+
+00:00:18.880 --> 00:00:23.680
+First, you'll want to review the ship from and ship date fields to ensure they are correct.
+
+00:00:24.240 --> 00:00:29.520
+You can edit the ship date at this point, but if your ship from field needs to be changed,
+
+00:00:29.520 --> 00:00:32.044
+you'll need to go back to step 1.
+
+00:00:32.044 --> 00:00:35.200
+Next, review details for each shipment in the shipment card.
+
+00:00:35.760 --> 00:00:38.762
+Select rename if you would like to update the shipment name.
+
+00:00:38.762 --> 00:00:40.400
+If you want to edit shipment
+
+00:00:40.400 --> 00:00:44.100
+contents, select view or edit contents in the shipment card.
+
+00:00:44.100 --> 00:00:46.320
+The window that appears lets you
+
+00:00:46.320 --> 00:00:52.105
+view box allocation across shipments, print your pack list and edit unit quantities.
+
+00:00:52.105 --> 00:00:53.440
+You can adjust
+
+00:00:53.440 --> 00:00:58.692
+up to 6 units or 5% of total units, whichever is greater.
+
+00:00:58.692 --> 00:01:00.880
+Select validate updates when finished.
+
+00:01:00.880 --> 00:01:06.480
+To print box labels, select the drop down menu in each shipment card to choose the size of your
+
+00:01:06.480 --> 00:01:06.933
+labels.
+
+00:01:06.933 --> 00:01:10.107
+Then select print to generate a PDF.
+
+00:01:10.107 --> 00:01:13.280
+If you're using an Amazon partnered carrier,
+
+00:01:13.280 --> 00:01:18.960
+your PDF will include an FBA Box ID label as well as a carrier label for each box.
+
+00:01:19.760 --> 00:01:25.760
+FBA Box ID labels help us more efficiently manage your shipments once they arrive at an Amazon
+
+00:01:25.760 --> 00:01:26.667
+fulfillment center.
+
+00:01:26.667 --> 00:01:32.560
+For non-partnered carriers, your PDF will only include FBA Box ID labels.
+
+00:01:33.360 --> 00:01:38.800
+You'll need to work with your carrier to create carrier labels, then apply both to each box.
+
+00:01:39.360 --> 00:01:44.444
+For pallet shipments, your PDF will also include only FBA Box ID labels.
+
+00:01:44.444 --> 00:01:46.400
+Make sure to apply these
+
+00:01:46.400 --> 00:01:52.400
+labels to each box so that they will be visible when the pallet is unpacked at our fulfillment center.
+
+00:01:53.200 --> 00:01:58.800
+Once all your labels have been applied, your next steps will vary based on your selections in step
+
+00:01:58.800 --> 00:01:59.246
+two.
+
+00:01:59.246 --> 00:02:05.040
+For small parcel shipments with an Amazon partnered carrier, you've completed the workflow
+
+00:02:05.040 --> 00:02:07.941
+and you're ready to hand off your shipment.
+
+00:02:07.941 --> 00:02:09.392
+Click view tracking details.
+
+00:02:09.392 --> 00:02:10.480
+We'll track your
+
+00:02:10.480 --> 00:02:13.572
+shipments and change the status to shipped for you.
+
+00:02:13.572 --> 00:02:16.320
+For small parcel shipments with a non-partnered
+
+00:02:16.320 --> 00:02:21.520
+carrier, you can also click view tracking details and hand off your shipment to the carrier.
+
+00:02:22.160 --> 00:02:25.316
+Then you'll need to provide tracking IDs for your boxes.
+
+00:02:25.316 --> 00:02:27.840
+This can be done in the final step
+
+00:02:27.840 --> 00:02:34.165
+tracking details that will populate once you complete step three or by navigating to your shipping
+
+00:02:34.165 --> 00:02:34.560
+queue
+
+00:02:34.560 --> 00:02:36.571
+and clicking track shipment.
+
+00:02:36.571 --> 00:02:41.600
+For pallet shipments, select continue to carrier and pallet information
+
+00:02:41.600 --> 00:02:47.360
+to proceed to step four.

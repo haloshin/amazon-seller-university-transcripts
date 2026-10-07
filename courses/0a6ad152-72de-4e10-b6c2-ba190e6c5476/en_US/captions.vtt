@@ -1,0 +1,196 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.100
+Let's explore some advanced features and optimization strategies that can help you improve
+
+00:00:04.100 --> 00:00:05.176
+your campaign performance.
+
+00:00:05.176 --> 00:00:09.120
+After watching this video, you'll be able to enhance your campaigns
+
+00:00:09.120 --> 00:00:10.708
+through several key features.
+
+00:00:10.708 --> 00:00:14.280
+You'll learn to apply rule-based bidding, implement scheduled
+
+00:00:14.280 --> 00:00:19.680
+bid rules for specific timeframes, make bid adjustments for placements, leverage Amazon
+
+00:00:19.680 --> 00:00:24.280
+built audiences for targeted bid boosts, and set up budget rules to manage campaign
+
+00:00:24.280 --> 00:00:25.129
+spend effectively.
+
+00:00:25.129 --> 00:00:29.800
+In the advertising console, select a specific campaign within the campaign
+
+00:00:29.800 --> 00:00:34.680
+manager, you can then apply advanced features on the campaign settings page or during campaign
+
+00:00:34.680 --> 00:00:35.066
+creation.
+
+00:00:35.066 --> 00:00:39.700
+Let's begin with rule-based bidding, an automated strategy that reduces manual
+
+00:00:39.700 --> 00:00:45.320
+bid adjustments, return on ad spend, or ROAS measures the revenue generated for every
+
+00:00:45.320 --> 00:00:47.040
+dollar spent on advertising.
+
+00:00:47.040 --> 00:00:50.480
+Once you set your ROAS parameters, Amazon automatically
+
+00:00:50.480 --> 00:00:54.660
+adjusts your bids, which can increase up to three times your base bid during high opportunity
+
+00:00:54.660 --> 00:00:54.984
+periods.
+
+00:00:54.984 --> 00:00:59.840
+For example, you could set your ROAS to three as a guardrail within the campaign
+
+00:00:59.840 --> 00:01:00.265
+settings.
+
+00:01:00.265 --> 00:01:05.360
+Now that you understand rule-based bidding, let's explore scheduled bid rules.
+
+00:01:05.360 --> 00:01:09.880
+This feature allows you to automatically increase bids for specific timeframes, helping you
+
+00:01:09.880 --> 00:01:12.068
+focus on peak shopping hours and events.
+
+00:01:12.068 --> 00:01:14.880
+For example, you could apply a rule to automatically
+
+00:01:14.880 --> 00:01:18.668
+increase your bids by 10 percent on Saturday evenings between 5 and 9 p.
+
+00:01:18.668 --> 00:01:18.939
+m.
+
+00:01:18.939 --> 00:01:19.480
+when you've
+
+00:01:19.480 --> 00:01:20.883
+noticed higher conversion rates.
+
+00:01:20.883 --> 00:01:24.040
+Another way to refine your bidding strategy is through
+
+00:01:24.040 --> 00:01:25.341
+adjusting bids by placement.
+
+00:01:25.341 --> 00:01:28.920
+This allows you to tailor your bids to help improve visibility
+
+00:01:28.920 --> 00:01:30.179
+in high converting placements.
+
+00:01:30.179 --> 00:01:33.640
+You can increase bids for top-of-search placements and adjust
+
+00:01:33.640 --> 00:01:34.984
+bids for product pages.
+
+00:01:34.984 --> 00:01:38.680
+For example, consider a 20 percent top-of-search bid adjustment
+
+00:01:38.680 --> 00:01:39.700
+and monitor performance.
+
+00:01:39.700 --> 00:01:43.440
+To help further enhance your campaign performance, let's look at bid
+
+00:01:43.440 --> 00:01:45.423
+boosting for Amazon-built audiences.
+
+00:01:45.423 --> 00:01:48.200
+This feature enhances your targeting with audience
+
+00:01:48.200 --> 00:01:48.811
+bid adjustments.
+
+00:01:48.811 --> 00:01:52.480
+These adjustments apply to audiences such as those with a high likelihood
+
+00:01:52.480 --> 00:01:56.800
+of purchase based on recent shopping activity, previous brand purchasers who bought your
+
+00:01:56.800 --> 00:02:00.960
+product in the last three months, and brand product considers who clicked or added to
+
+00:02:00.960 --> 00:02:01.832
+cart without purchasing.
+
+00:02:01.832 --> 00:02:05.320
+Consider starting with a 10 to 20 percent bid increase for these
+
+00:02:05.320 --> 00:02:09.800
+audiences and measure results over two weeks before further adjustments.
+
+00:02:09.800 --> 00:02:14.335
+Finally, let's explore budget rules for managing your campaign spend effectively.
+
+00:02:14.335 --> 00:02:15.160
+Schedule-based
+
+00:02:15.160 --> 00:02:20.000
+budget rules allow you to automatically increase budgets for specific timeframes, particularly
+
+00:02:20.000 --> 00:02:22.440
+useful during seasonal peaks and promotional periods.
+
+00:02:22.440 --> 00:02:24.880
+For example, you can set your budget
+
+00:02:24.880 --> 00:02:27.623
+to increase by 30 percent for Black Friday.
+
+00:02:27.623 --> 00:02:29.680
+Performance-based rules help you capitalize
+
+00:02:29.680 --> 00:02:34.517
+on well-performing campaigns by automatically adjusting budgets based on key metrics.
+
+00:02:34.517 --> 00:02:34.920
+These
+
+00:02:34.920 --> 00:02:40.320
+metrics include advertising cost of sale, ACoS, which measures your ad spend relative
+
+00:02:40.320 --> 00:02:40.981
+to sales.
+
+00:02:40.981 --> 00:02:45.280
+Click-through rate, which shows how often customers click your ads when they
+
+00:02:45.280 --> 00:02:49.320
+see them, and conversion rate, which indicates how often customers purchase after clicking
+
+00:02:49.320 --> 00:02:50.080
+your ads.
+
+00:02:50.080 --> 00:02:53.500
+These advanced features work together to optimize your campaigns.
+
+00:02:53.500 --> 00:02:54.640
+Start by testing
+
+00:02:54.640 --> 00:02:59.280
+individual features on a few campaigns, monitor results for at least two weeks, and gradually
+
+00:02:59.280 --> 00:03:03.502
+expand successful optimizations that align with your business objectives.
+
+00:03:03.502 --> 00:03:04.440
+Apply advanced
+
+00:03:04.440 --> 00:03:06.360
+features in the advertising console.

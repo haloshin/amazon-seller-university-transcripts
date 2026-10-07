@@ -1,0 +1,163 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.400
+Welcome to our training on how to set a limit on order handling capacity.
+
+00:00:04.400 --> 00:00:10.196
+In this video, we'll show you how to set a limit on the number of orders you need to process within
+
+00:00:10.196 --> 00:00:11.300
+your default handling time.
+
+00:00:11.300 --> 00:00:17.091
+By using the order handling capacity feature, you can give yourself an extra day to handle any orders
+
+00:00:17.091 --> 00:00:18.700
+that exceed your set capacity.
+
+00:00:18.700 --> 00:00:23.000
+This feature helps you manage your order load and protect your account health.
+
+00:00:23.000 --> 00:00:27.500
+Every offer in the Amazon store comes with a customer delivery promise.
+
+00:00:27.500 --> 00:00:32.400
+This is the range of dates in which a customer can expect an order to arrive.
+
+00:00:32.400 --> 00:00:38.017
+Your offers are more attractive when the dates in the customer delivery promise are close to the
+
+00:00:38.017 --> 00:00:40.000
+time a customer sees your offer.
+
+00:00:40.000 --> 00:00:45.833
+But if you have more orders than you can handle in a day, it might be difficult to send packages
+
+00:00:45.833 --> 00:00:47.000
+to customers on time.
+
+00:00:47.000 --> 00:00:52.778
+Customers need to be able to trust the customer delivery promise since late deliveries affect your
+
+00:00:52.778 --> 00:00:53.500
+account health.
+
+00:00:53.500 --> 00:00:59.000
+So how can you achieve a shorter delivery time while also keeping your account health safe?
+
+00:00:59.000 --> 00:01:02.000
+We have tools to help you do just that.
+
+00:01:02.000 --> 00:01:08.333
+Let's say you've set a one-day default handling time to help put purchases in the hands of customers
+
+00:01:08.333 --> 00:01:09.000
+more quickly,
+
+00:01:09.000 --> 00:01:13.000
+but you're worried about what to do if there's a sudden spike in the number of orders.
+
+00:01:13.000 --> 00:01:17.000
+Sometimes you can see spikes coming, like around the holiday season.
+
+00:01:17.000 --> 00:01:23.000
+Other spikes may come out of nowhere, like if your brand suddenly and unexpectedly becomes popular.
+
+00:01:23.000 --> 00:01:28.440
+Some sellers might worry about getting more orders than they can fulfill, failing to ship within
+
+00:01:28.440 --> 00:01:31.500
+their handling time and having their account health suffer.
+
+00:01:31.500 --> 00:01:36.500
+You don't need to extend your default handling time to accommodate potential spikes in ordering.
+
+00:01:36.500 --> 00:01:40.000
+Instead, you can set your order handling capacity.
+
+00:01:40.000 --> 00:01:45.816
+Order handling capacity sets a limit on the number of orders you can fulfill within your default
+
+00:01:45.816 --> 00:01:46.500
+handling time.
+
+00:01:46.500 --> 00:01:52.833
+If you have a one-day default handling time and the number of orders you get exceeds your order
+
+00:01:52.833 --> 00:01:53.500
+handling capacity,
+
+00:01:53.500 --> 00:01:59.929
+Amazon will automatically add a day to the handling time and set all additional orders to a two-
+
+00:01:59.929 --> 00:02:01.000
+day handling time.
+
+00:02:01.000 --> 00:02:04.500
+Note that these orders will count toward your next day's limit.
+
+00:02:04.500 --> 00:02:12.261
+So if your order capacity is 100 orders and you get 120, the extra 20 are put toward the next day's
+
+00:02:12.261 --> 00:02:13.000
+order capacity.
+
+00:02:13.000 --> 00:02:18.500
+This way, you'll never have more orders than you can handle and you can protect your account health.
+
+00:02:18.500 --> 00:02:24.000
+You set your order handling capacity in the same place that you set your default handling time.
+
+00:02:24.000 --> 00:02:29.881
+Go to the Seller Central home page and open the Settings menu by selecting the gear icon in the
+
+00:02:29.881 --> 00:02:30.500
+upper right.
+
+00:02:30.500 --> 00:02:36.000
+Select Shipping Settings and then choose General Shipping Settings on the next screen.
+
+00:02:36.000 --> 00:02:38.333
+Scroll down until you find handling time.
+
+00:02:38.333 --> 00:02:44.000
+You will see order handling capacity in the same section where you set your default handling time.
+
+00:02:44.000 --> 00:02:45.765
+Click Edit to the right.
+
+00:02:45.765 --> 00:02:50.000
+Look for order handling capacity on the bottom of the next screen.
+
+00:02:50.000 --> 00:02:54.000
+Here you can input a capacity, then select Save below.
+
+00:02:54.000 --> 00:02:59.000
+Note that order handling capacity only affects non-prime orders.
+
+00:02:59.000 --> 00:03:05.333
+If you've set a handling time greater than two days for a specific ASIN, orders for that ASIN will
+
+00:03:05.333 --> 00:03:07.000
+count toward your daily limit,
+
+00:03:07.000 --> 00:03:11.000
+but will not have an extra day added when your capacity is reached.
+
+00:03:11.000 --> 00:03:16.000
+Having an accurate customer delivery promise is an important part of being a successful seller.
+
+00:03:16.000 --> 00:03:21.538
+Order handling capacity can help you offer a shorter handling time while still protecting your account
+
+00:03:21.538 --> 00:03:25.000
+health on days when there's a sudden spike in orders.
+
+00:03:25.000 --> 00:03:29.000
+And that's good news for sellers and customers alike.
+
+00:03:29.000 --> 00:03:31.625
+This concludes our order handling capacity training.
+
+00:03:31.625 --> 00:03:35.000
+Thank you and happy selling in the Amazon store.

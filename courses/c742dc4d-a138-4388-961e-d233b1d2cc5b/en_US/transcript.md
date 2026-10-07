@@ -1,0 +1,59 @@
+# Track and respond to customer reviews
+
+Welcome to our training on the customer reviews tool. Product reviews are an important part of buying and selling in the Amazon store. They help customers understand the experiences of those who've already purchased products. And they help sellers identify and correct product and listing issues. If you're a professional seller internal to a brand enrolled in Amazon Brand Registry, you can use the customer reviews tool to track product reviews. You can also use it to respond to customers who've left reviews,
+ between one and three stars. Let's find out how to use the customer reviews tool
+ and go over some basic guidelines for customer communication. If you meet the
+ requirements, you can access the customer reviews tool anytime in Seller Central
+ by hovering over brands in the main menu, then clicking customer reviews. The
+ customer reviews tool displays product reviews in chronological order, starting
+ with the most recent at the top. It includes reviews for products within a
+ brand when they're sold by you, as well as other sellers. Reviews first appear in
+ the tool within 48 hours of their publication on a product detail page,
+ and they're retained for 90 days to help you spot trends and coordinate
+ responses. You can use the series of filters at the top of the tool to find
+ specific types of reviews. Narrow the list to reviews associated with orders
+ you fulfilled or to orders fulfilled by other sellers. You can also filter
+ reviews according to whether a customer has already received a response through
+ the customer reviews tool. You can select reviews with one or more star ratings
+ too, or you can select reviews according to their age. You can click the include
+ marked as done filter if you want to see reviews that you previously removed from
+ the list by checking the mark as done box. This will resurface reviews that you
+ marked done in the last 90 days. The star rating filter can help you find
+ customer reviews you might want to respond to. Select the 1 2 and 3 stars
+ filters then look for contact customer and offer courtesy refund links on the
+ right-hand side. If you click contact customer you can select courtesy refund
+ or customer support as your response type. If you click offer courtesy refund that
+ response type will be pre-selected. You won't be able to select customer
+ support because the customer previously opted out of communication with Amazon
+ sellers and only courtesy refunds are now permitted. Both the courtesy refund and
+ customer support responses that appear below are automated and uneditable. The
+ courtesy refund message offers the customer a full refund and the customer
+ support message asks the customer for an opportunity to address any issues or
+ concerns. After reviewing either type of message you can click the send button to
+ email it to the customer. If they reply you'll receive their response via the
+ buyer seller messaging tool in seller central which you can access by clicking
+ the envelope icon in the top right corner. While reviewing one to three star
+ reviews you may also see a status next to a review instead of a link. That means
+ you aren't able to respond. This could be because you aren't the seller who
+ fulfilled the order or because the order was placed more than 12 months ago.
+ Purchases also have to be verified in order for a seller to contact a
+ customer and they can't be for a digital subscription. If you receive a reply from
+ a customer in response to a message sent through the customer reviews tool it's
+ important to keep in mind that any additional messages you send using buyer
+ seller messaging must comply with Amazon's customer product reviews policies and
+ community guidelines. Please review both in full before communicating with a
+ customer. You can search for them in seller central and the Amazon store
+ respectively. Note too that customer product reviews policies specifically
+ prohibit sellers from asking customers to change or remove reviews. More broadly
+ they prohibit sellers from attempting to influence customer reviews ratings or
+ feedback. While scrolling through reviews in the Amazon store you may discover one
+ that you suspect violates the community guidelines or customer reviews policies.
+ In that case click show review details below the review. On the public customer
+ review page click report abuse then the report button in the pop-up. We'll remove
+ the review from the Amazon store if it violates our policies which means it
+ will also be removed from the customer reviews tool. This concludes our training
+ on the customer reviews tool. We encourage you to watch additional seller
+ university videos about other tools and benefits available to brands enrolled in
+ brand registry. You can also get more information about the eligibility to
+ access brand selling benefits by watching videos in our course launch your brand
+ in the Amazon store. Thank you and happy selling in the Amazon store.

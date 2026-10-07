@@ -1,0 +1,130 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.060
+In step four, you will be confirming carrier and pallet information.
+
+00:00:05.060 --> 00:00:10.120
+Note that you'll only see this step if you're shipping pallets.
+
+00:00:10.120 --> 00:00:16.280
+The steps you take will be different depending on the carrier you selected in step two.
+
+00:00:16.280 --> 00:00:21.433
+For pallet shipments with non-partnered carriers, start by confirming how many pallets you will
+
+00:00:21.433 --> 00:00:22.120
+be shipping.
+
+00:00:22.840 --> 00:00:26.784
+Then select print to generate FBA pallet ID labels.
+
+00:00:26.784 --> 00:00:33.240
+These are different than the FBA box ID labels you applied in step three.
+
+00:00:33.240 --> 00:00:36.105
+Four labels will be provided for each pallet.
+
+00:00:36.105 --> 00:00:41.120
+Apply one label on each side of every pallet centered and near the top.
+
+00:00:41.800 --> 00:00:45.820
+You can now schedule pick up and hand off inventory to your selected carrier.
+
+00:00:46.460 --> 00:00:53.430
+In the final step, select proceed to enter tracking details to enter the PRO freight bill number
+
+00:00:53.430 --> 00:00:56.300
+provided by your carrier and tracking information.
+
+00:00:57.100 --> 00:01:01.580
+You must enter tracking information for all non-partnered carrier shipments.
+
+00:01:01.580 --> 00:01:05.820
+Finish by clicking save to change your shipment status to shipped.
+
+00:01:05.820 --> 00:01:11.580
+You've now completed the send to Amazon workflow for non-partnered carrier pallet shipments.
+
+00:01:11.580 --> 00:01:18.148
+If you selected an Amazon partnered carrier, you'll need to enter your warehouse contact information
+
+00:01:18.148 --> 00:01:19.900
+by selecting add contact.
+
+00:01:19.900 --> 00:01:25.420
+You can select an existing warehouse contact or provide a new contact for each shipment.
+
+00:01:25.420 --> 00:01:29.740
+If there are multiple shipments, we'll use the first selected contact.
+
+00:01:29.740 --> 00:01:35.854
+You can change the contact for each additional shipment by clicking the contact information drop
+
+00:01:35.854 --> 00:01:38.300
+down arrow and selecting change contact.
+
+00:01:38.300 --> 00:01:41.660
+Next, put your boxes into pallet configurations.
+
+00:01:41.660 --> 00:01:45.260
+If you haven't done so already, then review your pallet details.
+
+00:01:45.980 --> 00:01:51.260
+These are pre-populated based on the information you provided in step one.
+
+00:01:51.260 --> 00:01:55.180
+Freight class is used to determine the billable weight and risk of a shipment.
+
+00:01:55.900 --> 00:02:00.380
+Ranked from 50 to 500, Freight class can be entered manually.
+
+00:02:00.380 --> 00:02:03.580
+You can also choose to use Amazon's estimates instead.
+
+00:02:04.300 --> 00:02:06.940
+Freight declared value is optional.
+
+00:02:06.940 --> 00:02:12.460
+If left blank, we'll assume the value is $1.50 times the shipment weight.
+
+00:02:13.100 --> 00:02:19.300
+Next, enter pallet weight and height, whether the pallets are stacked or not, and the number of
+
+00:02:19.300 --> 00:02:20.780
+pallets for each configuration.
+
+00:02:20.780 --> 00:02:23.580
+You can edit these details if anything is incorrect.
+
+00:02:24.140 --> 00:02:27.580
+Select confirm to receive estimated carrier charges.
+
+00:02:28.140 --> 00:02:32.540
+If you go back and edit your pallet details, charges will update accordingly.
+
+00:02:33.180 --> 00:02:36.940
+Next, you'll need to select your carrier and Freight ready date.
+
+00:02:36.940 --> 00:02:42.556
+We'll show you the lowest cost carrier by default, but you can choose a different one by selecting
+
+00:02:42.556 --> 00:02:43.180
+change carrier.
+
+00:02:43.740 --> 00:02:50.316
+In the carrier selection window, you can filter by carrier name or shipping mode to view estimated
+
+00:02:50.316 --> 00:02:53.900
+transportation cost, shipping mode, and available dates.
+
+00:02:54.540 --> 00:02:58.220
+If a date is gray, the carrier is at capacity for that day.
+
+00:02:59.020 --> 00:03:05.033
+Once your details are correct and you are ready to print pallet labels, select confirm carrier and
+
+00:03:05.033 --> 00:03:05.740
+Pallet information.
+
+00:03:06.300 --> 00:03:09.660
+You're now ready to continue on to step five.

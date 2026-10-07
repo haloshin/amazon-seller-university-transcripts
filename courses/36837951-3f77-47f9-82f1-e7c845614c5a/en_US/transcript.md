@@ -1,0 +1,66 @@
+# Dietary supplements policy and compliance
+
+Welcome to our overview of Amazon's policy for listing dietary supplements on Amazon's
+ U.S. store.
+ In this video, we'll explain Amazon's policy for listing dietary supplements in the United
+ States, share examples of dietary supplements that are impacted by this policy, and provide
+ information on actions required to ensure your dietary supplement products are eligible
+ for sale on Amazon's U.S. store.
+ When you list dietary supplement products in the Amazon store, you must comply with
+ all applicable laws and regulations and Amazon policies.
+ Amazon requires selling partners to verify that dietary supplement products meet our
+ policy through testing conducted by a third party.
+ Testing, inspection, and certification organization to ensure products offered for sale in our
+ store meet the following criteria.
+ Products are manufactured in a facility compliant with good manufacturing practices set forth
+ by the United States Food and Drug Administration.
+ Products do not contain contaminants that pose a human health or regulatory concern.
+ Products contain the ingredients claimed on the product label.
+ And for sexual enhancement, weight management, and sports nutrition and bodybuilding dietary
+ supplements specifically, that the product does not contain undeclared active pharmaceutical
+ ingredients.
+ The United States Food and Drug Administration defines a dietary ingredient as a vitamin,
+ mineral, herb, or other botanical, amino acid, or dietary substance for use to supplement
+ the diet by increasing the total dietary intake or a concentrate, metabolite, constituent,
+ extract, or combination of the preceding substances.
+ Dietary supplements come in different forms, such as powders, pills, capsules, liquid drops,
+ and oral sprays.
+ Dietary supplements can be marketed for functions including but not limited to, sexual enhancement,
+ weight management, joint health, and bodybuilding and sports nutrition.
+ Amazon is working with third party testing, inspection, and certification organizations
+ to conduct testing of dietary supplement products to ensure the products meet Amazon's policy.
+ The approved third party testing, inspection, and certification organizations can be found
+ within your Manage Your compliance dashboard.
+ To verify that dietary supplement products meet our policy, a test result that confirms
+ the product's compliance with Amazon's policy must be provided directly from one of the
+ approved third party testing, inspection, and certification organizations to Amazon.
+ Amazon will not accept documents directly from the seller.
+ All dietary supplement products requiring your action can be found within your Manage Your
+ compliance dashboard under the "Incomplete Requests" tab.
+ To submit a testing request form, select "Add or Appeal Compliance" and select "Request
+ Lab Service".
+ Select "Dietary Supplements" as the issue and the source or factory location of your
+ product.
+ Under "Lab", select the one of the approved third party testing inspection and certification
+ organization of your choosing to conduct testing.
+ Once the request has been submitted, the request ID will show as "Submitted", indicating that
+ the test request has been submitted successfully to the third party, testing, inspection, and
+ certification organization chosen.
+ They will reach out to you by email to initiate testing.
+ You are responsible for working directly with the chosen approved third party testing inspection
+ and certification organization to provide all necessary information to conduct testing
+ of your product.
+ All costs incurred for testing are your responsibility.
+ Once testing is completed, you can view status of testing results under the compliance status
+ for each listing under your "Manage Your Compliance" dashboard.
+ Test results for the listing can be found within the details under "Add or Appeal Compliance".
+ If the test result confirms your product's compliance with Amazon's policy, your product
+ will be eligible for sale on Amazon's US store and no further action is needed.
+ If you fail to initiate testing, are unable to complete testing or receive a test result
+ that indicates non-compliance with Amazon's policy, the listing may be subject to removal.
+ For step-by-step instructions on how to identify if your listing has been classified as a dietary
+ supplement, how to initiate a testing request from an approved testing inspection and certification
+ organization, or to raise an appeal, please refer to our Help page linked in the video
+ description.
+ This concludes our dietary supplements policy.
+ Thank you and happy selling in the Amazon Store.

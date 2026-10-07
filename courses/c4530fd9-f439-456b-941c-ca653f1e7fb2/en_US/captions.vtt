@@ -1,0 +1,205 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.925
+Welcome to our training on shipping settings automation, also known as SSA.
+
+00:00:04.925 --> 00:00:08.208
+Customers like purchasing products with quick delivery times.
+
+00:00:08.208 --> 00:00:13.544
+If you fulfill your own orders, offering accurate delivery promises can be difficult.
+
+00:00:13.544 --> 00:00:20.110
+To achieve this, you'll have to estimate how long carriers take to deliver to different regions
+
+00:00:20.110 --> 00:00:23.393
+by keeping track of each carrier's delivery performance.
+
+00:00:23.393 --> 00:00:29.139
+When customers shop in the Amazon store, they see the delivery promise you set.
+
+00:00:29.139 --> 00:00:29.960
+On average,
+
+00:00:30.000 --> 00:00:36.806
+sellers overestimate the number of days shipping will take by 53%, resulting in unnecessarily long
+
+00:00:36.806 --> 00:00:37.260
+delivery
+
+00:00:37.260 --> 00:00:40.228
+promises that are less appealing to customers.
+
+00:00:40.228 --> 00:00:43.620
+With SSA, you can provide more accurate delivery
+
+00:00:43.620 --> 00:00:49.544
+promises while eliminating the need to manually estimate transit times to different regions.
+
+00:00:49.544 --> 00:00:50.000
+This
+
+00:00:50.000 --> 00:00:56.800
+training will cover how SSA works and how to enable SSA on your new and existing shipping templates.
+
+00:00:56.800 --> 00:01:03.100
+SSA provides more accurate delivery promises that are automatically calculated based on your
+
+00:01:03.100 --> 00:01:07.629
+warehouse locations, each customer's location, and the carriers you use.
+
+00:01:07.629 --> 00:01:09.440
+Here's how it works.
+
+00:01:09.440 --> 00:01:15.200
+First, you'll select your warehouse addresses and which shipping services you use.
+
+00:01:15.200 --> 00:01:15.680
+Then,
+
+00:01:15.680 --> 00:01:21.166
+you'll assign your seller-fulfilled ASINs to your SSA-enabled shipping template.
+
+00:01:21.166 --> 00:01:22.080
+Amazon then
+
+00:01:22.080 --> 00:01:28.240
+auto-calculates your optimized transit times and continues to refresh carrier data to ensure
+
+00:01:28.240 --> 00:01:30.779
+these times are always up to date.
+
+00:01:30.779 --> 00:01:33.680
+Customers will see your accurate delivery promise on
+
+00:01:33.680 --> 00:01:37.480
+your product detail page, improving the likelihood of a purchase.
+
+00:01:37.480 --> 00:01:39.760
+Once a purchase is made, you'll
+
+00:01:39.760 --> 00:01:44.570
+ship the order using the shipping services enabled in your SSA's shipping template.
+
+00:01:44.570 --> 00:01:45.680
+And once your
+
+00:01:45.680 --> 00:01:51.200
+order is in transit, you'll have peace of mind knowing your shipment will arrive to the customer
+
+00:01:51.200 --> 00:01:53.487
+closer to the promised delivery date.
+
+00:01:53.487 --> 00:01:57.680
+To enable SSA on your shipping templates, sign in to Seller
+
+00:01:57.680 --> 00:01:58.155
+Central.
+
+00:01:58.155 --> 00:02:02.427
+Hover over the Settings icon and select Shipping Settings.
+
+00:02:02.427 --> 00:02:04.800
+On the Shipping Templates page,
+
+00:02:04.800 --> 00:02:10.058
+create a new shipping template or edit an existing one to activate SSA.
+
+00:02:10.058 --> 00:02:12.080
+To create a new shipping
+
+00:02:12.080 --> 00:02:17.275
+template with SSA-enabled, select Create New Shipping Template and click OK.
+
+00:02:17.275 --> 00:02:19.440
+A pop-up window will
+
+00:02:19.440 --> 00:02:22.240
+appear where you'll select your warehouse location.
+
+00:02:22.240 --> 00:02:25.440
+The locations you select will indicate where the
+
+00:02:25.440 --> 00:02:29.240
+SKUs linked to this shipping template will be shipped from.
+
+00:02:29.240 --> 00:02:31.520
+Once selected, click Next to proceed
+
+00:02:31.520 --> 00:02:33.097
+to your fulfillment preferences.
+
+00:02:33.097 --> 00:02:37.040
+On this step, you'll indicate your carrier preferences and select
+
+00:02:37.040 --> 00:02:40.496
+the shipping services you use to fulfill orders.
+
+00:02:40.496 --> 00:02:43.520
+Finally, review your selections and click Confirm
+
+00:02:43.520 --> 00:02:44.160
+to finish.
+
+00:02:44.160 --> 00:02:49.280
+You'll then be directed to the Create a New Shipping Template page where you can review
+
+00:02:49.280 --> 00:02:52.267
+and edit your shipping options, regions, and rates.
+
+00:02:52.267 --> 00:02:54.880
+Review this information and if everything is
+
+00:02:54.880 --> 00:02:58.226
+correct, click Save at the bottom of the page.
+
+00:02:58.226 --> 00:03:01.200
+Once your template is saved, begin assigning your
+
+00:03:01.200 --> 00:03:04.630
+ASINs to your newly created SSA template.
+
+00:03:04.630 --> 00:03:08.550
+To do this, visit the Manage Inventory page.
+
+00:03:08.550 --> 00:03:09.040
+Here,
+
+00:03:09.040 --> 00:03:12.804
+select the ASINs you'd like to add to your shipping template.
+
+00:03:12.804 --> 00:03:15.200
+Once selected, click the Edit drop-down
+
+00:03:15.200 --> 00:03:17.440
+and select Change Shipping Template.
+
+00:03:17.440 --> 00:03:21.920
+To enable SSA on an existing shipping template, select the
+
+00:03:21.920 --> 00:03:26.595
+template name you'd like to edit on the Shipping Templates page.
+
+00:03:26.595 --> 00:03:28.720
+Once selected, click Edit Template
+
+00:03:28.720 --> 00:03:33.100
+and follow the same steps provided for creating a new shipping template.
+
+00:03:33.100 --> 00:03:34.560
+For more information on
+
+00:03:34.560 --> 00:03:39.189
+SSA, search for Shipping Settings Automation in Seller Central.
+
+00:03:39.189 --> 00:03:41.760
+This concludes our SSA training.
+
+00:03:41.760 --> 00:03:47.040
+You now have the tools to enable SSA on your shipping templates and to provide quicker,
+
+00:03:47.040 --> 00:03:50.400
+more accurate delivery promises for customers.
+
+00:03:50.400 --> 00:03:55.440
+Thank you and happy selling in the Amazon store.

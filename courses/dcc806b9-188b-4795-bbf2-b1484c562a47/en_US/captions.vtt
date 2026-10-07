@@ -1,0 +1,176 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:05.000
+[Music]
+
+00:00:05.000 --> 00:00:10.000
+The My Shipments page gives you a centralized view of all your inbound shipments to Amazon.
+
+00:00:10.000 --> 00:00:13.000
+From this page, you can track shipment status.
+
+00:00:13.000 --> 00:00:16.000
+Search for specific shipments.
+
+00:00:16.000 --> 00:00:20.000
+And take action without navigating away from your queue.
+
+00:00:20.000 --> 00:00:27.000
+To get started, sign in to your seller account and navigate to the Manage Shipments page.
+
+00:00:27.000 --> 00:00:30.000
+You will find it within the Manage drop-down menu.
+
+00:00:30.000 --> 00:00:37.000
+The page displays your shipments in a table format, showing details like shipment name, status,
+
+00:00:37.000 --> 00:00:42.000
+created date, and last updated date.
+
+00:00:42.000 --> 00:00:47.000
+If you sell in multiple marketplaces, you will also see a marketplace indicator next to each shipment.
+
+00:00:47.000 --> 00:00:54.111
+This flag shows which marketplace the shipment is associated with, so you can avoid mixing shipments
+
+00:00:54.111 --> 00:00:55.000
+across regions.
+
+00:00:55.000 --> 00:00:59.000
+To narrow your view, use the filter options at the top of the table.
+
+00:00:59.000 --> 00:01:05.750
+You can filter shipments by status, such as ready to ship, or shipped, to focus on the shipments
+
+00:01:05.750 --> 00:01:08.000
+that need your attention right now.
+
+00:01:08.000 --> 00:01:13.478
+For example, if you want to see only shipments that are missing a tracking number, apply that filter
+
+00:01:13.478 --> 00:01:15.000
+to surface just those items.
+
+00:01:15.000 --> 00:01:21.632
+This helps you build a shipment you need to take action on, view instead of scanning your entire
+
+00:01:21.632 --> 00:01:22.000
+queue.
+
+00:01:22.000 --> 00:01:26.000
+If you are looking for a specific shipment, use the search function.
+
+00:01:26.000 --> 00:01:34.000
+You can search by shipment ID, status, missing tracking number, or last updated date.
+
+00:01:34.000 --> 00:01:41.000
+You can also use suggested timeframes to find shipments that may be stalled or need follow-up.
+
+00:01:41.000 --> 00:01:45.000
+Use shipment ID search when you are troubleshooting a specific order.
+
+00:01:45.000 --> 00:01:51.000
+Use the last updated timeframe filter to identify shipments that have not moved recently.
+
+00:01:51.000 --> 00:01:56.000
+To review the details of a shipment, select view next to the shipment.
+
+00:01:56.000 --> 00:02:00.000
+This opens a side panel with a summary of that shipment.
+
+00:02:00.000 --> 00:02:07.000
+The side panel shows the shipment name, shipment ID, created date, and unit count.
+
+00:02:07.000 --> 00:02:12.667
+It also displays a status progression tracker, so you can confirm where your shipment is in the
+
+00:02:12.667 --> 00:02:13.000
+process.
+
+00:02:13.000 --> 00:02:20.000
+In transit, delivered, received, or closed.
+
+00:02:20.000 --> 00:02:27.000
+Within the shipment list, you can see a quick summary of the units and SKUs included in each shipment.
+
+00:02:27.000 --> 00:02:31.000
+Use this to validate quantities before drilling into the details.
+
+00:02:31.000 --> 00:02:37.000
+If something looks incorrect, you can address it early before it becomes a larger inventory issue.
+
+00:02:37.000 --> 00:02:42.464
+To adjust how the table displays, use the table customization options which can be found via the
+
+00:02:42.464 --> 00:02:46.000
+gear icon on the top right of the screen called preferences.
+
+00:02:46.000 --> 00:02:54.000
+You can change which columns appear, reorder them, and set how many rows show per page.
+
+00:02:54.000 --> 00:03:00.222
+Start by selecting the columns most relevant to your daily workflow such as status, last updated,
+
+00:03:00.222 --> 00:03:01.000
+and tracking.
+
+00:03:01.000 --> 00:03:07.000
+Move those to the front, and hide columns you do not use.
+
+00:03:07.000 --> 00:03:14.000
+This reduces noise and speeds up your review, especially if you manage a high volume of shipments.
+
+00:03:14.000 --> 00:03:19.000
+Once you have configured your filters and columns, you can save that setup as a named view.
+
+00:03:19.000 --> 00:03:24.542
+Select the option to save your current view and give it a name that reflects its purpose, such as
+
+00:03:24.542 --> 00:03:26.000
+needs tracking or in transit.
+
+00:03:26.000 --> 00:03:31.400
+The next time you visit my shipments, you can load that saved view instead of rebuilding your filters
+
+00:03:31.400 --> 00:03:32.000
+from scratch.
+
+00:03:32.000 --> 00:03:38.632
+This is especially useful if you check the same set of shipments regularly as part of your daily
+
+00:03:38.632 --> 00:03:39.000
+operations.
+
+00:03:39.000 --> 00:03:46.000
+From my shipments, you can access the send to Amazon workflow by selecting a shipment or order ID.
+
+00:03:46.000 --> 00:03:51.000
+You can continue your inbound workflow from there as you normally would.
+
+00:03:51.000 --> 00:03:55.000
+You can also access capacity manager from this page.
+
+00:03:55.000 --> 00:04:01.000
+Use it as you do today to monitor your capacity limits and plan inbound shipments.
+
+00:04:01.000 --> 00:04:08.000
+The My Shipments page brings your inbound shipment management into one place, with tools to filter.
+
+00:04:08.000 --> 00:04:16.000
+Search, customize, and save your view for faster daily operations.
+
+00:04:16.000 --> 00:04:21.846
+Start by setting up a saved view that matches your most common workflow and use the side panel to
+
+00:04:21.846 --> 00:04:24.000
+check shipment progress without leaving your queue.
+
+00:04:24.000 --> 00:04:30.667
+To learn more about managing your inbound shipments, visit Seller University for additional resources
+
+00:04:30.667 --> 00:04:34.000
+on send to Amazon and inventory management.
+ (
+
+00:04:38.000 --> 00:04:40.011
+upbeat music)

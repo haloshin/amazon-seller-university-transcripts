@@ -1,0 +1,8 @@
+To report a problem with a product detail page, open the Seller Central Main menu, hover over Performance, click "Account Health".
+ Then, in the top left-hand corner of the Account Health page, select "Report Abuse of Amazon Policies".
+ You'll see a series of reporting options in a menu on the left, including multiple options related to product detail pages.
+ Click "Product Detail Page" violates Amazon's policies or is misleading customers.
+ Then, select the option that most closely aligns with the issue you encountered.
+ You'll need to provide the ASIN attached to the product or products and a description of the problem.
+ Then, click "Submit".
+ We will review your submission and update you when a course of action has been determined.

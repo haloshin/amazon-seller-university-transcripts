@@ -1,0 +1,17 @@
+# Amazon Handmade: Welcome
+
+At Amazon Handmade, we know that behind everything you make, there's a story.
+ And here's ours.
+ We created Amazon Handmade because we believe in the power of makers.
+ To create.
+ To grow communities.
+ To make real connections with customers.
+ That's why we want to give every maker the tools to turn their passion into a successful
+ business.
+ Amazon Handmade helps makers reach customers near and far with no monthly selling fee.
+ Just a referral fee when you sell a product.
+ No hidden fees and listing a product is free.
+ And because we are obsessed with handcrafted quality, every seller goes through an application
+ process.
+ So customers know that when they shop handmade, they're getting something truly unique.
+ Discover how Amazon Handmade can help your business thrive.

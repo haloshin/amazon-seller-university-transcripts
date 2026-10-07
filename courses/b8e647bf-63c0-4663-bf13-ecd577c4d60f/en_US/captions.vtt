@@ -1,0 +1,103 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:07.800
+Automate pricing lets you dynamically adjust your prices within set limits to help your
+
+00:00:07.800 --> 00:00:10.320
+offers remain competitive.
+
+00:00:10.320 --> 00:00:15.360
+In the Pricing Rules page in Seller Central, you will see all your current rules and their
+
+00:00:15.360 --> 00:00:18.520
+descriptions in the Rule Summary column.
+
+00:00:18.520 --> 00:00:24.720
+For predefined pricing rules, select Edit SKUs to enroll your SKUs and apply the rule.
+
+00:00:24.720 --> 00:00:29.400
+For inactive rules, select Setup Rule to begin configuration.
+
+00:00:29.400 --> 00:00:36.120
+To modify an existing rule, select the dropdown menu in the Action column and click Edit Rule.
+
+00:00:36.120 --> 00:00:39.800
+You can edit your rule the same way as you first set it up.
+
+00:00:39.800 --> 00:00:45.480
+For example, you can add or remove quantity tiers and percentage off discounts for each
+
+00:00:45.480 --> 00:00:47.360
+quantity level.
+
+00:00:47.360 --> 00:00:53.120
+Then select Save and Activate to apply the updated Pricing Rule parameters across all
+
+00:00:53.120 --> 00:00:55.600
+SKUs assigned to the rule.
+
+00:00:55.600 --> 00:01:00.600
+Then you'll be taken to the Manage SKUs page where you can assign additional SKUs to your
+
+00:01:00.600 --> 00:01:04.600
+modified rule or remove SKUs from the rule.
+
+00:01:04.600 --> 00:01:11.320
+To pause, resume or delete a Pricing Rule, go to the Pricing Rules page, select the dropdown
+
+00:01:11.320 --> 00:01:15.720
+menu in the Action column and click your desired action.
+
+00:01:15.720 --> 00:01:20.840
+Pausing a rule temporarily stops automated price adjustments and saves the rule parameters
+
+00:01:20.840 --> 00:01:24.600
+for when you want to apply it again in the future.
+
+00:01:24.600 --> 00:01:29.720
+Deleting a rule permanently removes all SKUs from the rule and deletes historical pricing
+
+00:01:29.720 --> 00:01:32.240
+data associated with that rule.
+
+00:01:32.240 --> 00:01:36.340
+You will be prompted to confirm deletion before you remove a Pricing Rule.
+
+00:01:36.340 --> 00:01:42.240
+To view the Pricing History of Automate Pricing Enrolled SKUs, select Edit SKUs in the Action
+
+00:01:42.240 --> 00:01:45.400
+column of the Pricing Rules page.
+
+00:01:45.400 --> 00:01:51.760
+Locate a SKU, select the dropdown menu in the Action column and choose View Pricing History.
+
+00:01:51.760 --> 00:01:56.360
+Use the date range fields to select start and end dates between which you'd like to
+
+00:01:56.360 --> 00:01:58.480
+review pricing changes.
+
+00:01:58.480 --> 00:02:05.000
+The Response column lists price changes applied by Pricing Rules and the Trigger column lists
+
+00:02:05.000 --> 00:02:07.640
+events that influence them.
+
+00:02:07.640 --> 00:02:12.440
+These events may include reasons why automated pricing was stopped, such as a manual price
+
+00:02:12.440 --> 00:02:17.720
+update or a SKUs listing status changing from active to inactive.
+
+00:02:17.720 --> 00:02:23.240
+If the listing is inactive, it won't appear on the Manage SKUs page until you fix it,
+
+00:02:23.240 --> 00:02:28.160
+and any Pricing Rules that apply to the listing will remain paused.
+
+00:02:28.160 --> 00:02:34.360
+To learn how to apply pre-populated and custom Pricing Rules to your SKUs, watch the Automate
+
+00:02:34.360 --> 00:02:37.920
+Pricing Apply Pricing Rules video in Seller Central.

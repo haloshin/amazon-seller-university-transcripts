@@ -1,0 +1,355 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.580
+Welcome to our training on the brand referral bonus.
+
+00:00:03.580 --> 00:00:09.440
+At Amazon, sellers can earn bonuses by driving purchases of their brand's products using
+
+00:00:09.440 --> 00:00:11.760
+non-Amazon advertising.
+
+00:00:11.760 --> 00:00:16.960
+These brand referral bonuses are provided to sellers as credits that offset the referral
+
+00:00:16.960 --> 00:00:19.520
+fees for future sales.
+
+00:00:19.520 --> 00:00:25.160
+Bonuses vary by product category and reduce referral fees for promoted products by 50%
+
+00:00:25.160 --> 00:00:26.680
+on average.
+
+00:00:26.680 --> 00:00:32.040
+For example, maybe you sell a $100 backpack that's part of your brand with a referral
+
+00:00:32.040 --> 00:00:34.480
+fee of 14%.
+
+00:00:34.480 --> 00:00:40.200
+By driving a sale through non-Amazon advertising associated with a brand referral bonus, you
+
+00:00:40.200 --> 00:00:43.240
+might earn a 7% credit.
+
+00:00:43.240 --> 00:00:48.820
+That credit could offset the referral fee on a later sale of the same backpack, increasing
+
+00:00:48.820 --> 00:00:52.960
+the net profit from $86 to $93.
+
+00:00:52.960 --> 00:00:59.320
+To be eligible for the brand referral bonus program, you need to meet two basic requirements.
+
+00:00:59.320 --> 00:01:04.600
+Your brand needs to be enrolled in Amazon brand registry, and you need to be internal
+
+00:01:04.600 --> 00:01:11.960
+to the brand and sell its products in Amazon's US store using a professional selling account.
+
+00:01:11.960 --> 00:01:16.920
+If you'd like more information about brand registry and access to brand selling benefits
+
+00:01:16.920 --> 00:01:23.040
+like the brand referral bonus, see the series of modules in our Seller University course,
+
+00:01:23.040 --> 00:01:25.720
+launch your brand in the Amazon store.
+
+00:01:25.720 --> 00:01:30.920
+If you and your brand meet the requirements, you can set up brand referral bonuses in
+
+00:01:30.920 --> 00:01:32.920
+three basic steps.
+
+00:01:32.920 --> 00:01:38.680
+First, you'll enroll your Seller Central account in the brand referral bonus program.
+
+00:01:38.680 --> 00:01:44.520
+Then you'll use the Amazon attribution tool in the Amazon ads console to select products
+
+00:01:44.520 --> 00:01:48.200
+and create tags for your non-Amazon advertising.
+
+00:01:48.200 --> 00:01:55.280
+Finally, you'll apply those tags to your non-Amazon advertising using a campaign manager.
+
+00:01:55.280 --> 00:01:58.960
+You can apply tags to both paid and unpaid advertising.
+
+00:01:58.960 --> 00:02:04.820
+You'll earn a bonus each time a customer clicks an ad you've applied a tag to, travels
+
+00:02:04.820 --> 00:02:10.120
+to the Amazon store, and purchases a product within your brand that's associated with
+
+00:02:10.120 --> 00:02:11.600
+a tag.
+
+00:02:11.600 --> 00:02:16.440
+Those products can be purchased up to two weeks after the customer clicks the ad, and
+
+00:02:16.440 --> 00:02:21.920
+they can be items you're featuring in your non-Amazon advertising or others within your
+
+00:02:21.920 --> 00:02:22.920
+brand.
+
+00:02:22.920 --> 00:02:29.560
+The exact bonus you earn for each sale is calculated using the product's category, sales price,
+
+00:02:29.560 --> 00:02:33.320
+and other factors like shipping and gift wrap charges.
+
+00:02:33.320 --> 00:02:38.760
+You can see a list of estimated brand referral bonus rates by searching for the brand referral
+
+00:02:38.760 --> 00:02:41.520
+bonus help page in Seller Central.
+
+00:02:41.520 --> 00:02:47.200
+In addition to earning bonuses on qualified purchases, you can use the brand referral bonus
+
+00:02:47.200 --> 00:02:55.240
+and Amazon attribution to track, assess, and optimize the impact of your non-Amazon advertising.
+
+00:02:55.240 --> 00:03:01.880
+Use clicks, detail page views, purchases, and other data in Amazon attribution reports
+
+00:03:01.880 --> 00:03:07.880
+to make informed decisions and maximize the return on your advertising investment.
+
+00:03:07.880 --> 00:03:12.160
+Now that you're more familiar with the brand referral bonus, let's review each step for
+
+00:03:12.160 --> 00:03:14.920
+setting up a bonus in more depth.
+
+00:03:14.920 --> 00:03:19.600
+The first step is enrolling your Seller Central account in the program.
+
+00:03:19.600 --> 00:03:24.880
+Start by hovering over brands in the main menu, clicking Build Your Brand, then scrolling
+
+00:03:24.880 --> 00:03:30.120
+down and locating the brand referral bonus card in the list of programs.
+
+00:03:30.120 --> 00:03:35.040
+On the next page, click the Enroll button to sign up for the program.
+
+00:03:35.040 --> 00:03:38.560
+You'll be prompted to complete a required tax form.
+
+00:03:38.560 --> 00:03:44.000
+Make sure you complete the form before proceeding to the next step as you can't receive a brand
+
+00:03:44.000 --> 00:03:46.660
+referral bonus without completing it.
+
+00:03:46.660 --> 00:03:52.440
+If you have any questions about the form, refer to the list of tax FAQs on the brand
+
+00:03:52.440 --> 00:03:54.800
+referral bonus help page.
+
+00:03:54.800 --> 00:04:00.240
+The next step for a brand referral bonus is creating the Amazon attribution tags that
+
+00:04:00.240 --> 00:04:04.640
+will track the traffic from your non-Amazon advertising.
+
+00:04:04.640 --> 00:04:10.160
+Start by creating an account with Amazon ads if you don't already have one.
+
+00:04:10.160 --> 00:04:11.287
+Visit advertising.
+
+00:04:11.287 --> 00:04:11.850
+amazon.
+
+00:04:11.850 --> 00:04:16.920
+com, click the Register button, and follow the prompts.
+
+00:04:16.920 --> 00:04:21.720
+After signing into your Amazon ads account, click the Measurement and Reporting icon in
+
+00:04:21.720 --> 00:04:27.000
+the main menu, then Amazon attribution to access the tool.
+
+00:04:27.000 --> 00:04:33.080
+Click Campaign, then the Create Campaign button to start the tag creation process.
+
+00:04:33.080 --> 00:04:38.360
+First, you'll see a method for creating tags, manually or in bulk.
+
+00:04:38.360 --> 00:04:43.340
+Then you'll select the products within your brand that you want to associate with tags,
+
+00:04:43.340 --> 00:04:45.840
+including any product variations.
+
+00:04:45.840 --> 00:04:51.480
+With each of your products selected, you'll create ad groups, one for each ad, or one
+
+00:04:51.480 --> 00:04:56.040
+for each link or button within an ad if there's more than one.
+
+00:04:56.040 --> 00:05:01.720
+You'll enter a name for each ad group, select a publisher and channel, and enter the Amazon
+
+00:05:01.720 --> 00:05:05.200
+URL you want to drive customers to.
+
+00:05:05.200 --> 00:05:10.640
+In many cases, this will be the URL for a specific product detail page.
+
+00:05:10.640 --> 00:05:15.760
+But you could also use the URL associated with your brand's Amazon store.
+
+00:05:15.760 --> 00:05:21.800
+Finally, you'll click the Create button to generate a unique tag for each ad group.
+
+00:05:21.800 --> 00:05:27.120
+If you'd like step-by-step instructions for creating Amazon attribution tags, visit the
+
+00:05:27.120 --> 00:05:29.400
+Amazon ads console.
+
+00:05:29.400 --> 00:05:34.560
+Click the question icon in the upper right corner and select Support Center.
+
+00:05:34.560 --> 00:05:42.000
+On the next page, click Amazon attribution, then click Create an Amazon attribution campaign.
+
+00:05:42.000 --> 00:05:47.120
+After you have your tags, you're ready to apply them to your non-Amazon advertising.
+
+00:05:47.120 --> 00:05:52.320
+This process will vary from one campaign manager to another, but you'll follow the same basic
+
+00:05:52.320 --> 00:05:54.160
+steps each time.
+
+00:05:54.160 --> 00:05:56.800
+Start by accessing the campaign manager.
+
+00:05:56.800 --> 00:06:01.840
+For example, if you're running an ad on social media, access the campaign manager within the
+
+00:06:01.840 --> 00:06:04.080
+social media console.
+
+00:06:04.080 --> 00:06:09.680
+Then copy and paste one tag into a corresponding destination URL field.
+
+00:06:09.680 --> 00:06:14.880
+Remember that each tag you enter should be unique and applied to one ad or one link or
+
+00:06:14.880 --> 00:06:16.880
+button within an ad.
+
+00:06:16.880 --> 00:06:22.560
+When you've applied all tags to your non-Amazon advertising, launch your ads to begin collecting
+
+00:06:22.560 --> 00:06:24.800
+brand referral bonuses.
+
+00:06:24.800 --> 00:06:30.040
+You'll see bonuses applied to your Seller Central account after a two-month waiting period,
+
+00:06:30.040 --> 00:06:34.640
+which helps account for order cancellations and customer returns.
+
+00:06:34.640 --> 00:06:40.440
+Each brand referral bonus is provided as a credit and is used to offset the referral fees
+
+00:06:40.440 --> 00:06:45.200
+in one or more transactions until the bonus is exhausted.
+
+00:06:45.200 --> 00:06:52.120
+For example, maybe you earned a 7% brand referral bonus on a $100 backpack that was sold in
+
+00:06:52.120 --> 00:06:53.480
+July.
+
+00:06:53.480 --> 00:06:58.800
+In September, you might see that bonus applied as a credit against a single referral fee
+
+00:06:58.800 --> 00:07:06.280
+of $14, bringing the total fee down to $7, or you might see your $7 brand referral bonus
+
+00:07:06.280 --> 00:07:13.160
+applied to a $5 referral fee then a $6 referral fee, eliminating the first fee and reducing
+
+00:07:13.160 --> 00:07:15.920
+the second to $4.
+
+00:07:15.920 --> 00:07:21.920
+You can see some brand referral bonuses in the transaction details for customer order payments.
+
+00:07:21.920 --> 00:07:27.840
+To view transaction details, hover over reports in the main menu in Seller Central.
+
+00:07:27.840 --> 00:07:29.320
+Then click payments.
+
+00:07:29.320 --> 00:07:34.640
+On the payments dashboard, click transaction view and locate an order payment by entering
+
+00:07:34.640 --> 00:07:41.200
+the 17-digit order number in the search bar, or use the transaction type column to find
+
+00:07:41.200 --> 00:07:43.720
+an order payment.
+
+00:07:43.720 --> 00:07:47.880
+Click the amount in the total column to view transaction details.
+
+00:07:47.880 --> 00:07:52.960
+If you see a discount on referral fee line, that means a brand referral bonus has been
+
+00:07:52.960 --> 00:07:57.880
+applied and partially covers the referral fee for the order payment.
+
+00:07:57.880 --> 00:08:03.120
+Or it means a bonus has been applied and covers the full referral fee when there's tax on
+
+00:08:03.120 --> 00:08:04.720
+the fee.
+
+00:08:04.720 --> 00:08:09.920
+If a brand referral bonus covers the full referral fee and there's no tax on the fee,
+
+00:08:09.920 --> 00:08:16.040
+no line will appear in the transaction details, but a bonus will still be applied.
+
+00:08:16.040 --> 00:08:21.680
+You can also download a report that summarizes your brand referral bonus information.
+
+00:08:21.680 --> 00:08:27.200
+On the brand referral bonus page, click the download report button to generate a spreadsheet
+
+00:08:27.200 --> 00:08:32.800
+that contains information about estimated brand referral bonuses you've earned, as well as
+
+00:08:32.800 --> 00:08:35.880
+bonuses that have been applied as credits.
+
+00:08:35.880 --> 00:08:41.880
+The report also includes a list of customer order IDs where bonuses have been used to
+
+00:08:41.880 --> 00:08:44.320
+offset referral fees.
+
+00:08:44.320 --> 00:08:47.720
+This concludes our training on the brand referral bonus.
+
+00:08:47.720 --> 00:08:53.880
+For an overview of other brand selling benefits, see our Seller University video, Benefits
+
+00:08:53.880 --> 00:08:57.560
+of Enrolling a Brand in Amazon Brand Registry.
+
+00:08:57.560 --> 00:09:00.720
+Thank you and happy selling in the Amazon store.

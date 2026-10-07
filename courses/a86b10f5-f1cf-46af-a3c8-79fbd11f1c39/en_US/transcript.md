@@ -1,0 +1,40 @@
+# Picture requirements for when you apply to sell
+
+(gentle music)
+ If you're required to complete a selling application
+ for a product in the Amazon store,
+ it's essential to provide clear pictures
+ of your physical product and its packaging.
+ These images will be reviewed by Amazon
+ to help verify that your product meets
+ all necessary requirements,
+ including proper labeling, safety standards,
+ and category specific criteria.
+ You will need to include front and back images
+ of your product and packaging,
+ or from all sides if you're requesting a GTIN exemption,
+ and ensure that your images clearly show
+ a permanently attached product label
+ that displays the brand owner
+ or manufacturer's name and current contact information
+ that includes either a complete physical address,
+ a website URL, or a phone number.
+ Additionally, all label information such as the branding,
+ product name or ingredients must be clearly visible
+ and easy to read.
+ You may use a smartphone camera to capture your images
+ since they are solely for application review
+ and won't appear on product detail pages.
+ Note that we won't accept stock images,
+ digitally altered or computer generated mockups
+ in place of photos you take yourself.
+ Before submitting your images,
+ be sure to check that each picture
+ matches the exact product and country or region
+ that you're applying to sell in.
+ During the application review process,
+ Amazon may contact you if additional information is needed.
+ To find more details for products or categories
+ requiring approval in Seller Central,
+ you can search for and review the categories
+ and products that require approval help page.

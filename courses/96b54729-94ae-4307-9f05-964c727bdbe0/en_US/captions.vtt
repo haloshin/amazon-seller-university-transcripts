@@ -1,0 +1,371 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.640
+[MUSIC PLAYING]
+
+00:00:03.640 --> 00:00:07.440
+To help optimize your seller-fulfilled prime SFP trial
+
+00:00:07.440 --> 00:00:10.880
+experience, we'll review best practices for shipping
+
+00:00:10.880 --> 00:00:14.640
+settings, carrier selection, operations management,
+
+00:00:14.640 --> 00:00:17.240
+and performance monitoring.
+
+00:00:17.240 --> 00:00:20.240
+Let's start with shipping settings.
+
+00:00:20.240 --> 00:00:23.000
+When you enroll in the SFP trial,
+
+00:00:23.000 --> 00:00:26.280
+you'll use a pre-configured shipping template titled
+ "
+
+00:00:26.280 --> 00:00:28.480
+Default Prime Shipping Template."
+
+00:00:28.480 --> 00:00:31.880
+It saves your settings for delivery options, regions,
+
+00:00:31.880 --> 00:00:35.800
+transit times, shipping fees, and handling times.
+
+00:00:35.800 --> 00:00:38.800
+Since SFP requires same-day shipping,
+
+00:00:38.800 --> 00:00:41.280
+we'll automatically set your handling time
+
+00:00:41.280 --> 00:00:44.240
+to same-day for SFP orders.
+
+00:00:44.240 --> 00:00:46.520
+When configuring your prime template,
+
+00:00:46.520 --> 00:00:49.040
+you'll have the option to manually set your shipping
+
+00:00:49.040 --> 00:00:52.840
+regions, which allows you to define shipping locations
+
+00:00:52.840 --> 00:00:55.920
+and commitments by ship method and zone.
+
+00:00:55.920 --> 00:01:00.080
+We recommend using shipping setting automation, SSA,
+
+00:01:00.080 --> 00:01:03.520
+to improve the accuracy of your shipping commitments.
+
+00:01:03.520 --> 00:01:06.440
+Ensure the SSA toggle is selected
+
+00:01:06.440 --> 00:01:08.560
+and look for the blue badge to confirm
+
+00:01:08.560 --> 00:01:10.400
+that it's been enabled.
+
+00:01:10.400 --> 00:01:15.160
+You will receive on-time delivery rate or OTDR protection
+
+00:01:15.160 --> 00:01:18.680
+from late deliveries on items shipped through seller-fulfilled
+
+00:01:18.680 --> 00:01:21.200
+prime if shipping setting automation
+
+00:01:21.200 --> 00:01:23.760
+is enabled on your shipping template.
+
+00:01:23.760 --> 00:01:27.480
+You've purchased shipping labels marked as OTDR protected
+
+00:01:27.480 --> 00:01:30.200
+on Amazon Buy Shipping or Veeqo,
+
+00:01:30.200 --> 00:01:32.720
+and you have shipped on-time.
+
+00:01:32.720 --> 00:01:35.000
+If you ship from more than one location,
+
+00:01:35.000 --> 00:01:38.400
+shipping setting automation will also localize your cut-off
+
+00:01:38.400 --> 00:01:41.840
+time based on ship from location time zone,
+
+00:01:41.840 --> 00:01:45.160
+allowing you to show faster and more accurate promises
+
+00:01:45.160 --> 00:01:47.520
+to customers across the country.
+
+00:01:47.520 --> 00:01:49.800
+To enable shipping setting automation,
+
+00:01:49.800 --> 00:01:53.160
+toggle the option when editing your shipping template.
+
+00:01:53.160 --> 00:01:55.560
+Follow the prompts to automate your settings,
+
+00:01:55.560 --> 00:01:59.080
+including selecting your ship from locations,
+
+00:01:59.080 --> 00:02:01.360
+your carriers and ship methods,
+
+00:02:01.360 --> 00:02:04.600
+and define the zone coverage for each ship method.
+
+00:02:05.520 --> 00:02:07.400
+Note that the estimate of prime coverage
+
+00:02:07.400 --> 00:02:09.720
+on your shipping template does not account
+
+00:02:09.720 --> 00:02:13.040
+for your cut-off time or where customers are located
+
+00:02:13.040 --> 00:02:16.920
+and is not a guarantee of delivery speed performance.
+
+00:02:16.920 --> 00:02:20.000
+To manually configure your prime shipping template,
+
+00:02:20.000 --> 00:02:23.120
+ensure shipping setting automation is turned off
+
+00:02:23.120 --> 00:02:27.240
+and manually select where you will deliver for each speed.
+
+00:02:27.240 --> 00:02:30.800
+You can select from entire states and sub-regions
+
+00:02:30.800 --> 00:02:32.560
+within each state.
+
+00:02:32.560 --> 00:02:35.400
+For offers on a manually configured template,
+
+00:02:35.400 --> 00:02:37.600
+the order cut-off time will be static
+
+00:02:37.600 --> 00:02:39.520
+and based on the default time zone
+
+00:02:39.520 --> 00:02:42.160
+in your general shipping settings.
+
+00:02:42.160 --> 00:02:44.200
+Be sure to add accurate information
+
+00:02:44.200 --> 00:02:47.040
+to your shipping template and make sure you are able
+
+00:02:47.040 --> 00:02:50.640
+to fulfill these commitments with your current operations.
+
+00:02:50.640 --> 00:02:52.920
+But if you need to make changes later,
+
+00:02:52.920 --> 00:02:56.560
+shipping templates can be modified at any time.
+
+00:02:56.560 --> 00:02:59.480
+Now let's review how to set your cut-off time.
+
+00:02:59.480 --> 00:03:02.120
+The cut-off time will be set automatically
+
+00:03:02.120 --> 00:03:04.360
+to the earliest default time,
+
+00:03:04.360 --> 00:03:07.080
+but we recommend you work with your carriers
+
+00:03:07.080 --> 00:03:10.760
+to set the latest order cut-off and pickup times possible,
+
+00:03:10.760 --> 00:03:13.640
+which can help you meet delivery speed requirements
+
+00:03:13.640 --> 00:03:16.840
+by showing faster promises later in the day.
+
+00:03:17.720 --> 00:03:20.400
+If you use shipping setting automation,
+
+00:03:20.400 --> 00:03:22.800
+the cut-off time reflects the time zones
+
+00:03:22.800 --> 00:03:25.160
+of the warehouses you use.
+
+00:03:25.160 --> 00:03:28.200
+If you're not using automated shipping templates,
+
+00:03:28.200 --> 00:03:30.000
+you'll set the time zone as part
+
+00:03:30.000 --> 00:03:32.280
+of your general shipping settings.
+
+00:03:32.280 --> 00:03:34.960
+We recommend adding both Saturday and Sunday
+
+00:03:34.960 --> 00:03:39.000
+as operating days, though only one of these is required.
+
+00:03:40.040 --> 00:03:42.000
+Supply is another crucial aspect
+
+00:03:42.000 --> 00:03:43.880
+of your shipping operations.
+
+00:03:43.880 --> 00:03:46.080
+When mapping products from your inventory
+
+00:03:46.080 --> 00:03:47.680
+to the shipping template,
+
+00:03:47.680 --> 00:03:50.520
+make sure you can meet the anticipated demand
+
+00:03:50.520 --> 00:03:52.720
+and remember to stock enough product
+
+00:03:52.720 --> 00:03:55.520
+to meet the 100 package requirement.
+
+00:03:55.520 --> 00:03:57.320
+When you configure your prime shipping,
+
+00:03:57.320 --> 00:04:00.880
+ensure the carriers you select can fulfill your orders
+
+00:04:00.880 --> 00:04:02.720
+according to your shipping settings
+
+00:04:02.720 --> 00:04:06.120
+and make sure they can deliver during weekends.
+
+00:04:06.120 --> 00:04:08.800
+They must also be able to provide tracking numbers
+
+00:04:08.800 --> 00:04:10.400
+for each order.
+
+00:04:10.400 --> 00:04:13.960
+You are required to use an Amazon integrated carrier
+
+00:04:13.960 --> 00:04:16.600
+in which tracking numbers are automatically added
+
+00:04:16.600 --> 00:04:18.680
+to your SFP orders.
+
+00:04:18.680 --> 00:04:22.320
+This will help you meet your valid tracking rate requirements.
+
+00:04:22.320 --> 00:04:24.040
+When selecting a carrier,
+
+00:04:24.040 --> 00:04:26.600
+we recommend letting them know you're participating
+
+00:04:26.600 --> 00:04:30.320
+in this program and share our requirements with them.
+
+00:04:30.320 --> 00:04:31.840
+This will help you determine
+
+00:04:31.840 --> 00:04:34.520
+whether they're able to meet your handling times.
+
+00:04:34.520 --> 00:04:36.720
+It'll also help you confirm whether you can ship
+
+00:04:36.720 --> 00:04:39.680
+all orders you receive before your cut-off time
+
+00:04:39.680 --> 00:04:41.520
+on the day you receive them.
+
+00:04:41.520 --> 00:04:44.160
+Be sure to follow the preset shipping settings,
+
+00:04:44.160 --> 00:04:46.240
+prep and packaging requirements,
+
+00:04:46.240 --> 00:04:48.800
+and release orders to your carriers.
+
+00:04:48.800 --> 00:04:52.600
+And note, your on-time delivery metric will be impacted
+
+00:04:52.600 --> 00:04:56.400
+if your carrier doesn't scan the packages on the same day.
+
+00:04:56.400 --> 00:04:57.800
+Streamline your operations
+
+00:04:57.800 --> 00:05:00.920
+by assuring you have enough inventory in stock.
+
+00:05:00.920 --> 00:05:03.120
+This way you can avoid cancellations
+
+00:05:03.120 --> 00:05:05.600
+due to out-of-stock items.
+
+00:05:05.600 --> 00:05:09.720
+Devise a mitigation plan for higher than expected order volume
+
+00:05:09.720 --> 00:05:13.160
+in case customer demand exceeds your forecast.
+
+00:05:13.160 --> 00:05:16.000
+Having a plan can protect your trial performance
+
+00:05:16.000 --> 00:05:18.280
+and help you avoid a negative impact
+
+00:05:18.280 --> 00:05:20.360
+to your cancellation rate.
+
+00:05:20.360 --> 00:05:23.920
+Last, ensure you monitor your performance regularly.
+
+00:05:23.920 --> 00:05:25.720
+You can see your current metrics
+
+00:05:25.720 --> 00:05:28.080
+on the SFP performance dashboard,
+
+00:05:28.080 --> 00:05:32.240
+including your delivery speed and on-time delivery rate.
+
+00:05:32.240 --> 00:05:33.920
+Data is updated daily,
+
+00:05:33.920 --> 00:05:37.720
+so check your metrics regularly for potential issues.
+
+00:05:37.720 --> 00:05:40.200
+You can document any issues you identify
+
+00:05:40.200 --> 00:05:42.920
+during the trial period and use insights
+
+00:05:42.920 --> 00:05:45.520
+to improve your shipping and handling processes
+
+00:05:45.520 --> 00:05:46.760
+going forward.

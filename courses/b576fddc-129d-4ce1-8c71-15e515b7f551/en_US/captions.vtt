@@ -1,0 +1,205 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.966
+In this video, we'll help you choose the best budgeting strategy for your Amazon Ads campaigns
+
+00:00:04.966 --> 00:00:09.000
+and show you how to set up your budgets in the advertising console.
+
+00:00:09.000 --> 00:00:13.160
+Before we dive in, remember that Amazon Ads can work with any budget.
+
+00:00:13.160 --> 00:00:17.000
+Your campaign budget determines how much you will spend on sponsored ads.
+
+00:00:17.000 --> 00:00:22.250
+Setting a sufficient budget based on your objectives will help you get the most out of your campaign
+
+00:00:22.250 --> 00:00:24.000
+over a set period of time.
+
+00:00:24.000 --> 00:00:28.000
+There are two types of budgets, daily budget and lifetime budget.
+
+00:00:28.000 --> 00:00:32.000
+Sponsored products and Sponsored Display Campaigns operate on a daily budget.
+
+00:00:32.000 --> 00:00:37.000
+Sponsored Brands Campaigns can operate on a daily budget or a lifetime budget.
+
+00:00:37.000 --> 00:00:41.000
+Let's learn first what a daily budget is and how it works.
+
+00:00:41.000 --> 00:00:45.200
+Your daily budget is the maximum amount you are willing to spend on average
+
+00:00:45.200 --> 00:00:47.000
+each day over a calendar month.
+
+00:00:47.000 --> 00:00:50.333
+For example, if you set your daily budget to $100,
+
+00:00:50.333 --> 00:00:54.333
+you may spend up to $3,100 in a 31-day calendar month
+
+00:00:54.333 --> 00:00:57.000
+for all of the clicks your ads generated.
+
+00:00:57.000 --> 00:01:00.000
+Setting a daily budget doesn't mean you will spend all of it each day.
+
+00:01:00.000 --> 00:01:05.000
+The daily budget gives you flexibility to spend less on days that are low traffic
+
+00:01:05.000 --> 00:01:09.000
+and up to 10% more to take advantage of high traffic days.
+
+00:01:09.000 --> 00:01:10.800
+How does a daily budget work?
+
+00:01:10.800 --> 00:01:12.000
+Let's review the details.
+
+00:01:12.000 --> 00:01:14.286
+Daily budgets are not rationed throughout the day,
+
+00:01:14.286 --> 00:01:18.000
+so your budget will be spent as quickly as your ad receives clicks.
+
+00:01:18.000 --> 00:01:23.000
+When your daily budget has been spent, your ad will stop serving until the next day.
+
+00:01:23.000 --> 00:01:26.947
+This means that smaller budgets could be spent in a matter of hours or minutes
+
+00:01:26.947 --> 00:01:28.000
+during high traffic periods.
+
+00:01:28.000 --> 00:01:30.423
+Keep in mind that customers shop at different times,
+
+00:01:30.423 --> 00:01:35.000
+so it's important to set a daily budget that is high enough to last throughout the day.
+
+00:01:35.000 --> 00:01:38.333
+If you're not sure how much budget will keep your ad serving,
+
+00:01:38.333 --> 00:01:40.000
+test what's right for your business.
+
+00:01:40.000 --> 00:01:45.000
+You can increase or decrease your daily budget at any time even when your campaign is running.
+
+00:01:45.000 --> 00:01:49.000
+Now, let's learn what a lifetime budget is and how it works.
+
+00:01:49.000 --> 00:01:53.000
+Your lifetime budget is the maximum amount that you are willing to spend on a campaign.
+
+00:01:53.000 --> 00:01:55.000
+How does a lifetime budget work?
+
+00:01:55.000 --> 00:01:57.880
+Unlike daily budgets, lifetime budgets take a step back
+
+00:01:57.880 --> 00:02:03.000
+and look at the maximum investment you'd like to make during the lifetime of your campaign.
+
+00:02:03.000 --> 00:02:05.250
+If you set an end date for your campaign,
+
+00:02:05.250 --> 00:02:09.000
+then your lifetime budget will be divided by the number of days in your campaign.
+
+00:02:09.000 --> 00:02:12.000
+You may spend more or less than this in a given day,
+
+00:02:12.000 --> 00:02:16.000
+but the total spend over the course of the campaign will never exceed the lifetime budget.
+
+00:02:16.000 --> 00:02:21.000
+If you do not set an end date, the campaign will run until the lifetime budget is reached.
+
+00:02:21.000 --> 00:02:26.000
+It's important to remember that lifetime budgets cannot be decreased once your campaign starts.
+
+00:02:26.000 --> 00:02:30.667
+Be sure to set the correct lifetime budget before you kick off your campaign
+
+00:02:30.667 --> 00:02:33.000
+to ensure you're making the right investment.
+
+00:02:33.000 --> 00:02:37.857
+Also note that you won't be able to switch between a daily budget and a lifetime budget
+
+00:02:37.857 --> 00:02:39.000
+after you've selected one.
+
+00:02:39.000 --> 00:02:41.800
+To change your budget for an active campaign,
+
+00:02:41.800 --> 00:02:46.000
+copy your campaign and create a new campaign with the revised budget.
+
+00:02:46.000 --> 00:02:48.000
+Now that you know the available budget types,
+
+00:02:48.000 --> 00:02:50.000
+let's walk through how to set them up.
+
+00:02:50.000 --> 00:02:55.000
+To set up your new campaign budget, go to Campaign Manager and select your campaign type.
+
+00:02:55.000 --> 00:02:58.300
+If you're setting up a budget for a sponsored brands campaign,
+
+00:02:58.300 --> 00:03:01.000
+you'll need to first select daily or lifetime budget
+
+00:03:01.000 --> 00:03:05.000
+and then enter the budget amount before selecting Submit for Review.
+
+00:03:05.000 --> 00:03:07.667
+For sponsored products or sponsored display campaigns,
+
+00:03:07.667 --> 00:03:13.000
+just enter the Daily Budget Amount in the Settings section before clicking Launch Campaign.
+
+00:03:13.000 --> 00:03:15.348
+To change an existing campaign's budget,
+
+00:03:15.348 --> 00:03:22.000
+go to Settings and make changes such as changing the budget cap for all sponsored products campaigns
+
+00:03:22.000 --> 00:03:25.000
+or increasing the average daily budget for any unspent budget.
+
+00:03:25.000 --> 00:03:31.000
+Alternatively, you can adjust individual campaign budgets directly within the Budgets tab
+
+00:03:31.000 --> 00:03:33.000
+in the Campaign Manager.
+
+00:03:33.000 --> 00:03:36.000
+Find the Budget column and increase or decrease the budget.
+
+00:03:36.000 --> 00:03:38.000
+Click Save to record your changes.
+
+00:03:38.000 --> 00:03:43.000
+Finally, remember that there is no universal formula for calculating a good ad budget.
+
+00:03:43.000 --> 00:03:48.000
+The best ad budget is one that fits your business's priorities and long-term goals.
+
+00:03:48.000 --> 00:03:50.000
+Ready to get started?
+
+00:03:50.000 --> 00:03:51.000
+Visit ads.
+
+00:03:51.000 --> 00:03:51.500
+amazon.
+
+00:03:51.500 --> 00:03:52.000
+com.

@@ -1,0 +1,466 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:06.611
+Welcome to our training on how to create multi-channel fulfillment or MCF orders.
+
+00:00:06.611 --> 00:00:13.694
+MCF allows businesses to use Amazon's storage and fulfillment solutions for orders placed on their
+
+00:00:13.694 --> 00:00:17.000
+own website or other e-commerce channels.
+
+00:00:17.000 --> 00:00:22.926
+In this video, we'll show you how to create and manage MCF orders in Seller Central.
+
+00:00:22.926 --> 00:00:27.000
+When your customer makes a purchase, you'll create an MCF order.
+
+00:00:27.000 --> 00:00:31.714
+This signals Amazon to pick, pack, and ship your customer's order.
+
+00:00:31.714 --> 00:00:36.000
+You can create fulfillment orders in one of three ways.
+
+00:00:36.000 --> 00:00:43.862
+Place a single order to create orders one at a time, place orders in bulk via a spreadsheet, or
+
+00:00:43.862 --> 00:00:48.000
+create an automatic order through pre-built integrations or APIs.
+
+00:00:48.000 --> 00:00:53.789
+To create orders one at a time, navigate to sellercentral.
+
+00:00:53.789 --> 00:00:54.368
+amazon.
+
+00:00:54.368 --> 00:00:59.000
+com/GC/MCF, then select Place Single Order.
+
+00:00:59.000 --> 00:01:06.000
+You can also open the main menu in Seller Central, hover over Orders, and select Create MCF Order.
+
+00:01:06.000 --> 00:01:09.294
+This is where you'll provide your order details.
+
+00:01:09.294 --> 00:01:13.000
+We'll prompt you to enter your customer's shipping information.
+
+00:01:13.000 --> 00:01:20.000
+Remember to select Add a line to enter more details, like an apartment or floor number, for example.
+
+00:01:20.000 --> 00:01:26.545
+We also recommend adding the customer's phone number or email address, so we can send them a shipping
+
+00:01:26.545 --> 00:01:28.000
+notification with tracking details.
+
+00:01:28.000 --> 00:01:30.625
+Next, you'll add items to the order.
+
+00:01:30.625 --> 00:01:37.750
+Search by a product's title, MSKU, ASIN, or FNSKU, then let us know how many units of each product
+
+00:01:37.750 --> 00:01:40.000
+we should send to your customer.
+
+00:01:40.000 --> 00:01:46.263
+Complete the additional fields if you'd like to customize your order ID or the packing slip's date
+
+00:01:46.263 --> 00:01:47.000
+and comments.
+
+00:01:47.000 --> 00:01:53.375
+Before moving on to the next section, it's important to note that we'll ship your eligible orders
+
+00:01:53.375 --> 00:01:56.000
+in unbranded packaging at no additional cost.
+
+00:01:56.000 --> 00:02:02.737
+We'll always default to unbranded packaging for MCF orders unless doing so results in longer shipping
+
+00:02:02.737 --> 00:02:04.000
+and delivery times.
+
+00:02:04.000 --> 00:02:11.714
+Select the only ship with blank boxes toggle if you'd like to ensure your eligible orders are shipped
+
+00:02:11.714 --> 00:02:13.000
+in unbranded packaging.
+
+00:02:13.000 --> 00:02:20.286
+Refer to the FAQs section on the Multi-Channel Fulfillment page for more information on the categories,
+
+00:02:20.286 --> 00:02:25.000
+sizes, and weights that make a product ineligible for unbranded packaging.
+
+00:02:25.000 --> 00:02:32.000
+Finally, you'll choose your shipping speed and estimated time of arrival as well as shipment cost.
+
+00:02:32.000 --> 00:02:37.000
+After you've double checked each section of your order form, click Place Order.
+
+00:02:37.000 --> 00:02:43.538
+The order will ship within two business days if you selected standard shipping speed or the next
+
+00:02:43.538 --> 00:02:47.000
+business day if you selected expedited or priority speeds.
+
+00:02:47.000 --> 00:02:52.000
+You can choose to create a hold order instead of placing a fulfillment order.
+
+00:02:52.000 --> 00:02:56.000
+This option lets you reserve the ordered items for this customer.
+
+00:02:56.000 --> 00:03:02.923
+When you're ready to initiate the shipment for an existing hold order, open the main menu in Seller
+
+00:03:02.923 --> 00:03:06.000
+Central, hover over Orders and select Manage Orders.
+
+00:03:06.000 --> 00:03:10.000
+Enter the MCF Order ID to find it listed.
+
+00:03:10.000 --> 00:03:17.273
+Then click the Order ID link in the Order Details column and click Ship this order on the MCF Order
+
+00:03:17.273 --> 00:03:18.000
+Details page.
+
+00:03:18.000 --> 00:03:24.000
+Note that we'll automatically cancel an order if it isn't activated within 14 days.
+
+00:03:24.000 --> 00:03:28.000
+Now let's review how to place a bulk MCF order.
+
+00:03:28.000 --> 00:03:35.826
+This method is ideal for large volume orders since bulk orders allow you to use a spreadsheet to
+
+00:03:35.826 --> 00:03:38.000
+upload multiple MCF orders simultaneously.
+
+00:03:38.000 --> 00:03:43.844
+From the Place a Multi-Channel Fulfillment Order page, you can either select Create a Bulk Order
+
+00:03:43.844 --> 00:03:49.000
+or you can return to the main page for MCF and click Place Bulk Order.
+
+00:03:49.000 --> 00:03:55.000
+From the Multi-Channel Fulfillment Bulk Orders page, you'll select the Create Order tab.
+
+00:03:55.000 --> 00:04:00.000
+Then select Download Create Order Template and open the file.
+
+00:04:00.000 --> 00:04:06.222
+Click the Instructions tab and read through each step before you begin adding any information to
+
+00:04:06.222 --> 00:04:07.000
+the spreadsheet.
+
+00:04:07.000 --> 00:04:13.476
+The fifth step instructs you to review the Example tab to help you avoid including invalid information
+
+00:04:13.476 --> 00:04:15.000
+with your fulfillment request.
+
+00:04:15.000 --> 00:04:16.739
+Let's review one example together.
+
+00:04:16.739 --> 00:04:23.000
+You can reference the chapters listed in the description of this video if you'd like to skip ahead.
+
+00:04:23.000 --> 00:04:27.000
+First, note any bolded words in the first row of the spreadsheet.
+
+00:04:27.000 --> 00:04:32.000
+These represent required fields while the others are optional.
+
+00:04:32.000 --> 00:04:36.000
+In this training, we'll provide examples of the required fields.
+
+00:04:36.000 --> 00:04:38.538
+Start by entering your order information.
+
+00:04:38.538 --> 00:04:47.000
+In Columns A and B, you'll enter a unique identifier for your order ID using between 1 and 40 characters.
+
+00:04:47.000 --> 00:04:52.000
+Make sure you only include numbers or letters or a combination of the two.
+
+00:04:52.000 --> 00:04:58.000
+We recommend you use the same value for both Columns A and Columns B.
+
+00:04:58.000 --> 00:05:02.714
+In this example, a customer placed an order for three different SKUs.
+
+00:05:02.714 --> 00:05:09.000
+Give each SKU its own row, but only use one order ID for the entire order.
+
+00:05:09.000 --> 00:05:15.154
+Note that Merchant SKU, Quantity, and Merchant Fulfilled Order Item ID are the only columns you'll
+
+00:05:15.154 --> 00:05:19.000
+need to complete for each SKU in the same order.
+
+00:05:19.000 --> 00:05:26.000
+Otherwise, the items you include in the order's first row will apply to all other items in the order.
+
+00:05:26.000 --> 00:05:28.571
+Next, you'll add the order date in Column C.
+
+00:05:28.571 --> 00:05:32.000
+This is the date that will show on the order's packing slip.
+
+00:05:32.000 --> 00:05:33.786
+Here's how you'll format it.
+
+00:05:33.786 --> 00:05:40.571
+Use four digits for the year, two digits for the month, and two digits for the day, and separate
+
+00:05:40.571 --> 00:05:42.000
+each with a dash.
+
+00:05:42.000 --> 00:05:44.391
+For example, 2022-11-01.
+
+00:05:44.391 --> 00:05:53.000
+Add the letter T directly after the day, which will separate the date and time of the order.
+
+00:05:53.000 --> 00:05:59.333
+To add the order's time, use two digits for the hour, two digits for the minute, and two digits
+
+00:05:59.333 --> 00:06:02.000
+for the second, separating each with a colon.
+
+00:06:02.000 --> 00:06:13.000
+For example, you'd input 21 colon 32 colon 52 if the order was placed at 52 seconds past 9:32 pm.
+
+00:06:13.000 --> 00:06:18.667
+Check that your order date doesn't include spaces, and take a close look at the Data Definitions
+
+00:06:18.667 --> 00:06:23.000
+tab to make sure you understand how to format your date before proceeding.
+
+00:06:23.000 --> 00:06:27.909
+In Column D, enter the unique product identifier assigned by the merchant.
+
+00:06:27.909 --> 00:06:32.000
+Make sure it's between 1 and 40 alpha numeric characters.
+
+00:06:32.000 --> 00:06:36.000
+Note that the SKU must be unique for each product.
+
+00:06:36.000 --> 00:06:43.241
+Use Column E to add the amount of items Amazon will need to ship in the order, and use Column F
+
+00:06:43.241 --> 00:06:46.000
+to add a unique identifier for each item.
+
+00:06:46.000 --> 00:06:50.615
+Make sure the identifier is between 1 and 90 alpha numeric characters.
+
+00:06:50.615 --> 00:06:56.000
+We'll add the text you enter in Column J to the order's packing slip.
+
+00:06:56.000 --> 00:07:03.000
+We recommend you include information like your company's website, return policy, or contact information.
+
+00:07:03.000 --> 00:07:06.368
+Put the delivery service level in Column K.
+
+00:07:06.368 --> 00:07:11.000
+You can enter one of three options, standard, express, or priority.
+
+00:07:11.000 --> 00:07:18.158
+Standard is three to five business days, while express is two business days, and priority is one
+
+00:07:18.158 --> 00:07:19.000
+business day.
+
+00:07:19.000 --> 00:07:24.000
+Enter your customer's name and delivery address in Columns L through S.
+
+00:07:24.000 --> 00:07:29.735
+Reference the Data Definitions tab to ensure you've formatted them correctly, and remember to use
+
+00:07:29.735 --> 00:07:37.000
+a two-digit country code in Column Q and a two-digit state or region code in Column R.
+
+00:07:37.000 --> 00:07:42.474
+After you've reviewed the instructions, data definitions, and example tabs, click the Fulfilment
+
+00:07:42.474 --> 00:07:45.000
+Request tab and enter your orders.
+
+00:07:45.000 --> 00:07:48.556
+Then save your file in a tab delimited.
+
+00:07:48.556 --> 00:07:49.889
+txt file format.
+
+00:07:49.889 --> 00:07:57.000
+Return to the Multi-Channel Fulfilment Bulk Orders page in Seller Central to upload your spreadsheet.
+
+00:07:57.000 --> 00:08:01.706
+Click Upload Template, choose the file, and select Submit File.
+
+00:08:01.706 --> 00:08:05.000
+Click Refresh to view your upload's progress.
+
+00:08:05.000 --> 00:08:10.000
+After it's completed, you can review the generated report for errors and warnings.
+
+00:08:10.000 --> 00:08:17.000
+We'll only create error-free orders, so be sure to correct and resubmit those with errors.
+
+00:08:17.000 --> 00:08:21.000
+A third way to place an MCF order is via APIs.
+
+00:08:21.000 --> 00:08:26.000
+These integrations connect to your sales channels to automate MCF order creation.
+
+00:08:26.000 --> 00:08:33.529
+This option doesn't require coding and links you to popular e-commerce websites, like Shopify and
+
+00:08:33.529 --> 00:08:34.000
+WooCommerce.
+
+00:08:34.000 --> 00:08:40.000
+You can also create your own custom API by referencing our developer documentation.
+
+00:08:40.000 --> 00:08:41.000
+Visit supplychain.
+
+00:08:41.000 --> 00:08:41.500
+amazon.
+
+00:08:41.500 --> 00:08:49.500
+com/integrations to read our guide on e-commerce integrations, or you can download developer documentation
+
+00:08:49.500 --> 00:08:51.000
+for more information.
+
+00:08:51.000 --> 00:08:58.619
+You can check the status of an MCF order on the Manage Orders page in Seller Central or via API
+
+00:08:58.619 --> 00:08:59.000
+reporting.
+
+00:08:59.000 --> 00:09:06.158
+To access the Manage Orders page, open the Seller Central main menu, hover over Orders, and click
+
+00:09:06.158 --> 00:09:07.000
+Manage Orders.
+
+00:09:07.000 --> 00:09:14.000
+Remember to click View FBA Orders, then use the Order ID field to search for your MCF order.
+
+00:09:14.000 --> 00:09:21.000
+You can also select the Non-Amazon Sales Channel filter to browse a list of all your MCF orders.
+
+00:09:21.000 --> 00:09:25.000
+After you select an order, you can reference the order's details.
+
+00:09:25.000 --> 00:09:30.870
+These include shipment information, the order status of each item, whether the order has shipped,
+
+00:09:30.870 --> 00:09:34.000
+and the tracking number associated with the shipment.
+
+00:09:34.000 --> 00:09:40.800
+The page will also include a link to the Swiship Tracking website, which provides tracking information
+
+00:09:40.800 --> 00:09:42.000
+for all carriers.
+
+00:09:42.000 --> 00:09:45.000
+To search an order, simply enter the tracking number.
+
+00:09:45.000 --> 00:09:51.000
+If your order hasn't shipped, the page will display an estimated shipping and delivery date.
+
+00:09:51.000 --> 00:09:57.480
+If you'd like to initiate a return for an MCF order, first decide whether you want the customer
+
+00:09:57.480 --> 00:10:00.000
+to ship the items back to Amazon.
+
+00:10:00.000 --> 00:10:05.926
+We can add them to your inventory once they're returned, but you're responsible for shipping the
+
+00:10:05.926 --> 00:10:10.000
+items to the Amazon Fulfillment Center and for refunding the customer.
+
+00:10:10.000 --> 00:10:13.000
+Here's how you can initiate a return to Amazon.
+
+00:10:13.000 --> 00:10:19.000
+Go to the Multi-Channel Fulfillment Order Details page for that order in Seller Central.
+
+00:10:19.000 --> 00:10:26.158
+Select the Returns tab and select the items and quantities for return from the Return Quantity drop-
+
+00:10:26.158 --> 00:10:27.000
+down menu.
+
+00:10:27.000 --> 00:10:31.000
+Then choose the reason for each item and click Submit Return.
+
+00:10:31.000 --> 00:10:37.923
+This submission will generate a return merchandise authorization form, also known as an RMA form,
+
+00:10:37.923 --> 00:10:43.000
+which contains a return mailing label and a return authorization slip.
+
+00:10:43.000 --> 00:10:49.000
+Ask your customer to affix the return mailing label to their package before sending it back to Amazon.
+
+00:10:49.000 --> 00:10:55.588
+Each label contains the address of the Amazon Fulfillment Center that will receive and process the
+
+00:10:55.588 --> 00:10:56.000
+return.
+
+00:10:56.000 --> 00:11:02.857
+Note that postage isn't provided with return labels, so you or the customer are responsible for
+
+00:11:02.857 --> 00:11:05.000
+purchasing postage for the return.
+
+00:11:05.000 --> 00:11:10.667
+The return authorization slip is a form that includes a barcode and item description for the products
+
+00:11:10.667 --> 00:11:12.000
+your customer is returning.
+
+00:11:12.000 --> 00:11:17.000
+Let your customer know they must include it in the package with the items they're returning.
+
+00:11:17.000 --> 00:11:23.400
+After you've initiated a return, you'll see the return status on the same Multi-Channel Fulfillment
+
+00:11:23.400 --> 00:11:27.000
+Order Details page you use to create the return.
+
+00:11:27.000 --> 00:11:33.000
+Note that, like with creating a fulfillment order, you can also create a return by using an API.
+
+00:11:33.000 --> 00:11:36.000
+You can learn more on our Integrations page.
+
+00:11:36.000 --> 00:11:42.522
+Reference the FAQs section on the Multi-Channel Fulfillment page for more information on getting
+
+00:11:42.522 --> 00:11:46.000
+started, shipping and packaging, and returns and reimbursements.
+
+00:11:46.000 --> 00:11:52.000
+We also recommend watching the Multi-Channel Fulfillment "How It Works" video in Seller University
+
+00:11:52.000 --> 00:11:56.000
+to learn more about the MCF program and its benefits.
+
+00:11:56.000 --> 00:12:02.000
+This concludes our training on how to create and manage fulfillment orders with MCF.
+
+00:12:02.000 --> 00:12:05.520
+Thank you and happy selling in the Amazon Store.

@@ -1,0 +1,238 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:03.960
+Welcome to our training Ship and Fulfill using third-party apps.
+
+00:00:04.660 --> 00:00:06.517
+Amazon sellers use a variety
+
+00:00:06.517 --> 00:00:09.860
+of technologies to launch, manage, and grow their businesses.
+
+00:00:10.600 --> 00:00:12.373
+Some stick to the tools available
+
+00:00:12.373 --> 00:00:13.260
+in Seller Central.
+
+00:00:13.260 --> 00:00:18.311
+They list using Add Products, ship using manage orders, and send inventory
+
+00:00:18.311 --> 00:00:22.100
+to fulfillment centers using the Send to Amazon workflow.
+
+00:00:22.940 --> 00:00:25.553
+Other sellers use third-party apps to
+
+00:00:25.553 --> 00:00:29.660
+list, ship, fulfill, and perform a variety of other business operations.
+
+00:00:30.000 --> 00:00:31.080
+You've probably used
+
+00:00:31.080 --> 00:00:37.200
+apps before on a smartphone or tablet to complete a specific task, like rating a restaurant or
+
+00:00:37.200 --> 00:00:38.280
+checking the weather.
+
+00:00:38.760 --> 00:00:43.242
+Amazon sellers can also use the specialized functionality of apps to
+
+00:00:43.242 --> 00:00:45.280
+streamline and scale their businesses.
+
+00:00:46.200 --> 00:00:49.888
+We maintain a catalog of Amazon-approved apps in Seller Central
+
+00:00:49.888 --> 00:00:51.900
+in the Selling Partner App Store.
+
+00:00:52.520 --> 00:00:58.542
+You can visit the App Store anytime using the URL sellercentral.
+
+00:00:58.542 --> 00:00:59.090
+amazon.
+
+00:00:59.090 --> 00:01:01.280
+com/selling-partner-appstore.
+
+00:01:01.280 --> 00:01:08.480
+On the home page, select an app category to browse or use the search bar to locate a specific app
+
+00:01:08.480 --> 00:01:08.840
+by
+
+00:01:08.840 --> 00:01:09.200
+name.
+
+00:01:09.200 --> 00:01:15.680
+Click an app's icon to go to its detail page where you can review features and functionality.
+
+00:01:16.480 --> 00:01:22.200
+We provide contact information and web links so you can quickly access and use apps.
+
+00:01:22.880 --> 00:01:27.440
+Each app in the Selling Partner App Store is reviewed and authorized by Amazon.
+
+00:01:28.080 --> 00:01:32.080
+The developers who publish in the App Store are vetted by Amazon too.
+
+00:01:32.880 --> 00:01:34.909
+Some of the apps we list
+
+00:01:34.909 --> 00:01:36.600
+integrate directly with Seller Central.
+
+00:01:37.080 --> 00:01:41.067
+Others are standalone, but all the apps in the App Store
+
+00:01:41.067 --> 00:01:45.000
+have access to the same kind of selling data you see in Seller Central.
+
+00:01:45.580 --> 00:01:47.365
+Their access is secured
+
+00:01:47.365 --> 00:01:50.489
+through one of our two API services.
+
+00:01:50.489 --> 00:01:54.815
+Selling Partner API or SP API or our Legacy Service,
+
+00:01:54.815 --> 00:01:58.480
+Marketplace Web Service, also called Amazon MWS.
+
+00:01:59.320 --> 00:02:01.720
+Now that you know a little more about third-party
+
+00:02:01.720 --> 00:02:08.229
+apps and where to find them, let's focus on apps that can help with FBA or fulfillment by Amazon
+
+00:02:08.229 --> 00:02:08.600
+shipments.
+
+00:02:09.080 --> 00:02:13.880
+We'll also review apps that can help with MFN or merchant-fulfilled orders.
+
+00:02:14.680 --> 00:02:19.560
+Using an app to ship inventory or fulfill orders can offer several advantages.
+
+00:02:20.200 --> 00:02:21.827
+An app with specific
+
+00:02:21.827 --> 00:02:27.800
+features might help you create FBA shipments faster, or it could make it easier to purchase
+
+00:02:27.800 --> 00:02:29.000
+shipping for MFN orders.
+
+00:02:29.720 --> 00:02:33.474
+An app might also make printing labels, tracking shipments,
+
+00:02:33.474 --> 00:02:35.560
+and packing items more intuitive.
+
+00:02:36.280 --> 00:02:39.930
+To illustrate the range of shipping and fulfillment apps available
+
+00:02:39.930 --> 00:02:47.560
+in the Selling Partner App Store, let's review three examples, ShipStation, ScanPower, and Shippo.
+
+00:02:48.440 --> 00:02:52.680
+Note that these examples don't constitute recommendations from Amazon.
+
+00:02:52.680 --> 00:02:53.303
+They're offered
+
+00:02:53.303 --> 00:02:58.600
+here as information to help you explore all the third-party apps available in the App Store.
+
+00:02:59.640 --> 00:03:05.320
+ShipStation provides sellers with features that support both MFN and FBA fulfillment.
+
+00:03:06.040 --> 00:03:13.387
+You can use ShipStation to import MFN orders in bulk so you no longer have to copy and paste
+
+00:03:13.387 --> 00:03:15.320
+information manually from Seller Central.
+
+00:03:15.960 --> 00:03:19.380
+Or you can use ShipStation to compare carrier rates,
+
+00:03:19.380 --> 00:03:23.560
+print shipping labels, and manage your buy shipping services from Amazon.
+
+00:03:24.280 --> 00:03:29.720
+The app updates tracking information in real time too and makes it available to customers.
+
+00:03:30.280 --> 00:03:36.545
+You can also use ShipStation to create FBA shipping labels and receive notifications on the status
+
+00:03:36.545 --> 00:03:37.720
+of FBA shipments.
+
+00:03:38.520 --> 00:03:44.040
+ScanPower helps simplify FBA shipments using a feature called Boxt.
+
+00:03:44.040 --> 00:03:50.440
+You can use ScanPower to provide box content information for multiple shipments simultaneously.
+
+00:03:51.080 --> 00:03:56.520
+It also allows you to scan and pack items while printing 2D barcodes for box content.
+
+00:03:57.400 --> 00:04:00.680
+And it can warn you about incorrect items or quantities.
+
+00:04:01.240 --> 00:04:07.897
+You can also use ScanPower to get packing history reports which can help track and enhance FBA
+
+00:04:07.897 --> 00:04:08.680
+related operations.
+
+00:04:09.560 --> 00:04:14.680
+Finally, Shippo helps sellers streamline and reduce costs for MFN orders.
+
+00:04:15.320 --> 00:04:20.040
+You can use Shippo to find and compare discounted shipping rates across carriers.
+
+00:04:20.760 --> 00:04:25.480
+You can use it to create business rules that print your shipping labels faster.
+
+00:04:25.480 --> 00:04:29.960
+Shippo can also help you validate shipping addresses and avoid failed deliveries.
+
+00:04:30.600 --> 00:04:37.063
+Additionally, Shippo can help you schedule pickups, customize shipping labels, and automate customer
+
+00:04:37.063 --> 00:04:37.560
+notifications.
+
+00:04:38.440 --> 00:04:44.511
+ShipStation, Boxt by ScanPower, and Shippo are just a small sample of the third-party
+
+00:04:44.511 --> 00:04:48.840
+apps available in the Selling Partner App Store to help you ship and fulfill.
+
+00:04:49.560 --> 00:04:56.280
+We encourage you to explore additional shipping and fulfillment apps for both FBA and MFN sellers
+
+00:04:56.280 --> 00:05:01.160
+by clicking the Shipping Solutions category on the App Store home page.
+
+00:05:01.160 --> 00:05:02.693
+On the next page,
+
+00:05:02.693 --> 00:05:08.840
+use filters to find apps designed for specific programs or to search by star rating, language,
+
+00:05:08.840 --> 00:05:09.640
+or store.
+
+00:05:10.200 --> 00:05:14.991
+We also encourage you to explore apps in other categories that might help streamline
+
+00:05:14.991 --> 00:05:16.360
+and scale your business.
+
+00:05:17.240 --> 00:05:24.440
+Thank you and happy selling in the Amazon Store.

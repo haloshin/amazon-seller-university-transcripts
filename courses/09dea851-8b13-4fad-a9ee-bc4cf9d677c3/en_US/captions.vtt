@@ -1,0 +1,196 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.440
+Welcome to our training on resolving product matching errors.
+
+00:00:04.440 --> 00:00:08.720
+At Amazon we use product matching to simplify the listing process.
+
+00:00:08.720 --> 00:00:14.865
+Instead of putting every seller's offer on a separate product detail page, we match new offers to
+
+00:00:14.865 --> 00:00:18.880
+existing pages when products are already sold in the Amazon store.
+
+00:00:18.880 --> 00:00:22.560
+That keeps sellers from having to recreate pages.
+
+00:00:22.560 --> 00:00:27.520
+It also makes it easier for customers to find, compare, and purchase products.
+
+00:00:27.520 --> 00:00:32.982
+At times you may encounter matching errors while listing a product because we think you're trying
+
+00:00:32.982 --> 00:00:37.200
+to create a new detail page for a product that's already been listed.
+
+00:00:37.200 --> 00:00:40.640
+In general, these errors occur for three reasons.
+
+00:00:40.640 --> 00:00:40.990
+1.
+
+00:00:40.990 --> 00:00:46.240
+The product ID you entered is associated with a different product in the Amazon store.
+
+00:00:46.240 --> 00:00:53.960
+For example, you entered the product ID 12345 for a perfume, but that product ID is associated with
+
+00:00:53.960 --> 00:00:55.040
+a room freshener.
+
+00:00:55.040 --> 00:00:55.385
+2.
+
+00:00:55.385 --> 00:01:01.964
+The product ID you entered is correct and is assigned to the same product in the Amazon store, but
+
+00:01:01.964 --> 00:01:07.822
+one or more of the other product attributes you entered conflicts with the attribute information
+
+00:01:07.822 --> 00:01:09.600
+of the existing product.
+
+00:01:09.600 --> 00:01:15.232
+For example, you entered a brand name for a perfume that doesn't match the brand name of the existing
+
+00:01:15.232 --> 00:01:15.520
+product.
+
+00:01:15.520 --> 00:01:15.957
+3.
+
+00:01:15.957 --> 00:01:22.693
+The seller SKU you entered is already assigned to a different product, either in your inventory
+
+00:01:22.693 --> 00:01:24.560
+or the greater Amazon store.
+
+00:01:25.120 --> 00:01:28.640
+Let's review how to resolve each of these listing errors.
+
+00:01:28.640 --> 00:01:34.516
+If you receive a matching error for the product ID while listing, start by confirming that the product
+
+00:01:34.516 --> 00:01:36.080
+ID you entered is correct.
+
+00:01:36.720 --> 00:01:40.720
+Make sure it's the exact same product ID that appears on the product's barcode.
+
+00:01:40.720 --> 00:01:47.280
+And make sure that the product ID you're using is part of the GTIN or Global Trade Item Number System.
+
+00:01:47.280 --> 00:01:56.030
+The most common product ID or GTIN used by Amazon sellers is a UPC, but you might use an EAN, JAN
+
+00:01:56.030 --> 00:01:57.280
+or ISBN too.
+
+00:01:57.280 --> 00:02:05.360
+All GTINs are obtained from an organization called Global Standards 1 or GS1 for short.
+
+00:02:06.000 --> 00:02:10.560
+After you've confirmed the product ID, review the error message you received.
+
+00:02:11.200 --> 00:02:17.006
+It will include the product ID you entered as well as the ASIN or Amazon standard identification
+
+00:02:17.006 --> 00:02:20.080
+number of the product we think your listing matches.
+
+00:02:20.720 --> 00:02:26.518
+Use the ASIN we've provided to search the Amazon store and review the product we've suggested is
+
+00:02:26.518 --> 00:02:27.200
+a match.
+
+00:02:27.760 --> 00:02:33.467
+If the product we've suggested is the same one you're trying to list, enter the ASIN we've provided
+
+00:02:33.467 --> 00:02:36.320
+in the product ID field to resolve the error.
+
+00:02:36.880 --> 00:02:42.820
+Or if the product you're trying to list is different from the one we've suggested, reach out to
+
+00:02:42.820 --> 00:02:47.440
+seller support and provide the full product information and the error message you received,
+
+00:02:47.440 --> 00:02:53.440
+along with proof of ownership, like a GS1 certificate or images of the ID on the product.
+
+00:02:54.560 --> 00:02:59.935
+If you receive a matching error for a product attribute while listing, you can follow a similar
+
+00:02:59.935 --> 00:03:01.200
+process to resolve it.
+
+00:03:01.840 --> 00:03:07.725
+Use the ASIN we've provided in the error message to search the Amazon store and review the product
+
+00:03:07.725 --> 00:03:09.360
+we've suggested as a match.
+
+00:03:10.320 --> 00:03:15.884
+If the product we've suggested is the same one you're trying to list, update the attribute value
+
+00:03:15.884 --> 00:03:17.520
+you received an error for.
+
+00:03:17.520 --> 00:03:20.960
+Be sure to match it with the attribute information of the existing product.
+
+00:03:21.600 --> 00:03:23.040
+This will resolve the error.
+
+00:03:23.600 --> 00:03:29.495
+Or if the product you're trying to list is different from the one we've suggested, you can update
+
+00:03:29.495 --> 00:03:34.080
+the product ID or other identifying information to create a new product detail page.
+
+00:03:34.640 --> 00:03:40.240
+You can also use the Fix Your Products tool in Seller Central to resolve product attribute errors.
+
+00:03:40.720 --> 00:03:46.800
+To do so, open the main menu, hover over Inventory and click Manage All Inventory.
+
+00:03:47.360 --> 00:03:52.800
+Then, on the Manage Inventory page, click Search Suppressed and Inactive Listings.
+
+00:03:53.360 --> 00:03:59.200
+On the Fix Your Products page, select Incomplete Listings, then click Matching Conflicts.
+
+00:03:59.200 --> 00:04:01.520
+Find the product you've received an error for.
+
+00:04:02.240 --> 00:04:07.746
+Then click the Accept Amazon's Value button to update your attribute information with the value
+
+00:04:07.746 --> 00:04:08.480
+we provide.
+
+00:04:09.120 --> 00:04:12.160
+Or enter your own value and click the Save button.
+
+00:04:12.880 --> 00:04:18.480
+The last kind of error you might receive while listing is for your Seller SKU or Stock Keeping unit.
+
+00:04:19.440 --> 00:04:26.000
+SKUs are Seller Specific and every product you list needs to be associated with a unique SKU.
+
+00:04:26.000 --> 00:04:31.608
+If you've entered a SKU that's already associated with a different product, either in your inventory
+
+00:04:31.608 --> 00:04:35.797
+or the greater Amazon store, you'll need to delete your listing.
+
+00:04:35.797 --> 00:04:38.640
+Then, recreate it using a unique SKU.
+
+00:04:39.200 --> 00:04:42.400
+This concludes our training on resolving product matching errors.
+
+00:04:43.040 --> 00:04:49.760
+Thank you and happy selling in the Amazon store!
