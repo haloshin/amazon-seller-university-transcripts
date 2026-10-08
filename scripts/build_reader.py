@@ -4,6 +4,7 @@ import argparse
 import json
 from pathlib import Path
 from build_navigation import ROOT, TOPICS, STARTER_IDS
+from reading_paragraphs import reading_paragraphs
 
 
 def reader_data():
@@ -15,9 +16,11 @@ def reader_data():
         for variant in course['variants']:
             directory = (ROOT / variant['transcript']).parent
             metadata = json.loads((directory / 'course.json').read_text())
+            text = (directory / 'transcript.txt').read_text(encoding='utf-8')
             item['variants'].append({
                 'locale': variant['locale'],
-                'text': (directory / 'transcript.txt').read_text(encoding='utf-8'),
+                'text': text,
+                'paragraphs': reading_paragraphs(course['moduleId'], variant['locale'], text, course['title']),
                 'path': directory.relative_to(ROOT).as_posix(),
                 'notes': (ROOT / variant['notes']).read_text(encoding='utf-8') if variant.get('notes') else '',
                 'duration': metadata['sourceVideoDurationSeconds'],

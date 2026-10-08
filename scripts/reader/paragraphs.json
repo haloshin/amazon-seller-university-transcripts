@@ -1,0 +1,45 @@
+{
+  "cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN": {
+    "sha256": "519f1ff4faf0c4abcc53dcc823d1b822c8df795c123e8d801304f771f873d087",
+    "starts": [
+      0,
+      4,
+      7,
+      9
+    ]
+  },
+  "cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US": {
+    "sha256": "8067af292b28cbe85905c780ff8faca55480ec06829af077c58683115acaa0dc",
+    "starts": [
+      0,
+      1,
+      9,
+      16,
+      20
+    ]
+  },
+  "472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN": {
+    "sha256": "eac35ffcc2d0809c2e93b3104f341f4268f6185d3feabc6f93cc2cb2643d7d5f",
+    "starts": [
+      0,
+      4,
+      7,
+      13,
+      15,
+      18,
+      20,
+      24
+    ]
+  },
+  "84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN": {
+    "sha256": "5bfa8e7c3e0058195fdaeefcda198ac287e78ae59eceab4f4219138147f9b0f2",
+    "starts": [
+      0,
+      1,
+      3,
+      5,
+      7,
+      9
+    ]
+  }
+}

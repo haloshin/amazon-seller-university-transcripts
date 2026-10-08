@@ -12,7 +12,7 @@
   const idLabel = c => titleCounts.get(c.title)>1 ? `<span>${c.moduleId.slice(0,8)}</span>` : '';
   const pageSize = 30;
   const isLibrary = () => state.get('view') === 'library' || (!state.get('view') && ['topic','q','language','page'].some(key => state.has(key)));
-  let state, english, searchTimer, fontSize = 18;
+  let state, english, searchTimer, fontSize = 16;
   const progress = document.createElement('div');
   progress.className = 'read-progress';
   progress.setAttribute('aria-hidden', 'true');
@@ -156,35 +156,11 @@
     results();
   }
   function transcript(c, v) {
-    const lines = v.text.split(/\r?\n/);
-    // Suppress only the duplicate source H1 already shown as the page title.
-    if (lines[0] === '# ' + c.title) lines.shift();
-    const paragraphs = [];
-    let separated = true;
-    for (const line of lines) {
-      if (!line.trim()) { separated = true; continue; }
-      // Some English transcripts wrap a sentence at caption-width boundaries.
-      // Reflow those continuations for reading; source files remain untouched.
-      const previous = paragraphs.at(-1);
-      if (v.locale === 'en_US' && !separated && previous && !/[.!?:]["'”’)]*\s*$/.test(previous) && !/^\s*(?:[-*•]|\d+[.)])\s/.test(line)) {
-        paragraphs[paragraphs.length-1] = previous.trimEnd() + ' ' + line.trimStart();
-      } else paragraphs.push(line);
-      separated = false;
-    }
-    const readable = v.locale !== 'en_US' ? paragraphs : paragraphs.flatMap(paragraph => {
-      if (paragraph.length <= 700) return [paragraph];
-      const blocks = [];
-      let block = '';
-      // A reflowed caption block can be very long. Add visual paragraph breaks
-      // only after complete sentences, preserving every word and its order.
-      for (const sentence of paragraph.split(/(?<=[.!?])(?=\s+[A-Z“"])/)) {
-        if (block.length >= 380) { blocks.push(block); block = ''; }
-        block += sentence;
-      }
-      if (block) blocks.push(block);
-      return blocks;
-    });
-    return readable.map(line => `<p>${esc(line)}</p>`).join('');
+    // Paragraph layout is compiled separately from the unchanged source text.
+    return v.paragraphs.map(paragraph => {
+      const listItem = /^(?:[-*•]\s+|\d+[.)、]\s*|[一二三四五六七八九十]+[、．])/.test(paragraph);
+      return `<p${listItem ? ' class="transcript-list-item"' : ''}>${esc(paragraph)}</p>`;
+    }).join('');
   }
   function course() {
     const c = byId.get(state.get('id'));
@@ -209,11 +185,11 @@
     main.innerHTML = `<article class="reading-shell"><nav class="breadcrumb" aria-label="${t('位置导航','Breadcrumb')}"><a href="${href({view:'library'})}">${t('课程库','Library')}</a><span>/</span><a href="${href({topic:c.navigationTopic})}">${topicTitle(c.navigationTopic)}</a></nav><header class="course-heading"><div class="eyebrow">${t('原课转写 · ','ORIGINAL TRANSCRIPT · ')}${isChinese ? t('中文音轨','CHINESE AUDIO') : 'ENGLISH'}</div><h1>${esc(title(c))}</h1>${!english ? `<div class="original-title">${esc(c.title)}</div>` : ''}<div class="course-facts"><span>${t('原课时长','Video length')} ${Math.floor(v.duration/60)}:${String(Math.floor(v.duration%60)).padStart(2,'0')}</span><span>${t('归档于','Archived')} ${data.release.archiveDate}</span><span>${t('SHIN 整理维护','Compiled by SHIN')}</span>${idLabel(c)}</div></header><div class="reading-toolbar"><nav class="language-tabs" aria-label="${t('转写稿音轨语言','Transcript audio language')}">${c.variants.map(item => `<a href="${courseHref(c,item.locale)}" ${v.locale===item.locale ? 'aria-current="page"' : ''}>${item.locale==='zh_CN' ? '中文音轨' : 'English'}</a>`).join('')}</nav><div class="reading-actions"><div class="type-controls"><span>${t('字号','Text size')}</span><button type="button" id="font-smaller" aria-label="${t('缩小字号','Decrease text size')}">A−</button><button type="button" id="font-larger" aria-label="${t('增大字号','Increase text size')}">A+</button></div><details class="download-menu"><summary>${t('下载','Download')} ↓</summary><div><a href="${v.path}/transcript.txt" download>TXT ${t('全文','text')}</a><a href="${v.path}/captions.vtt" download>VTT ${t('字幕','captions')}</a><a href="${v.path}/transcript.md" download>Markdown</a></div></details></div></div>${c.variants.length===1 ? `<p class="muted" style="font-size:12px">${t('本课程仅有英文音轨转写稿。','Only the English audio transcript is available for this course.')}</p>` : ''}${notes ? `<aside class="reader-note"><strong>${t('阅读说明','Editorial notes (Chinese)')}</strong>${notes}</aside>` : ''}<div id="transcript" class="transcript" lang="${isChinese ? 'zh-CN' : 'en'}">${transcript(c,v)}</div><p class="credit-line">${t('课程来源：Amazon Seller University · SHIN 整理维护。','Source: Amazon Seller University · Compiled by SHIN.')}<br>${t('分享请保留署名与','Please retain credit and the ')}<a href="${repo}">${t('原仓库链接','source repository link')}</a> · <a href="${href({view:'about'})}">${t('使用条件','Terms of use')}</a></p><div class="course-downloads"><a href="${v.source}">${t('官方学习入口','Official learning portal')} ↗</a></div><p class="source-note">${t('原视频请在官方入口按课程原标题查找，部分课程需登录 Seller Central。本包不含视频。中文稿来自中文音轨，并非逐句翻译；不同音轨的表达可能有差异。费用、政策和界面请核对当前官方页面。','Use the original course title to find the video in the official portal; some courses require Seller Central sign-in. Videos are not included. Chinese transcripts follow Chinese audio and are not line-by-line translations. Check current official pages for fees, policies and interfaces.')}</p><nav class="adjacent" aria-label="${t('继续阅读','Continue reading')}">${adjacent}</nav></article>`;
     const updateSize = () => {
       document.documentElement.style.setProperty('--reader-size',fontSize+'px');
-      document.getElementById('font-smaller').disabled = fontSize<=16;
-      document.getElementById('font-larger').disabled = fontSize>=24;
+      document.getElementById('font-smaller').disabled = fontSize<=14;
+      document.getElementById('font-larger').disabled = fontSize>=22;
     };
-    document.getElementById('font-smaller').onclick = () => {fontSize=Math.max(16,fontSize-2);updateSize();};
-    document.getElementById('font-larger').onclick = () => {fontSize=Math.min(24,fontSize+2);updateSize();};
+    document.getElementById('font-smaller').onclick = () => {fontSize=Math.max(14,fontSize-2);updateSize();};
+    document.getElementById('font-larger').onclick = () => {fontSize=Math.min(22,fontSize+2);updateSize();};
     updateSize();
   }
   function about() {

@@ -1,7 +1,7 @@
 :root {
   --paper:#fff; --canvas:#f5f7fa; --ink:#082447; --text:#26384a; --muted:#5b6b7d;
   --line:#e1e7ef; --orange:#ff6a00; --accent:#a63e00; --wash:#fff3e9;
-  --reader-size:18px; --sidebar-width:256px; --header-height:80px;
+  --reader-size:16px; --sidebar-width:256px; --header-height:80px;
   --sans:-apple-system,BlinkMacSystemFont,"Segoe UI","PingFang SC","Microsoft YaHei",sans-serif;
   --serif:Georgia,"Songti SC","Noto Serif CJK SC",serif;
 }
@@ -167,8 +167,9 @@ mark { background:#ffe3b9; color:var(--ink); padding:1px 2px; }
 .reader-note p:last-child { margin-bottom:0; }
 .credit-line { font-size:13px; line-height:1.9; color:var(--muted); padding:28px 0; margin:0; border-top:1px solid var(--line); }
 .credit-line a { text-decoration:underline; text-underline-offset:4px; }
-.transcript { font-family:var(--sans); font-size:var(--reader-size); line-height:1.9; overflow-wrap:anywhere; padding:0 0 40px; }
-.transcript p { margin:0 0 1.25em; white-space:pre-wrap; }
+.transcript { font-family:var(--sans); font-size:var(--reader-size); line-height:1.85; overflow-wrap:anywhere; padding:0 0 40px; }
+.transcript p { margin:0 0 1em; white-space:pre-wrap; }
+.transcript[lang="zh-CN"] p:not(.transcript-list-item) { text-indent:2em; }
 .transcript[lang="en"] { font-family:var(--serif); font-size:calc(var(--reader-size) + 1px); line-height:1.85; }
 .transcript p:last-child { margin-bottom:0; }
 .course-downloads { padding:22px 0; border-top:1px solid var(--line); border-bottom:1px solid var(--line); font-size:13px; display:flex; gap:16px 24px; flex-wrap:wrap; }
