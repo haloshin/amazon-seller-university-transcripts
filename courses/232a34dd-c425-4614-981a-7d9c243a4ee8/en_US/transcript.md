@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Intro to Amazon Shipping
 
 Amazon Shipping provides reliable ground delivery service for orders placed on Amazon, your own website, and other e-commerce channels. Package pickup and delivery operate seven days a week without additional residential fees or weekend delivery charges, offering a fast and reliable solution for delivering to your customers. To register for Amazon Shipping, navigate to Shipper Central at ship.amazon.com/getstarted/home. Click Log in with Amazon and sign in with the same credentials you use to access Seller Central.

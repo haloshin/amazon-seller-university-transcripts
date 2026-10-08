@@ -2,15 +2,22 @@
 
 **270 courses to read and search at your own pace.**
 
+Compiled and maintained by [SHIN](https://github.com/haloshin) · Free-to-read study materials · [Attribution and use](NOTICE.md)
+
 ![270 courses across 8 topics: 270 English transcripts and 185 Chinese-audio transcripts, 455 in total](assets/reader-banner.png)
 
-[Browse by topic](LEARNING_GUIDE.md) · [All courses](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [简体中文](README.md)
+[Browse by topic](LEARNING_GUIDE.md) · [All courses](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [Upcoming work](#planned-updates) · [简体中文](README.md)
+
+> **Please keep the course source and SHIN's editorial credit. Do not claim SHIN's work as your own or imply official endorsement.**
+> Prefer sharing the [original repository](https://github.com/haloshin/amazon-seller-university-transcripts) so readers can find updates. Only copyrightable original editorial material whose rights SHIN owns is subject to the limited personal, noncommercial study permission; redistribution or commercial use beyond it requires separate permission. Normal forks, statutory exceptions and the scripts' MIT license remain unaffected. [Full scope](NOTICE.md)
 
 This collection contains **270 English and 185 Simplified Chinese transcripts**, covering topics such as getting started, listings, fulfillment, advertising, brands, and compliance. Read on GitHub or download for offline search.
 
 Chinese transcripts follow Chinese audio. Each course retains its original title, sequence, and examples, with plain text and WebVTT captions alongside the Markdown edition.
 
 For new sellers learning the basics, and operators looking up a specific topic or preparing team reading materials.
+
+A **Seller University Skill and course question bank** are planned and have not been released. [Preview and follow updates](#planned-updates)
 
 ## Browse by topic
 
@@ -65,6 +72,8 @@ Each course page links back to its topic, offers available language alternatives
 
 Download and extract the complete ZIP from [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest). For online reading, open the [learning guide](LEARNING_GUIDE.md). Offline, open `LEARNING_GUIDE.md` in a Markdown reader, or read TXT files in a text editor.
 
+The ZIP includes [usage instructions](使用说明.txt), [LICENSE](LICENSE) and [NOTICE](NOTICE.md). TXT and VTT files retain the course text and captions; attribution and rights information appear on the reading pages and in the accompanying notices.
+
 ![Markdown for full-text reading, TXT for search and import, and VTT for use with the original video in a compatible player; get the ZIP from Releases and watch videos at the official Amazon portal](assets/reading-formats.png)
 
 | Purpose | File |
@@ -80,6 +89,19 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 ```
 
 For AI-assisted study, provide a selected transcript and any accompanying reading notes. Ask the assistant to cite the text and distinguish course statements from its own explanation.
+
+## Planned updates
+
+![Course transcripts are available now; the Seller University Skill and question bank are planned, not yet released. Star to bookmark and Watch for release updates](assets/upcoming-preview.png)
+
+| Direction | Intended use | Status |
+| --- | --- | --- |
+| Seller University Skill | Help find courses, read the source text and support learning | Planned; not yet released |
+| Course question bank | Topic-based practice and self-assessment | Planned; not yet released |
+
+Details and release plans will be announced later. The current download contains transcripts and captions, not these planned additions.
+
+If the materials are useful, **Star** the repository to bookmark it. To receive release notifications, choose **Watch → Custom → Releases**. Starring bookmarks the project; notifications depend on your Watch settings. [Published releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases) · [GitHub notification settings](https://docs.github.com/en/subscriptions-and-notifications/get-started/configuring-notifications)
 
 ## Watch the original course
 

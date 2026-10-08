@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Manage Your Experiments: set up a test for listing content
 
 Welcome to our training, "Manage Your Experiments, Set Up a Test for Listing Content." In this second video of the "Manage Your Experiments" series, you'll get step-by-step instructions for setting up a test in the M-Y-E tool. If you haven't watched our first video on planning an M-Y-E test, we recommend viewing it before you continue with this second training. We also recommend watching our third video to learn how to interpret the results of an experiment.

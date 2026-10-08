@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Late Shipment Rate (LSR) overview
 
 Welcome to our training on the Late Shipment Rate, or LSR. Today we'll cover what the LSR is and how it affects sellers in the Amazon Store. Let's start by defining LSR. LSR measures the percentage of orders where shipment confirmation occurs after the expected ship date. You can find the expected ship date in order details. It's important to note that LSR only applies to seller-fulfilled orders, also known as merchant-fulfilled, or MFN.

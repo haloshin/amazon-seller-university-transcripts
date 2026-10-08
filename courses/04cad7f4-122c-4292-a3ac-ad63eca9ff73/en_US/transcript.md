@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Get pricing recommendations using ‘Business discount insights’
 
 Welcome to our training on the business discount insights tool. Amazon Business helps professional sellers set B2B prices and attract business customers using two basic mechanisms, business prices and quantity discounts. A business price is a lower price viewable by Amazon business customers for the purchase of a single unit.

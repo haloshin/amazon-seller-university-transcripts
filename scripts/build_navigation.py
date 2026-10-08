@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 ROOT = Path(__file__).resolve().parents[1]
+SOURCE_REPOSITORY = "https://github.com/haloshin/amazon-seller-university-transcripts"
 TOPICS = {
     "start": ("入门与账户", "Getting started and accounts"),
     "listings": ("商品发布与定价", "Listings and pricing"),
@@ -66,6 +67,20 @@ def validate_catalog(catalog):
             raise ValueError("Starter course must provide both languages")
 
 
+def attribution_block(prefix="", english=False):
+    if english:
+        return [
+            f"> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates]({SOURCE_REPOSITORY}) · [Attribution and use]({prefix}NOTICE.md)",
+            "> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.",
+            "",
+        ]
+    return [
+        f"> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新]({SOURCE_REPOSITORY}) · [署名与使用说明]({prefix}NOTICE.md)",
+        "> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。",
+        "",
+    ]
+
+
 def render_guide(catalog, english=False):
     duplicates = {t for t, n in Counter(c["title"] for c in catalog).items() if n > 1}
     by_id = {c["moduleId"]: c for c in catalog}
@@ -104,6 +119,7 @@ def render_guide(catalog, english=False):
                     cells.append(c["title"].replace("|", "\\|"))
                 lines.append("| " + " | ".join(cells + language_links(c)) + " |")
         lines += ["", "[Back to topics](#browse-by-topic)" if english else "[返回主题索引](#按主题找课)", ""]
+    lines += attribution_block(english=english)
     return "\n".join(lines)
 
 
@@ -122,7 +138,7 @@ def render_course(course, current, catalog):
     text = (ROOT / current["transcript"]).with_suffix(".txt").read_text(encoding="utf-8").strip()
     header = "# " + course["title"]
     body = text if text.startswith(header + "\n") else header + "\n\n" + text
-    lines = [" · ".join(nav), ""]
+    lines = [" · ".join(nav), "", *attribution_block(prefix, english)]
     if not english:
         lines += ["中文导航名：" + course["navigationTitleZh"], ""]
     lines += [body, "", "---", ""]

@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Intro to Send to Amazon
 
 Send to Amazon or STA is the shipment creation workflow for fulfillment by Amazon or FBA. This streamlined workflow helps you ship your FBA products to Amazon fulfillment centers. To locate the STA page, open the Seller Central main menu, hover over Inventory and click Shipments. You'll arrive at the shipping queue page, which provides the list of shipments you're working on,

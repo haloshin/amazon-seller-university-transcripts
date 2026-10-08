@@ -1,5 +1,8 @@
 [首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
+> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新](https://github.com/haloshin/amazon-seller-university-transcripts) · [署名与使用说明](../../../NOTICE.md)
+> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。
+
 中文导航名：配送设置指南
 
 # Guide to shipping settings

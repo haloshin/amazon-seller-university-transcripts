@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Global Expansion: A Guide to Cross-Border Logistic
 
 Hello and welcome to our video on cross-border logistics for Amazon Selling Partners. This video focuses on logistics when expanding to any store outside of Europe. In this video, we will delve into the key topics of international shipping, import and export trade and navigating customs regulations. We'll also explore how Amazon services, like fulfillment by Amazon, FBA, Amazon Global Logistics, AGL, and the partnered carrier program.

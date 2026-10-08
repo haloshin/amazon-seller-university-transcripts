@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Track and respond to customer reviews
 
 Welcome to our training on the customer reviews tool. Product reviews are an important part of buying and selling in the Amazon store. They help customers understand the experiences of those who've already purchased products. And they help sellers identify and correct product and listing issues. If you're a professional seller internal to a brand enrolled in Amazon Brand Registry, you can use the customer reviews tool to track product reviews. You can also use it to respond to customers who've left reviews,

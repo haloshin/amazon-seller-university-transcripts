@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # The easiest way for US sellers to expand internationally
 
 Hi, my name is Angus and I'm the inventor of the Kangaroo Hanger, which is essentially a big paperclip for your clothes, and it will clip in everything in your closet. It's also made with 100% recycled materials in Wisconsin. So I wanted to talk today about international expansion on Amazon. And this might be kind of weird for me to talk about because Kangaroo is still domestic, but I do actually have experience scaling on Amazon internationally in the past with another brand that I own. And I'm going to tell you a little bit about those experiences, and what I'm going to do differently,

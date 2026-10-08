@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Multi-Channel Fulfillment: How it works
 
 Welcome to our training on how multi-channel fulfillment or MCF works. Modern business owners typically use multiple online sales channels. These might include the Amazon Store, an e-commerce website dedicated to their product or business, or social media accounts, for example. With MCF, businesses of any size, using any online sales channels, can take advantage of Amazon's product storage and order fulfillment. It allows you to maintain control over your sales.

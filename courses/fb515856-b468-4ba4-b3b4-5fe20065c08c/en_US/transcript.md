@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Start selling subscription boxes
 
 Welcome to our training start selling subscription boxes. Customers use the Amazon store every day to purchase products they're familiar with. But many also use the selection available through Amazon to discover new products, brands and services. If you're a seller looking to reach more customers, you can help them explore in the Amazon store by selling subscription boxes. A subscription box is a curated collection of products in a single category that's sent to a customer on a recurring basis.

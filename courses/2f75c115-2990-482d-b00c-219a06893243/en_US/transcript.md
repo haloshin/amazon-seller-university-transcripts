@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Introduction to Amazon Ads Campaign Manager Budget Rules
 
 Budget Rules is a feature in Campaign Manager that helps you manage and optimize your budget. It can automatically increase your budget during a specific timeframe, or when your campaign hits a certain performance target. You can use budget rules to help you keep top performing campaigns running, to prevent budget being spent on underperforming campaigns. To reduce time,

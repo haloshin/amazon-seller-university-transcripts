@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Send to Amazon – Step 4: Confirm carrier and pallet information
 
 In step four, you will be confirming carrier and pallet information. Note that you'll only see this step if you're shipping pallets. The steps you take will be different depending on the carrier you selected in step two. For pallet shipments with non-partnered carriers, start by confirming how many pallets you will be shipping. Then select print to generate FBA pallet ID labels.

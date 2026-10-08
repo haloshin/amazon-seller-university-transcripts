@@ -12,6 +12,8 @@
 python3 scripts/build_navigation.py
 ```
 
+生成器会在 Markdown 阅读页和学习导航加入整理署名、原仓库与使用说明链接。请保留这些来源标识；不要把非课程的署名或使用条款混入 TXT 正文或 VTT 字幕。
+
 本地校验仅依赖 Python 3 标准库：
 
 ```bash

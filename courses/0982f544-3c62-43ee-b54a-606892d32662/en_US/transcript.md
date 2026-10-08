@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Toys and compliance
 
 Welcome to our training on toys and compliance. At Amazon, safety is our top priority. As a seller in the Amazon store, it's your responsibility to know and comply with all laws and regulations and Amazon policies that apply to each of your products, including specific requirements based on their age grading. If you wish to sell children's toys in the United States, we'll ask you to provide certain documentation to confirm your products meet applicable children's toy safety standards.

@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Intro to Fulfillment by Amazon (FBA)
 
 Whether you have a professional or individual selling account, you're eligible to enroll in FBA. You can use FBA to store your products in Amazon's fulfillment centers and let us pick, pack and ship your FBA orders. We'll also handle returns and provide customer service on your behalf for these orders. With FBA, your items become eligible for Prime Shipping, meaning Amazon Prime customers can benefit from free two-day service.

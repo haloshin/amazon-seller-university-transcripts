@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Get recommendations for case packs
 
 Welcome to our training on getting recommendations for new and existing case packs. At Amazon, we support three package configuration types, Single Unit, Case Pack, and Pallet. In this video, we'll focus on case packs, which are common in higher-volume business-to-business or B2B sales and can help attract Amazon business customers. We'll demonstrate how sellers can use the Case Pack product opportunities tool to get recommendations.

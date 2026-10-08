@@ -1,5 +1,8 @@
 [首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
+> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新](https://github.com/haloshin/amazon-seller-university-transcripts) · [署名与使用说明](../../../NOTICE.md)
+> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。
+
 中文导航名：获取品牌引流奖励
 
 # How to earn a Brand Referral Bonus

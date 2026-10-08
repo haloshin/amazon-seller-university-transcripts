@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Getting started with Sponsored Brands
 
 Welcome to Sponsored Brands. In this video, you'll learn how to create and manage effective advertising campaigns that help increase your brand visibility on Amazon. Sponsored Brands are ads featuring your brand logo, a custom headline, a lifestyle image or video, and multiple products. These ads appear in prominent shopping placements, helping you increase visibility and direct shoppers to your Amazon Brand Store or product detail pages. They support brand discovery and consideration during the customer journey.

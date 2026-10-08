@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # How to drive traffic to your Store with Sponsored Brands
 
 The Sponsored Brands product collection ad format allows you to link to your store from your ad to help shoppers explore your full selection and brand. Here's how to set it up. First, choose the product collection ad format. You'll see options for your landing page, which is where your ad will link to. Here, choose your store as the landing page. Use the drop-down option to choose your store and which page in your store you'd like to send shoppers to.

@@ -2,15 +2,22 @@
 
 **270 门课程，随时阅读与检索。**
 
+[SHIN](https://github.com/haloshin) 整理维护 · 免费公开学习资料 · [署名与使用](NOTICE.md)
+
 ![270 门课程、8 个主题、455 份转写稿：英文 270 份，中文音轨稿 185 份；按主题选课、阅读原文、下载使用](assets/reader-banner.png)
 
-[按主题找课](学习导航.md) · [全部课程](课程目录.md) · [下载完整资料](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [English](README.en.md)
+[按主题找课](学习导航.md) · [全部课程](课程目录.md) · [下载完整资料](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [后续更新](#接下来的更新) · [English](README.en.md)
+
+> **分享请保留来源与 SHIN 整理署名，勿冒充原创或官方发布。**
+> 推荐分享[原仓库链接](https://github.com/haloshin/amazon-seller-university-transcripts)，便于读者获取更新。仅在 SHIN 依法享有著作权的原创编辑内容范围内，超出个人非商业学习许可的再发布或商用须另行许可；正常 Fork、法定使用权利和脚本 MIT 许可不受额外限制。[完整说明](NOTICE.md)
 
 这里收录 **270 份英文、185 份中文，共 455 份课程转写稿**，涵盖卖家入门、商品发布、物流、广告、品牌与合规等内容。可以直接在 GitHub 阅读，也可以下载后离线搜索。
 
 中文稿来自中文音轨。每门课保留官方原标题、讲述顺序和案例，附 TXT 全文与 VTT 字幕。
 
 适合想了解开店流程的新卖家，也适合按业务问题查阅原课、准备团队学习材料的运营人员。
+
+后续计划补充 **卖家大学 Skill、课程题库**，目前尚未发布。[查看预告与关注方式](#接下来的更新)
 
 ## 按主题找课
 
@@ -67,6 +74,8 @@ FBA 课程介绍亚马逊配送方式；自行配送订单可接着读[卖家自
 
 从 [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) 下载完整 ZIP 并解压。在线阅读可直接打开[学习导航](学习导航.md)；离线可用 Markdown 阅读器打开 `学习导航.md`，或用文本编辑器阅读 TXT 全文。
 
+下载包附[使用说明](使用说明.txt)、[LICENSE](LICENSE) 与 [NOTICE](NOTICE.md)。TXT 和 VTT 保留课程全文与字幕，整理署名和权利说明展示在阅读页及随包说明中。
+
 ![三种文件的用途：Markdown 阅读全文，TXT 搜索、复制或导入，VTT 配合原视频阅读字幕；ZIP 从 Releases 下载，原视频在 Amazon 官方入口观看](assets/reading-formats.png)
 
 | 需要做什么 | 使用哪个文件 |
@@ -82,6 +91,19 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 ```
 
 需要 AI 辅助学习时，把选定课程全文交给 AI，并要求它引用原文、区分课程内容与自己的解释。课程附有阅读说明时，请一并提供。
+
+## 接下来的更新
+
+![当前已提供课程转写稿；卖家大学 Skill 和课程题库均为规划中，尚未发布；Star 收藏，Watch 关注版本更新](assets/upcoming-preview.png)
+
+| 方向 | 想帮助你做什么 | 当前状态 |
+| --- | --- | --- |
+| 卖家大学 Skill | 更方便地查找课程、阅读原文与辅助学习 | 规划中，尚未发布 |
+| 课程题库 | 按主题练习与自测，复习课程知识 | 规划中，尚未发布 |
+
+具体内容和发布安排以后续公告为准。当前下载包提供转写稿与字幕，不包含上述两项。
+
+如果这份资料对你有用，欢迎在页面右上角 **Star** 收藏；想接收版本发布通知，可在 **Watch → Custom → Releases** 中订阅。Star 用于收藏，版本通知由 Watch 设置决定。[查看已发布版本](https://github.com/haloshin/amazon-seller-university-transcripts/releases) · [GitHub 通知设置说明](https://docs.github.com/en/subscriptions-and-notifications/get-started/configuring-notifications)
 
 ## 观看原课
 

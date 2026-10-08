@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Intro to Anti-Counterfeit Policy compliance
 
 Welcome to our training on Amazon anti-counterfeiting policy compliance. The tips we'll share in this video don't take the place of legal advice. So, remember to consult a lawyer. If you have any specific anti-counterfeiting or intellectual property questions, when you list products in the Amazon store, you'll need to comply with all applicable laws and Amazon policies. One of these policies is the Amazon anti-counterfeiting policy.

@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Why early reviews through Amazon Vine helped The Happy Start succeed
 
 Hi, I'm Jerry from The Happy Start. One of the hardest things about launching a new product on Amazon is getting those first few reviews. You know your product is great, but customers are hesitant to buy something that doesn't have any reviews yet. Today, I'm going to tell you exactly how we solved that problem using the Amazon Vine program.

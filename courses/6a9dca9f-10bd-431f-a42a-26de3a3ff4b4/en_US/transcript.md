@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Price products to please your customers
 
 When selling in the Amazon store, you are in control of how you price your products based on supply and demand trends. We recommend prioritizing your customer's satisfaction as your pricing strategy impacts your seller identity and long-term success. We monitor pricing practices that may harm customer trust and notify you of any policy violations in the Account Health dashboard. To ensure your success, avoid setting misleading reference prices, setting excessive shipping fees,

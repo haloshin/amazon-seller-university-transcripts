@@ -1,5 +1,8 @@
 [首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%85%A8%E7%90%83%E5%BC%80%E5%BA%97) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
 
+> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新](https://github.com/haloshin/amazon-seller-university-transcripts) · [署名与使用说明](../../../NOTICE.md)
+> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。
+
 中文导航名：亚马逊全球商店销售入门
 
 # Introduction to Selling on Amazon Global Store

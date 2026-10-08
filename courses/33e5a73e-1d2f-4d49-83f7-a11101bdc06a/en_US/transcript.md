@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # From Local to Canada: How DTocs Used Amazon Global Selling to Expand
 
 I didn't build a global warehouse, nor did I hire an international team to sell globally. I used Amazon's Global Selling Program. When I expanded DTocs beyond the US, I kept it simple. I used my existing US FBA inventory to fulfill international orders. Now Amazon handled everything.

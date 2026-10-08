@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Introduction to Selling on Amazon Global Store
 
 Introducing Global Store, a simplified way to expand to new destinations for FBA sellers. Our dashboard is personalized to highlight action items and insights. Amazon fulfills orders with existing FBA inventory, and customers are responsible for import duties and taxes.

@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#getting-started-and-accounts) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Sell in the Amazon store: 5-minute overview for beginners
 
 Selling on Amazon can be broken down into four steps. Step 1. Create an Amazon Seller Central account on sell.amazon.com. Step 2. List Products for Sale. Step 3. Fulfill Customer Orders and Provide Outstanding Customer Service. Step 4. Receive payments from your sales proceeds and maintain your account health. Let's go over these four steps.

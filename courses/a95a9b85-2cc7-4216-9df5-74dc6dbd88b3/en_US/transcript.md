@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Introduction to Amazon Warehousing and Distribution (AWD)
 
 Amazon Warehousing and Distribution, or AWD, is a low-cost bulk storage solution for your inventory that distributes to the Amazon Store and other distribution channels, saving you time and money when you have large quantities of inventory to store and distribute. Utilizing AWD for your bulk storage can help you reduce storage costs. By sending your inventory in bulk to AWD facilities, you can take advantage of lower per unit storage fees compared to standard FBA.

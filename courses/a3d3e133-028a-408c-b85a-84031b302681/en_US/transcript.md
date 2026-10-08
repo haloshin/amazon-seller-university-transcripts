@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Intro to the Amazon Generic Product Policy
 
 Welcome to this Seller University module on the Amazon Generic Product Policy. In this video, we'll help you understand the benefits of the policy. Learn how to create generic ASINs and resolve common error codes. The Amazon Generic Product Policy allows customers to easily differentiate between generic and branded products. Generic products are unbranded items that don't belong to an identifiable brand. An unbranded product does not have a distinctive name,

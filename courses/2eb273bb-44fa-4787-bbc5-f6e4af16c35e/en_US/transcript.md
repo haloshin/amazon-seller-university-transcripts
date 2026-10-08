@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # How to change your Sponsored Products campaign budget
 
 You may wanna change the budget of your existing sponsored products campaigns at some point. Here's how. From your list of active campaigns, in the Budget column, click the Current Amount and add more budget if your high-performing campaign is often running out, or decrease it if your campaign's not meeting your goals. Hit Save to activate your changes. Another way is by clicking into the Campaign and going to the Settings tab, which is helpful if you wanna make other settings adjustments. From here, simply adjust your daily budget in the same way.

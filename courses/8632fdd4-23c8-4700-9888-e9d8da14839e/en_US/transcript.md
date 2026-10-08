@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Showcasing your Brand Store highlights with Sponsored Brands
 
 Learn how sponsored Brands store spotlight format can help you showcase the variety of products or categories you sell by featuring multiple pages from your brand store within the ad. This format displays three pages of your store as a visual menu, allowing shoppers to explore what interests them most while discovering your product range. Let's explore how to create a store spotlight campaign that features three key areas of your store. Step 1. Select sponsored brands and choose the store spotlight format. Then pick three sub-pages that represent different

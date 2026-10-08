@@ -1,5 +1,8 @@
 [Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
 
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
 # Meet Amazon's compliance requirements using the Compliance Knowledge Portal
 
 Understanding your compliance requirements is an important part of selling on Amazon. Products that meet all applicable laws and regulations keep your customers safe from health and safety risks. Failure to meet these regulations may negatively impact your account health. Your inventory at Amazon's fulfillment centers could be disposed of or stopped at customs if you ship internationally. You might not receive your payments and your product listing may be removed. Most importantly,
