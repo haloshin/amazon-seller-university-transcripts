@@ -1,0 +1,18 @@
+{
+  "moduleId": "7bfe5496-318f-4e42-8fee-a0f1c8394caf",
+  "assetId": "asset-e2e84f4a83dc4ae7",
+  "title": "Amazon Handmade: Production Time and Delivery Promise",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "61244d7032ddd807bb7e7037ca1d4332e5db19eadeb2ff75ebd0a1b2d78b7b25",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 168.585083,
+  "transcriptSha256": "73396d47664c081ff28c2e080dcde609dd6283904ed82b36f0a5399ba738e6ee"
+}

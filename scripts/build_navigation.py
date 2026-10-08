@@ -7,8 +7,8 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import quote
 
-ROOT = Path(__file__).resolve().parents[1]
-SOURCE_REPOSITORY = "https://github.com/haloshin/amazon-seller-university-transcripts"
+ROOT = Path(__file__).resolve().parents[1] / "amazon"
+SOURCE_REPOSITORY = "https://github.com/haloshin/seller-university"
 TOPICS = {
     "start": ("入门与账户", "Getting started and accounts"),
     "listings": ("商品发布与定价", "Listings and pricing"),
@@ -78,12 +78,12 @@ def validate_catalog(catalog):
 def attribution_block(prefix="", english=False):
     if english:
         return [
-            f"> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates]({SOURCE_REPOSITORY}) · [Attribution and use]({prefix}NOTICE.md)",
+            f"> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates]({SOURCE_REPOSITORY}) · [Attribution and use]({prefix}../NOTICE.md)",
             "> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.",
             "",
         ]
     return [
-        f"> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新]({SOURCE_REPOSITORY}) · [署名与使用说明]({prefix}NOTICE.md)",
+        f"> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新]({SOURCE_REPOSITORY}) · [署名与使用说明]({prefix}../NOTICE.md)",
         "> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。",
         "",
     ]

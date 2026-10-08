@@ -1,0 +1,62 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/seller-university) · [Attribution and use](../../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
+# Introduction to Stores
+
+Welcome, in this video, we'll review how to create your very own Amazon store.
+ We'll walk through the process of setting up your store, discuss its components, and
+ explore the benefits of having an Amazon store.
+ Stores are a free, self-service, branded destination on Amazon where you can curate content that
+ inspires and educates.
+ Stores offer customization options that let you showcase your brand and products to shoppers
+ as they search and browse.
+ Stores can help you reach new customers by providing an always-on destination for them
+ to learn about your brand.
+ Stores also give you the control to create an Amazon shopping experience that you can
+ optimize using insights about performance, campaigns, traffic, and sales related to your
+ store.
+ Creating a store is free, and with our easy-to-use store builder, no design experience is required
+ to get started.
+ Now, let's review how to set up your store.
+ Start by logging into the Advertising Console and selecting Brand Content on the left side
+ of the page.
+ Next, click Create Store to start creating your store.
+ Create your store's home page by entering your brand name and then adding a high-quality
+ image of your brand logo, ensuring it's at least 400 by 400 pixels.
+ Once this is set up, you can use the store builder to further customize the experience.
+ Remember, the home page is what shoppers will see when they arrive at your store.
+ We recommend featuring your logo and other imagery that helps showcase your brand.
+ Next, pick your preferred template.
+ This will be how your products and pages display to shoppers.
+ You can use a template as is or customize by removing or adjusting specific sections
+ to fit your needs.
+ Next, you can build sub-pages to showcase specific products in more detail.
+ To create a page, click Add Page in the store builder and choose from the options.
+ We recommend using a product collection template to showcase your top-selling products.
+ You should include links to help shoppers navigate between sub-pages so they can easily
+ view your full catalog.
+ After choosing your template and adding sub-pages, use the Tile Manager to populate your store
+ with relevant videos, images, and text.
+ This will help your store stand out when shoppers browse.
+ You can add, delete, and organize these drag and drop tiles to fit your needs and to help
+ engage shoppers.
+ Now you're ready to review and publish.
+ Be sure to preview your store on both desktop and mobile to ensure a positive viewing experience.
+ Once you publish or schedule to publish on a specific date, your store will go under
+ Moderation Review within 24 hours.
+ You can track your approval status in the store builder.
+ Once approved, your store will be published on your preferred date.
+ Congratulations, you created your first store.
+ As you get started, be sure to check which product listings perform well to optimize your
+ store's layout using the store's insight page.
+ This will help you to continue to improve your store now that it's live.
+ Ready to get started?
+ Visit ads.amazon.com.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to Stores and A+ Content](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/transcript.md) · [Next in topic：Introduction to Transparency](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/transcript.md)

@@ -1,0 +1,18 @@
+{
+  "moduleId": "4e174673-a256-4767-b783-7e015e825e35",
+  "assetId": "asset-4348154891ea7f47",
+  "title": "Respond to an A-to-z Guarantee Claims notification",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "c31caaf94372c3dcf93450c8a7a7a1d91c33320d8b6f208300a97bd79e8990b1",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 341.738,
+  "transcriptSha256": "c5faf552bff6086f3957d9dd2558516145d06d173dca96dd9551a63a4a674f0e"
+}

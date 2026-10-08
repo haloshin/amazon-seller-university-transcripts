@@ -1,0 +1,18 @@
+{
+  "moduleId": "a1080e38-8886-410a-aa3d-42654019dcb2",
+  "assetId": "asset-f5032abe38b38fd6",
+  "title": "Selling in Japan",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "d6d89eff065b719e4102771e188b7bfd14e069f68e8402f02eec8f226074074f",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 194.197,
+  "transcriptSha256": "38bf96d8c0f4658df30a442c7a91ee7d4d4b4d1f6163bc34a2467d92f51b8079"
+}

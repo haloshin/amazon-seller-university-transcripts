@@ -1,0 +1,18 @@
+{
+  "moduleId": "0963db14-0fbb-42f3-b8b4-b36bc5ceca5a",
+  "assetId": "asset-67c054f36d92f34a",
+  "title": "Amazon Tax Exemption Program",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "b32f4086bf58a64940201e3dbfd3281a8b705018035864f94e88003ea2de5f75",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 131.029333,
+  "transcriptSha256": "e00aa0bec24b13ede7ee119ed80a365807077d458f0a8a384c0459b498a76509"
+}

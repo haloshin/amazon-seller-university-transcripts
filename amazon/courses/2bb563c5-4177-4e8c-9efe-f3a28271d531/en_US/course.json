@@ -1,0 +1,18 @@
+{
+  "moduleId": "2bb563c5-4177-4e8c-9efe-f3a28271d531",
+  "assetId": "asset-78059b44d65cf406",
+  "title": "Generate Product Images with Amazon AI Studio",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "66178f2e4252585bf669b1d7cd57f24808a9b636c40a6a43f4b52129123e32f2",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 101.733333,
+  "transcriptSha256": "646e022706344633448ebaac081bf444bcfd8e0c9cbcc0839ddd657bf69c05a3"
+}

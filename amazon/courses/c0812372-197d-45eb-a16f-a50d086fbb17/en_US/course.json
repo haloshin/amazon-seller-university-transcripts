@@ -1,0 +1,18 @@
+{
+  "moduleId": "c0812372-197d-45eb-a16f-a50d086fbb17",
+  "assetId": "asset-3710468b77be35a9",
+  "title": "Welcome to Amazon",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "b72b52c07c4450957250a3e21f7287f1bf71d32ffed28ede61cf24299fa4d8f9",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 112.704,
+  "transcriptSha256": "19e857147d51798709e5f4dc94bcd5626bea06d984f61b84722ae6d02fb3d28f"
+}

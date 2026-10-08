@@ -1,0 +1,18 @@
+{
+  "moduleId": "e52369f9-c402-469f-aa56-c0dd1c706aef",
+  "assetId": "asset-d245fe2cfcfab52a",
+  "title": "Voice of the Customer overview",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "1d450ed0dc37ee2cc9be241aea6ff59dbc7f1c7c87825e5d83314fd909b7e600",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 180.833333,
+  "transcriptSha256": "84a00fdec3e9734b1efa429aefd6c3e4b0fcd95c1f370d569b7eeed4b88b6279"
+}

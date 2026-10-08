@@ -1,0 +1,136 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#fulfillment-and-shipping) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/seller-university) · [Attribution and use](../../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
+# Optimizing your Seller Fulfilled Prime trial
+
+[MUSIC PLAYING]
+ To help optimize your seller-fulfilled prime SFP trial
+ experience, we'll review best practices for shipping
+ settings, carrier selection, operations management,
+ and performance monitoring.
+ Let's start with shipping settings.
+ When you enroll in the SFP trial,
+ you'll use a pre-configured shipping template titled
+ "Default Prime Shipping Template."
+ It saves your settings for delivery options, regions,
+ transit times, shipping fees, and handling times.
+ Since SFP requires same-day shipping,
+ we'll automatically set your handling time
+ to same-day for SFP orders.
+ When configuring your prime template,
+ you'll have the option to manually set your shipping
+ regions, which allows you to define shipping locations
+ and commitments by ship method and zone.
+ We recommend using shipping setting automation, SSA,
+ to improve the accuracy of your shipping commitments.
+ Ensure the SSA toggle is selected
+ and look for the blue badge to confirm
+ that it's been enabled.
+ You will receive on-time delivery rate or OTDR protection
+ from late deliveries on items shipped through seller-fulfilled
+ prime if shipping setting automation
+ is enabled on your shipping template.
+ You've purchased shipping labels marked as OTDR protected
+ on Amazon Buy Shipping or Veeqo,
+ and you have shipped on-time.
+ If you ship from more than one location,
+ shipping setting automation will also localize your cut-off
+ time based on ship from location time zone,
+ allowing you to show faster and more accurate promises
+ to customers across the country.
+ To enable shipping setting automation,
+ toggle the option when editing your shipping template.
+ Follow the prompts to automate your settings,
+ including selecting your ship from locations,
+ your carriers and ship methods,
+ and define the zone coverage for each ship method.
+ Note that the estimate of prime coverage
+ on your shipping template does not account
+ for your cut-off time or where customers are located
+ and is not a guarantee of delivery speed performance.
+ To manually configure your prime shipping template,
+ ensure shipping setting automation is turned off
+ and manually select where you will deliver for each speed.
+ You can select from entire states and sub-regions
+ within each state.
+ For offers on a manually configured template,
+ the order cut-off time will be static
+ and based on the default time zone
+ in your general shipping settings.
+ Be sure to add accurate information
+ to your shipping template and make sure you are able
+ to fulfill these commitments with your current operations.
+ But if you need to make changes later,
+ shipping templates can be modified at any time.
+ Now let's review how to set your cut-off time.
+ The cut-off time will be set automatically
+ to the earliest default time,
+ but we recommend you work with your carriers
+ to set the latest order cut-off and pickup times possible,
+ which can help you meet delivery speed requirements
+ by showing faster promises later in the day.
+ If you use shipping setting automation,
+ the cut-off time reflects the time zones
+ of the warehouses you use.
+ If you're not using automated shipping templates,
+ you'll set the time zone as part
+ of your general shipping settings.
+ We recommend adding both Saturday and Sunday
+ as operating days, though only one of these is required.
+ Supply is another crucial aspect
+ of your shipping operations.
+ When mapping products from your inventory
+ to the shipping template,
+ make sure you can meet the anticipated demand
+ and remember to stock enough product
+ to meet the 100 package requirement.
+ When you configure your prime shipping,
+ ensure the carriers you select can fulfill your orders
+ according to your shipping settings
+ and make sure they can deliver during weekends.
+ They must also be able to provide tracking numbers
+ for each order.
+ You are required to use an Amazon integrated carrier
+ in which tracking numbers are automatically added
+ to your SFP orders.
+ This will help you meet your valid tracking rate requirements.
+ When selecting a carrier,
+ we recommend letting them know you're participating
+ in this program and share our requirements with them.
+ This will help you determine
+ whether they're able to meet your handling times.
+ It'll also help you confirm whether you can ship
+ all orders you receive before your cut-off time
+ on the day you receive them.
+ Be sure to follow the preset shipping settings,
+ prep and packaging requirements,
+ and release orders to your carriers.
+ And note, your on-time delivery metric will be impacted
+ if your carrier doesn't scan the packages on the same day.
+ Streamline your operations
+ by assuring you have enough inventory in stock.
+ This way you can avoid cancellations
+ due to out-of-stock items.
+ Devise a mitigation plan for higher than expected order volume
+ in case customer demand exceeds your forecast.
+ Having a plan can protect your trial performance
+ and help you avoid a negative impact
+ to your cancellation rate.
+ Last, ensure you monitor your performance regularly.
+ You can see your current metrics
+ on the SFP performance dashboard,
+ including your delivery speed and on-time delivery rate.
+ Data is updated daily,
+ so check your metrics regularly for potential issues.
+ You can document any issues you identify
+ during the trial period and use insights
+ to improve your shipping and handling processes
+ going forward.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：New Seller Central: Manage Shipments](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/en_US/transcript.md) · [Next in topic：Returns and refunds for seller-fulfilled orders](../../../courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/transcript.md)

@@ -1,0 +1,18 @@
+{
+  "moduleId": "0646548c-7a14-4d03-851b-33a650f7c033",
+  "assetId": "asset-cc19186156ad9e7c",
+  "title": "Customer Review Insights overview",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "c1d87a68e6bf29b49193823e2bf40c56688e4934b499395ffdf4a6c34edc6133",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 166.293,
+  "transcriptSha256": "9aa45d54152f070039fd1a68a2454748ce336cc3387423909b7a831c15cfe5fe"
+}

@@ -1,0 +1,75 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#listings-and-pricing) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/seller-university) · [Attribution and use](../../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
+# Automate Pricing: Apply pricing rules
+
+In the Pricing Rules page in Seller Central, you will see a list of all the predefined
+ and custom rules available to apply.
+ Each rule will have columns with details about the rule, including a short summary of what
+ the rule does.
+ The Business Catalog Rule by Amazon applies to all SKUs in your catalog, including newly
+ added SKUs across all regions, and excluding SKUs assigned to other business pricing rules
+ and SKUs with business-only offers.
+ To apply this rule, select Setup Rule.
+ This will take you to the Review and Activate Rule page, where you can learn more about
+ the rule.
+ Set your parameters for minimum price percentages, add business discounts, and hit Save and
+ Activate.
+ The rule will show as processing in the Rule Status column.
+ As the status changes to active, this rule will apply to all applicable SKUs in your
+ catalog.
+ To apply all other rules, select Edit SKUs.
+ Custom Pricing Rules will have an additional drop-down, which allows you to pause, edit,
+ or delete your custom rule.
+ The Competitive Price Rule by Amazon Pre-Defined Rule can't be paused, edited, or deleted.
+ Watch the Automate Pricing Change or Remove a Pricing Rule video in Seller University to
+ learn how to edit a Pricing Rule, pause, resume, or delete it or review price history.
+ Click Edit SKUs to enroll them one by one or in bulk.
+ Pricing Rules won't adjust any of your prices until you've added SKUs.
+ To enroll SKUs one by one, select each one individually and enter your minimum and maximum
+ prices.
+ You can think of these prices as bumpers.
+ They let Automate Pricing adjust your prices based on the parameters of the rule, but only
+ within a certain range.
+ Note that only SKUs with a minimum price can be enrolled, so remember to complete this
+ step.
+ Next, select the Take Action drop-down menu next to the SKU.
+ Select the rule you would like to apply in the Assign to Rule section and click Start
+ Repricing.
+ To enroll SKUs in bulk, check the boxes to the left of each SKU or click the topmost
+ box to select all SKUs listed on the page.
+ Next, select the Bulk Action drop-down menu and select the rule you want to apply and
+ select Start Repricing to confirm your selection.
+ Another way to enroll SKUs in bulk is by selecting Manage SKUs via File Upload.
+ Use the Download Center tab to download a bulk template.
+ You can choose a blank file or one that's pre-populated.
+ The pre-populated file includes your top 500 to top 50,000 SKUs depending on the file size
+ you select.
+ It sorts SKUs by sales rank.
+ We recommend using the pre-populated file, especially if you're not sure which SKUs you'd
+ like to apply to the rule.
+ If you're a business seller, we recommend using the blank file template.
+ Make your selections, then select Request Automate Pricing File.
+ Use the Refresh button to view the status of your download.
+ Complete the required fields in the downloaded file, save the template sheet, and upload it
+ in the Upload Center tab.
+ The upload may take several minutes depending on the size.
+ You may receive an error message or a processing report if the required fields are completed
+ incorrectly.
+ Review the section, tips to resolve common errors, and reference the 15,000 series error
+ codes help page to troubleshoot.
+ Re-upload after you've corrected your spreadsheet.
+ Return to the Manage SKUs page at any point to assign more SKUs to a rule, move SKUs to
+ different rules, change your minimum and maximum prices, or end re-pricing on a rule altogether.
+ Whether one by one or in bulk, your SKUs will re-price after you select Start re-pricing
+ as long as you've entered a minimum price.
+ The rule will also appear on the Automate Pricing page so you can review and edit the
+ SKUs you've assigned to it if needed.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Apply pricing rules in bulk](../../../courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/en_US/transcript.md) · [Next in topic：Automate Pricing: Change or remove a pricing rule](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/transcript.md)

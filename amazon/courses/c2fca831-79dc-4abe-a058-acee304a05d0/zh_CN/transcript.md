@@ -1,0 +1,21 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E5%B9%BF%E5%91%8A%E4%B8%8E%E4%BF%83%E9%94%80) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新](https://github.com/haloshin/seller-university) · [署名与使用说明](../../../../NOTICE.md)
+> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。
+
+中文导航名：在关键词定向中使用广泛匹配的时机
+
+# When to use broad match in your keyword targeting
+
+在设置使用手动关键词投放的广告活动时,匹配类型决定了您竞价的关键词与顾客使用的购物搜索词的匹配程度。
+广泛匹配可以为您提供所有匹配类型中最多的流量。因此,它最适合用于提升知名度或了解顾客使用了哪些词语,从而帮助您日后优化广告活动。
+我们将以您正在推广的一套蓝色棉质床单为例。
+您的关键词中包含了Blue Cotton Sheets。
+这个关键词由三个词语组成:Blue Cotton和Sheets。
+如果您使用的是广泛匹配类型,则当顾客按任意顺序使用这三个词语,以及复数等近似变体进行浏览时,您的广告可以展示。如果顾客还在其搜索词中的任何位置使用了其他词语,您的广告也可以展示。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：使用受众竞价提升优化品牌推广活动（中文译文）](../../../translations/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/zh_CN/translation.md) · [同主题下一篇：在关键词定向中使用词组匹配的时机](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/zh_CN/transcript.md)

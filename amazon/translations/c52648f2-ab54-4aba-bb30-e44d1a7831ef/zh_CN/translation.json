@@ -1,0 +1,19 @@
+{
+  "moduleId": "c52648f2-ab54-4aba-bb30-e44d1a7831ef",
+  "kind": "translation",
+  "locale": "zh_CN",
+  "sourceLocale": "en_US",
+  "title": "无品牌商品政策：解决错误代码 5885",
+  "sourcePath": "courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.txt",
+  "sourceSha256": "5a933a2671be46109dd1f360acf6a1d4cff7ce4bfdc99effef078b69a4b30c65",
+  "method": "AI-assisted translation and bilingual review; terminology aligned with existing Chinese audio transcripts",
+  "sourceParagraphCount": 4,
+  "paragraphs": [
+    "欢迎来到本卖家大学模块。在本视频中，我们将讨论当您尝试在亚马逊商城中添加或编辑商品时遇到错误代码 5885 应如何处理。错误代码 5885 表示您无法更改商品详情页面、为其他卖家的无品牌商品添加报价，或将商品详情页面复制到另一个商城。",
+    "要解决此问题，我们建议您为无品牌商品创建新商品信息。如果您认为自己遵守了亚马逊的政策，可以前往“帮助”（Help），然后进入“获取帮助和资源”（Get help and resources），联系销售合作伙伴支持。选择“添加商品”（Adding a product），接着选择“收到错误代码或消息”（Received an error code or message），然后选择您的错误代码。",
+    "如果您使用的是库存文件模板，除了 ASIN 外，还请提供处理报告的批次编号（Batch ID）。如果您使用上传数据的批次编号，请务必在顶部字段中添加一个 ASIN。如果需要执行后续步骤，销售合作伙伴支持团队的成员会与您联系。",
+    "感谢观看，祝您在亚马逊商城销售愉快！"
+  ],
+  "editionDate": "2026-10-08",
+  "releaseVersion": "0.8.0"
+}

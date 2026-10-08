@@ -7,6 +7,8 @@ from build_navigation import ROOT, TOPICS, STARTER_IDS
 from reading_paragraphs import reading_paragraphs
 from translations import load_translation
 
+REPO = ROOT.parent
+
 
 def reader_data():
     catalog = json.loads((ROOT / 'catalog.json').read_text())
@@ -23,7 +25,7 @@ def reader_data():
                 'kind': 'transcript',
                 'text': text,
                 'paragraphs': reading_paragraphs(course['moduleId'], variant['locale'], text, course['title']),
-                'path': directory.relative_to(ROOT).as_posix(),
+                'path': directory.relative_to(REPO).as_posix(),
                 'notes': (ROOT / variant['notes']).read_text(encoding='utf-8') if variant.get('notes') else '',
                 'duration': metadata['sourceVideoDurationSeconds'],
                 'source': metadata['officialLearningEntry'],
@@ -37,23 +39,23 @@ def reader_data():
                 'title': translated['title'], 'sourceLocale': translated['sourceLocale'],
                 'text': text,
                 'paragraphs': reading_paragraphs(course['moduleId'], 'zh_CN', text, translated['title']),
-                'path': str(Path(translation['text']).parent),
+                'path': (Path('amazon') / translation['text']).parent.as_posix(),
                 'notes': source['notes'], 'duration': source['duration'], 'source': source['source'],
             })
         courses.append(item)
     return {'release': json.loads((ROOT / 'release.json').read_text()),
             'topics': TOPICS, 'starters': STARTER_IDS, 'courses': courses,
-            'notice': (ROOT / 'NOTICE.md').read_text(), 'license': (ROOT / 'LICENSE').read_text()}
+            'notice': (REPO / 'NOTICE.md').read_text(), 'license': (REPO / 'LICENSE').read_text()}
 
 
 def render():
-    template = (ROOT / 'scripts/reader/template.html').read_text()
+    template = (REPO / 'scripts/reader/template.html').read_text()
     data = json.dumps(reader_data(), ensure_ascii=False, separators=(',', ':'))
     # JSON lives in a non-executing script element. Escape HTML delimiters even
     # when a future transcript contains markup, preventing premature closure.
     data = data.replace('&', '\\u0026').replace('<', '\\u003c').replace('>', '\\u003e')
-    replacements = {'@@DATA@@': data, '@@CSS@@': (ROOT / 'scripts/reader/style.css').read_text(),
-                    '@@JS@@': (ROOT / 'scripts/reader/app.js').read_text()}
+    replacements = {'@@DATA@@': data, '@@CSS@@': (REPO / 'scripts/reader/style.css').read_text(),
+                    '@@JS@@': (REPO / 'scripts/reader/app.js').read_text()}
     for marker, value in replacements.items():
         assert template.count(marker) == 1, marker
         template = template.replace(marker, value)
@@ -64,7 +66,7 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument('--check', action='store_true')
     args = parser.parse_args()
-    output = ROOT / 'index.html'
+    output = REPO / 'index.html'
     html = render()
     if args.check:
         if not output.is_file() or output.read_text() != html:

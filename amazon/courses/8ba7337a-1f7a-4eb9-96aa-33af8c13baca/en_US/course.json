@@ -1,0 +1,18 @@
+{
+  "moduleId": "8ba7337a-1f7a-4eb9-96aa-33af8c13baca",
+  "assetId": "asset-4509d668de2899b6",
+  "title": "Wrong item sent product compliance",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "96c3643b11a68f97f0802a07c6d628da204d3b125d556c8f1f11463f4f1c10ce",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 227.133333,
+  "transcriptSha256": "6108f29d6d45ad09b8c893720c1f7eb21cac19237b8e7613873169b6c9d881e5"
+}

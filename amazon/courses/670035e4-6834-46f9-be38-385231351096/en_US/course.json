@@ -1,0 +1,18 @@
+{
+  "moduleId": "670035e4-6834-46f9-be38-385231351096",
+  "assetId": "asset-1520ccb8d4cdbcd7",
+  "title": "Dangerous Goods Awareness",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "ccfc6abab91735ac2e6fd7cbf930d34214eebe86648bdd81e4dde429baf40b80",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 261.166667,
+  "transcriptSha256": "61d046bbfbd69d42434bb93153af7019ad0d3c7e42f1d51d636b6b6fa75223df"
+}

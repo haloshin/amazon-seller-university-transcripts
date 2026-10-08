@@ -1,0 +1,18 @@
+{
+  "moduleId": "8628d447-78f5-4fa2-b438-b240dc816a64",
+  "assetId": "asset-002249b6063f3f29",
+  "title": "Brand Analytics: Demographics report",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 1,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "7a26b4545b561d598456446ca2bf1a92840b1793fcb550799ef8c6baae8dd2ac",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 414.528,
+  "transcriptSha256": "bb8baaf060c36c1cd97814b1f38f8fd04cca7eed2c3065ce8c088fdd1161c1d5"
+}

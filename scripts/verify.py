@@ -17,6 +17,7 @@ from build_navigation import TOPICS, generated_pages, topic_link
 from translations import validate_translations
 
 ROOT = Path(__file__).resolve().parents[1]
+CONTENT = ROOT / "amazon"
 COURSE_FILES = {
     "transcript.md", "transcript.txt", "captions.vtt", "course.json",
 }
@@ -127,8 +128,8 @@ def validate_links_and_privacy(paths):
 
 
 def verify(refresh=False):
-    catalog = read_json(ROOT / "catalog.json")
-    release = read_json(ROOT / "release.json")
+    catalog = read_json(CONTENT / "catalog.json")
+    release = read_json(CONTENT / "release.json")
     require(len({c["moduleId"] for c in catalog}) == len(catalog) == release["courseCount"],
             "Course count or duplicate module mismatch")
     seen_assets, expected_paths, locales = set(), set(), Counter()
@@ -142,13 +143,13 @@ def verify(refresh=False):
             seen_locales.add(locale)
             seen_assets.add(asset)
             locales[locale] += 1
-            directory = ROOT / "courses" / course["moduleId"] / locale
+            directory = CONTENT / "courses" / course["moduleId"] / locale
             for name in COURSE_FILES:
                 path = directory / name
-                require(path.is_file(), f"Missing course file: {path.relative_to(ROOT)}")
+                require(path.is_file(), f"Missing course file: {path.relative_to(CONTENT)}")
                 expected_paths.add(path)
             for key, name in [("transcript", "transcript.md"), ("subtitles", "captions.vtt")]:
-                require(variant[key] == (directory / name).relative_to(ROOT).as_posix(), "Catalog path mismatch")
+                require(variant[key] == (directory / name).relative_to(CONTENT).as_posix(), "Catalog path mismatch")
             metadata_path = directory / "course.json"
             metadata = read_json(metadata_path)
             for key, value in [("moduleId", course["moduleId"]), ("title", course["title"]), ("locale", locale), ("assetId", asset)]:
@@ -156,7 +157,7 @@ def verify(refresh=False):
             if metadata["editorialNoteCount"]:
                 note_path = directory / "校注.md"
                 require(note_path.is_file(), f"Missing reading notes: {asset}")
-                require(variant.get("notes") == note_path.relative_to(ROOT).as_posix(), f"Notes path mismatch: {asset}")
+                require(variant.get("notes") == note_path.relative_to(CONTENT).as_posix(), f"Notes path mismatch: {asset}")
                 expected_paths.add(note_path)
             else:
                 require(not variant.get("notes"), f"Unexpected notes link: {asset}")
@@ -175,7 +176,7 @@ def verify(refresh=False):
             pending_metadata.append((metadata_path, metadata))
             note_assets += metadata["editorialNoteCount"] > 0
             unresolved_assets += metadata["unresolvedCount"] > 0
-    actual_paths = {p for p in (ROOT / "courses").rglob("*") if p.is_file()}
+    actual_paths = {p for p in (CONTENT / "courses").rglob("*") if p.is_file()}
     require(actual_paths == expected_paths, "Unregistered course files")
     require(len(seen_assets) == release["transcriptCount"], "Transcript count mismatch")
     require(dict(locales) == release["locales"], "Language counts mismatch")
@@ -183,13 +184,13 @@ def verify(refresh=False):
     require(unresolved_assets == release["unresolvedAssets"], "Unresolved asset count mismatch")
     translations = validate_translations(catalog, release)
     for name, content in generated_pages(catalog).items():
-        require((ROOT / name).is_file() and (ROOT / name).read_text(encoding="utf-8") == content,
+        require((CONTENT / name).is_file() and (CONTENT / name).read_text(encoding="utf-8") == content,
                 f"Navigation mismatch: {name}; run scripts/build_navigation.py after reviewed edits")
     counts = Counter(c["navigationTopic"] for c in catalog)
     for english, name in [(False, "README.md"), (True, "README.en.md")]:
-        readme = unquote((ROOT / name).read_text(encoding="utf-8"))
+        readme = unquote((CONTENT / name).read_text(encoding="utf-8"))
         for topic, titles in TOPICS.items():
-            entry = f"[{titles[int(english)]} · {counts[topic]}](https://haloshin.github.io/amazon-seller-university-transcripts/#topic={topic}&ui={'en' if english else 'zh'})"
+            entry = f"[{titles[int(english)]} · {counts[topic]}](https://haloshin.github.io/seller-university/#topic={topic}&ui={'en' if english else 'zh'})"
             require(entry in readme, f"README topic link/count mismatch: {name}/{topic}")
     paths = public_files()
     validate_links_and_privacy(paths)

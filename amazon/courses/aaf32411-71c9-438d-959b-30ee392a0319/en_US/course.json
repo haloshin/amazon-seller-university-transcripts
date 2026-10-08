@@ -1,0 +1,18 @@
+{
+  "moduleId": "aaf32411-71c9-438d-959b-30ee392a0319",
+  "assetId": "asset-a0a277d521df2a8b",
+  "title": "Create ad ready videos with Video Generator",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "d98da42455821d2c5d21ceea09f4bad2b72350bce4de02172e64ced555271a70",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 128.996,
+  "transcriptSha256": "b8cf8e4b198b5d333e7522c3ac751bbc34855ae6626008cc4efea6627a27532b"
+}

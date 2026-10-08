@@ -1,0 +1,18 @@
+{
+  "moduleId": "1e699b06-7a02-49f7-a155-4642280a63d0",
+  "assetId": "asset-1e3ed948f6035ec4",
+  "title": "Comply with Amazon’s Multiple Account policy",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "4a63cce09d0388395205b952dbbf85ca2fac16e3cd7eb0fb698f3fb792489271",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 230.05,
+  "transcriptSha256": "854734d1974a7f6e3468241cc4820f3c64beb519f2b5e9949712c8ef8b9ae217"
+}

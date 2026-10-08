@@ -1,0 +1,18 @@
+{
+  "moduleId": "a86b10f5-f1cf-46af-a3c8-79fbd11f1c39",
+  "assetId": "asset-d4e106f6e4192d8a",
+  "title": "Picture requirements for when you apply to sell",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "ec76f5e3fe441e7e8019d152d56266b98d1aad9d0d52d18172df23cf4af631f0",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 111.36,
+  "transcriptSha256": "f3edd3a4612dcf1989b25aa3bfb225ead15e1eb519b2b24b34a69425273d19bc"
+}

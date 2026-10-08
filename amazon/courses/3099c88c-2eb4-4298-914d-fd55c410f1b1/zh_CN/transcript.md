@@ -1,0 +1,42 @@
+[首页](../../../README.md) · [本主题课程](../../../学习导航.md#%E7%89%A9%E6%B5%81%E4%B8%8E%E9%85%8D%E9%80%81) · [全部课程](../../../课程目录.md) · [English](../en_US/transcript.md)
+
+> [SHIN](https://github.com/haloshin) 整理校准 · [原仓库与更新](https://github.com/haloshin/seller-university) · [署名与使用说明](../../../../NOTICE.md)
+> 课程来源：Amazon Seller University。分享请保留来源与整理署名，勿冒充原创或官方发布。
+
+中文导航名：发送首个 FBA 货件
+
+# Send your first FBA shipment
+
+欢迎参加亚马逊的配送您的第一个亚马逊物流货件培训。我们将帮助您开始使用亚马逊物流,并学习如何配送您的第一个亚马逊物流货件。亚马逊物流 FBA是发展业务和吸引更多买家的好方法。通过亚马逊物流,亚马逊可以储存您的库存,配送您的订单,并处理退货和买家服务。
+您的亚马逊物流商品还有资格享受免费配送和亚马逊Prime隔日达服务。要注册亚马逊物流,请登录卖家平台。将鼠标悬停在“设置”（Settings）图标上,然后选择账户信息Account Info。在这里,找到您的服务Your Services,然后点击管理Manage。在您可以注册You can sign up for 下。
+选择亚马逊物流,Fulfillment by Amazon,然后点击注册Register。接下来,您需要注册亚马逊物流新选品计划。亚马逊物流新选品计划的优势包括:免费月度仓储、移除、
+以及所有符合条件的新加入亚马逊物流的父 ASIN的退货处理。新加入亚马逊物流的卖家,还可获得高达200美元的推广广告奖励。
+以及100美元的亚马逊合作承运人配送优惠。要注册并了解更多信息,请在卖家平台中搜索亚马逊物流新选品:FBA New Selection。
+现在可以将您的现有商品信息转换为亚马逊物流了。
+要开始使用,请在卖家平台中打开主菜单,将光标悬停在库存Inventory上。
+然后点开亚马逊物流库存FBA Inventory。
+前往顶部菜单,将鼠标悬停在货件Shipments上,然后点击发货到亚马逊Send to Amazon。
+现在,您可以在"发货到亚马逊Send to Amazon"页面上访问这些商品信息。
+在"发货到亚马逊Send to Amazon"页面上按照工作流程中的步骤进行操作。
+"发货到亚马逊工作流程"分为以下步骤。
+步骤1:选择要发送的库存。
+步骤1B:包装单个商品。
+步骤2:确认配送。
+步骤3:打印箱子标签。
+步骤4:确认承运人和托盘信息。
+步骤5:打印托盘标签。
+有关此工作流程的更多信息。
+请在卖家平台中搜索"使用发货到亚马逊创建货件。
+"Create Shipments with Send to Amazon"。
+在您的货件运往运营中心后,
+您可以在《货件处理进度》"Shipping Queue"页面"跟踪货件进度。
+方法是点击货件"Shipments"下的"管理货件"Manage Shipments"。
+以上就是配送您的第一个亚马逊物流货件培训的全部内容。
+现在,您已拥有拓展业务并开始使用亚马逊物流的工具。
+感谢观看,祝您销售愉快。
+
+---
+
+[TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
+
+[同主题上一篇：Send to Amazon：创建整箱包装模板](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/zh_CN/transcript.md) · [同主题下一篇：为指定 ASIN 设置备货时间](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/zh_CN/transcript.md)

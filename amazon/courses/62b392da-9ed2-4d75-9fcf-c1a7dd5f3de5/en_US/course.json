@@ -1,0 +1,18 @@
+{
+  "moduleId": "62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5",
+  "assetId": "asset-3d1d3442469b7047",
+  "title": "Enroll your brand in Amazon Brand Registry",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "d893e10b71cc675b97db70d53865b038cb26de7bddc3bf6b548c4e8a598a051d",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 670.683333,
+  "transcriptSha256": "76b29fecf9dfcd352106d30ef4b1c7c0551caecc58e5785ffd928933d71c3517"
+}

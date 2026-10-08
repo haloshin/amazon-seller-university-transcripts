@@ -1,0 +1,18 @@
+{
+  "moduleId": "9db093ea-ff03-4325-ae88-01b4da66993a",
+  "assetId": "asset-936c1e69cec8382b",
+  "title": "Dangerous goods overview",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "2e93cfc77972e37b9010b018270dcaed3b2f4d8fda5e927f7c04ab8c000227d5",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 410.901,
+  "transcriptSha256": "e259c06af6d7da977c770c4b4bde0f44413b7c0d8220109a3a4eac847b1e1cd4"
+}

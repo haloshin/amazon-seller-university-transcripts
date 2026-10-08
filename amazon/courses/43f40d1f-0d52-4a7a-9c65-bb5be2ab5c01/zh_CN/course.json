@@ -1,0 +1,18 @@
+{
+  "moduleId": "43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01",
+  "assetId": "asset-e3f792aa2f5ae8d4",
+  "title": "Intro to Fulfillment by Merchant (FBM)",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "9f17138a6a7d33ebf6d97a47895b8c2d60d72cb0d6f1ea3a67262daea8f8d464",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 281.813,
+  "transcriptSha256": "29d4da325eea69d90579dfd4eeb039f40713a89473116db565084730ee265816"
+}

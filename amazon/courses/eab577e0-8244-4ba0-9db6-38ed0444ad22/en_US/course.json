@@ -1,0 +1,18 @@
+{
+  "moduleId": "eab577e0-8244-4ba0-9db6-38ed0444ad22",
+  "assetId": "asset-5d89760209aaa325",
+  "title": "Intro to A+ Content",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "15f8a75ab19c3553343216e7789ba810e159839a5885b8fe155a36ef096353de",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 221.05,
+  "transcriptSha256": "9960126bf62582d52bd5655d1994157b2bf2efc0a096986fae1a247f060abb72"
+}

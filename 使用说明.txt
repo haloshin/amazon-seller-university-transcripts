@@ -1,8 +1,9 @@
-亚马逊卖家大学课程转写稿 · SHIN 整理维护
-Amazon Seller University Transcripts · Compiled and maintained by SHIN
+Seller University 多平台卖家学习库 · SHIN 整理维护
+当前已上线：Amazon 专区
+Seller University · Compiled and maintained by SHIN
 
 原仓库 / Original repository and updates:
-https://github.com/haloshin/amazon-seller-university-transcripts
+https://github.com/haloshin/seller-university
 
 课程来源 / Course source:
 Amazon Seller University
@@ -28,17 +29,17 @@ GitHub's viewing/forking permissions. Scripts remain under MIT.
 See LICENSE and NOTICE.md for the full scope.
 
 使用资料：
-1. 在线阅读：https://haloshin.github.io/amazon-seller-university-transcripts/
+1. 在线阅读：https://haloshin.github.io/seller-university/
 2. 下载完整 ZIP 并解压，双击根目录 index.html，用浏览器离线选课、搜索和阅读。
    请保留完整文件夹；正文、目录和搜索不需要联网，外部链接需联网。
-   也可用 Markdown 阅读器打开学习导航和课程页。
+   也可用 Markdown 阅读器打开 amazon/学习导航.md 和对应课程页。
 3. transcript.txt 保留课程全文，可用文本编辑器阅读或检索。
 4. captions.vtt 保留配套字幕，需支持外部字幕的播放器配合原视频使用。
 5. 原视频请到 Amazon 官方学习入口观看；本包不含视频。
 
 中文阅读：270 门课程全部可中文阅读；185 门来自中文音轨，另 85 门提供中文译文。
 中文译文依据英文稿，经 AI 辅助翻译与校对，参照已有中文音轨统一术语，非官方中文音轨。
-translations/ 下的 translation.md 和 translation.txt 可单独阅读，译文纳入 HTML 搜索及离线包。
+amazon/translations/ 下的 translation.md 和 translation.txt 可单独阅读，译文纳入 HTML 搜索及离线包。
 译文不附中文 VTT；原英文稿和对应 VTT 保留。旧政策、费用和案例按原课表述保留。
 
 后续预告：卖家大学 Skill、课程题库目前均为规划方向，尚未发布。

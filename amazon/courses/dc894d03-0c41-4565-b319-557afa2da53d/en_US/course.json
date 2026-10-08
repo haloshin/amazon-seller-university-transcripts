@@ -1,0 +1,18 @@
+{
+  "moduleId": "dc894d03-0c41-4565-b319-557afa2da53d",
+  "assetId": "asset-33cb690976bf9349",
+  "title": "Create a new product in Amazon's catalog, one at a time",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "84d783feb79e4e7fd43055135f5269f0f6d3ccde16f536345f3034fc714c5f7e",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 703.45,
+  "transcriptSha256": "4826a3f8a9cf1c90a7e5869cfe692ff66791c848b0bd94e114dd6ae51e0fe122"
+}

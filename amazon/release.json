@@ -1,0 +1,19 @@
+{
+  "version": "0.8.0",
+  "archiveDate": "2026-07-27",
+  "editionDate": "2026-10-08",
+  "courseCount": 270,
+  "transcriptCount": 455,
+  "locales": {
+    "en_US": 270,
+    "zh_CN": 185
+  },
+  "unresolvedAssets": 2,
+  "editorialNotesAssets": 19,
+  "translationCount": 85,
+  "translationLocales": {
+    "zh_CN": 85
+  },
+  "chineseReadableCourses": 270,
+  "platform": "amazon"
+}

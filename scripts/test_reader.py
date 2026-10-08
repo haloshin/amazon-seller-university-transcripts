@@ -11,6 +11,7 @@ import translations
 from reading_paragraphs import reading_paragraphs
 
 ROOT = Path(__file__).resolve().parents[1]
+CONTENT = ROOT / "amazon"
 
 
 class ReaderHTML(HTMLParser):
@@ -43,7 +44,7 @@ class ReaderHTML(HTMLParser):
 class ReaderTests(unittest.TestCase):
     def test_all_courses_are_readable_in_chinese_without_fabricated_audio(self):
         data = build_reader.reader_data()
-        catalog = {c['moduleId']: c for c in json.loads((ROOT / 'catalog.json').read_text())}
+        catalog = {c['moduleId']: c for c in json.loads((CONTENT / 'catalog.json').read_text())}
         translated = 0
         for course in data['courses']:
             chinese = [v for v in course['variants'] if v['locale'].startswith('zh_CN')]
@@ -63,9 +64,9 @@ class ReaderTests(unittest.TestCase):
         self.assertEqual(translated, 85)
 
     def test_translation_rejects_stale_source_and_missing_paragraph(self):
-        course = next(c for c in json.loads((ROOT / 'catalog.json').read_text()) if c.get('translations'))
+        course = next(c for c in json.loads((CONTENT / 'catalog.json').read_text()) if c.get('translations'))
         entry = course['translations'][0]
-        original = json.loads((ROOT / entry['metadata']).read_text())
+        original = json.loads((CONTENT / entry['metadata']).read_text())
         for changed in ({**original, 'sourceSha256': '0' * 64},
                         {**original, 'paragraphs': original['paragraphs'][:-1]},
                         {**original, 'kind': 'transcript'}):
@@ -77,7 +78,7 @@ class ReaderTests(unittest.TestCase):
         page = ReaderHTML()
         page.feed((ROOT / 'index.html').read_text())
         data = json.loads(page.data)
-        catalog = json.loads((ROOT / 'catalog.json').read_text())
+        catalog = json.loads((CONTENT / 'catalog.json').read_text())
         expected = {(c['moduleId'], v['locale']): (c,v) for c in catalog for v in c['variants']}
         actual = {(c['moduleId'], v['locale']): (c,v) for c in data['courses'] for v in c['variants'] if v['kind'] == 'transcript'}
         self.assertEqual(set(expected), set(actual))
@@ -88,20 +89,20 @@ class ReaderTests(unittest.TestCase):
             with self.subTest(course=key):
                 self.assertEqual(course['title'], ec['title'])
                 self.assertEqual(course['navigationTitleZh'], ec['navigationTitleZh'])
-                directory = (ROOT / ev['transcript']).parent
+                directory = (CONTENT / ev['transcript']).parent
                 self.assertEqual(variant['text'], (directory / 'transcript.txt').read_text())
                 source = variant['text']
                 if source.startswith('# ' + course['title'] + '\n'):
                     source = source.split('\n', 1)[1]
                 normalize = (lambda s: re.sub(r'\s+', '', s)) if variant['locale'] == 'zh_CN' else (lambda s: re.sub(r'\s+', ' ', s).strip())
                 self.assertEqual(normalize(' '.join(variant['paragraphs'])), normalize(source))
-                self.assertEqual(variant['notes'], (ROOT / ev['notes']).read_text() if ev.get('notes') else '')
+                self.assertEqual(variant['notes'], (CONTENT / ev['notes']).read_text() if ev.get('notes') else '')
                 self.assertEqual(variant['path'], directory.relative_to(ROOT).as_posix())
                 for name in ('transcript.txt','transcript.md','captions.vtt'):
                     self.assertTrue((ROOT / variant['path'] / name).is_file())
         self.assertEqual(data['notice'], (ROOT / 'NOTICE.md').read_text())
         self.assertEqual(data['license'], (ROOT / 'LICENSE').read_text())
-        self.assertEqual(data['release'], json.loads((ROOT / 'release.json').read_text()))
+        self.assertEqual(data['release'], json.loads((CONTENT / 'release.json').read_text()))
         self.assertEqual(page.scripts, 2)
 
     def test_no_network_dependency_for_reader_startup(self):
@@ -127,7 +128,7 @@ class ReaderTests(unittest.TestCase):
 
     def test_fba_benefits_keep_topic_boundaries_with_shorter_paragraphs(self):
         course = 'cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167'
-        source = (ROOT / 'courses' / course / 'zh_CN/transcript.txt').read_text()
+        source = (CONTENT / 'courses' / course / 'zh_CN/transcript.txt').read_text()
         paragraphs = reading_paragraphs(course, 'zh_CN', source, 'FBA benefits and costs')
         self.assertEqual(len(paragraphs), 6)
         self.assertTrue(paragraphs[1].endswith('从而最大限度地提高商品在亚马逊商城的曝光度和销量。'))
@@ -137,7 +138,7 @@ class ReaderTests(unittest.TestCase):
 
     def test_dashboard_access_and_functions_have_separate_short_paragraphs(self):
         course = '1b57f3d1-0016-4f40-a7d3-6aa44d962482'
-        source = (ROOT / 'courses' / course / 'zh_CN/transcript.txt').read_text()
+        source = (CONTENT / 'courses' / course / 'zh_CN/transcript.txt').read_text()
         paragraphs = reading_paragraphs(course, 'zh_CN', source, 'FBA dashboard overview')
         self.assertEqual(len(paragraphs), 17)
         self.assertNotIn('要找到亚马逊物流控制面板', paragraphs[0])
@@ -174,7 +175,7 @@ class ReaderTests(unittest.TestCase):
 
     def test_english_caption_wraps_are_not_used_as_sentence_boundaries(self):
         course = '472d8e74-3402-4871-88d2-0ebaeb3263eb'
-        source = (ROOT / 'courses' / course / 'en_US/transcript.txt').read_text()
+        source = (CONTENT / 'courses' / course / 'en_US/transcript.txt').read_text()
         paragraphs = reading_paragraphs(course, 'en_US', source, 'Intro to Fulfillment by Amazon (FBA)')
         self.assertGreater(len(paragraphs), 1)
         for paragraph in paragraphs:

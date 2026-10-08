@@ -1,0 +1,41 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#compliance-and-account-health) · [All courses](../../../课程目录.md) · [中文译文](../../../translations/a3d3e133-028a-408c-b85a-84031b302681/zh_CN/translation.md)
+
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/seller-university) · [Attribution and use](../../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
+# Intro to the Amazon Generic Product Policy
+
+Welcome to this Seller University module on the Amazon Generic Product Policy. In this video, we'll help you understand the benefits of the policy. Learn how to create generic ASINs and resolve common error codes. The Amazon Generic Product Policy allows customers to easily differentiate between generic and branded products. Generic products are unbranded items that don't belong to an identifiable brand. An unbranded product does not have a distinctive name,
+ or logo. You can find the Amazon Generic Product Policy on the Seller Central Policy and Help page.
+ If you want to learn more about listing products, watch our video Intro to Listing Products in Seller University.
+ Amazon Generic Product Policy helps customers differentiate amongst similar looking generic
+ products. By creating a new product with the brand name Generic or its local translation,
+ you can ensure that other sellers won't be able to make changes to the product detail page
+ or add offers. This helps maintain consistency and clarity for sellers and Amazon customers.
+ To create an ASIN for a generic product without a universal product code,
+ UPC, global trade item number, GTIN, or other product identifier, you'll need to submit
+ a GTIN exemption to get approval from Amazon. In the Add Product tool, go to Catalog and click Add
+ Products. Then select Blank Form. In the Item Name section, fill in your product name and select
+ the category and product type. In the Brand Name field, select the "This product does not have a
+ brand name" checkbox. Next, select the "I don't have a product ID" checkbox. If an exemption is
+ required for your generic product, the button "Apply to Sell" will appear. If an exemption is not
+ required, you will be able to continue on in the process. Click "Apply to Sell" and complete the
+ application form. Once you have finished, click Submit. You'll receive communication within 48
+ hours regarding the approval status of your request. When you receive your GTIN exemption,
+ be sure to wait at least 30 minutes before adding your product with the standard Add Product workflow
+ to allow our system time to identify your exemption. One of the benefits of our generic product policy
+ is that it prevents unauthorized offers and changes to the product detail page to protect you and
+ other sellers. If you try to change a product detail page or add offers on another seller's
+ generic product, you'll receive a listing error. To see solutions for error codes 5882, 5885,
+ 5886 or 5887, you can review our generic product policy videos for the specific error code you
+ have encountered. You can find more information on error messages related to the generic product
+ policy and the steps to resolve them in the generic product policy help page. Remember,
+ the Amazon generic product policy is designed to help customers easily identify and compare
+ generic products. By following the guidelines, you can create a better shopping experience for
+ Amazon customers. Thank you and happy selling in the Amazon Store.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Intro to product restrictions, categories, and conditions](../../../courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/transcript.md) · [Next in topic：Lithium batteries overview](../../../courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/transcript.md)

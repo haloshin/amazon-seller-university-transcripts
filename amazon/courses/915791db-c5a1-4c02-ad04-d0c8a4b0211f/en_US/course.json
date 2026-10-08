@@ -1,0 +1,18 @@
+{
+  "moduleId": "915791db-c5a1-4c02-ad04-d0c8a4b0211f",
+  "assetId": "asset-dfb22aac6ec9637f",
+  "title": "Shipping to Canada",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "55430d4212fdeb51dc98beb2e4fc22b98949f7d383a435a0525cd49f4ba6d1b9",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 347.754667,
+  "transcriptSha256": "2f0c73f9189bd66fbabd1617cffbc21f0abc85dc7146ee1eb1f9e7422fa5750e"
+}

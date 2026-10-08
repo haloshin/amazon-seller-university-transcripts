@@ -5,7 +5,7 @@ import re
 from pathlib import Path
 from reading_paragraphs import reading_paragraphs
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parents[1] / "amazon"
 
 
 def load_translation(course, entry):
@@ -39,7 +39,7 @@ def render_translation(course, entry, data):
              '> 中文译文 · 依据英文转写稿，经 AI 辅助翻译与校对；非官方中文音轨转写。',
              '> 参照本库中文音轨稿统一术语，保留原课的步骤、案例和历史语境。', '',
              '课程来源：Amazon Seller University · SHIN 整理维护。',
-             f'分享请保留来源、署名和[原仓库链接](https://github.com/haloshin/amazon-seller-university-transcripts)。[使用条件]({prefix}NOTICE.md)', '',
+             f'分享请保留来源、署名和[原仓库链接](https://github.com/haloshin/seller-university)。[使用条件]({prefix}../NOTICE.md)', '',
              *[p + '\n' for p in data['paragraphs']], '---', '',
              '[下载中文 TXT](translation.txt) · ' + f'[对照英文原文]({prefix}{english["transcript"]})', '']
     if english.get('notes'):

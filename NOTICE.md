@@ -1,6 +1,8 @@
 # 来源与权利说明 / Attribution and rights
 
-课程内容来源于 Amazon Seller University。Amazon、Seller University、Seller Central、FBA 及其他相关名称可能属于相应权利人的商标。名称仅用于准确标识课程来源与学习主题。
+Seller University 是 SHIN 整理维护的多平台卖家学习库，目前仅上线 Amazon 板块。
+
+当前课程内容来源于 Amazon Seller University。Amazon、Seller University、Seller Central、FBA 及其他相关名称可能属于相应权利人的商标。名称仅用于准确标识课程来源与学习主题。
 
 本项目由 SHIN 独立整理与维护，未声称得到 Amazon 的认证、授权发布或背书。转写稿、字幕及保留的课程表达不因进入 GitHub 而获得新的开放许可。
 
@@ -8,13 +10,13 @@
 
 **分享请保留课程来源、SHIN 整理署名和原仓库链接；请勿冒充原创或 Amazon 官方发布。** 推荐分享原仓库链接，便于读者获取后续更新。
 
-- 原仓库与更新入口：[haloshin/amazon-seller-university-transcripts](https://github.com/haloshin/amazon-seller-university-transcripts)
+- 原仓库与更新入口：[haloshin/seller-university](https://github.com/haloshin/seller-university)
 - 整理维护：[SHIN](https://github.com/haloshin)
 - 原课程来源：[Amazon Seller University](https://sell.amazon.com/learn/seller-university)
 
 可复制的来源说明：
 
-> 课程来源：Amazon Seller University。资料整理与校准：SHIN。项目地址：https://github.com/haloshin/amazon-seller-university-transcripts 。本项目非 Amazon 官方发布。
+> 课程来源：Amazon Seller University。资料整理与校准：SHIN。项目地址：https://github.com/haloshin/seller-university 。本项目非 Amazon 官方发布。
 
 ## 权利范围与使用条件
 
@@ -24,7 +26,7 @@
 | 原创导读、说明、具有独创性的选择或编排、配图 | 仅在相关内容依法受著作权保护且权利由 SHIN 享有的范围内，适用下述有限许可；不据此主张事实、一般思路或不受保护内容的权利 |
 | 自编 `scripts/` 程序代码（含 HTML 阅读器模板、JavaScript、CSS 及 `index.html` 中对应程序代码） | 继续适用 [MIT](LICENSES/MIT.txt)，包括该许可允许的复制、修改、分发和商用 |
 
-对上述 **SHIN 享有著作权的原创编辑内容**，允许非商业的个人阅读、学习和保存，须保留署名、原仓库链接与适用的权利说明；修改时标明自己的改动，不得把 SHIN 的贡献冒称为自己的创作或暗示 Amazon 官方背书。超出该许可的公开再分发（包括重新打包为独立资料集）、商业使用，须另行取得许可。可通过[仓库 Issues](https://github.com/haloshin/amazon-seller-university-transcripts/issues)提出具体用途与许可请求，不要提交个人敏感信息。
+对上述 **SHIN 享有著作权的原创编辑内容**，允许非商业的个人阅读、学习和保存，须保留署名、原仓库链接与适用的权利说明；修改时标明自己的改动，不得把 SHIN 的贡献冒称为自己的创作或暗示 Amazon 官方背书。超出该许可的公开再分发（包括重新打包为独立资料集）、商业使用，须另行取得许可。可通过[仓库 Issues](https://github.com/haloshin/seller-university/issues)提出具体用途与许可请求，不要提交个人敏感信息。
 
 这些条件不限制法律允许的使用、既有许可已授予的权利，或 GitHub 平台条款授予的查看、正常 Fork 等权限；不为第三方课程内容增加使用授权。版权是否成立及其归属以适用法律和具体创作事实为准，署名或本声明本身不创造版权。完整许可范围见 [LICENSE](LICENSE)。
 
@@ -40,6 +42,6 @@ Amazon course content and third-party material are not relicensed here. Only ori
 
 本仓库的 MIT 许可只涵盖自行编写的校验脚本，不涵盖 `courses/`、课程标题与描述、字幕、课程引用，或第三方原始内容。使用或再分发第三方内容前，应另行确认适用的权利与许可。
 
-如权利人对内容的展示有异议，请通过[仓库 Issues](https://github.com/haloshin/amazon-seller-university-transcripts/issues)提供具体路径、权利说明及希望采取的处理方式。不要公开个人敏感信息；需要非公开处理时，可使用 GitHub 的[版权申诉通道](https://support.github.com/contact/dmca-takedown)。
+如权利人对内容的展示有异议，请通过[仓库 Issues](https://github.com/haloshin/seller-university/issues)提供具体路径、权利说明及希望采取的处理方式。不要公开个人敏感信息；需要非公开处理时，可使用 GitHub 的[版权申诉通道](https://support.github.com/contact/dmca-takedown)。
 
 课程表述保留录制时的语境。校注中的对照不构成法律、税务或经营建议，也不能替代当前平台页面与实际账号显示。

@@ -1,0 +1,18 @@
+{
+  "moduleId": "0730bd4b-bde9-4814-aed5-1a8c118ccb10",
+  "assetId": "asset-d51961ea54a42ca7",
+  "title": "Inventory Defect and Reimbursement (IDR portal) overview",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "b24d97752509650ece5cba65b4ee5796a10df9c3ee7db8bd46f517852b6bcda2",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 185.45,
+  "transcriptSha256": "0b81892e8bb1d14c5a828ffa45a25a254c39cf6b33295fd89cd67d7393f91a75"
+}

@@ -1,0 +1,18 @@
+{
+  "moduleId": "f5e3647a-e286-444c-9b13-8c344e3a42bf",
+  "assetId": "asset-38e3a2e2a6742f70",
+  "title": "Information about Li-Batt 38.3",
+  "locale": "zh_CN",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "zh",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "6846086c249f660797a13efda860256e337fe028ae23f4373e57499411914322",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 93.696,
+  "transcriptSha256": "d1d1970b7ba54e63192701a6af8eda77f7a053ba184983531298f9d32e4cbfa5"
+}

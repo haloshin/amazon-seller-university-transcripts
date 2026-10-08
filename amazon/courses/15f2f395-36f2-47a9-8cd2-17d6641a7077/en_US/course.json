@@ -1,0 +1,18 @@
+{
+  "moduleId": "15f2f395-36f2-47a9-8cd2-17d6641a7077",
+  "assetId": "asset-c61f1170f4beab6b",
+  "title": "Set ASIN-specific handling time",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "2c483ed8ae0bbae063a38c5414a32307edca0e1e030b3887bb8b7f72fe4eacab",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 200.85,
+  "transcriptSha256": "02a41db0c517f7861caca5050256d8d76d127f8bbf531c66b92bb9b1b7fb0f12"
+}

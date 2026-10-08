@@ -1,0 +1,73 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#amazon-business-and-business-insights) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/seller-university) · [Attribution and use](../../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
+# Explore Amazon Business features
+
+If you're a professional seller, you
+ can take advantage of Amazon business features
+ to help optimize your reach to business to business B2B
+ customers who purchase in larger quantities
+ or place frequent repeat orders on Amazon.
+ You have access to tools such as business price,
+ quantity discounts, bulk selection options, certifications,
+ and other features that can help you succeed in B2B selling.
+ To access Amazon business features from Seller Central,
+ search for B2B Central.
+ Start by completing your business profile
+ with key information such as your annual revenue,
+ number of employees, data universal numbering system,
+ or DUNS ID, universal entity or UEID,
+ and diversity business identity.
+ Many business and government customers
+ use filters to find certified businesses.
+ So listing this information helps increase
+ your product visibility, especially for those
+ with specific purchasing requirements,
+ such as minority owned or other certified businesses.
+ Your UEID and DUNS ID automatically
+ connect your profile to government issued certifications,
+ making it easier for business customers
+ to find and verify your business.
+ Next, begin developing your business pricing strategy.
+ You can create a business price which
+ is visible only to business customers
+ and set a quantity discount to encourage ordering in bulk.
+ These prices work alongside your standard retail pricing,
+ giving you complete control over your pricing strategy.
+ Then review your product opportunities.
+ We look at what business customers want to buy
+ and combine this with your sales history
+ to suggest products that could work well for your B2B business.
+ B2B Central provides access to analytics
+ that let you track B2B sales performance
+ and gain insights into customer behavior.
+ These analytics can help you make data-driven decisions
+ about pricing, inventory, and product offerings
+ to better meet the needs of business customers.
+ Consider how your products can support bulk purchases.
+ You can create business-only listings or set up case packs
+ which let customers buy multiple units in a single package.
+ Your case pack recommendations share personalized suggestions
+ based on your catalog and customer demand.
+ If you fulfill your orders yourself,
+ it's also important to regularly review your delivery
+ performance in the fulfillment insight dashboard.
+ Your business hour delivery rate, BHDR,
+ measures how often your packages arrive
+ during standard business hours.
+ Consistently delivering during business hours
+ can qualify you for a business hour badge,
+ which helps signal dependability to buyers.
+ You can improve your BHDR by choosing carriers
+ and shipping options that deliver on weekdays
+ and avoiding weekend deliveries.
+ For additional information, read the Amazon Business B2B
+ or Amazon Business FAQ help pages in Seller Central.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Previous in topic：Customer Review Insights overview](../../../courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/transcript.md) · [Next in topic：Explore product recommendations with B2B product opportunities](../../../courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/en_US/transcript.md)

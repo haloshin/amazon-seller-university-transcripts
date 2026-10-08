@@ -1,0 +1,18 @@
+{
+  "moduleId": "f5890fd5-5dbe-48a3-a20d-65e48fbc949f",
+  "assetId": "asset-9750994c3ef58344",
+  "title": "Account Health overview",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "05e6678fdd1a9690f9b612f25d6fabaf34b9ac326df67382e674066314085c8c",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 530.933333,
+  "transcriptSha256": "74aaec8d42d712096790aaea6564ac27ab2a8bbb2c13f5be51173c06b2ad3f00"
+}

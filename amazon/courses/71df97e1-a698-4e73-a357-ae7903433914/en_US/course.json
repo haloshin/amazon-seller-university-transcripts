@@ -1,0 +1,18 @@
+{
+  "moduleId": "71df97e1-a698-4e73-a357-ae7903433914",
+  "assetId": "asset-3433e95b98f0cedd",
+  "title": "Intro to Seller University",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "aaeb7303c9313a762acd26ea54250e39e74e4c25d64a1a3a9e21666db4fbafd8",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 137.466667,
+  "transcriptSha256": "28e502163625a09206d230e567380e45fe6708ed2e225e0f9bc97078185f0f40"
+}

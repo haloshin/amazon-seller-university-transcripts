@@ -1,0 +1,18 @@
+{
+  "moduleId": "4fcf795f-20c7-439b-bed4-ce26fdb5f2f2",
+  "assetId": "asset-4ac9e47f900a641e",
+  "title": "UK2US Partnered Carrier Program",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "8b21a37cc8c40a0ea80ebf7049a8bc69bda432e8de94f3727111d17b00ec0543",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 164.366667,
+  "transcriptSha256": "05713d4034dfa55539eef9ee20a89ecaed469f644a63531c1b7edd7966c1b059"
+}

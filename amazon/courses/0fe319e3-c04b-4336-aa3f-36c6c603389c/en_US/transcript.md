@@ -1,0 +1,85 @@
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#brands-and-customer-experience) · [All courses](../../../课程目录.md) · [中文](../zh_CN/transcript.md)
+
+> Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/seller-university) · [Attribution and use](../../../../NOTICE.md)
+> Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.
+
+# Add A+ Content to your listings
+
+A+ content helps showcase your brand and educate customers using rich media on product
+ detail pages.
+ It can help increase sales, improve product discoverability, help answer common customer
+ questions, and tell your brand story.
+ Be sure to review the A+ content restrictions section of the A+ content guidelines help page
+ to remain in compliance with Amazon policies when creating content.
+ Before creating A+ content, there are a few things to note.
+ First, if you want to add videos to your product's main image block, you'll need to use the
+ Upload and Manage Videos tool in Seller Central instead.
+ Next, A+ content replaces a product's original description, so be sure to carry over all key
+ information.
+ Finally, vendors associated with an enrolled brand can also add A+ content to product
+ detail pages in the From the Manufacturer section, and this may prevent you from submitting
+ A+ content.
+ When you're ready to get started, access the A+ content manager by going to Seller Central.
+ From the main menu, select Advertising, click A+ content manager, then click Start creating
+ A+ content.
+ You can choose from three A+ content types.
+ Basic A+ lets you create enhanced product detail pages with unique images, text layouts,
+ comparison charts, and feature lists.
+ Brand Story appears in the From the Brand section with Carousel display, product links,
+ and brand store links.
+ Premium A+ includes all basic features plus additional features like larger images, interactive
+ hover hotspot modules, and navigation carousels.
+ To access Premium A+ features, you must have published a brand story across all branded
+ ASINs or ASINs that you own within your catalog, and submitted at least five A+ content projects
+ that have been approved and published within the past 12 months.
+ To create your content, first name your project and select your language, next, add modules.
+ While you can create content manually, Amazon now offers Generative AI tools to help create
+ text and images for A+ content more easily and quickly by entering your brand-owned ASIN.
+ This free feature will use information from your product listing and create relevant marketing
+ copy and visuals.
+ Generative AI tools are available to all brand owners with access to the A+ content manager
+ for Select Basic and Premium A+ modules marked with an AI-ready badge.
+ To access AI features, click Select Content to generate.
+ Select the elements you want AI to generate content for, then click Generate Content.
+ Enter your ASIN and specific product features you'd like to highlight.
+ Remember to review all AI-generated content carefully to ensure it aligns with your brand
+ voice and Amazon's content guidelines.
+ Finally, click Generate Content.
+ Repeat adding modules until you've populated the tool with each module type you'd like
+ to include and fill text, images and video.
+ We recommend including at least three modules.
+ Make sure to use Correct Grammar, avoid using all caps and unnecessary italics.
+ Make sure you provide support for any recent awards or endorsements that you mention and
+ don't include claims like top-rated or best-selling.
+ Text placements and embedded text can't include warranty or guarantee information, pricing,
+ promotional or shipping details, hyperlinks, QR codes or directions to other web pages,
+ or contact information.
+ For images, click any empty placement, then upload or select from your library.
+ Enter descriptive alt text for customers who are visually impaired and ensure you use high-resolution,
+ non-animated images.
+ If adding videos for Premium A+ content, upload your MP4 file, then add a thumbnail, title
+ and description.
+ Don't forget to preview your work as you go in both desktop and mobile views.
+ Take your time and save drafts as needed.
+ After you've finished, review against the A+ content guidelines before submitting.
+ You won't be able to edit your content while it's under review by Amazon, so take the time
+ to review thoroughly to avoid a failed submission.
+ After you've created content, you can apply it to all of your ASINs.
+ Start by searching for ASINs in the search bar, separating each ASIN with a comma.
+ Select your products and variations, then click Apply Content.
+ To select more than 1,000 ASINs, use the bulk upload feature.
+ Once your content is complete, click Next, Review and Submit.
+ After submission, expect a 7-business-day review period.
+ Approved content appears within 24 hours.
+ If rejected, check the reasons, make necessary edits and resubmit.
+ In the A+ content manager, you can edit ASIN assignments, duplicate content as templates,
+ and create language variations as needed.
+ With these powerful tools at your disposal, you're ready to create compelling content
+ that helps customers discover your brand.
+ Access the A+ content manager in Seller Central and get started creating A+ content.
+
+---
+
+[Plain text](transcript.txt) · [Captions](captions.vtt)
+
+[Next in topic：Benefits of enrolling in Amazon Brand Registry](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/transcript.md)

@@ -1,0 +1,18 @@
+{
+  "moduleId": "756748fd-1204-45b1-91bf-a498cf9f9bd2",
+  "assetId": "asset-644b610325870171",
+  "title": "Meet Amazon's compliance requirements using the Compliance Knowledge Portal",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "20ab865d555b4100cccd6b3e28d75783cc7f6ee082b3494f58651726d3b65ac2",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 165.416667,
+  "transcriptSha256": "a7af70d50c0ad67caa8e63b1a3eb59f9e039b99a62da1bf6588f3fa92519462b"
+}

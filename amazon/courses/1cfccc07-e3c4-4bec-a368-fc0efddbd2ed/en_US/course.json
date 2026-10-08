@@ -1,0 +1,18 @@
+{
+  "moduleId": "1cfccc07-e3c4-4bec-a368-fc0efddbd2ed",
+  "assetId": "asset-5fbcb4bed8d9c905",
+  "title": "Complete your self-service tax interview",
+  "locale": "en_US",
+  "transcriptType": "original_language_transcript",
+  "originAudioLanguage": "en",
+  "unresolvedCount": 0,
+  "editorialNoteCount": 0,
+  "subtitlesStatus": "machine_sentence_alignment",
+  "captionSha256": "0c4fcb80b2263637d4aae752c8791216093ca5a5bb088a75c6d31fe4be59bff1",
+  "sourceSnapshotDate": "2026-07-27",
+  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
+  "officialEntryType": "general_portal_not_course_deeplink",
+  "releaseVersion": "0.8.0",
+  "sourceVideoDurationSeconds": 81.483333,
+  "transcriptSha256": "e19e874f42df85272f0928af217c21da98fdf47caac48265bca12eee3252c44c"
+}
