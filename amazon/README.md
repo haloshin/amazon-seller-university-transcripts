@@ -186,7 +186,7 @@ git clone https://github.com/haloshin/seller-university.git
 
 <br>
 
-- **看原视频** — 在课程页点击“观看本课原视频”；260 门已匹配官方归档版本，7 门补充官方 YouTube 英文入口，3 门暂未确认有效视频入口。详见[来源说明](docs/SOURCES.md)。
+- **看原视频** — 在课程页点击“观看本课原视频”；260 门已匹配官方归档版本，7 门补充官方 YouTube 英文入口，其余 3 门补充官方相关英文视频，并明确标注版本待核验。详见[来源说明](docs/SOURCES.md)。
 - **反馈错字或漏句** — [提交纠错](https://github.com/haloshin/seller-university/issues/new?template=correction.yml)，请附课程名、语言、时间位置和依据。
 
 <sub>资料范围：2026-07-27 归档课程。“中文音轨”为原中文讲解转写；“中文译文”为英文稿的 AI 辅助翻译与校对，非官方中文音轨。少量课程附有简短阅读说明。费用、政策和界面请核对当前官方页面。<a href="docs/SOURCES.md">来源说明</a> · <a href="../CONTRIBUTING.md">贡献说明</a></sub>

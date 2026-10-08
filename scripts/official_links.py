@@ -17,4 +17,7 @@ def markdown_link(root, module, locale, fallback, english=False):
     result=f"[{label}]({link['url']}) · {note}"
     if link.get('alternative'):
         result+=f" [官方英文版（不同音轨）]({link['alternative']['url']})"
+    if link.get('reference'):
+        label='Related official English video — edition unverified' if english else '官方相关英文视频（版本待核验）'
+        result+=f" [{label}]({link['reference']['url']})"
     return result

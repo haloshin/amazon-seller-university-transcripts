@@ -90,6 +90,6 @@ MCF运送的前100件商品,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。 [官方相关英文视频（版本待核验）](https://www.youtube.com/watch?v=9NPgp3gGHr4)
 
 [同主题上一篇：完成自助税务信息调查](../../../courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/zh_CN/transcript.md) · [同主题下一篇：卖家平台入门](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md)

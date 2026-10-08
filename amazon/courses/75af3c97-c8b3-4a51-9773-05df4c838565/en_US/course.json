@@ -12,9 +12,11 @@
   "sourceSnapshotDate": "2026-07-27",
   "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
   "officialEntryType": "general_portal_course_unavailable",
-  "releaseVersion": "0.9.1",
+  "releaseVersion": "0.9.2",
   "sourceVideoDurationSeconds": 283.950333,
   "transcriptSha256": "95ae3199da7ac02a3dfb964ddbd33032a420907163e704a147241edf1b5dbf35",
   "officialLinkStatus": "official_module_unavailable",
-  "officialLinkCheckedDate": "2026-10-08"
+  "officialLinkCheckedDate": "2026-10-08",
+  "officialReferenceEntry": "https://www.youtube.com/watch?v=OkF6ty96YC8",
+  "officialReferenceStatus": "official_reference_version_unverified"
 }

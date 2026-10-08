@@ -183,7 +183,7 @@ Course content and related marks belong to their respective rights holders. Redi
 
 <br>
 
-- **Watch the original video** — use “Watch this official course” on a course page. Official archived versions were matched for 260 courses; 7 more have official YouTube English links; 3 remain without a confirmed video link. See [Sources](docs/SOURCES.md).
+- **Watch the original video** — use “Watch this official course” on a course page. Official archived versions were matched for 260 courses; 7 more have official YouTube English links; 3 have related official English videos labeled “edition unverified”. See [Sources](docs/SOURCES.md).
 - **Report a correction** — [submit feedback](https://github.com/haloshin/seller-university/issues/new?template=correction.yml) with the course, language, timestamp and supporting evidence.
 
 <sub>Scope: courses archived on 2026-07-27. Chinese audio transcripts follow Chinese audio; the 85 Chinese translations are AI-assisted translations reviewed against English transcripts, not official Chinese audio. A small number of courses include brief reading notes. Check current official fees, policies and interfaces. <a href="docs/SOURCES.md">Sources</a> · <a href="../CONTRIBUTING.md">Contributing</a></sub>

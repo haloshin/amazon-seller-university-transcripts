@@ -66,5 +66,12 @@ class PlatformTests(unittest.TestCase):
                 else:
                     self.assertEqual(v['sourceStatus'],'official_module_unavailable');missing+=1
         self.assertEqual((matched,youtube,missing),(435,7,13))
+        reference_courses=[c for c in data['courses'] if any(v.get('sourceReference') for v in c['variants'])]
+        self.assertEqual(len(reference_courses),3)
+        for c in reference_courses:
+            for v in c['variants']:
+                self.assertEqual(v['sourceStatus'],'official_module_unavailable')
+                self.assertEqual(v['sourceReference']['status'],'official_reference_version_unverified')
+                self.assertNotEqual(v['source'],v['sourceReference']['url'])
 
 if __name__=='__main__':unittest.main()

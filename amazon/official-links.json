@@ -1245,11 +1245,31 @@
       "variants": {
         "en_US": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "reference": {
+            "url": "https://www.youtube.com/watch?v=ROXLjRJ1Ckk",
+            "locale": "en_US",
+            "status": "official_reference_version_unverified",
+            "title": "Create your first advertising campaign with Sponsored Products",
+            "publisher": "Amazon Seller University",
+            "publishedDate": "2023-08-07",
+            "checkedDate": "2026-10-08",
+            "evidence": "Official title and description match the topic. Browser playback required sign-in to confirm the visitor is not a bot; no bypass attempted. Exact archived audio identity remains unverified."
+          }
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "reference": {
+            "url": "https://www.youtube.com/watch?v=ROXLjRJ1Ckk",
+            "locale": "en_US",
+            "status": "official_reference_version_unverified",
+            "title": "Create your first advertising campaign with Sponsored Products",
+            "publisher": "Amazon Seller University",
+            "publishedDate": "2023-08-07",
+            "checkedDate": "2026-10-08",
+            "evidence": "Official title and description match the topic. Browser playback required sign-in to confirm the visitor is not a bot; no bypass attempted. Exact archived audio identity remains unverified."
+          }
         }
       }
     },
@@ -3172,11 +3192,31 @@
       "variants": {
         "en_US": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "reference": {
+            "url": "https://www.youtube.com/watch?v=9NPgp3gGHr4",
+            "locale": "en_US",
+            "status": "official_reference_version_unverified",
+            "title": "Intro to New Seller Incentives",
+            "publisher": "Amazon Seller University",
+            "publishedDate": "2024-04-05",
+            "checkedDate": "2026-10-08",
+            "evidence": "Multiple historical editions exist; archived audio discusses January 2022 eligibility, while this official video was published in 2024. Not verified as the same edition."
+          }
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "reference": {
+            "url": "https://www.youtube.com/watch?v=9NPgp3gGHr4",
+            "locale": "en_US",
+            "status": "official_reference_version_unverified",
+            "title": "Intro to New Seller Incentives",
+            "publisher": "Amazon Seller University",
+            "publishedDate": "2024-04-05",
+            "checkedDate": "2026-10-08",
+            "evidence": "Multiple historical editions exist; archived audio discusses January 2022 eligibility, while this official video was published in 2024. Not verified as the same edition."
+          }
         }
       }
     },
@@ -3469,11 +3509,31 @@
       "variants": {
         "en_US": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "reference": {
+            "url": "https://www.youtube.com/watch?v=OkF6ty96YC8",
+            "locale": "en_US",
+            "status": "official_reference_version_unverified",
+            "title": "Introduction to Amazon Sponsored Display",
+            "publisher": "Amazon Seller University",
+            "publishedDate": "2023-09-22",
+            "checkedDate": "2026-10-08",
+            "evidence": "Official title and description cover Sponsored Display setup; exact archived audio identity has not been verified."
+          }
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "reference": {
+            "url": "https://www.youtube.com/watch?v=OkF6ty96YC8",
+            "locale": "en_US",
+            "status": "official_reference_version_unverified",
+            "title": "Introduction to Amazon Sponsored Display",
+            "publisher": "Amazon Seller University",
+            "publishedDate": "2023-09-22",
+            "checkedDate": "2026-10-08",
+            "evidence": "Official title and description cover Sponsored Display setup; exact archived audio identity has not been verified."
+          }
         }
       }
     },
@@ -5836,5 +5896,6 @@
   },
   "officialYoutubeCourses": 7,
   "coursesWithAnyOfficialVideoLink": 267,
-  "coursesWithoutConfirmedVideoLink": 3
+  "coursesWithoutConfirmedVideoLink": 3,
+  "coursesWithUnverifiedOfficialReferences": 3
 }

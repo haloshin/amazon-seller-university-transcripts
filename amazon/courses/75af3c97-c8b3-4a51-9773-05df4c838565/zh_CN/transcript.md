@@ -86,6 +86,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。 [官方相关英文视频（版本待核验）](https://www.youtube.com/watch?v=OkF6ty96YC8)
 
 [同主题上一篇：亚马逊广告活动管理器预算规则入门（中文译文）](../../../translations/2f75c115-2990-482d-b00c-219a06893243/zh_CN/translation.md) · [同主题下一篇：品牌推广入门](../../../courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/zh_CN/transcript.md)
