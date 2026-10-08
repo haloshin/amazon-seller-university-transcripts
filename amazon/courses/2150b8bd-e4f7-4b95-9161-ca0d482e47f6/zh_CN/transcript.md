@@ -96,6 +96,6 @@ Check eligibility。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。 [官方英文版（不同音轨）](https://youtu.be/QwxsV3X2pDk)
 
 [同主题上一篇：申请使用品牌销售权益](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/zh_CN/transcript.md) · [同主题下一篇：跟踪并回复买家评论](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/transcript.md)

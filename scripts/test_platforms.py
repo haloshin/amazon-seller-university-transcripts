@@ -53,7 +53,7 @@ class PlatformTests(unittest.TestCase):
     def test_unknown_platform_does_not_select_default_content(self):
         with self.assertRaises(KeyError):build_reader.reader_data('unknown')
     def test_official_links_match_every_archived_variant_or_are_explicit_fallbacks(self):
-        data=build_reader.reader_data();matched=missing=0
+        data=build_reader.reader_data();matched=missing=youtube=0
         for course in data['courses']:
             for v in course['variants']:
                 if v['kind']=='translation':
@@ -61,8 +61,10 @@ class PlatformTests(unittest.TestCase):
                     self.assertEqual(v['source'],source['source']);continue
                 if v['sourceStatus']=='archive_match':
                     self.assertIn(course['moduleId'],v['source']);self.assertIn(v['locale'],v['source']);matched+=1
+                elif v['sourceStatus']=='archived_official_youtube':
+                    self.assertTrue(v['source'].startswith('https://youtu.be/'));youtube+=1
                 else:
                     self.assertEqual(v['sourceStatus'],'official_module_unavailable');missing+=1
-        self.assertEqual((matched,missing),(435,20))
+        self.assertEqual((matched,youtube,missing),(435,7,13))
 
 if __name__=='__main__':unittest.main()

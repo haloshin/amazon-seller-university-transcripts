@@ -85,6 +85,6 @@ Welcome to our training tips to reduce A to Z guarantee claims and returns. Cust
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
-[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+[Official English video (YouTube)](https://youtu.be/QwxsV3X2pDk) · Archived official-channel link; current video content has not been compared line by line.
 
 [Previous in topic：Request access to brand selling benefits](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/en_US/transcript.md) · [Next in topic：Track and respond to customer reviews](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/en_US/transcript.md)

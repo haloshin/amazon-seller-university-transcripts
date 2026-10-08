@@ -36,6 +36,7 @@ def reader_data(platform_id=None, repo=REPO):
                 'duration': metadata['sourceVideoDurationSeconds'],
                 'source': links.get(course['moduleId'], {}).get('variants', {}).get(variant['locale'], {}).get('url', config['officialHome']),
                 'sourceStatus': links.get(course['moduleId'], {}).get('variants', {}).get(variant['locale'], {}).get('status', 'general_portal'),
+                'sourceAlternative': links.get(course['moduleId'], {}).get('variants', {}).get(variant['locale'], {}).get('alternative'),
             })
         for translation in course.get('translations', []):
             translated = load_translation(course, translation, ROOT)
@@ -47,7 +48,7 @@ def reader_data(platform_id=None, repo=REPO):
                 'text': text,
                 'paragraphs': reading_paragraphs(course['moduleId'], 'zh_CN', text, translated['title']),
                 'path': (Path(config['directory']) / translation['text']).parent.as_posix(),
-                'notes': source['notes'], 'duration': source['duration'], 'source': source['source'], 'sourceStatus': source['sourceStatus'],
+                'notes': source['notes'], 'duration': source['duration'], 'source': source['source'], 'sourceStatus': source['sourceStatus'], 'sourceAlternative': source.get('sourceAlternative'),
             })
         courses.append(item)
     return {'release': json.loads((ROOT / 'release.json').read_text()),

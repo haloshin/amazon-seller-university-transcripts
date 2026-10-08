@@ -45,6 +45,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。 [官方英文版（不同音轨）](https://youtu.be/zJWz0wmwaME)
 
 [同主题上一篇：创建 A+ 内容的最佳实践](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/zh_CN/transcript.md) · [同主题下一篇：评论与评分的最佳实践](../../../courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/zh_CN/transcript.md)

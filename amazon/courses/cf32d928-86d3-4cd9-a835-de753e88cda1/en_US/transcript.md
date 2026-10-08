@@ -49,6 +49,6 @@ Welcome to our training on culturally respectful listings.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
-[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+[Official English video (YouTube)](https://youtu.be/qGYAAOlAaDk) · Archived official-channel link; current video content has not been compared line by line.
 
 [Previous in topic：Create product variations one at a time](../../../courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/en_US/transcript.md) · [Next in topic：Featured Offer eligibility and strategies](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/en_US/transcript.md)

@@ -72,6 +72,6 @@ Welcome to our training on how to set one-day default handling time.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
-[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+[Official English video (YouTube)](https://youtu.be/QTDBPHDV6cM) · Archived official-channel link; current video content has not been compared line by line.
 
 [Previous in topic：Set ASIN-specific handling time](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/en_US/transcript.md) · [Next in topic：Set order-handling capacity](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/en_US/transcript.md)

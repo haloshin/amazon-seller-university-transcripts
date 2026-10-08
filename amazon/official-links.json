@@ -703,18 +703,32 @@
     },
     "86849b9b-5690-4484-b490-c26b186bc7b0": {
       "moduleId": "86849b9b-5690-4484-b490-c26b186bc7b0",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/zJWz0wmwaME",
+          "status": "archived_official_youtube",
+          "currentTitle": "Best practices for creating brand names and logos",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/zJWz0wmwaME",
+            "status": "archived_official_youtube",
+            "currentTitle": "Best practices for creating brand names and logos",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -1241,18 +1255,32 @@
     },
     "cf32d928-86d3-4cd9-a835-de753e88cda1": {
       "moduleId": "cf32d928-86d3-4cd9-a835-de753e88cda1",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/qGYAAOlAaDk",
+          "status": "archived_official_youtube",
+          "currentTitle": "Creating culturally respectful listings",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/qGYAAOlAaDk",
+            "status": "archived_official_youtube",
+            "currentTitle": "Creating culturally respectful listings",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -2962,18 +2990,32 @@
     },
     "6d497a83-d4cd-45ee-bfa4-e53a246763b8": {
       "moduleId": "6d497a83-d4cd-45ee-bfa4-e53a246763b8",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/qooi2Oxm8dY",
+          "status": "archived_official_youtube",
+          "currentTitle": "Intro to Brand Analytics",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/qooi2Oxm8dY",
+            "status": "archived_official_youtube",
+            "currentTitle": "Intro to Brand Analytics",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -4237,18 +4279,32 @@
     },
     "aca90205-c6ad-49c1-aebd-0a8eac9db9f8": {
       "moduleId": "aca90205-c6ad-49c1-aebd-0a8eac9db9f8",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/gzNibqQGq8g",
+          "status": "archived_official_youtube",
+          "currentTitle": "Payments Dashboard overview",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/gzNibqQGq8g",
+            "status": "archived_official_youtube",
+            "currentTitle": "Payments Dashboard overview",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -4646,18 +4702,32 @@
     },
     "4e174673-a256-4767-b783-7e015e825e35": {
       "moduleId": "4e174673-a256-4767-b783-7e015e825e35",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/xRYf-5fw068",
+          "status": "archived_official_youtube",
+          "currentTitle": "Respond to an A-to-z Guarantee Claims notification",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/xRYf-5fw068",
+            "status": "archived_official_youtube",
+            "currentTitle": "Respond to an A-to-z Guarantee Claims notification",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -5031,18 +5101,32 @@
     },
     "052084ba-aa05-4030-86d1-56cec47183dd": {
       "moduleId": "052084ba-aa05-4030-86d1-56cec47183dd",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/QTDBPHDV6cM",
+          "status": "archived_official_youtube",
+          "currentTitle": "How to Set One-Day Default Handling Time (Amazon FBM/MFN)",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/QTDBPHDV6cM",
+            "status": "archived_official_youtube",
+            "currentTitle": "How to Set One-Day Default Handling Time (Amazon FBM/MFN)",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -5328,18 +5412,32 @@
     },
     "2150b8bd-e4f7-4b95-9161-ca0d482e47f6": {
       "moduleId": "2150b8bd-e4f7-4b95-9161-ca0d482e47f6",
-      "status": "unavailable",
+      "status": "official_module_unavailable_youtube_available",
       "httpStatus": 404,
       "checkedAt": "2026-10-08",
       "verification": "public_official_module_metadata",
       "variants": {
         "en_US": {
-          "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "locale": "en_US",
+          "url": "https://youtu.be/QwxsV3X2pDk",
+          "status": "archived_official_youtube",
+          "currentTitle": "How to reduce A-to-z Guarantee Claims & returns",
+          "author": "Amazon Seller University",
+          "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+          "checkedDate": "2026-10-08"
         },
         "zh_CN": {
           "url": "https://sell.amazon.com/learn/seller-university",
-          "status": "official_module_unavailable"
+          "status": "official_module_unavailable",
+          "alternative": {
+            "locale": "en_US",
+            "url": "https://youtu.be/QwxsV3X2pDk",
+            "status": "archived_official_youtube",
+            "currentTitle": "How to reduce A-to-z Guarantee Claims & returns",
+            "author": "Amazon Seller University",
+            "authorUrl": "https://www.youtube.com/@AmazonSellerUniversity",
+            "checkedDate": "2026-10-08"
+          }
         }
       }
     },
@@ -5735,5 +5833,8 @@
         }
       }
     }
-  }
+  },
+  "officialYoutubeCourses": 7,
+  "coursesWithAnyOfficialVideoLink": 267,
+  "coursesWithoutConfirmedVideoLink": 3
 }

@@ -38,6 +38,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。 [官方英文版（不同音轨）](https://youtu.be/qGYAAOlAaDk)
 
 [同主题上一篇：逐个创建商品变体](../../../courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/zh_CN/transcript.md) · [同主题下一篇：推荐报价资格与策略](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/transcript.md)

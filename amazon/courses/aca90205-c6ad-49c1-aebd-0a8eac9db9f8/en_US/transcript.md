@@ -47,6 +47,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
-[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+[Official English video (YouTube)](https://youtu.be/gzNibqQGq8g) · Archived official-channel link; current video content has not been compared line by line.
 
 [Previous in topic：Must-Do Steps for a New Amazon Seller](../../../courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/transcript.md) · [Next in topic：Sell in the Amazon store: 30-minute overview for beginners](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md)

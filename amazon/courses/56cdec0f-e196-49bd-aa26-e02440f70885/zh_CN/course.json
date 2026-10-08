@@ -12,7 +12,7 @@
   "sourceSnapshotDate": "2026-07-27",
   "officialLearningEntry": "https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=56cdec0f-e196-49bd-aa26-e02440f70885",
   "officialEntryType": "verified_course_page",
-  "releaseVersion": "0.9.0",
+  "releaseVersion": "0.9.1",
   "sourceVideoDurationSeconds": 300.55,
   "transcriptSha256": "541bf5bd2854c63fd85d5cd7f35e3c4d4178df6ad60a5ac27d206fe1ea33ab6a",
   "officialLinkStatus": "archive_match",

@@ -54,6 +54,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。 [官方英文版（不同音轨）](https://youtu.be/xRYf-5fw068)
 
 [同主题上一篇：回复绩效通知](../../../courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/zh_CN/transcript.md) · [同主题下一篇：处理防伪政策违规](../../../courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/zh_CN/transcript.md)

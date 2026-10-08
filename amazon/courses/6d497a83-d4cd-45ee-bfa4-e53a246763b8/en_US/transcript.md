@@ -64,6 +64,6 @@ Welcome to our intro to Brand Analytics. Brands enrolled in Amazon Brand Registr
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
-[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+[Official English video (YouTube)](https://youtu.be/qooi2Oxm8dY) · Archived official-channel link; current video content has not been compared line by line.
 
 [Previous in topic：How to Read Amazon Business Reports](../../../courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/en_US/transcript.md) · [Next in topic：Intro to Business Pricing](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/en_US/transcript.md)
