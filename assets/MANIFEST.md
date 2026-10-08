@@ -17,3 +17,11 @@
 图片文件指纹见 [manifest.json](../manifest.json)。课程引文遵循 [LICENSE](../LICENSE) 与 [NOTICE](../NOTICE.md) 的权利范围。
 
 预告仅用于说明未来方向，不代表当前已有安装包、题库或确定发布时间。配图中的署名标明整理来源，不主张 Amazon 课程的版权归属。
+
+
+## v0.4.0 HTML reader preview
+
+- `html-reader-preview.jpg`: browser screenshot of the actual HTML reader, captured 2026-10-08 at 1280 × 720; used in README.md and README.en.md under the HTML reading section.
+- Source: the v0.4.0 HTML reader generated from this repository. Captured directly to this stable asset path; no temporary image reference or image-generation prompt.
+- Status: verified local preview; final public deployment verification is recorded with the release.
+- Existing seven illustrations remain available; the reading formats illustration describes the additional Markdown / TXT / VTT files.

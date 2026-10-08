@@ -7,18 +7,32 @@
 <p align="center">保留课程讲述顺序与案例，随时查阅你需要的内容。</p>
 
 <p align="center">
-  <a href="学习导航.md"><strong>开始阅读 ↗</strong></a> &emsp;
+  <a href="https://haloshin.github.io/amazon-seller-university-transcripts/"><strong>网页阅读 ↗</strong></a> &emsp;
   <a href="https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest"><strong>下载资料 ↓</strong></a> &emsp;
   <a href="#接下来的更新"><strong>关注更新 →</strong></a>
 </p>
 
-<p align="center"><sub><a href="课程目录.md">全部课程</a> &nbsp; · &nbsp; <a href="README.en.md">English</a></sub></p>
+<p align="center"><sub><a href="https://haloshin.github.io/amazon-seller-university-transcripts/">全部课程</a> &nbsp; · &nbsp; <a href="学习导航.md">Markdown 导航</a> &nbsp; · &nbsp; <a href="README.en.md">English</a></sub></p>
 
 <br>
 
 ![270 门课程，8 个主题，455 份转写稿：英文 270 份、中文音轨稿 185 份](assets/reader-banner.png)
 
 <p align="center"><sub><a href="https://github.com/haloshin">SHIN</a> 整理维护 · 分享请保留来源与署名 · <a href="NOTICE.md">使用条件</a></sub></p>
+
+<br><br>
+
+## 网页阅读与离线 HTML
+
+**[打开完整阅读版 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/)** · [Markdown 学习导航](学习导航.md)
+
+**270 门课程、455 份转写稿**，支持主题目录、全文搜索、已有音轨中英切换和字号调整，电脑与手机都可阅读。
+
+下载完整 ZIP 并解压，双击 **`index.html`**，即可用浏览器离线阅读。请保留完整文件夹，无需安装软件或启动服务。
+
+[![HTML 阅读版实拍：左侧主题目录、课程库与五门入门路径](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/)
+
+<sub>阅读页使用已发布的同一份课程原文；中文稿来自中文音轨。</sub>
 
 <br><br>
 
@@ -34,10 +48,10 @@
 
 | 从开店到发货 | 从获客到经营 |
 | :--- | :--- |
-| [入门与账户 · 12](学习导航.md#入门与账户) | [广告与促销 · 54](学习导航.md#广告与促销) |
-| [商品发布与定价 · 42](学习导航.md#商品发布与定价) | [品牌与买家体验 · 30](学习导航.md#品牌与买家体验) |
-| [物流与配送 · 52](学习导航.md#物流与配送) | [全球开店 · 19](学习导航.md#全球开店) |
-| [合规与账户健康 · 30](学习导航.md#合规与账户健康) | [企业购与经营分析 · 31](学习导航.md#企业购与经营分析) |
+| [入门与账户 · 12](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=start&ui=zh) | [广告与促销 · 54](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=ads&ui=zh) |
+| [商品发布与定价 · 42](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=listings&ui=zh) | [品牌与买家体验 · 30](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=brands&ui=zh) |
+| [物流与配送 · 52](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=fulfillment&ui=zh) | [全球开店 · 19](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=global&ui=zh) |
+| [合规与账户健康 · 30](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=compliance&ui=zh) | [企业购与经营分析 · 31](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=business&ui=zh) |
 
 <sub>主题与中文导航名由本项目编辑整理；课程页保留官方原标题。没有中文音轨的课程提供英文稿。</sub>
 
@@ -51,13 +65,13 @@
 
 <br>
 
-1. **[新卖家 5 分钟开店概览](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md)** · [EN](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)
-2. **[卖家平台入门](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md)** · [EN](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)
-3. **[亚马逊销售政策概览](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md)** · [EN](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)
-4. **[商品发布入门](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md)** · [EN](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md)
-5. **[亚马逊物流（FBA）入门](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)** · [EN](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)
+1. **[新卖家 5 分钟开店概览](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=en_US&ui=zh)
+2. **[卖家平台入门](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=en_US&ui=zh)
+3. **[亚马逊销售政策概览](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=en_US&ui=zh)
+4. **[商品发布入门](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=en_US&ui=zh)
+5. **[亚马逊物流（FBA）入门](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=zh)
 
-<sub>自行配送订单？接着读 <a href="courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/transcript.md">卖家自配送（FBM）入门</a>。</sub>
+<sub>自行配送订单？接着读 <a href="https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&amp;id=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01&amp;lang=zh_CN&amp;ui=zh">卖家自配送（FBM）入门</a>。</sub>
 
 <br><br>
 
@@ -71,7 +85,7 @@ FBA 入门课程的真实节选。英文稿与中文稿分别来自对应音轨�
 
 <br>
 
-**[继续读中文全文 ↗](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)** &emsp; [Read in English](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)
+**[继续读中文全文 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)** &emsp; [Read in English](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=zh)
 
 <br><br>
 
@@ -96,17 +110,17 @@ FBA 入门课程的真实节选。英文稿与中文稿分别来自对应音轨�
 
 <br>
 
-**[下载完整 ZIP ↓](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest)** &emsp; **[在线阅读 ↗](学习导航.md)**
+**[下载完整 ZIP ↓](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest)** &emsp; **[在线阅读 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/)**
 
 <br>
 
-### 解压后，从学习导航开始
+### 解压后，打开 index.html
 
-打开 `学习导航.md` 选课；用 Markdown 阅读器阅读全文，或用文本编辑器搜索 TXT。
+双击 **`index.html`**，在浏览器中选课、搜索与离线阅读。也可继续使用 `学习导航.md`、Markdown 阅读器或 TXT 文本文件。
 
 <br>
 
-![Markdown 阅读全文，TXT 搜索与导入，VTT 配合原视频看字幕](assets/reading-formats.png)
+![HTML 阅读器之外，仍保留 Markdown、TXT 与 VTT 文件](assets/reading-formats.png)
 
 <br>
 
@@ -115,6 +129,7 @@ FBA 入门课程的真实节选。英文稿与中文稿分别来自对应音轨�
 
 <br>
 
+- **HTML** — `index.html`，完整浏览器阅读版，内含全部转写稿、目录与全文搜索；正文阅读无需联网，外部链接需联网。
 - **Markdown** — `transcript.md`，在 GitHub 或 Markdown 阅读器中阅读全文。
 - **TXT** — `transcript.txt`，用于全文检索、复制或导入阅读工具。
 - **VTT** — `captions.vtt`，需支持外部字幕的播放器配合原视频使用；本包不含视频。
@@ -141,7 +156,7 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 
 <br>
 
-**[打开 FBA 课程试读 ↗](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)**
+**[打开 FBA 课程试读 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)**
 
 <sub>中文页遇到仅有英文的下一篇，会标明“英文”。语言入口依课程已有音轨提供。</sub>
 

@@ -22,19 +22,19 @@
 | --- | --- |
 | 原课程表达、转写稿、字幕及其他第三方内容 | 权利属于 Amazon 或相应权利人；本项目未重新授权，整理署名不代表对原课程的独占权利 |
 | 原创导读、说明、具有独创性的选择或编排、配图 | 仅在相关内容依法受著作权保护且权利由 SHIN 享有的范围内，适用下述有限许可；不据此主张事实、一般思路或不受保护内容的权利 |
-| 自编 `scripts/` 代码 | 继续适用 [MIT](LICENSES/MIT.txt)，包括该许可允许的复制、修改、分发和商用 |
+| 自编 `scripts/` 程序代码（含 HTML 阅读器模板、JavaScript、CSS 及 `index.html` 中对应程序代码） | 继续适用 [MIT](LICENSES/MIT.txt)，包括该许可允许的复制、修改、分发和商用 |
 
 对上述 **SHIN 享有著作权的原创编辑内容**，允许非商业的个人阅读、学习和保存，须保留署名、原仓库链接与适用的权利说明；修改时标明自己的改动，不得把 SHIN 的贡献冒称为自己的创作或暗示 Amazon 官方背书。超出该许可的公开再分发（包括重新打包为独立资料集）、商业使用，须另行取得许可。可通过[仓库 Issues](https://github.com/haloshin/amazon-seller-university-transcripts/issues)提出具体用途与许可请求，不要提交个人敏感信息。
 
 这些条件不限制法律允许的使用、既有许可已授予的权利，或 GitHub 平台条款授予的查看、正常 Fork 等权限；不为第三方课程内容增加使用授权。版权是否成立及其归属以适用法律和具体创作事实为准，署名或本声明本身不创造版权。完整许可范围见 [LICENSE](LICENSE)。
 
-TXT 和 VTT 保持为课程文本及字幕，非课程的署名与说明集中展示在 Markdown 阅读页和随包[使用说明](使用说明.txt)中。
+TXT 和 VTT 保持为课程文本及字幕，非课程的署名与说明集中展示在 Markdown / HTML 阅读页和随包[使用说明](使用说明.txt)中。
 
 ## Attribution and reuse
 
 Please retain the course source, SHIN's editorial credit and the original repository link when sharing. Do not falsely claim SHIN's contribution as your own or imply Amazon endorsement. Sharing the original repository link helps readers find updates.
 
-Amazon course content and third-party material are not relicensed here. Only original editorial material that is legally copyrightable and whose rights SHIN owns is covered by the limited personal, noncommercial study permission in [LICENSE](LICENSE). Retain credit, source links and rights notices, and identify your own modifications. Public redistribution or commercial use of that protected material outside the limited permission requires separate permission. Statutory exceptions, existing license grants and GitHub's normal public-repository viewing and forking permissions remain unaffected. Original code in `scripts/` remains MIT-licensed.
+Amazon course content and third-party material are not relicensed here. Only original editorial material that is legally copyrightable and whose rights SHIN owns is covered by the limited personal, noncommercial study permission in [LICENSE](LICENSE). Retain credit, source links and rights notices, and identify your own modifications. Public redistribution or commercial use of that protected material outside the limited permission requires separate permission. Statutory exceptions, existing license grants and GitHub's normal public-repository viewing and forking permissions remain unaffected. Original program code in `scripts/`, including the HTML reader template, JavaScript, CSS and the corresponding program code in `index.html`, remains MIT-licensed. Embedded course and editorial content retains its separate rights.
 
 ## 来源问题与反馈
 

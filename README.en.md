@@ -7,18 +7,32 @@
 <p align="center">Keep the original course sequence and examples within easy reach.</p>
 
 <p align="center">
-  <a href="LEARNING_GUIDE.md"><strong>Start reading ↗</strong></a> &emsp;
+  <a href="https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en"><strong>Read online ↗</strong></a> &emsp;
   <a href="https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest"><strong>Download ↓</strong></a> &emsp;
   <a href="#planned-updates"><strong>Follow updates →</strong></a>
 </p>
 
-<p align="center"><sub><a href="课程目录.md">All courses</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></sub></p>
+<p align="center"><sub><a href="https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en">All courses</a> &nbsp; · &nbsp; <a href="LEARNING_GUIDE.md">Markdown guide</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></sub></p>
 
 <br>
 
 ![270 courses across 8 topics; 455 transcripts: 270 English and 185 Chinese-audio transcripts](assets/reader-banner.png)
 
 <p align="center"><sub>Maintained by <a href="https://github.com/haloshin">SHIN</a> · Please retain source and credit · <a href="NOTICE.md">Terms of use</a></sub></p>
+
+<br><br>
+
+## Read online or offline
+
+**[Open the HTML reader ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)** · [Markdown guide](LEARNING_GUIDE.md)
+
+Browse all **270 courses and 455 transcripts** with topic navigation, full-text search, available audio-language switching and adjustable text size. The reader works on desktop and narrow screens.
+
+Download and extract the complete ZIP, then open **`index.html`** in a browser to read offline. Keep the entire folder together; no installation or local server is needed.
+
+[![HTML reader: topic sidebar, course library and five starting courses](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)
+
+<sub>Actual HTML reader preview. The course text is the same published transcript; Chinese text follows Chinese audio.</sub>
 
 <br><br>
 
@@ -34,10 +48,10 @@ Start with the question you are working on.
 
 | Launch and operate | Grow and manage |
 | :--- | :--- |
-| [Getting started and accounts · 12](LEARNING_GUIDE.md#getting-started-and-accounts) | [Advertising and promotions · 54](LEARNING_GUIDE.md#advertising-and-promotions) |
-| [Listings and pricing · 42](LEARNING_GUIDE.md#listings-and-pricing) | [Brands and customer experience · 30](LEARNING_GUIDE.md#brands-and-customer-experience) |
-| [Fulfillment and shipping · 52](LEARNING_GUIDE.md#fulfillment-and-shipping) | [Global selling · 19](LEARNING_GUIDE.md#global-selling) |
-| [Compliance and account health · 30](LEARNING_GUIDE.md#compliance-and-account-health) | [Amazon Business and business insights · 31](LEARNING_GUIDE.md#amazon-business-and-business-insights) |
+| [Getting started and accounts · 12](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=start&ui=en) | [Advertising and promotions · 54](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=ads&ui=en) |
+| [Listings and pricing · 42](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=listings&ui=en) | [Brands and customer experience · 30](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=brands&ui=en) |
+| [Fulfillment and shipping · 52](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=fulfillment&ui=en) | [Global selling · 19](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=global&ui=en) |
+| [Compliance and account health · 30](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=compliance&ui=en) | [Amazon Business and business insights · 31](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=business&ui=en) |
 
 <sub>Topic groups and Chinese navigation names are editorial additions. Original titles are retained. Courses without a Chinese-audio transcript are available in English.</sub>
 
@@ -51,13 +65,13 @@ Start with the question you are working on.
 
 <br>
 
-1. **[5-minute overview for beginners](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)** · [中文](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md)
-2. **[Intro to Seller Central](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)** · [中文](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md)
-3. **[Overview of Amazon selling policies](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)** · [中文](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md)
-4. **[Intro to listing products](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md)** · [中文](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md)
-5. **[Intro to Fulfillment by Amazon (FBA)](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)** · [中文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)
+1. **[5-minute overview for beginners](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=zh_CN&ui=en)
+2. **[Intro to Seller Central](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=zh_CN&ui=en)
+3. **[Overview of Amazon selling policies](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=zh_CN&ui=en)
+4. **[Intro to listing products](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=zh_CN&ui=en)
+5. **[Intro to Fulfillment by Amazon (FBA)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=en)
 
-<sub>Fulfilling orders yourself? Continue with <a href="courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md">Intro to Fulfillment by Merchant (FBM)</a>.</sub>
+<sub>Fulfilling orders yourself? Continue with <a href="https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&amp;id=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01&amp;lang=en_US&amp;ui=en">Intro to Fulfillment by Merchant (FBM)</a>.</sub>
 
 <br><br>
 
@@ -71,7 +85,7 @@ A sample from the FBA introduction. Each language follows its corresponding audi
 
 <br>
 
-**[Read the English course ↗](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)** &emsp; [中文全文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)
+**[Read the English course ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)** &emsp; [中文全文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=en)
 
 <br><br>
 
@@ -96,13 +110,13 @@ Read and search offline after downloading.
 
 <br>
 
-**[Download the complete ZIP ↓](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest)** &emsp; **[Read online ↗](LEARNING_GUIDE.md)**
+**[Download the complete ZIP ↓](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest)** &emsp; **[Read online ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)**
 
 <br>
 
-### Extract the ZIP, then open the learning guide
+### Extract the ZIP, then open index.html
 
-Open `LEARNING_GUIDE.md` to choose a course. Read with a Markdown viewer, or search TXT files in a text editor.
+Open **`index.html`** in a browser to choose courses, search and read offline. You can also use `LEARNING_GUIDE.md`, a Markdown viewer or TXT files.
 
 <br>
 
@@ -115,6 +129,7 @@ Open `LEARNING_GUIDE.md` to choose a course. Read with a Markdown viewer, or sea
 
 <br>
 
+- **HTML** — `index.html`, the complete browser reader with all transcripts, topic navigation and full-text search. Reading works offline; external links need a network connection.
 - **Markdown** — `transcript.md`, for reading in GitHub or a Markdown viewer.
 - **TXT** — `transcript.txt`, for full-text search, copying or importing into a reading tool.
 - **VTT** — `captions.vtt`, for a player that supports external captions alongside the original video. Videos are not included.
@@ -141,7 +156,7 @@ For AI-assisted study, provide the selected transcript and any accompanying read
 
 <br>
 
-**[Try the FBA course ↗](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)**
+**[Try the FBA course ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)**
 
 <sub>Chinese pages label a next course as English when no Chinese-audio transcript is available. Language links reflect the available audio tracks.</sub>
 

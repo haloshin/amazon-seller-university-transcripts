@@ -97,6 +97,11 @@ def validate_links_and_privacy(paths):
             require(data.startswith(b"\x89PNG\r\n\x1a\n") and b"IEND" in data[-12:],
                     f"Invalid PNG: {path.relative_to(ROOT)}")
             continue
+        if path.suffix.lower() in {".jpg", ".jpeg"}:
+            data = path.read_bytes()
+            require(data.startswith(b"\xff\xd8\xff") and data.endswith(b"\xff\xd9"),
+                    f"Invalid JPEG: {path.relative_to(ROOT)}")
+            continue
         content = path.read_text(encoding="utf-8")
         relative = path.relative_to(ROOT)
         # Detection expressions in this script are not publication content.
@@ -182,7 +187,7 @@ def verify(refresh=False):
     for english, name in [(False, "README.md"), (True, "README.en.md")]:
         readme = unquote((ROOT / name).read_text(encoding="utf-8"))
         for topic, titles in TOPICS.items():
-            entry = f"[{titles[int(english)]} · {counts[topic]}]({unquote(topic_link(topic, english))})"
+            entry = f"[{titles[int(english)]} · {counts[topic]}](https://haloshin.github.io/amazon-seller-university-transcripts/#topic={topic}&ui={'en' if english else 'zh'})"
             require(entry in readme, f"README topic link/count mismatch: {name}/{topic}")
     paths = public_files()
     validate_links_and_privacy(paths)

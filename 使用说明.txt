@@ -15,7 +15,7 @@ https://sell.amazon.com/learn/seller-university
 仅对依法受著作权保护、且权利由 SHIN 享有的原创导读、说明、选择编排及配图，
 允许保留署名、来源和权利说明的非商业个人学习与保存；超出许可的公开再分发、
 重新打包发布或商业使用须另行取得许可。修改时应标明自己的改动。
-脚本仍按 LICENSES/MIT.txt 使用；法定使用权利、既有许可和 GitHub 正常 Fork 不受额外限制。
+脚本与 HTML 阅读器程序代码仍按 LICENSES/MIT.txt 使用；法定使用权利、既有许可和 GitHub 正常 Fork 不受额外限制。
 完整条款见同目录 LICENSE 与 NOTICE.md。本说明不创造原本不存在的版权。
 
 Please keep the course source, SHIN's editorial credit and the repository link.
@@ -28,8 +28,10 @@ GitHub's viewing/forking permissions. Scripts remain under MIT.
 See LICENSE and NOTICE.md for the full scope.
 
 使用资料：
-1. 在线从 README / 学习导航选课。
-2. 离线可用 Markdown 阅读器打开学习导航和课程页。
+1. 在线阅读：https://haloshin.github.io/amazon-seller-university-transcripts/
+2. 下载完整 ZIP 并解压，双击根目录 index.html，用浏览器离线选课、搜索和阅读。
+   请保留完整文件夹；正文、目录和搜索不需要联网，外部链接需联网。
+   也可用 Markdown 阅读器打开学习导航和课程页。
 3. transcript.txt 保留课程全文，可用文本编辑器阅读或检索。
 4. captions.vtt 保留配套字幕，需支持外部字幕的播放器配合原视频使用。
 5. 原视频请到 Amazon 官方学习入口观看；本包不含视频。
