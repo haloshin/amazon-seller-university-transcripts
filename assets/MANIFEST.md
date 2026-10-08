@@ -1,12 +1,12 @@
 # README 图片
 
-本页登记当前使用的七张图，均由 Codex 内置图像工具生成，采用白底、黑色手绘线条和橙色重点标记。消费位置：[中文 README](../README.md) 与 [English README](../README.en.md)。图片为横向 2:1、1774 × 887 像素；配套文字提供可点击的课程入口和英文说明。每图均附 SHIN 整理署名与原仓库地址，请在分享时保留。
+本页登记当前使用的七张图，均由 Codex 内置图像工具生成，采用白底、黑色手绘线条和橙色重点标记。消费位置：[中文 README](../README.md) 与 [English README](../README.en.md)。四张展示图为 2:1、1774 × 887 像素；入门路线、课程导航和阅读格式三张操作图为 3:1、2172 × 724 像素。配套文字提供可点击的课程入口和英文说明。每图均附 SHIN 整理署名与原仓库地址，请在分享时保留。
 
 | 图片 | 内容 |
 | --- | --- |
 | [reader-banner.png](reader-banner.png) | 270 门课程、8 个主题、455 份稿件及语言覆盖 |
 | [topic-map.png](topic-map.png) | 八个主题与各主题课程数量 |
-| [starter-path.png](starter-path.png) | 五门推荐入门课及 FBM 后续阅读 |
+| [starter-path.png](starter-path.png) | 五门推荐入门课；FBM 后续入口保留在 README 文字中 |
 | [fba-reading-example.png](fba-reading-example.png) | FBA 入门课程的真实中英文节选 |
 | [course-navigation.png](course-navigation.png) | 课程页的主题入口、语言切换和前后篇导航 |
 | [reading-formats.png](reading-formats.png) | 下载 ZIP 后使用 Markdown、TXT、VTT |

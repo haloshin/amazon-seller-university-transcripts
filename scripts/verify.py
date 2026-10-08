@@ -105,7 +105,9 @@ def validate_links_and_privacy(paths):
                 require(not re.search(pattern, content), f"Privacy/source-link check failed: {relative}")
         if path.suffix != ".md":
             continue
-        for target in re.findall(r"\]\(([^\s)]+)\)", content):
+        targets = re.findall(r"\]\(([^\s)]+)\)", content)
+        targets += re.findall(r'''\b(?:href|src)=["']([^"']+)["']''', content)
+        for target in targets:
             url = urlsplit(target.strip("<>"))
             if url.scheme or url.netloc:
                 continue
@@ -180,8 +182,8 @@ def verify(refresh=False):
     for english, name in [(False, "README.md"), (True, "README.en.md")]:
         readme = unquote((ROOT / name).read_text(encoding="utf-8"))
         for topic, titles in TOPICS.items():
-            row = f"| [{titles[int(english)]}]({unquote(topic_link(topic, english))}) | {counts[topic]} |"
-            require(row in readme, f"README topic link/count mismatch: {name}/{topic}")
+            entry = f"[{titles[int(english)]} · {counts[topic]}]({unquote(topic_link(topic, english))})"
+            require(entry in readme, f"README topic link/count mismatch: {name}/{topic}")
     paths = public_files()
     validate_links_and_privacy(paths)
     if refresh:

@@ -1,86 +1,123 @@
-# Amazon Seller University Transcripts
+<h1 align="center">Amazon Seller University</h1>
 
-**270 courses to read and search at your own pace.**
+<p align="center"><strong>Course transcripts · Read, search and learn offline</strong></p>
 
-Compiled and maintained by [SHIN](https://github.com/haloshin) · Free-to-read study materials · [Attribution and use](NOTICE.md)
+<p align="center">Keep the original course sequence and examples within easy reach.</p>
 
-![270 courses across 8 topics: 270 English transcripts and 185 Chinese-audio transcripts, 455 in total](assets/reader-banner.png)
+<p align="center">
+  <a href="LEARNING_GUIDE.md"><strong>Start reading ↗</strong></a> &emsp;
+  <a href="https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest"><strong>Download ↓</strong></a> &emsp;
+  <a href="#planned-updates"><strong>Follow updates →</strong></a>
+</p>
 
-[Browse by topic](LEARNING_GUIDE.md) · [All courses](课程目录.md) · [Download](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest) · [Upcoming work](#planned-updates) · [简体中文](README.md)
+<p align="center"><sub><a href="课程目录.md">All courses</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></sub></p>
 
-> **Please keep the course source and SHIN's editorial credit. Do not claim SHIN's work as your own or imply official endorsement.**
-> Prefer sharing the [original repository](https://github.com/haloshin/amazon-seller-university-transcripts) so readers can find updates. Only copyrightable original editorial material whose rights SHIN owns is subject to the limited personal, noncommercial study permission; redistribution or commercial use beyond it requires separate permission. Normal forks, statutory exceptions and the scripts' MIT license remain unaffected. [Full scope](NOTICE.md)
+<br>
 
-This collection contains **270 English and 185 Simplified Chinese transcripts**, covering topics such as getting started, listings, fulfillment, advertising, brands, and compliance. Read on GitHub or download for offline search.
+![270 courses across 8 topics; 455 transcripts: 270 English and 185 Chinese-audio transcripts](assets/reader-banner.png)
 
-Chinese transcripts follow Chinese audio. Each course retains its original title, sequence, and examples, with plain text and WebVTT captions alongside the Markdown edition.
+<p align="center"><sub>Maintained by <a href="https://github.com/haloshin">SHIN</a> · Please retain source and credit · <a href="NOTICE.md">Terms of use</a></sub></p>
 
-For new sellers learning the basics, and operators looking up a specific topic or preparing team reading materials.
-
-A **Seller University Skill and course question bank** are planned and have not been released. [Preview and follow updates](#planned-updates)
+<br><br>
 
 ## Browse by topic
 
-![Eight topics: getting started 12, listings 42, fulfillment 52, advertising 54, brands 30, compliance 30, global selling 19, and Amazon Business and business insights 31](assets/topic-map.png)
+Start with the question you are working on.
 
-Use the links below to open each topic's course list.
+<br>
 
-| Topic | Courses |
-| --- | ---: |
-| [Getting started and accounts](LEARNING_GUIDE.md#getting-started-and-accounts) | 12 |
-| [Listings and pricing](LEARNING_GUIDE.md#listings-and-pricing) | 42 |
-| [Fulfillment and shipping](LEARNING_GUIDE.md#fulfillment-and-shipping) | 52 |
-| [Advertising and promotions](LEARNING_GUIDE.md#advertising-and-promotions) | 54 |
-| [Brands and customer experience](LEARNING_GUIDE.md#brands-and-customer-experience) | 30 |
-| [Compliance and account health](LEARNING_GUIDE.md#compliance-and-account-health) | 30 |
-| [Global selling](LEARNING_GUIDE.md#global-selling) | 19 |
-| [Amazon Business and business insights](LEARNING_GUIDE.md#amazon-business-and-business-insights) | 31 |
+![Eight topics: accounts 12, listings 42, fulfillment 52, advertising 54, brands 30, compliance 30, global selling 19, business insights 31](assets/topic-map.png)
 
-The [learning guide](LEARNING_GUIDE.md) lists every course with its available languages. Topic groups and Chinese navigation names are editorial additions; original titles and transcripts are retained.
+<br>
+
+| Launch and operate | Grow and manage |
+| :--- | :--- |
+| [Getting started and accounts · 12](LEARNING_GUIDE.md#getting-started-and-accounts) | [Advertising and promotions · 54](LEARNING_GUIDE.md#advertising-and-promotions) |
+| [Listings and pricing · 42](LEARNING_GUIDE.md#listings-and-pricing) | [Brands and customer experience · 30](LEARNING_GUIDE.md#brands-and-customer-experience) |
+| [Fulfillment and shipping · 52](LEARNING_GUIDE.md#fulfillment-and-shipping) | [Global selling · 19](LEARNING_GUIDE.md#global-selling) |
+| [Compliance and account health · 30](LEARNING_GUIDE.md#compliance-and-account-health) | [Amazon Business and business insights · 31](LEARNING_GUIDE.md#amazon-business-and-business-insights) |
+
+<sub>Topic groups and Chinese navigation names are editorial additions. Original titles are retained. Courses without a Chinese-audio transcript are available in English.</sub>
+
+<br><br>
 
 ## Start here
 
-This is our suggested introduction. You can also choose a topic relevant to your current question.
+<br>
 
-![Suggested route: beginner overview, Seller Central, selling policies, listings, and FBA; continue with FBM for seller fulfillment](assets/starter-path.png)
+![Suggested first courses: beginner overview, Seller Central, selling policies, listings and FBA](assets/starter-path.png)
 
-1. [Sell in the Amazon store: 5-minute overview for beginners](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)
-2. [Intro to Seller Central](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)
-3. [Overview of Amazon selling policies](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)
-4. [Intro to listing products](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md)
-5. [Intro to Fulfillment by Amazon (FBA)](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)
+<br>
 
-For seller fulfillment, continue with [Intro to Fulfillment by Merchant (FBM)](courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md).
+1. **[5-minute overview for beginners](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)** · [中文](courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md)
+2. **[Intro to Seller Central](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)** · [中文](courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md)
+3. **[Overview of Amazon selling policies](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)** · [中文](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md)
+4. **[Intro to listing products](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md)** · [中文](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md)
+5. **[Intro to Fulfillment by Amazon (FBA)](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)** · [中文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)
+
+<sub>Fulfilling orders yourself? Continue with <a href="courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md">Intro to Fulfillment by Merchant (FBM)</a>.</sub>
+
+<br><br>
 
 ## Read a real excerpt
 
-This sample comes from the FBA introduction. The English and Chinese texts follow their respective audio tracks.
+A sample from the FBA introduction. Each language follows its corresponding audio.
 
-![Real FBA course excerpts: English text and a transcript of the Chinese audio](assets/fba-reading-example.png)
+<br>
 
-[Read the English FBA course](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [Chinese version](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) · [All 270 courses](课程目录.md)
+![An authentic FBA excerpt: English text and a transcript of the Chinese audio](assets/fba-reading-example.png)
 
-## Navigate a course
+<br>
 
-Each course page links back to its topic, offers available language alternatives, and provides previous/next navigation within the topic. Links from a Chinese page to an English-only course are labeled accordingly.
+**[Read the English course ↗](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)** &emsp; [中文全文](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)
 
-![Course-page diagram: topic and language links at the top, TXT and VTT links below the text, and previous/next links within the topic](assets/course-navigation.png)
+<br><br>
 
-[Try the FBA course](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [Back to the learning guide](LEARNING_GUIDE.md)
+## Planned updates
+
+<br>
+
+![Transcripts are available now. A Seller University Skill for course lookup and learning, and a question bank for topic-based practice, are planned and not yet released](assets/upcoming-preview.png)
+
+<br>
+
+**The Seller University Skill and course question bank are planned, not yet released.** Details and timing will be announced later. Neither is included in the current download.
+
+**Star to bookmark · Watch for updates**<br>
+Choose Watch → Custom → Releases for release notifications. [Published versions](https://github.com/haloshin/amazon-seller-university-transcripts/releases)
+
+<br><br>
 
 ## Download and use
 
-Download and extract the complete ZIP from [Releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest). For online reading, open the [learning guide](LEARNING_GUIDE.md). Offline, open `LEARNING_GUIDE.md` in a Markdown reader, or read TXT files in a text editor.
+Read and search offline after downloading.
 
-The ZIP includes [usage instructions](使用说明.txt), [LICENSE](LICENSE) and [NOTICE](NOTICE.md). TXT and VTT files retain the course text and captions; attribution and rights information appear on the reading pages and in the accompanying notices.
+<br>
 
-![Markdown for full-text reading, TXT for search and import, and VTT for use with the original video in a compatible player; get the ZIP from Releases and watch videos at the official Amazon portal](assets/reading-formats.png)
+**[Download the complete ZIP ↓](https://github.com/haloshin/amazon-seller-university-transcripts/releases/latest)** &emsp; **[Read online ↗](LEARNING_GUIDE.md)**
 
-| Purpose | File |
-| --- | --- |
-| Read the full course | `transcript.md` |
-| Search, copy, or import text | `transcript.txt` |
-| Use with the original video in a player supporting external captions | `captions.vtt` |
+<br>
+
+### Extract the ZIP, then open the learning guide
+
+Open `LEARNING_GUIDE.md` to choose a course. Read with a Markdown viewer, or search TXT files in a text editor.
+
+<br>
+
+![Markdown for full-text reading, TXT for search and import, and VTT for captions alongside the original video](assets/reading-formats.png)
+
+<br>
+
+<details>
+<summary><strong>File formats, captions and more ways to use the materials</strong></summary>
+
+<br>
+
+- **Markdown** — `transcript.md`, for reading in GitHub or a Markdown viewer.
+- **TXT** — `transcript.txt`, for full-text search, copying or importing into a reading tool.
+- **VTT** — `captions.vtt`, for a player that supports external captions alongside the original video. Videos are not included.
+
+The ZIP includes [usage instructions](使用说明.txt), [LICENSE](LICENSE) and [NOTICE](NOTICE.md). TXT and VTT retain the course text; attribution and terms appear on the reading pages and in the accompanying notices.
 
 You can also clone the repository:
 
@@ -88,31 +125,39 @@ You can also clone the repository:
 git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 ```
 
-For AI-assisted study, provide a selected transcript and any accompanying reading notes. Ask the assistant to cite the text and distinguish course statements from its own explanation.
+For AI-assisted study, provide the selected transcript and any accompanying reading notes. Ask the assistant to cite the text and distinguish course statements from its own explanation.
 
-## Planned updates
+</details>
 
-![Course transcripts are available now; the Seller University Skill and question bank are planned, not yet released. Star to bookmark and Watch for release updates](assets/upcoming-preview.png)
+<br>
 
-| Direction | Intended use | Status |
-| --- | --- | --- |
-| Seller University Skill | Help find courses, read the source text and support learning | Planned; not yet released |
-| Course question bank | Topic-based practice and self-assessment | Planned; not yet released |
+### Continue within the topic
 
-Details and release plans will be announced later. The current download contains transcripts and captions, not these planned additions.
+<br>
 
-If the materials are useful, **Star** the repository to bookmark it. To receive release notifications, choose **Watch → Custom → Releases**. Starring bookmarks the project; notifications depend on your Watch settings. [Published releases](https://github.com/haloshin/amazon-seller-university-transcripts/releases) · [GitHub notification settings](https://docs.github.com/en/subscriptions-and-notifications/get-started/configuring-notifications)
+![Course navigation: return to the topic, switch between available audio languages, and open the previous or next course](assets/course-navigation.png)
 
-## Watch the original course
+<br>
 
-Visit the [official Amazon Seller University learning portal](https://sell.amazon.com/learn/seller-university) and search by the original course title. Some content requires Seller Central sign-in. This repository provides text and captions.
+**[Try the FBA course ↗](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)**
 
-The collection reflects sources archived on **2026-07-27**. Of the 270 courses, 185 also have a Chinese-audio transcript; the remaining courses are available in English. A small number include brief notes on source discrepancies or uncertain wording.
+<sub>Chinese pages label a next course as English when no Chinese-audio transcript is available. Language links reflect the available audio tracks.</sub>
 
-Fees, policies, and interfaces may reflect the recording date. Check current official guidance before applying them. [Sources and usage notes](docs/SOURCES.md)
+<br><br>
 
-## Feedback and attribution
+## Sources and feedback
 
-Please [report a correction](https://github.com/haloshin/amazon-seller-university-transcripts/issues/new?template=correction.yml) with the course, language, timestamp, and supporting evidence. See [CONTRIBUTING.md](CONTRIBUTING.md).
+### Keep the source and the editor's credit
 
-Independently maintained by [SHIN](https://github.com/haloshin); not an official Amazon publication or endorsement. Course content and related marks belong to their respective rights holders. The courses are not relicensed under MIT or Creative Commons. MIT applies only to the original validation scripts. See [LICENSE](LICENSE) and [NOTICE.md](NOTICE.md).
+Independently maintained by **[SHIN](https://github.com/haloshin)**, without official Amazon endorsement. Please retain the course source, editorial credit and [original repository link](https://github.com/haloshin/amazon-seller-university-transcripts). Do not claim SHIN's contribution as your own or imply an official publication.
+
+Course content and related marks belong to their respective rights holders. Redistribution or commercial use beyond the limited permission for copyrightable original editorial material owned by SHIN requires separate permission. Normal forks, statutory exceptions and the scripts' MIT license remain unaffected. [Full terms](NOTICE.md) · [LICENSE](LICENSE)
+
+<br>
+
+- **Watch the original video** — visit the [official Amazon Seller University portal](https://sell.amazon.com/learn/seller-university) and search by the original title. Some content requires Seller Central sign-in.
+- **Report a correction** — [submit feedback](https://github.com/haloshin/amazon-seller-university-transcripts/issues/new?template=correction.yml) with the course, language, timestamp and supporting evidence.
+
+<sub>Scope: courses archived on 2026-07-27. Chinese transcripts follow Chinese audio. A small number of courses include brief reading notes. Check current official fees, policies and interfaces. <a href="docs/SOURCES.md">Sources</a> · <a href="CONTRIBUTING.md">Contributing</a></sub>
+
+<br>
