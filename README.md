@@ -12,7 +12,7 @@
   <a href="#接下来的更新"><strong>关注更新 →</strong></a>
 </p>
 
-<p align="center"><sub><a href="https://haloshin.github.io/amazon-seller-university-transcripts/">全部课程</a> &nbsp; · &nbsp; <a href="学习导航.md">Markdown 导航</a> &nbsp; · &nbsp; <a href="README.en.md">English</a></sub></p>
+<p align="center"><sub><a href="https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=zh">全部课程</a> &nbsp; · &nbsp; <a href="学习导航.md">Markdown 导航</a> &nbsp; · &nbsp; <a href="README.en.md">English</a></sub></p>
 
 <br>
 
@@ -28,19 +28,19 @@
 
 **[打开完整阅读版 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/)** · [Markdown 学习导航](学习导航.md)
 
-**270 门课程、455 份转写稿**，支持全文搜索、同主题课程目录、已有音轨中英切换和字号调整。首页可直接搜课，阅读页会定位当前课程，电脑与手机都可阅读。
+**270 门课程、455 份转写稿**，支持全文搜索、同主题课程目录、已有音轨中英切换和字号调整。首页提供搜索与入门路径，课程库集中浏览和筛选，阅读页专注原文。电脑与手机均可使用。
 
 下载完整 ZIP 并解压，双击 **`index.html`**，即可用浏览器离线阅读。请保留完整文件夹，无需安装软件或启动服务。
 
-[![HTML 阅读版实拍：同主题课程目录、清晰的标题层次与中文正文](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
+[![阅读首页：课程介绍、全文搜索和入门路径](assets/home-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/)
 
-<sub>阅读页使用已发布的同一份课程原文；中文稿来自中文音轨。</sub>
+<sub>首页找方向 → 课程库选课 → 阅读原文。全文搜索也可离线使用。</sub>
 
 <br><br>
 
 ## 按主题找课
 
-[![课程首页实拍：全文搜索、八个主题入口与五门入门课](assets/home-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/)
+[![独立课程库：主题目录、全文搜索、音轨筛选与课程条目](assets/library-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=zh)
 
 从你正在处理的问题出发，进入对应课程。
 
@@ -73,9 +73,18 @@
 
 ## 先看一段原文
 
-FBA 入门课程的英文阅读页实拍。英文稿与中文稿分别来自对应音轨，切换音轨即可对照阅读。
+FBA 入门课程的中文阅读页实拍。标题下可切换音轨、调整字号并下载原文；同主题课程目录保留在侧边。
+
+[![FBA 中文原文：标题层级、阅读工具和同主题目录](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
+
+<details>
+<summary>展开查看英文阅读页</summary>
+
+英文稿与中文稿分别来自对应音轨。
 
 [![英文 FBA 阅读页：原文、音轨切换与同主题课程目录](assets/english-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
+
+</details>
 
 <br>
 

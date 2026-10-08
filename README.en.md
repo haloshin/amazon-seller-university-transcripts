@@ -12,7 +12,7 @@
   <a href="#planned-updates"><strong>Follow updates →</strong></a>
 </p>
 
-<p align="center"><sub><a href="https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en">All courses</a> &nbsp; · &nbsp; <a href="LEARNING_GUIDE.md">Markdown guide</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></sub></p>
+<p align="center"><sub><a href="https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=en">All courses</a> &nbsp; · &nbsp; <a href="LEARNING_GUIDE.md">Markdown guide</a> &nbsp; · &nbsp; <a href="README.md">简体中文</a></sub></p>
 
 <br>
 
@@ -28,19 +28,19 @@
 
 **[Open the HTML reader ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)** · [Markdown guide](LEARNING_GUIDE.md)
 
-Browse all **270 courses and 455 transcripts** with full-text search, a contextual course directory, available audio-language switching and adjustable text size. Search from the home page and keep your place in the current topic while reading. The reader works on desktop and narrow screens.
+Browse all **270 courses and 455 transcripts** with full-text search, a contextual course directory, available audio-language switching and adjustable text size. Start with search or the guided reading path on the home page. Browse and filter in the dedicated library, then focus on the original text in the reader. Desktop and narrow screens are supported.
 
 Download and extract the complete ZIP, then open **`index.html`** in a browser to read offline. Keep the entire folder together; no installation or local server is needed.
 
-[![HTML reader: contextual course directory, title hierarchy and Chinese transcript](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
+[![Home page in Chinese: introduction, full-text search and starter path](assets/home-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)
 
-<sub>Actual HTML reader preview. The course text is the same published transcript; Chinese text follows Chinese audio.</sub>
+<sub>Start on the home page → Choose a course in the library → Read the original transcript. Full-text search also works offline.</sub>
 
 <br><br>
 
 ## Browse by topic
 
-[![The Chinese-interface course library: search, eight topics and five starting points](assets/home-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)
+[![Dedicated library in Chinese: topics, search, audio-language filters and course listings](assets/library-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=en)
 
 Start with the question you are working on.
 
@@ -73,9 +73,16 @@ Start with the question you are working on.
 
 ## Read a real excerpt
 
-The English FBA introduction in the reader. Each transcript follows its corresponding audio.
+The English FBA introduction in the reader. Switch audio transcripts, adjust the text size or download a course from the toolbar. Each transcript follows its corresponding audio.
 
 [![English FBA transcript: original text, audio-language tabs and course navigation](assets/english-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
+
+<details>
+<summary>View the Chinese-audio reading page</summary>
+
+[![Chinese FBA transcript and reading tools](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
+
+</details>
 
 <br>
 
