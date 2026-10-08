@@ -16,7 +16,9 @@
 
 <br>
 
-![270 courses across 8 topics; 455 transcripts: 270 English and 185 Chinese-audio transcripts](assets/reader-banner.png)
+<p align="center"><img src="assets/reader-banner.png" width="600" alt="An open course book, course documents and seller learning tools"></p>
+
+<p align="center"><strong>270 courses &nbsp; / &nbsp; 455 transcripts &nbsp; / &nbsp; 8 topics</strong><br><sub>270 English · 185 Chinese-audio transcripts</sub></p>
 
 <p align="center"><sub>Maintained by <a href="https://github.com/haloshin">SHIN</a> · Please retain source and credit · <a href="NOTICE.md">Terms of use</a></sub></p>
 
@@ -38,11 +40,9 @@ Download and extract the complete ZIP, then open **`index.html`** in a browser t
 
 ## Browse by topic
 
+[![The Chinese-interface course library: search, eight topics and five starting points](assets/home-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)
+
 Start with the question you are working on.
-
-<br>
-
-![Eight topics: accounts 12, listings 42, fulfillment 52, advertising 54, brands 30, compliance 30, global selling 19, business insights 31](assets/topic-map.png)
 
 <br>
 
@@ -61,10 +61,6 @@ Start with the question you are working on.
 
 <br>
 
-![Suggested first courses: beginner overview, Seller Central, selling policies, listings and FBA](assets/starter-path.png)
-
-<br>
-
 1. **[5-minute overview for beginners](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=zh_CN&ui=en)
 2. **[Intro to Seller Central](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=zh_CN&ui=en)
 3. **[Overview of Amazon selling policies](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=en_US&ui=en)** · [中文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=zh_CN&ui=en)
@@ -77,11 +73,9 @@ Start with the question you are working on.
 
 ## Read a real excerpt
 
-A sample from the FBA introduction. Each language follows its corresponding audio.
+The English FBA introduction in the reader. Each transcript follows its corresponding audio.
 
-<br>
-
-![An authentic FBA excerpt: English text and a transcript of the Chinese audio](assets/fba-reading-example.png)
+[![English FBA transcript: original text, audio-language tabs and course navigation](assets/english-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 
 <br>
 
@@ -120,7 +114,7 @@ Open **`index.html`** in a browser to choose courses, search and read offline. Y
 
 <br>
 
-![Markdown for full-text reading, TXT for search and import, and VTT for captions alongside the original video](assets/reading-formats.png)
+![Read and search online, browse HTML or text offline, and follow VTT captions](assets/reading-formats.png)
 
 <br>
 
@@ -149,10 +143,6 @@ For AI-assisted study, provide the selected transcript and any accompanying read
 <br>
 
 ### Continue within the topic
-
-<br>
-
-![Course navigation: return to the topic, switch between available audio languages, and open the previous or next course](assets/course-navigation.png)
 
 <br>
 

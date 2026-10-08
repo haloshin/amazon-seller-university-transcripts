@@ -35,12 +35,17 @@
     try { history.replaceState(null,'',value); }
     catch { location.hash = value; }
   }
-  function closeMenu() { sidebar.classList.remove('is-open'); menu.setAttribute('aria-expanded','false'); }
+  function closeMenu() { sidebar.classList.remove('is-open'); menu.setAttribute('aria-expanded','false'); document.getElementById('menu-scrim').hidden=true; document.body.classList.remove('menu-open'); }
+  function revealCurrentCourse() {
+    const active = sidebar.querySelector('.course-nav [aria-current="page"]');
+    const nav = sidebar.querySelector('.course-nav');
+    if (active && nav.clientHeight) nav.scrollTop = Math.max(0,active.offsetTop-nav.offsetTop-150);
+  }
   function shell() {
     english = state.get('ui') === 'en';
     document.documentElement.lang = english ? 'en' : 'zh-CN';
     document.getElementById('brand').href = href({});
-    document.getElementById('brand-name').innerHTML = t('卖家大学<span>SHIN · 课程阅读室</span>','Seller University<span>SHIN · READING ROOM</span>');
+    document.getElementById('brand-name').innerHTML = t('卖家大学 · 课程阅读室<span>SHIN 整理维护 · 非官方项目</span>','Seller University<span>READING ROOM · BY SHIN · UNOFFICIAL</span>');
     document.getElementById('help-link').textContent = t('使用与来源','About');
     document.getElementById('help-link').href = href({view:'about'});
     document.getElementById('ui-language').textContent = english ? '中文' : 'English';
@@ -59,9 +64,7 @@
     const group = data.courses.filter(item => item.navigationTopic === c.navigationTopic);
     sidebar.classList.add('course-sidebar');
     sidebar.innerHTML = `<a class="sidebar-back" href="${href({})}">${t('← 全部课程与主题','← All courses and topics')}</a><div class="sidebar-course-title">${topicTitle(c.navigationTopic)}</div><p class="sidebar-label">${t('本主题','IN THIS TOPIC')} · ${group.length} ${t('门课程','courses')}</p><nav class="course-nav" aria-label="${t('同主题课程目录','Courses in this topic')}">${group.map((item,i)=>{const v=chosen(item,locale);return `<a href="${courseHref(item,v.locale)}" ${item.moduleId===c.moduleId ? 'aria-current="page"' : ''}><span class="course-number">${String(i+1).padStart(2,'0')}</span><span>${esc(title(item))}${locale==='zh_CN' && v.locale!=='zh_CN' ? '<small>EN</small>' : ''}</span></a>`;}).join('')}</nav><div class="directory-footer"><a href="${href({topic:c.navigationTopic})}">${t('在本主题搜索 ↗','Search this topic ↗')}</a></div>`;
-    const active = sidebar.querySelector('[aria-current="page"]');
-    const nav = sidebar.querySelector('.course-nav');
-    if (active) nav.scrollTop = Math.max(0, active.offsetTop - nav.offsetTop - 150);
+    revealCurrentCourse();
   }
   function searchResults() {
     const query = (state.get('q') || '').trim().toLowerCase();
@@ -104,13 +107,29 @@
     document.title = (topic ? topicTitle(topic) : t('课程阅读室','Reading room')) + ' · Seller University · SHIN';
     const home = !topic && !state.get('q') && !state.get('language') && !state.get('page');
     const starterNames = english ? ['Get started','Meet Seller Central','Know the rules','Create a listing','Understand FBA'] : ['认识亚马逊开店','熟悉卖家平台','先读销售政策','发布第一件商品','了解 FBA 配送'];
-    main.innerHTML = `${home ? `<section class="hero"><div><div class="eyebrow">AMAZON SELLER UNIVERSITY / SHIN</div><h1>${t('亚马逊卖家大学<span>课程阅读室</span>','Amazon Seller University<span>A reading room for sellers</span>')}</h1><p>${t('按主题找课，沿原文阅读。','Find a topic. Read the original transcript.')}</p></div><img src="assets/reader-banner.png" alt="${t('270 门课程，455 份转写稿，8 个主题','270 courses, 455 transcripts, 8 topics')}" width="1774" height="887"></section><div class="stats"><div class="stat"><strong>${data.release.courseCount}</strong><span>${t('门课程','courses')}</span></div><div class="stat"><strong>${data.release.transcriptCount}</strong><span>${t('份音轨转写','transcripts')}</span></div><div class="stat"><strong>${Object.keys(data.topics).length}</strong><span>${t('个学习主题','topics')}</span></div></div><section aria-labelledby="starter-title"><div class="section-head"><h2 id="starter-title">${t('入门先读这五门','Five starting points')}</h2><small>${t('按需选读','Read at your own pace')}</small></div><ol class="starter-list">${data.starters.map((id,i)=>{const c=byId.get(id);return `<li><a href="${courseHref(c)}"><span class="step">0${i+1}</span><span class="step-title">${starterNames[i]}</span><small>${t('阅读','Read')} ↗</small></a></li>`;}).join('')}</ol></section>` : `<div class="eyebrow">COURSE LIBRARY</div><h1 style="margin-top:15px">${topic ? topicTitle(topic) : t('查找课程','Find a course')}</h1><p class="muted">${t('检索课程标题与原文，找到正在处理的问题。','Search course titles and transcripts for the question at hand.')}</p>`}<section aria-labelledby="library-title"><div class="section-head"><h2 id="library-title">${t('查找你需要的课程','Find the course you need')}</h2></div><form id="search-form" class="search-form" role="search"><label class="search-field"><span aria-hidden="true">⌕</span><input id="search" type="search" aria-label="${t('搜索课程标题与全文','Search titles and transcripts')}" placeholder="${t('搜索课程或正文，如 FBA、退货…','Search courses or text, e.g. FBA…')}" value="${esc(state.get('q')||'')}" maxlength="200"></label><button type="submit">${t('搜索','Search')}</button></form><div class="filter-row"><label for="language-filter">${t('音轨语言','Audio language')}</label><select id="language-filter"><option value="all">${t('全部语言','All languages')}</option><option value="zh_CN">${t('有中文音轨','Chinese audio available')}</option><option value="en_US">English</option></select><span id="result-count" class="result-count" aria-live="polite"></span></div><div id="results"></div></section>`;
-    if (home) {
-      const starter = main.querySelector('[aria-labelledby="starter-title"]');
-      const librarySection = main.querySelector('[aria-labelledby="library-title"]');
-      librarySection.insertBefore(starter,document.getElementById('results'));
-      main.querySelector('.hero > div').append(main.querySelector('.stats'));
-    }
+    const topicDescriptions = {
+      start: ['开店准备、账户与卖家平台','Accounts, setup and Seller Central'],
+      listings: ['商品信息、刊登与定价','Product pages, listings and pricing'],
+      fulfillment: ['FBA、自配送与库存','FBA, merchant shipping and inventory'],
+      ads: ['广告投放、优惠与促销','Advertising, offers and promotions'],
+      brands: ['品牌建设与买家服务','Brand building and buyer service'],
+      compliance: ['销售规则与账户健康','Selling policies and account health'],
+      global: ['跨境销售与站点拓展','International sales and expansion'],
+      business: ['企业客户与经营分析','Business customers and insights']
+    };
+    const topicPaths = {
+      start:'M4 21V7l8-4 8 4v14M9 21v-7h6v7M8 9h1m6 0h1',
+      listings:'M4 4h16v16H4zM4 9h16M9 9v11',
+      fulfillment:'m3 7 9-4 9 4v10l-9 4-9-4ZM3 7l9 4 9-4M12 11v10M8 5l9 4',
+      ads:'M4 10v5h4l10 5V5L8 10ZM8 15l2 6M21 9v7',
+      brands:'M12 3l3 6 6 1-4.5 4.5L18 21l-6-3-6 3 1.5-6.5L3 10l6-1Z',
+      compliance:'M12 3l8 3v6c0 5-8 9-8 9s-8-4-8-9V6ZM8 12l3 3 5-6',
+      global:'M3 12h18M12 3c-5 5-5 13 0 18 5-5 5-13 0-18M12 3a9 9 0 1 0 0 18 9 9 0 0 0 0-18',
+      business:'M4 3v18h17M8 16v-5m5 5V7m5 9V4'
+    };
+    const topics = `<section class="discovery" aria-labelledby="topics-title"><div class="section-head"><h2 id="topics-title">${t('从一个主题开始','Start with a topic')}</h2><small>${t('8 个主题 · 按需选读','8 topics · Explore at your pace')}</small></div><div class="topic-grid">${Object.keys(data.topics).map(key=>`<a class="topic-card" href="${href({topic:key})}"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="${topicPaths[key]}"/></svg><span class="topic-card-title">${topicTitle(key)}</span><span class="topic-card-desc">${topicDescriptions[key][english?1:0]}</span><span class="topic-card-count">${countTopic(key)} ${t('门课程','courses')} <span aria-hidden="true">↗</span></span></a>`).join('')}</div></section>`;
+    const starters = `<section class="discovery starter-section" aria-labelledby="starter-title"><div class="section-head"><h2 id="starter-title">${t('第一次来，先读这五门','New here? Begin with these five')}</h2></div><ol class="starter-list">${data.starters.map((id,i)=>`<li><a href="${courseHref(byId.get(id))}"><span class="step">0${i+1}</span><span class="step-title">${starterNames[i]}</span><span class="step-arrow" aria-hidden="true">↗</span></a></li>`).join('')}</ol></section>`;
+    main.innerHTML = `${home ? `<section class="hero"><div><div class="eyebrow">SELLER UNIVERSITY · READING ROOM</div><h1>${t('把课程展开，<br>把问题读明白。','A place to read.<br>A clearer way to learn.')}</h1><p>${t('亚马逊卖家大学课程转写稿。<br>保留原文脉络，找到此刻需要的知识。','Amazon Seller University transcripts.<br>Original course content, ready to explore.')}</p><div class="stats"><div class="stat"><strong>${data.release.courseCount}</strong><span>${t('门课程','courses')}</span></div><div class="stat"><strong>${data.release.transcriptCount}</strong><span>${t('份转写稿','transcripts')}</span></div><div class="stat"><strong>8</strong><span>${t('个主题','topics')}</span></div></div></div><img src="assets/reader-banner.png" alt="" width="1536" height="1024"></section>` : `<div class="eyebrow">COURSE LIBRARY</div><h1 class="library-heading">${topic ? topicTitle(topic) : t('查找课程','Find a course')}</h1><p class="library-intro">${topic ? topicDescriptions[topic][english?1:0] : t('检索课程标题与原文，找到正在处理的问题。','Search course titles and transcripts for the question at hand.')}</p>`}<section aria-labelledby="library-title"><div class="section-head search-heading"><h2 id="library-title">${t('你想了解什么？','What would you like to learn?')}</h2><small>${t('标题与全文检索','Search titles and full text')}</small></div><form id="search-form" class="search-form" role="search"><label class="search-field"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m16 16 5 5"/></svg><input id="search" type="search" aria-label="${t('搜索课程标题与全文','Search titles and transcripts')}" placeholder="${t('试试 FBA、退货、商品发布…','Try FBA, returns, product listings…')}" value="${esc(state.get('q')||'')}" maxlength="200"></label><button type="submit">${t('搜索','Search')} <span aria-hidden="true">↗</span></button></form>${home ? `<div id="discovery">${topics}${starters}</div>` : ''}<div class="filter-row"><label for="language-filter">${t('音轨语言','Audio language')}</label><select id="language-filter"><option value="all">${t('全部语言','All languages')}</option><option value="zh_CN">${t('有中文音轨','Chinese audio available')}</option><option value="en_US">English</option></select><span id="result-count" class="result-count" aria-live="polite"></span></div><div id="results"></div></section>`;
     const input = document.getElementById('search');
     const filter = document.getElementById('language-filter');
     filter.value = ['zh_CN','en_US'].includes(state.get('language')) ? state.get('language') : 'all';
@@ -120,6 +139,8 @@
       filter.value === 'all' ? state.delete('language') : state.set('language',filter.value);
       state.delete('page');
       replaceHash(href(Object.fromEntries(state)));
+      const discovery = document.getElementById('discovery');
+      if (discovery) discovery.hidden=Boolean(q || filter.value !== 'all');
       results();
     }
     document.getElementById('search-form').onsubmit = e => {e.preventDefault();updateSearch();};
@@ -131,7 +152,32 @@
     const lines = v.text.split(/\r?\n/);
     // Suppress only the duplicate source H1 already shown as the page title.
     if (lines[0] === '# ' + c.title) lines.shift();
-    return lines.filter(line => line.trim()).map(line => `<p>${esc(line)}</p>`).join('');
+    const paragraphs = [];
+    let separated = true;
+    for (const line of lines) {
+      if (!line.trim()) { separated = true; continue; }
+      // Some English transcripts wrap a sentence at caption-width boundaries.
+      // Reflow those continuations for reading; source files remain untouched.
+      const previous = paragraphs.at(-1);
+      if (v.locale === 'en_US' && !separated && previous && !/[.!?:]["'”’)]*\s*$/.test(previous) && !/^\s*(?:[-*•]|\d+[.)])\s/.test(line)) {
+        paragraphs[paragraphs.length-1] = previous.trimEnd() + ' ' + line.trimStart();
+      } else paragraphs.push(line);
+      separated = false;
+    }
+    const readable = v.locale !== 'en_US' ? paragraphs : paragraphs.flatMap(paragraph => {
+      if (paragraph.length <= 700) return [paragraph];
+      const blocks = [];
+      let block = '';
+      // A reflowed caption block can be very long. Add visual paragraph breaks
+      // only after complete sentences, preserving every word and its order.
+      for (const sentence of paragraph.split(/(?<=[.!?])(?=\s+[A-Z“"])/)) {
+        if (block.length >= 380) { blocks.push(block); block = ''; }
+        block += sentence;
+      }
+      if (block) blocks.push(block);
+      return blocks;
+    });
+    return readable.map(line => `<p>${esc(line)}</p>`).join('');
   }
   function course() {
     const c = byId.get(state.get('id'));
@@ -194,8 +240,19 @@
     if (focus) main.focus({preventScroll:true});
     updateProgress();
   }
-  menu.onclick = () => {const open = !sidebar.classList.contains('is-open');sidebar.classList.toggle('is-open',open);menu.setAttribute('aria-expanded',String(open));if(open){const active=sidebar.querySelector('.course-nav [aria-current="page"]');const nav=sidebar.querySelector('.course-nav');if(active)nav.scrollTop=Math.max(0,active.offsetTop-nav.offsetTop-150);}};
-  document.addEventListener('keydown',e => {if(e.key==='Escape'){closeMenu();menu.focus();}});
+  menu.onclick = () => {const open = !sidebar.classList.contains('is-open');sidebar.classList.toggle('is-open',open);menu.setAttribute('aria-expanded',String(open));document.getElementById('menu-scrim').hidden=!open;document.body.classList.toggle('menu-open',open);if(open)revealCurrentCourse();};
+  document.getElementById('menu-scrim').onclick = () => {closeMenu();menu.focus();};
+  window.addEventListener('resize',()=>{if(window.innerWidth>760){closeMenu();requestAnimationFrame(revealCurrentCourse);}});
+  document.addEventListener('keydown',e => {
+    if(!sidebar.classList.contains('is-open')) return;
+    if(e.key==='Escape'){closeMenu();menu.focus();}
+    if(e.key==='Tab'){
+      const items=[menu,...sidebar.querySelectorAll('a[href],button')];
+      const at=items.indexOf(document.activeElement);
+      if(e.shiftKey && at<=0){e.preventDefault();items.at(-1).focus();}
+      else if(!e.shiftKey && (at===items.length-1 || at<0)){e.preventDefault();menu.focus();}
+    }
+  });
   document.addEventListener('click',e => {if(!sidebar.contains(e.target) && !menu.contains(e.target)) closeMenu();});
   document.getElementById('ui-language').onclick = () => {state.set('ui',english ? 'zh' : 'en');location.hash=state.toString();};
   document.querySelector('.skip-link').onclick = e => {e.preventDefault();main.focus();main.scrollIntoView();};

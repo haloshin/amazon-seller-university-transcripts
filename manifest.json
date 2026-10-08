@@ -1,5 +1,5 @@
 {
-  "version": "0.4.1",
+  "version": "0.5.0",
   "files": [
     {
       "path": ".github/ISSUE_TEMPLATE/correction.yml",
@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 10740,
-      "sha256": "d43b36b33f036af6aeaea4d9d825161e197aa61961fcb538051e94a92a250ab8"
+      "bytes": 10772,
+      "sha256": "616de533467eaed3f330c69358d6ec8be38b17c0644fe76cda04cbe50ee2bbdb"
     },
     {
       "path": "README.md",
-      "bytes": 10058,
-      "sha256": "1ab4c013433e7b996370efd36b89657aeb17ce4467d2628ce4b82d8d81580204"
+      "bytes": 10091,
+      "sha256": "dab14fb5193955088b09fe89b7fb72dd03abe48306936746d0a97eda6a7c47e9"
     },
     {
       "path": "SECURITY.md",
@@ -63,48 +63,43 @@
     },
     {
       "path": "assets/MANIFEST.md",
-      "bytes": 2554,
-      "sha256": "f406a7e09c289765f1a999cd020d711cada6379b4a836e15ba0aa3439cf3f9b9"
+      "bytes": 1811,
+      "sha256": "9013d69703acabd5b1962b69b1851463e98442f892549e33756744f8aebb250b"
     },
     {
-      "path": "assets/course-navigation.png",
-      "bytes": 1310197,
-      "sha256": "254f2e00c3eac67523ffc417fcbbad6da84a946587d426ae899496b1d9fdf506"
+      "path": "assets/english-reader-preview.jpg",
+      "bytes": 166070,
+      "sha256": "2dbc27ad8200e4957e9fafc3a1539b363302908ae2bfccc437721dcfe5ea6996"
     },
     {
-      "path": "assets/fba-reading-example.png",
-      "bytes": 1957154,
-      "sha256": "4d7e968bcd491202f0e05fde33ff22ded344f82693a42716ffa9854e4435483d"
+      "path": "assets/favicon.svg",
+      "bytes": 258,
+      "sha256": "21df32c0d6d7e2d19790e9c9379cf667977aa2e96618d4eea7dcd4efa764a0e0"
+    },
+    {
+      "path": "assets/home-preview.jpg",
+      "bytes": 147234,
+      "sha256": "c0d3fa43a400765c0c7868909709df648238afc3cb9c7977f2370f56cda02c95"
     },
     {
       "path": "assets/html-reader-preview.jpg",
-      "bytes": 83960,
-      "sha256": "6b659eacf12437788649cae3f311c9cde87684e729e2f880cd67f1b335d2d05e"
+      "bytes": 137224,
+      "sha256": "d32eb0e93b75f7c5dd08b622faa8f7119d5ce9b293ec95ea9612ee5b718ec40d"
     },
     {
       "path": "assets/reader-banner.png",
-      "bytes": 1681116,
-      "sha256": "a32aea6cd6f4a10e631c7d31382cd532a6ce71954f94035a57e8f9f75dd8a520"
+      "bytes": 1380183,
+      "sha256": "ae0ddd344ea2bbcd317db8e68f28339384508bfb8a2b0b4ffde6c892239c17b7"
     },
     {
       "path": "assets/reading-formats.png",
-      "bytes": 1272383,
-      "sha256": "a5c01b8303de784ecf8efc532c914bb721c3c4a77303410a79a1ef4f51310c42"
-    },
-    {
-      "path": "assets/starter-path.png",
-      "bytes": 1365164,
-      "sha256": "2ffc14e38f9b17d2b4a5181877617bf35a201d7f09842b2f046d312c76185d29"
-    },
-    {
-      "path": "assets/topic-map.png",
-      "bytes": 1521496,
-      "sha256": "7712eeece151cf311cc617435d5f405511e05bfe8eeddbfdb1a2732c27e1a93d"
+      "bytes": 1125613,
+      "sha256": "d81428199c840b86cec720ee9f688fe1d80fbb31dd4f106f57307f171fde7b3b"
     },
     {
       "path": "assets/upcoming-preview.png",
-      "bytes": 1744861,
-      "sha256": "e1aee96c796230738dbf23906169874a1e81093c830dde10ba6f9b9b948c4e0f"
+      "bytes": 1259176,
+      "sha256": "90e749b70dc7bf29561ac251fa5333c05cd32fa0130e0df68752e7ac3a6a16cb"
     },
     {
       "path": "catalog.json",
@@ -119,7 +114,7 @@
     {
       "path": "courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/en_US/course.json",
       "bytes": 773,
-      "sha256": "82374a0a85db8a9c891e6672faaf06ae3f897321ac756444fdf051fa45dbadc6"
+      "sha256": "2fe8849824d42eddc59249be907b754bac6f02ef54c34c967c823bc195168b71"
     },
     {
       "path": "courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/en_US/transcript.md",
@@ -139,7 +134,7 @@
     {
       "path": "courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "a820eda998221e7922e50ec4178ee372b0de23e5a73ab9aa971472a9fff54280"
+      "sha256": "d4d8a100af899cd8a75a6d97c3aead678bb359ace713ae83c3e231ff3b242df7"
     },
     {
       "path": "courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/zh_CN/transcript.md",
@@ -159,7 +154,7 @@
     {
       "path": "courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/en_US/course.json",
       "bytes": 810,
-      "sha256": "0b6b4153fed9f8d11cc9535883429093aaf954e934ead425b473d625c2ac080a"
+      "sha256": "c0536e87f1a205d2c9d6cee65ad6a4c89eba81e7d08deb6f044616f1bdb089d1"
     },
     {
       "path": "courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/en_US/transcript.md",
@@ -179,7 +174,7 @@
     {
       "path": "courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/zh_CN/course.json",
       "bytes": 806,
-      "sha256": "290354d9df879fc679514e720943233f6e51db69a1e3cee58659b4e4cf1244fb"
+      "sha256": "121ad113b02f32bc72a4b087b4db2bc824c81f7a2b0e5a5c4de5819546d603a6"
     },
     {
       "path": "courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/zh_CN/transcript.md",
@@ -199,7 +194,7 @@
     {
       "path": "courses/052084ba-aa05-4030-86d1-56cec47183dd/en_US/course.json",
       "bytes": 773,
-      "sha256": "91b08431416123239847d1f923d96923d8760845d8c16bafbfbb0ecc95b0a844"
+      "sha256": "837145a3d45f1ff442b406b963b9428ee6879b5a40c51f0d51c8d3553c72da46"
     },
     {
       "path": "courses/052084ba-aa05-4030-86d1-56cec47183dd/en_US/transcript.md",
@@ -219,7 +214,7 @@
     {
       "path": "courses/052084ba-aa05-4030-86d1-56cec47183dd/zh_CN/course.json",
       "bytes": 773,
-      "sha256": "02ed432837b83424f28cd7407ce1c58bccfa51a879123603e2bce6675ac8fb3b"
+      "sha256": "7a952153a7178b8c3a6df5498cbeaac4eb715949534f0b2bcfc083932ecec3a4"
     },
     {
       "path": "courses/052084ba-aa05-4030-86d1-56cec47183dd/zh_CN/transcript.md",
@@ -239,7 +234,7 @@
     {
       "path": "courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/en_US/course.json",
       "bytes": 779,
-      "sha256": "67605bc21f59a2709e5c17c1d9f52e46f26e2337edfb4f909e726b42dc07d629"
+      "sha256": "4c10cb9e14cd9daf90910a86036a55ff1ca27b963c0549eb94c341b80ad03e99"
     },
     {
       "path": "courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/en_US/transcript.md",
@@ -259,7 +254,7 @@
     {
       "path": "courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/zh_CN/course.json",
       "bytes": 776,
-      "sha256": "78865203df47cf3844d5c6cada93c0c064edeb97439aea4e2fcc6a9c024f8138"
+      "sha256": "47935c1a43e48376248e84a46f96288bdcf8621671b4efd532b2d5054869c5fb"
     },
     {
       "path": "courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/zh_CN/transcript.md",
@@ -279,7 +274,7 @@
     {
       "path": "courses/05930523-8e15-4010-8bf9-16307ad17eb2/en_US/course.json",
       "bytes": 802,
-      "sha256": "c4c88bcd00b7ecd9b1c8b91640a16b67edb6f4c91271a53175bdc4f09bcbfe1a"
+      "sha256": "36b7ac5d7dbe4cc8f504e3f8d969c0915a2fcb3f3c0346afc5cac709dfc48b8f"
     },
     {
       "path": "courses/05930523-8e15-4010-8bf9-16307ad17eb2/en_US/transcript.md",
@@ -299,7 +294,7 @@
     {
       "path": "courses/05930523-8e15-4010-8bf9-16307ad17eb2/zh_CN/course.json",
       "bytes": 798,
-      "sha256": "8e0f4fbd4c82ffc010adc5bc064b08bceec2289ad4234423b777153f8bd34b7a"
+      "sha256": "fcba403750c8d573097846f61786523bc8cbc7cd097db6657c2ef12df68d13bc"
     },
     {
       "path": "courses/05930523-8e15-4010-8bf9-16307ad17eb2/zh_CN/transcript.md",
@@ -319,7 +314,7 @@
     {
       "path": "courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/course.json",
       "bytes": 777,
-      "sha256": "d00c0b35599b80a7a086a5c536355804a992e0eb0208ec8dc07fe215fb7287b4"
+      "sha256": "81830fff7c89b64eb300f6796f3ec3ed9f586b6b0fa1ac2c08f15a3259d58524"
     },
     {
       "path": "courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/transcript.md",
@@ -339,7 +334,7 @@
     {
       "path": "courses/0646548c-7a14-4d03-851b-33a650f7c033/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "177606cce4baf63fd3da3b1ff9b23d360c25da221bb92cbb8f66fce968ab3fbf"
+      "sha256": "d7ef30cdc3276468865618dca0dc800c1286d9b4875d994045424883a8a58016"
     },
     {
       "path": "courses/0646548c-7a14-4d03-851b-33a650f7c033/zh_CN/transcript.md",
@@ -359,7 +354,7 @@
     {
       "path": "courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/en_US/course.json",
       "bytes": 796,
-      "sha256": "c8cba746322956695d65282b3acd456ab60779002060a3250343a6fd082be896"
+      "sha256": "671fe8816a8973e7f117b6befca123946399563406408d9fdb23b0fd117784d3"
     },
     {
       "path": "courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/en_US/transcript.md",
@@ -379,7 +374,7 @@
     {
       "path": "courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/zh_CN/course.json",
       "bytes": 797,
-      "sha256": "f95e0e3ec3fcf6ce4abb69c2bee1c29a6436092b8c1533f5fb335b0a8e4b1afe"
+      "sha256": "947ad34629a53cb2f2d27aaf0ec99158d93b61ec52ed63c5d5e48012dc199f8a"
     },
     {
       "path": "courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/zh_CN/transcript.md",
@@ -399,7 +394,7 @@
     {
       "path": "courses/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/en_US/course.json",
       "bytes": 772,
-      "sha256": "766555fa4f35df8bfc4978535a9f004375e47824014639abb969b236420e5753"
+      "sha256": "29735327d68925a80664e076697c33abef9122533b5ca404ea415513a35ffdc0"
     },
     {
       "path": "courses/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/en_US/transcript.md",
@@ -419,7 +414,7 @@
     {
       "path": "courses/0982f544-3c62-43ee-b54a-606892d32662/en_US/course.json",
       "bytes": 763,
-      "sha256": "0d16921f79208e8b8376176c358fac3120d9d58123a30c5eb833fe3bd49af181"
+      "sha256": "50b75a45fe19413df6c318133d94cb4206023b636b480e49406be07c62b81fcf"
     },
     {
       "path": "courses/0982f544-3c62-43ee-b54a-606892d32662/en_US/transcript.md",
@@ -439,7 +434,7 @@
     {
       "path": "courses/0982f544-3c62-43ee-b54a-606892d32662/zh_CN/course.json",
       "bytes": 760,
-      "sha256": "b7533ec21c720107468a5bbc984602e06987a527c218120d4091f6c546382b04"
+      "sha256": "33fbd89c120aa9e2ea98126cf21454cd2054f348f81db9af693db6dcd8c37b69"
     },
     {
       "path": "courses/0982f544-3c62-43ee-b54a-606892d32662/zh_CN/transcript.md",
@@ -459,7 +454,7 @@
     {
       "path": "courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/course.json",
       "bytes": 789,
-      "sha256": "eab08dcd6cf652d79c9dac923de840f35b594bb475feb7cdb28bf0f2179f7855"
+      "sha256": "714e7699d2a2da335bbad63e99791fbe78236bd36767ec6b7d0099ce805171d7"
     },
     {
       "path": "courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md",
@@ -479,7 +474,7 @@
     {
       "path": "courses/09a25aab-2175-41ad-b349-443e73a9d646/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "f0302289ee82e5491b22a79512d06568eb65ac34ae4f7f24a1782b5bd2d5959d"
+      "sha256": "56f49cb6280f01b1f780c4455b506941a35e55abf4df6a66bf3de6c68005d1b8"
     },
     {
       "path": "courses/09a25aab-2175-41ad-b349-443e73a9d646/zh_CN/transcript.md",
@@ -499,7 +494,7 @@
     {
       "path": "courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/en_US/course.json",
       "bytes": 776,
-      "sha256": "5f65f747ea92b2d576f8ff9f82bdfc3ea727245be0edc483d37440fd01b46161"
+      "sha256": "3497c1b3c6c1d3bcbaf341deb2d23ad1da13ff1e09341e3d27f5a5877fee46e2"
     },
     {
       "path": "courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/en_US/transcript.md",
@@ -519,7 +514,7 @@
     {
       "path": "courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/zh_CN/course.json",
       "bytes": 776,
-      "sha256": "01bf77754184f2de11891ab33969ad351f476ee9660865cff6818b88dce9ae85"
+      "sha256": "b341e4ade9dceb762ee86cf3db85bef0cd6cf3cb5a98ec9f947d1fa67d674b00"
     },
     {
       "path": "courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/zh_CN/transcript.md",
@@ -539,7 +534,7 @@
     {
       "path": "courses/09e14bee-0ab7-4674-9265-562271f8e59d/en_US/course.json",
       "bytes": 806,
-      "sha256": "ac98234d556b4439a6b7d1dcec5fc367124ab02af1623ec365c6f35f0d83548c"
+      "sha256": "81e5bb623fef4857af3bf84da20493d98dd459f9328aa88c68cb142be225b433"
     },
     {
       "path": "courses/09e14bee-0ab7-4674-9265-562271f8e59d/en_US/transcript.md",
@@ -559,7 +554,7 @@
     {
       "path": "courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/en_US/course.json",
       "bytes": 817,
-      "sha256": "d2ade5682a532c6ae7532b15b8913780971ae106c2ca0a89f355a2101f1d7bac"
+      "sha256": "dd8d0719953b8da1863718a34fba59d87b92f74e2805445b101e547f56f98680"
     },
     {
       "path": "courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/en_US/transcript.md",
@@ -584,7 +579,7 @@
     {
       "path": "courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/zh_CN/course.json",
       "bytes": 817,
-      "sha256": "69a8dd9ccc81703ac9f8e290c55c3fb8c5cdae962fbbb3be94284689313c85a7"
+      "sha256": "ba59422ca78fbd59a24ed0703d6a2e652e6a107323228d72ff3a4bf75e8c2152"
     },
     {
       "path": "courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/zh_CN/transcript.md",
@@ -604,7 +599,7 @@
     {
       "path": "courses/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/en_US/course.json",
       "bytes": 786,
-      "sha256": "2f2a29da1117c133c9c4fc3f39136376fe1ce2ae2f467fc3f4fee0448af97a72"
+      "sha256": "73fb8a901a028f609b90b56dc7eb448d6cfb31f214b690ab2b1fd3edfb315f00"
     },
     {
       "path": "courses/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/en_US/transcript.md",
@@ -624,7 +619,7 @@
     {
       "path": "courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/en_US/course.json",
       "bytes": 790,
-      "sha256": "9a78fb184e5371d089a1b02a643be5b1c40f8cbd0b1a191b8fb2a239a6f68d1f"
+      "sha256": "6adca94cce617c2c4b23164a45c09e486da8571b90ae151f4282816a0179bd3f"
     },
     {
       "path": "courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/en_US/transcript.md",
@@ -644,7 +639,7 @@
     {
       "path": "courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/zh_CN/course.json",
       "bytes": 786,
-      "sha256": "abd83294a455de314c527e917ab1434d7e62a0f1b5a69cf0f8d76cf27c3cb416"
+      "sha256": "6cc08de52e032d703aa560948edd399ba0edca60cfce044cd80cb301a8ae3220"
     },
     {
       "path": "courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/zh_CN/transcript.md",
@@ -664,7 +659,7 @@
     {
       "path": "courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/en_US/course.json",
       "bytes": 770,
-      "sha256": "c1717c25929c6da8057d4fe61b4a76d5987acc0b4064fad52bd921fcb9437f97"
+      "sha256": "47aa24730a243b3c9bc12ff01f0649da365169ec550fb1216a11b73c832bae60"
     },
     {
       "path": "courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/en_US/transcript.md",
@@ -684,7 +679,7 @@
     {
       "path": "courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/zh_CN/course.json",
       "bytes": 770,
-      "sha256": "ccc8bdab7509fddd4db9237a93bb48311b7b976079ca4c54e9b45569321aefc1"
+      "sha256": "76ab2a5d377c6469443b26c502d3f71037323cd11a936dafa80168db618dbda9"
     },
     {
       "path": "courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/zh_CN/transcript.md",
@@ -704,7 +699,7 @@
     {
       "path": "courses/0f15b9e5-5669-4df6-b88c-15b9bdf991db/en_US/course.json",
       "bytes": 770,
-      "sha256": "911a9e890517d9f2f7849e769b60f5e10f94bd21ba0d9daa6f796858cc6717f7"
+      "sha256": "4d607fa7ebf9032d0932a4d08b00426a4db1b32bd93b7aa4a25e7e6f4a9afd52"
     },
     {
       "path": "courses/0f15b9e5-5669-4df6-b88c-15b9bdf991db/en_US/transcript.md",
@@ -724,7 +719,7 @@
     {
       "path": "courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/en_US/course.json",
       "bytes": 775,
-      "sha256": "b06be331f789e6d1fd64eee83a803aecf58c20164a16608794c6abeeee1eac93"
+      "sha256": "9f07aa1f31c47ef6d5d8a41975aa694863120653cf7dcf1620ef7267b035cc12"
     },
     {
       "path": "courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/en_US/transcript.md",
@@ -744,7 +739,7 @@
     {
       "path": "courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "3c104b8a5465ec056fb7cfd7e1e97d435384f4768eaa19dff44d186812eacebb"
+      "sha256": "bd244d8f2c81752010bd6a9f6148f043c66b134e81bd32734dae0a4937f24ef3"
     },
     {
       "path": "courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/zh_CN/transcript.md",
@@ -764,7 +759,7 @@
     {
       "path": "courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/course.json",
       "bytes": 809,
-      "sha256": "33c2f68ee2b05af68d78fd9a3abb0848a0cea30121f63c8a50e988222dad4751"
+      "sha256": "a7dcb243385d8debfd0c2748695c01d88d638d34ebe48b0b061e945905ce1e5d"
     },
     {
       "path": "courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/transcript.md",
@@ -784,7 +779,7 @@
     {
       "path": "courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/en_US/course.json",
       "bytes": 776,
-      "sha256": "f45ac29aa87b98504597be63140da48046a1b5a97f1a4bee39aed0da40711369"
+      "sha256": "c31b46acd9120dfb2950be5fb336bf7072a13ff0c6f64688792cdff7138da252"
     },
     {
       "path": "courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/en_US/transcript.md",
@@ -804,7 +799,7 @@
     {
       "path": "courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/zh_CN/course.json",
       "bytes": 776,
-      "sha256": "6d82fd9e9b323e9e86d21909f63a5280110ed7b3eb4b7e3f3fd485cddb941e08"
+      "sha256": "5ad6def634f1e77f1d7040505ee559f311fd4669b5fa563aac4896320b0e49ab"
     },
     {
       "path": "courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/zh_CN/transcript.md",
@@ -824,7 +819,7 @@
     {
       "path": "courses/12577640-c955-43e6-9a2d-901c52aebad1/en_US/course.json",
       "bytes": 789,
-      "sha256": "57b030f7258c10471567272f382ee3c7d784245a4807e608fcd75c7d76b4db81"
+      "sha256": "5eff37215f90c46bf4b1b09e6e991ab60afad68cf2c08a8d1ce112e1c53d2563"
     },
     {
       "path": "courses/12577640-c955-43e6-9a2d-901c52aebad1/en_US/transcript.md",
@@ -844,7 +839,7 @@
     {
       "path": "courses/12577640-c955-43e6-9a2d-901c52aebad1/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "31d0a30b4d4c745e9940d08a8065067acaa8cbb7f478c4d9fc6fdfc731a95a02"
+      "sha256": "22110330f4962f2473e8a368ae398cc42b09942d7bed0e549532d469d72cca59"
     },
     {
       "path": "courses/12577640-c955-43e6-9a2d-901c52aebad1/zh_CN/transcript.md",
@@ -864,7 +859,7 @@
     {
       "path": "courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/course.json",
       "bytes": 807,
-      "sha256": "1c0375cdb4b8903596ff10ab01234ca1f8b7dcbd8393d1a8864337fa515d57dd"
+      "sha256": "6ba6005bdf177f01a545e929a3a8c9452b83b7fb13fb524167b280864490f221"
     },
     {
       "path": "courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/transcript.md",
@@ -884,7 +879,7 @@
     {
       "path": "courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/en_US/course.json",
       "bytes": 787,
-      "sha256": "ef033dc13868bc619d1144630d63e92fb43d7cc5cbe29fe994aa4237cf02b55f"
+      "sha256": "e86fa50a7770d17cf5e158c24eb28943698eda13831d8933016e1e897bcb47f0"
     },
     {
       "path": "courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/en_US/transcript.md",
@@ -904,7 +899,7 @@
     {
       "path": "courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "a35f4733411ecc5db129062df56096683627574ab5197afffd6ddb7a3b14a2cc"
+      "sha256": "2ee35544cbdf798cfef5b5ee929ea9df39af8f32d06b7df8e89e1b16be536cc2"
     },
     {
       "path": "courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/zh_CN/transcript.md",
@@ -924,7 +919,7 @@
     {
       "path": "courses/13e13735-ad60-4d5e-8a69-55c7455cba80/en_US/course.json",
       "bytes": 787,
-      "sha256": "c19e144d94295b2ef9dc3bde788cfa732f26e43850a33e609cd3bb718fe36f20"
+      "sha256": "8693cedee55d19f1c050e07219bd037d56692c475eaa0d220cffbc344e2b61b2"
     },
     {
       "path": "courses/13e13735-ad60-4d5e-8a69-55c7455cba80/en_US/transcript.md",
@@ -944,7 +939,7 @@
     {
       "path": "courses/13e13735-ad60-4d5e-8a69-55c7455cba80/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "41d2f118815ae6bca3f5eab6a530a8973528bbccc9a3109867797407a0c6a98f"
+      "sha256": "90eedbebad4e3225037edae6d991b6f43c3c15a6c6ec2ebeb029e056a357dc27"
     },
     {
       "path": "courses/13e13735-ad60-4d5e-8a69-55c7455cba80/zh_CN/transcript.md",
@@ -964,7 +959,7 @@
     {
       "path": "courses/14553ca4-057c-4ea0-8a7f-1962695ba18f/en_US/course.json",
       "bytes": 780,
-      "sha256": "6426ca788ba468c13f61b00956b84ff81b29262a38fd5f66ca889050abb68ee5"
+      "sha256": "7e87c7543eeacaccc72f8caea8640b8abfd543dab34444205be7bcc81dfe9f13"
     },
     {
       "path": "courses/14553ca4-057c-4ea0-8a7f-1962695ba18f/en_US/transcript.md",
@@ -984,7 +979,7 @@
     {
       "path": "courses/155f35ac-295f-46a0-bc01-2423a9d62936/en_US/course.json",
       "bytes": 767,
-      "sha256": "0d74e0c79655356f4d1f30c3b048e8d2ef2e7b6e67750f5f03d455af578cbb61"
+      "sha256": "4861fd9c445f8c7e95adeedde61da9b9be3329d57938f840314d2abe7c7f5075"
     },
     {
       "path": "courses/155f35ac-295f-46a0-bc01-2423a9d62936/en_US/transcript.md",
@@ -1004,7 +999,7 @@
     {
       "path": "courses/15bd3f34-2946-412f-93dc-b34840ed885f/en_US/course.json",
       "bytes": 811,
-      "sha256": "f3ec06a31ecbdfe8e04fb40abcae47c2edb9842c342316989cbad1f6af2ca192"
+      "sha256": "25ebcf1e0d89c97f12228e4f5cedcec98f41dfdf9a62ae88e49fb18614954641"
     },
     {
       "path": "courses/15bd3f34-2946-412f-93dc-b34840ed885f/en_US/transcript.md",
@@ -1024,7 +1019,7 @@
     {
       "path": "courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/en_US/course.json",
       "bytes": 771,
-      "sha256": "f2ffb1a221e0c4d994ce4e144b100e90c5919ebae75d757d924f8ca82a0f350c"
+      "sha256": "f3e70fccefb0ad775ce1d6761c75fc93e7298e8e972fbd1117c732d038113e25"
     },
     {
       "path": "courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/en_US/transcript.md",
@@ -1044,7 +1039,7 @@
     {
       "path": "courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/zh_CN/course.json",
       "bytes": 772,
-      "sha256": "5cbde66c4d263da2719ce93fc648037423062b698210bf6a81dccb0dc25fef7b"
+      "sha256": "9fc7cfe5737e6767310af059d8379d0b0b94053a0b458463cb2d3a111fe20404"
     },
     {
       "path": "courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/zh_CN/transcript.md",
@@ -1064,7 +1059,7 @@
     {
       "path": "courses/16da6b21-dffe-4e57-b001-237ff67ed988/en_US/course.json",
       "bytes": 804,
-      "sha256": "bcc3893c303cc5cd5d856012e368a49cbb20bae16adba4a6a6dff7e87ccf7966"
+      "sha256": "263a0e19f81812049051660ef324da2df12383c14e5b56755d856c13dacdf09d"
     },
     {
       "path": "courses/16da6b21-dffe-4e57-b001-237ff67ed988/en_US/transcript.md",
@@ -1084,7 +1079,7 @@
     {
       "path": "courses/16da6b21-dffe-4e57-b001-237ff67ed988/zh_CN/course.json",
       "bytes": 800,
-      "sha256": "7f09572b0d91dc822983690d83a6579a219db5aeffde29f58b4043d223eb8edd"
+      "sha256": "e02a9e6fab1684c23ac1328e8c2b64c9996637ee14581f5c3ff47381a61ec1be"
     },
     {
       "path": "courses/16da6b21-dffe-4e57-b001-237ff67ed988/zh_CN/transcript.md",
@@ -1104,7 +1099,7 @@
     {
       "path": "courses/17c191ba-5930-45ee-aff5-76d3965a8d11/en_US/course.json",
       "bytes": 828,
-      "sha256": "c2d4468747627502140bb1a9632ef04b03c85eae4036647cbcc4b08509b03d04"
+      "sha256": "3b261b3f5883c34630e7130ca3b8dd6d96b8cb9caca732395076cdba884c11c3"
     },
     {
       "path": "courses/17c191ba-5930-45ee-aff5-76d3965a8d11/en_US/transcript.md",
@@ -1124,7 +1119,7 @@
     {
       "path": "courses/187391de-1128-40af-a940-f6e3c653b66f/en_US/course.json",
       "bytes": 783,
-      "sha256": "37a2b258d6b636bc845d8988a35bb189ebc2cc22520dd2567c6c485c69bdb818"
+      "sha256": "3542ffe239c8c65e54389d06b38ed78dbdffa736ce6a130bd2c083a0c548380e"
     },
     {
       "path": "courses/187391de-1128-40af-a940-f6e3c653b66f/en_US/transcript.md",
@@ -1144,7 +1139,7 @@
     {
       "path": "courses/187391de-1128-40af-a940-f6e3c653b66f/zh_CN/course.json",
       "bytes": 780,
-      "sha256": "b77fcf617b3cd05b027dab8603a04142f30fd4cbdea02f5be844dd4e352f2628"
+      "sha256": "c3618e9ffbe34a2c1b78e0096ae3c1cca75c0faeeafe8ff83601cb50e0d4a0a7"
     },
     {
       "path": "courses/187391de-1128-40af-a940-f6e3c653b66f/zh_CN/transcript.md",
@@ -1164,7 +1159,7 @@
     {
       "path": "courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/en_US/course.json",
       "bytes": 762,
-      "sha256": "57a784dd82c8f77519acc1cda5f0fd12952a5e3974677af924b42472082ecf31"
+      "sha256": "5e7da5e88861f8bf5135b4591b233ab8f5cd74a63237392f00819c0ecf8cbfb0"
     },
     {
       "path": "courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/en_US/transcript.md",
@@ -1184,7 +1179,7 @@
     {
       "path": "courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/zh_CN/course.json",
       "bytes": 763,
-      "sha256": "420214147ce206302b9f56fc6e7ffe6e95ae195a8997f15e131769d652f3a895"
+      "sha256": "2cb1e46431a9be5eb09ee314f258a8d49507eb9462402184402b1d2b2ecbdf94"
     },
     {
       "path": "courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/zh_CN/transcript.md",
@@ -1204,7 +1199,7 @@
     {
       "path": "courses/1bad2006-82d9-41b5-aacd-549f35e751d4/en_US/course.json",
       "bytes": 767,
-      "sha256": "78fa93ba17f9837020ffe3fda9ffa754e93cc94e89ce96845faadcbb1e2ce793"
+      "sha256": "38613722735dbfd29d2de217a4667c0c08eba2edee273bfbdeddcce2b37586b0"
     },
     {
       "path": "courses/1bad2006-82d9-41b5-aacd-549f35e751d4/en_US/transcript.md",
@@ -1224,7 +1219,7 @@
     {
       "path": "courses/1bad2006-82d9-41b5-aacd-549f35e751d4/zh_CN/course.json",
       "bytes": 763,
-      "sha256": "feefcdf5b305b580c93fbd0d5d1f6fef2a8f6ac6bca689916f903e78a6866b60"
+      "sha256": "a338543893041cc477045c27c1f812dc93fc82284a204e578a449b21e8b02519"
     },
     {
       "path": "courses/1bad2006-82d9-41b5-aacd-549f35e751d4/zh_CN/transcript.md",
@@ -1244,7 +1239,7 @@
     {
       "path": "courses/1c2896c9-4fc3-466a-84f2-49887f19f064/en_US/course.json",
       "bytes": 782,
-      "sha256": "d6fde669962d21f9e9ae53b35afc3f5757074b228973f5db7f3c2398713f1e11"
+      "sha256": "c444746337122a83bd67ba8757f0112fb8d2285853ee5b0d9d93aae820b12166"
     },
     {
       "path": "courses/1c2896c9-4fc3-466a-84f2-49887f19f064/en_US/transcript.md",
@@ -1264,7 +1259,7 @@
     {
       "path": "courses/1c2896c9-4fc3-466a-84f2-49887f19f064/zh_CN/course.json",
       "bytes": 782,
-      "sha256": "3d25de0a1459354f030f573bdd00b73f2b33004cf66774f67099140ee115bab1"
+      "sha256": "e2f4377732f8dda8c2c9cb12c8f9fcc9578d9ca744c9bd5a0b08562e3c782c82"
     },
     {
       "path": "courses/1c2896c9-4fc3-466a-84f2-49887f19f064/zh_CN/transcript.md",
@@ -1284,7 +1279,7 @@
     {
       "path": "courses/1c593692-76ae-49e6-aefd-2acd833f95fa/en_US/course.json",
       "bytes": 768,
-      "sha256": "a791d0a8059003f105227f91d6b3632b8a57deabd23ab034f4bfe6947d80fa64"
+      "sha256": "01956b402f3f9ff99a6cc99ae5ca7be08f1fd436fa06b975c17e0019fbec23e2"
     },
     {
       "path": "courses/1c593692-76ae-49e6-aefd-2acd833f95fa/en_US/transcript.md",
@@ -1304,7 +1299,7 @@
     {
       "path": "courses/1c593692-76ae-49e6-aefd-2acd833f95fa/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "e9c53117aadb2a567959199cba5556f35293d0da068116ef5eb5d734d8bbeaa2"
+      "sha256": "518b64f5a037f0de306be1cc2e549202afce9c441c43189d5e2a2310cb051a27"
     },
     {
       "path": "courses/1c593692-76ae-49e6-aefd-2acd833f95fa/zh_CN/transcript.md",
@@ -1324,7 +1319,7 @@
     {
       "path": "courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/en_US/course.json",
       "bytes": 783,
-      "sha256": "350b910d2ad8f0438bfa27559eb97bb178aac18f04e558fd192a9abc9a5d646e"
+      "sha256": "571b047447d93c4169c75e89ff2bf5e0f8e3cad8192666a133830c79c0e582d7"
     },
     {
       "path": "courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/en_US/transcript.md",
@@ -1344,7 +1339,7 @@
     {
       "path": "courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/zh_CN/course.json",
       "bytes": 780,
-      "sha256": "da18c86e5a39fe1f7d926cef28b82e871982ce732ab4952940d416468955a13e"
+      "sha256": "40455a4d23940d9560e180907a08242746e2d473f80d1e8d1d38623a03aec24e"
     },
     {
       "path": "courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/zh_CN/transcript.md",
@@ -1364,7 +1359,7 @@
     {
       "path": "courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/en_US/course.json",
       "bytes": 771,
-      "sha256": "7821aac40bdb8b183c65dbc37b1fea077d5d06d44b87f992c936fb7e701bafde"
+      "sha256": "70f09b759d1b07f37241de9ffc23f5e159f6e7721d8964893c403abb82ef3ff6"
     },
     {
       "path": "courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/en_US/transcript.md",
@@ -1384,7 +1379,7 @@
     {
       "path": "courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/zh_CN/course.json",
       "bytes": 775,
-      "sha256": "bf886a3e4dbc06b1dbec734cf3567e448ba74a585a698dcf5bf8ea53e8ad84f2"
+      "sha256": "c608ac576ba1f020664d8da062bf423be9c30dbc85ff77b6fd44350ddf39208a"
     },
     {
       "path": "courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/zh_CN/transcript.md",
@@ -1404,7 +1399,7 @@
     {
       "path": "courses/1e699b06-7a02-49f7-a155-4642280a63d0/en_US/course.json",
       "bytes": 786,
-      "sha256": "fc00c751a86a44608328d3460181cf6ddfdaa289ef399ba88b92eb4ed60a1f1d"
+      "sha256": "d190448c502cd9966627443d92bb7aacc9ad63a8f0813964ec9881ea1f7230be"
     },
     {
       "path": "courses/1e699b06-7a02-49f7-a155-4642280a63d0/en_US/transcript.md",
@@ -1424,7 +1419,7 @@
     {
       "path": "courses/1e699b06-7a02-49f7-a155-4642280a63d0/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "f83ec03c050b16b0b1df4fbf3ff6bffadd781f7076523597e82e8edc5153604a"
+      "sha256": "e9adbd281ba1568f700b41ef243b44b1291586c7e29bca61245d613af4ba0e2c"
     },
     {
       "path": "courses/1e699b06-7a02-49f7-a155-4642280a63d0/zh_CN/transcript.md",
@@ -1444,7 +1439,7 @@
     {
       "path": "courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/en_US/course.json",
       "bytes": 763,
-      "sha256": "4486e65897cbf4593b81aa2265c35e33811e107484d29df25615e6b9e95d51f2"
+      "sha256": "10786a057a788ba087e42562ca827b633e5e5594cacc087cae36fcf83f88fb85"
     },
     {
       "path": "courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/en_US/transcript.md",
@@ -1464,7 +1459,7 @@
     {
       "path": "courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/zh_CN/course.json",
       "bytes": 759,
-      "sha256": "fd711e8267a2ba54e9cbf452095217190c247140a99e975c0b2d64ee95fce144"
+      "sha256": "61860efd80f59118eda0c0eec8a64c4bc22182ec4fbeea1b1bd59a5a5c16dfe2"
     },
     {
       "path": "courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/zh_CN/transcript.md",
@@ -1484,7 +1479,7 @@
     {
       "path": "courses/20873123-2c92-4e67-854e-08994da32d72/en_US/course.json",
       "bytes": 782,
-      "sha256": "1754b243d896f4f36f325af89f5a6f46ecf887abbfafdef9eb36d567da9bb9b1"
+      "sha256": "fefd3849bb13e093347cf3f234c0e3e23e866c79c01e439e8b6499e69405b819"
     },
     {
       "path": "courses/20873123-2c92-4e67-854e-08994da32d72/en_US/transcript.md",
@@ -1504,7 +1499,7 @@
     {
       "path": "courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/course.json",
       "bytes": 784,
-      "sha256": "b216e47ed563fe594ba68bd5edb5a57dde1e2e769297a74ce0ce7b1ac56781f5"
+      "sha256": "f372b37af73be89323e16c2d969642a22640b862cb2eed475315e0f069a52c4e"
     },
     {
       "path": "courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md",
@@ -1524,7 +1519,7 @@
     {
       "path": "courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/en_US/course.json",
       "bytes": 789,
-      "sha256": "fe1e71e0afecb2427efcc3e433c05c8730016c1b39b92a22c756628a8a0a4ad8"
+      "sha256": "a7fd688875ea7d7c8c7c4643f8e46a30af73c12ca0ab3c772ec2852ac86cdb6e"
     },
     {
       "path": "courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/en_US/transcript.md",
@@ -1544,7 +1539,7 @@
     {
       "path": "courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "8a4c63b172f17d05eef71d85d3053366240d66d8b77986ed69fb7dd23ca07bb8"
+      "sha256": "5dc95bd3038a2c22ec6ebac9978e9348a29b4f3372f0fe63d6d6dc835e56a5ca"
     },
     {
       "path": "courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/zh_CN/transcript.md",
@@ -1564,7 +1559,7 @@
     {
       "path": "courses/215d380c-b721-414b-87bb-282c7da60a11/en_US/course.json",
       "bytes": 772,
-      "sha256": "d679ecdca6b640d1992df601420ac3d461f2293d9c72661d2f39e03cd6489219"
+      "sha256": "36a4d24c3b2150d68f3d4b0299f2e581e1ec08b7252679a2194c3eb8ccfa30e9"
     },
     {
       "path": "courses/215d380c-b721-414b-87bb-282c7da60a11/en_US/transcript.md",
@@ -1584,7 +1579,7 @@
     {
       "path": "courses/215d380c-b721-414b-87bb-282c7da60a11/zh_CN/course.json",
       "bytes": 772,
-      "sha256": "e67790d7e3c7edf548265e15ec213a5530bf5bd5913c8a604adf5c36a20bdbea"
+      "sha256": "bdf58edc3fd4379a4ee2e2dfbe5454b41af9b469e1096abd0fd2c483ad9b141f"
     },
     {
       "path": "courses/215d380c-b721-414b-87bb-282c7da60a11/zh_CN/transcript.md",
@@ -1604,7 +1599,7 @@
     {
       "path": "courses/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/en_US/course.json",
       "bytes": 796,
-      "sha256": "5bd57c24d5bab10f06a2090cf679712664f8b16e0b417bba481b83317a2e8a8d"
+      "sha256": "a122d15371e47ac4bc458f52b17048e75beb356d4e24d9cacd8c14d39691c87d"
     },
     {
       "path": "courses/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/en_US/transcript.md",
@@ -1624,7 +1619,7 @@
     {
       "path": "courses/232a34dd-c425-4614-981a-7d9c243a4ee8/en_US/course.json",
       "bytes": 764,
-      "sha256": "3b7e876089cc4bd5bd1709f2c4800a2db767661e5f8c7a57618e2a1a7592b83c"
+      "sha256": "27c1b2d79d405c8ec191dba109a1ed0cfc08b0deca492deee326e4423cf0d3e7"
     },
     {
       "path": "courses/232a34dd-c425-4614-981a-7d9c243a4ee8/en_US/transcript.md",
@@ -1644,7 +1639,7 @@
     {
       "path": "courses/232a34dd-c425-4614-981a-7d9c243a4ee8/zh_CN/course.json",
       "bytes": 765,
-      "sha256": "60cd8dcaa0ce322d8a2badef046af0ab5e2634848dfb435edefc65eca48c3c09"
+      "sha256": "424b075a59407ba4d0ed03806ee911f280cbc1a45e2bd76724760ce9a5d6ef49"
     },
     {
       "path": "courses/232a34dd-c425-4614-981a-7d9c243a4ee8/zh_CN/transcript.md",
@@ -1664,7 +1659,7 @@
     {
       "path": "courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/en_US/course.json",
       "bytes": 791,
-      "sha256": "57e77f1e3d23f7e5150161a925fdb8fd162113bb6037b477d2660bfe36ef1da0"
+      "sha256": "ac9907e5fb6d89f919144acc1909294abe5996765d86e67e0dd5c94f598f7ed0"
     },
     {
       "path": "courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/en_US/transcript.md",
@@ -1684,7 +1679,7 @@
     {
       "path": "courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "a06c9c44e43e0e76a811f6272391f6efb4c168d5fcef08d826ec3e3163e8be42"
+      "sha256": "8fabbc0f69be9119ba1985a81b0e966ef9b30e73f45992b3d0edfe552f66c386"
     },
     {
       "path": "courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/zh_CN/transcript.md",
@@ -1704,7 +1699,7 @@
     {
       "path": "courses/2513f967-cfdc-40ad-8747-341bd9dbefec/en_US/course.json",
       "bytes": 766,
-      "sha256": "ed9f6c0331bf8cad1554f82dbdbba8d21c9d576a8a4e0c8d6954089c0482abe7"
+      "sha256": "317702f3c2ae48e35deb60d73a56f48df8637d43d9bfc2ea97be8ffc4823cbac"
     },
     {
       "path": "courses/2513f967-cfdc-40ad-8747-341bd9dbefec/en_US/transcript.md",
@@ -1724,7 +1719,7 @@
     {
       "path": "courses/2526203a-97da-4c0a-a0bb-26238ec18af9/en_US/course.json",
       "bytes": 800,
-      "sha256": "86b77b651b20f12f4a56d0c0ce2e8e00143f5a9772da91127dd4aab86cf6f626"
+      "sha256": "d3033875eeaa7d289c6a17c77fe6cba15e4dfc71dc71ce62b648dd1334a1d3a9"
     },
     {
       "path": "courses/2526203a-97da-4c0a-a0bb-26238ec18af9/en_US/transcript.md",
@@ -1744,7 +1739,7 @@
     {
       "path": "courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/course.json",
       "bytes": 786,
-      "sha256": "d86bb5513f1ffa0d3603e71cbf5d9d72ee9d78249d792705ba4bb0a714080138"
+      "sha256": "2524966dd163690f2e97500dc1c27f1f9d57f14223b07d3b0fd8f99cb57e40cf"
     },
     {
       "path": "courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md",
@@ -1764,7 +1759,7 @@
     {
       "path": "courses/28728898-9218-4f5d-8116-abf46b9ef834/en_US/course.json",
       "bytes": 818,
-      "sha256": "c7f8c74228cbc22b011f23c248a61dfbdf44057c29fe8493092e6e16f2cba12a"
+      "sha256": "fcfb933f54c50a93267cb4d7f684710225d080089118ddc5d0c7dcdec22e7554"
     },
     {
       "path": "courses/28728898-9218-4f5d-8116-abf46b9ef834/en_US/transcript.md",
@@ -1784,7 +1779,7 @@
     {
       "path": "courses/28728898-9218-4f5d-8116-abf46b9ef834/zh_CN/course.json",
       "bytes": 818,
-      "sha256": "941b140dc60c56be3e8b643c6190ade8bad1d28cb8d827969012a8b26cad8900"
+      "sha256": "92e77c2fcd70dfc4d7fec2732337e14c8cb4c2cfd56b295009a2a1f6376d4d1c"
     },
     {
       "path": "courses/28728898-9218-4f5d-8116-abf46b9ef834/zh_CN/transcript.md",
@@ -1804,7 +1799,7 @@
     {
       "path": "courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/en_US/course.json",
       "bytes": 777,
-      "sha256": "e3a1bf4629e921e60d4de72a5e73c55f3cf9e9bf46bb9cf6f0186245a3dfc083"
+      "sha256": "f23065df1c7eaf59574a4b709a0a607d5459338bd2d072d03a8e2478481c52af"
     },
     {
       "path": "courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/en_US/transcript.md",
@@ -1829,7 +1824,7 @@
     {
       "path": "courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "1588c2c4f57d1be871781f04f518b6ade7b060760b0deaae149043c0caf78650"
+      "sha256": "c0030377c8160868f7955daf69868457ab451234d57d13879fe15b7d13109fd7"
     },
     {
       "path": "courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/zh_CN/transcript.md",
@@ -1849,7 +1844,7 @@
     {
       "path": "courses/2a483f34-bc0a-4996-852e-d80e9127ed19/en_US/course.json",
       "bytes": 793,
-      "sha256": "c38caf8835a88c482dda8e9e4f5a09d5998061bb7b241b4a1fb506da7fe776b6"
+      "sha256": "db59a52b29715e7079a8bd9354623d2718a2bf95d99b5534a35b2d47a9fed255"
     },
     {
       "path": "courses/2a483f34-bc0a-4996-852e-d80e9127ed19/en_US/transcript.md",
@@ -1869,7 +1864,7 @@
     {
       "path": "courses/2a483f34-bc0a-4996-852e-d80e9127ed19/zh_CN/course.json",
       "bytes": 793,
-      "sha256": "1dd12e10b0e11d581fd06b3363bf339fba270f56d26b40e3f8a2561fe3684610"
+      "sha256": "ded6ec845943916f68481a1a3e54b90615501f78feb6f2bbb1f46fdbaa74ebc7"
     },
     {
       "path": "courses/2a483f34-bc0a-4996-852e-d80e9127ed19/zh_CN/transcript.md",
@@ -1889,7 +1884,7 @@
     {
       "path": "courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/course.json",
       "bytes": 772,
-      "sha256": "d450549190bd89866a2d5fc6a962ee67e1756c72fb86a8d537441292c5ffa966"
+      "sha256": "d41a17c6065ccc60ddb87b79f00ae90da70f32e4b2db0ede01139894c7e94156"
     },
     {
       "path": "courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/transcript.md",
@@ -1914,7 +1909,7 @@
     {
       "path": "courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "8516c3ae1f54f3c504353e96ae8f807c843d6363261a3237ef9a5a20e576149c"
+      "sha256": "36f2b764b5430a608aa8cc685babd879fac2872787f10741b90e4940abe36755"
     },
     {
       "path": "courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/zh_CN/transcript.md",
@@ -1934,7 +1929,7 @@
     {
       "path": "courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/course.json",
       "bytes": 789,
-      "sha256": "6252eb52e39e5a0f6190f221c0d64221f31c9bb74b4ab2db4cf744c550f73926"
+      "sha256": "1a13bd5a224ec5ee0b674a578724264db7bf877e67e4542b9ceb97e22d96c2bf"
     },
     {
       "path": "courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md",
@@ -1954,7 +1949,7 @@
     {
       "path": "courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/course.json",
       "bytes": 793,
-      "sha256": "12c861e77870ce352294a5a1578489786a8df86bca6715fe4db85436683e547f"
+      "sha256": "b170861937968951f69071c9fb816848cde4c3673a1d14ee6a1a352c661430bd"
     },
     {
       "path": "courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/transcript.md",
@@ -1974,7 +1969,7 @@
     {
       "path": "courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/course.json",
       "bytes": 796,
-      "sha256": "348edd43ba8dcc0be1f536326b4fb8e2ac2b5662b8390c655fd984c6efad44f1"
+      "sha256": "3962a6f82861189cfe8a7394e57617adc90745e966c7025d18280b0eaade5cdb"
     },
     {
       "path": "courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/transcript.md",
@@ -1994,7 +1989,7 @@
     {
       "path": "courses/2f75c115-2990-482d-b00c-219a06893243/en_US/course.json",
       "bytes": 799,
-      "sha256": "daaca26262a725eac21461cdb8715c8f189fa46025f8f89ecd124a33371d704b"
+      "sha256": "423d379819ada28469befa19e2f4a89ab98667cfb4949be452b997e4e6b376b5"
     },
     {
       "path": "courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md",
@@ -2014,7 +2009,7 @@
     {
       "path": "courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/en_US/course.json",
       "bytes": 772,
-      "sha256": "2a981ebc08f26ea2bb4f9d24ebb30fcf60e43a3d8ed4c68695719d70007175c1"
+      "sha256": "75ef8cb25d87f0d9f1b3b04ecfbde16f2393a147d0ee583065f1f5540db6fc10"
     },
     {
       "path": "courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/en_US/transcript.md",
@@ -2034,7 +2029,7 @@
     {
       "path": "courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "070b0ff0ec08a5e62c791a36ecbf1c4dc5088c403ddc3dce507e5f4371a6a939"
+      "sha256": "e8c3eef5bab26e397df2db2b0fc2f7bd076853137b78b476f25decb80d35a725"
     },
     {
       "path": "courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/zh_CN/transcript.md",
@@ -2054,7 +2049,7 @@
     {
       "path": "courses/3181cd9b-1483-4039-94e4-25436be0ef54/en_US/course.json",
       "bytes": 772,
-      "sha256": "d5105a7290bad2319a6a5fca2ce3ff8508a4149d02a14f5e6fc6985c007c3005"
+      "sha256": "9e05f0c30b917804c63ed1f1c8a4566c5617fd66ab4d31b3eeb71ab9b0bfc52c"
     },
     {
       "path": "courses/3181cd9b-1483-4039-94e4-25436be0ef54/en_US/transcript.md",
@@ -2074,7 +2069,7 @@
     {
       "path": "courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/course.json",
       "bytes": 812,
-      "sha256": "73dd88859a12edee1d75bf049254ae40b51f110295d5b56cd9850d438b4641ca"
+      "sha256": "dd4ca9a2362ddc62ce1d7e7150da58bc1f91e1a25163a458e22bbd62946c817b"
     },
     {
       "path": "courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/transcript.md",
@@ -2094,7 +2089,7 @@
     {
       "path": "courses/3498c716-6b42-436f-a44a-9f08c9f637cf/en_US/course.json",
       "bytes": 802,
-      "sha256": "512d5ae5879531aac34e5e19cece241576b162393b3f63a20d10c266d7efba1d"
+      "sha256": "9041d58f8312d751faf2ce0619418082d663876f3303180bff853bccba2151d3"
     },
     {
       "path": "courses/3498c716-6b42-436f-a44a-9f08c9f637cf/en_US/transcript.md",
@@ -2114,7 +2109,7 @@
     {
       "path": "courses/3498c716-6b42-436f-a44a-9f08c9f637cf/zh_CN/course.json",
       "bytes": 804,
-      "sha256": "fc7702d112256bc98f328299881d84cb9c26b6356718d8438acb70b46c732016"
+      "sha256": "2321d72437dbfdb872a0163cb112f6a90f48f4293b7cc63b715287127f235eee"
     },
     {
       "path": "courses/3498c716-6b42-436f-a44a-9f08c9f637cf/zh_CN/transcript.md",
@@ -2134,7 +2129,7 @@
     {
       "path": "courses/36837951-3f77-47f9-82f1-e7c845614c5a/en_US/course.json",
       "bytes": 785,
-      "sha256": "893de602249a3bb5b4642de5c2f78db86cd2edb20f2e45bed631b4a8a501b714"
+      "sha256": "90af587c58b93ad4aa31b8e588fb068b8a199fcfa833cbac194c89f2f816bbf2"
     },
     {
       "path": "courses/36837951-3f77-47f9-82f1-e7c845614c5a/en_US/transcript.md",
@@ -2154,7 +2149,7 @@
     {
       "path": "courses/36837951-3f77-47f9-82f1-e7c845614c5a/zh_CN/course.json",
       "bytes": 785,
-      "sha256": "3c62c764430627341fcd64d2d11636be5e3138d7c462a3f9aeae9730441655d7"
+      "sha256": "a27b956d99bbb9491eb7be43b5654b5e5e27516a5d33a0d575f8349c406db56d"
     },
     {
       "path": "courses/36837951-3f77-47f9-82f1-e7c845614c5a/zh_CN/transcript.md",
@@ -2174,7 +2169,7 @@
     {
       "path": "courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/course.json",
       "bytes": 756,
-      "sha256": "9e6b83aa4a26a1f3da96e92beb805a699c1de3894856d4287e62faf8d7a5770e"
+      "sha256": "bfff1afbafce0a3ea324ace2f7c888dfc7f11493f65cf22e35a5b9a40b2d98b1"
     },
     {
       "path": "courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md",
@@ -2194,7 +2189,7 @@
     {
       "path": "courses/37e58de4-9501-4ed6-9afd-fb79d444d125/en_US/course.json",
       "bytes": 805,
-      "sha256": "38406a900e57d0925fb8222709d9dbc19d9234030bfd388253c9400ac17c94fe"
+      "sha256": "33cb57968ef5b957bcc53b48bd2c1bd9085c3fd6b8e9a890ffdeff9799318ea0"
     },
     {
       "path": "courses/37e58de4-9501-4ed6-9afd-fb79d444d125/en_US/transcript.md",
@@ -2214,7 +2209,7 @@
     {
       "path": "courses/37e58de4-9501-4ed6-9afd-fb79d444d125/zh_CN/course.json",
       "bytes": 802,
-      "sha256": "725c1a846834fa323887680e6864b34b091bdba4526886944412084efdc161d3"
+      "sha256": "8bc68522330b577c5dd2e11b6e09da1f987aa463ba3906db02290458cb03fd58"
     },
     {
       "path": "courses/37e58de4-9501-4ed6-9afd-fb79d444d125/zh_CN/transcript.md",
@@ -2234,7 +2229,7 @@
     {
       "path": "courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/en_US/course.json",
       "bytes": 772,
-      "sha256": "832d2d8dfca88288a675e42dd2f879e1a3b933f8859356cb595662248490f370"
+      "sha256": "136d97fbd492d2e83bae37ccf8f5a6823c1cfb56b21af3869a72988467e075d4"
     },
     {
       "path": "courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/en_US/transcript.md",
@@ -2254,7 +2249,7 @@
     {
       "path": "courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/course.json",
       "bytes": 773,
-      "sha256": "d41d4044db3214cb540c8ce7d18ca78896dd1c615a038ecf0e29b6cb98c190a6"
+      "sha256": "41f91d917d993f9c46fea156eb35115ba2b3fc0ad008d8d63f0312d75846dc43"
     },
     {
       "path": "courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/transcript.md",
@@ -2274,7 +2269,7 @@
     {
       "path": "courses/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/en_US/course.json",
       "bytes": 774,
-      "sha256": "7944ea75108185922baa1293f6eb4af8f0f554ea9f0f574df5748de9f71da754"
+      "sha256": "cdc0940bc1b0dbffcfb4a9cffafd03c2d2a40b56e9a42a7f39b5b1af7415f64a"
     },
     {
       "path": "courses/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/en_US/transcript.md",
@@ -2294,7 +2289,7 @@
     {
       "path": "courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/course.json",
       "bytes": 810,
-      "sha256": "352f469d1e6ec96361bd1dd9fe3d98d127b2175b2e2e724d4248bf3639945229"
+      "sha256": "13ad396e469f4299e14c1c6eb7452f9cdc945934079ff7423d05cf528ccbcf05"
     },
     {
       "path": "courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md",
@@ -2314,7 +2309,7 @@
     {
       "path": "courses/43146fdf-a110-4056-971d-c287016104f5/en_US/course.json",
       "bytes": 788,
-      "sha256": "975202a770cda3ec235c9b25f5a2db8015e4dcd350c5257fa469f678612d0858"
+      "sha256": "e1411a3696887b4ca1f9032b2106670f3c4100545291ddf4cead627d77d3729b"
     },
     {
       "path": "courses/43146fdf-a110-4056-971d-c287016104f5/en_US/transcript.md",
@@ -2334,7 +2329,7 @@
     {
       "path": "courses/43146fdf-a110-4056-971d-c287016104f5/zh_CN/course.json",
       "bytes": 788,
-      "sha256": "e40f57a41fcfc20cdfcd1abbd0a83566c9c76c9bed50b0760a4a58d2e2994672"
+      "sha256": "f813ec34d35e3de435e8d231682c92848079db114b8d77880ac086e73a319332"
     },
     {
       "path": "courses/43146fdf-a110-4056-971d-c287016104f5/zh_CN/transcript.md",
@@ -2354,7 +2349,7 @@
     {
       "path": "courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/course.json",
       "bytes": 803,
-      "sha256": "a361c8a8a0b29d029eccee627b5531439080870966d7b31b5e640fdfaa1bb258"
+      "sha256": "0bc57b54737b755e6009599279c4e8a3247a63fbbac313b5436cdab39820a817"
     },
     {
       "path": "courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md",
@@ -2374,7 +2369,7 @@
     {
       "path": "courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/course.json",
       "bytes": 803,
-      "sha256": "58041ad12537a63dbe3e44eeefad363b1129cee6e19312f75b8bba43494e98bc"
+      "sha256": "15bc684a60b5b85594a702f297cae288f766353d9f53cf0452a73ca036be5f15"
     },
     {
       "path": "courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md",
@@ -2399,7 +2394,7 @@
     {
       "path": "courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/course.json",
       "bytes": 782,
-      "sha256": "08f43187e3c2fb18899b51ffb3d9ed1a3964a1511daf34ce4ede40ebca36e093"
+      "sha256": "2970269f02dc64fdcaa7e76eb988feaf93987d4b369f02a29b3c57fd9aed6f10"
     },
     {
       "path": "courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md",
@@ -2419,7 +2414,7 @@
     {
       "path": "courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/course.json",
       "bytes": 779,
-      "sha256": "c7ef43e4864f2a48377b5c7500c1aadc34690f371dc84683819c339b446bab12"
+      "sha256": "834e40c136055334d0a63d443f27908cd21d34f4699cea2a52e60359660e2580"
     },
     {
       "path": "courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/transcript.md",
@@ -2439,7 +2434,7 @@
     {
       "path": "courses/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/en_US/course.json",
       "bytes": 815,
-      "sha256": "4186cfca12476460070a3da125660fdae87ebc0ae9115e0f85fe19a2ae07b26a"
+      "sha256": "400e3edc8dac3d0415471ee47936717af898e57b3f44506364bf345316e240f3"
     },
     {
       "path": "courses/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/en_US/transcript.md",
@@ -2459,7 +2454,7 @@
     {
       "path": "courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/course.json",
       "bytes": 777,
-      "sha256": "485a902ef35ca075d91c98184468b11e2cc80c2df88b1068256dad56863000da"
+      "sha256": "3179e3788791a290dd55fcbd2abd5bf564992f292fe08fd3b01e51f10e8267d7"
     },
     {
       "path": "courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/transcript.md",
@@ -2479,7 +2474,7 @@
     {
       "path": "courses/46211203-fc45-483b-9166-d746869925e7/en_US/course.json",
       "bytes": 770,
-      "sha256": "bba0120d7635f95cb8ee56f1b7b82ba13791ce7a5f8c511b651b3bdee536b0c0"
+      "sha256": "5e35d42ef41c1f5a7fa11fa22baa59a6ccaad20c412160607ddf26d308d51d75"
     },
     {
       "path": "courses/46211203-fc45-483b-9166-d746869925e7/en_US/transcript.md",
@@ -2499,7 +2494,7 @@
     {
       "path": "courses/46211203-fc45-483b-9166-d746869925e7/zh_CN/course.json",
       "bytes": 773,
-      "sha256": "541236a58b0587db05dd343545ea05c4bf118b85b5a82084f9c2b77220be8977"
+      "sha256": "66ea6ada5037fcda88035e8ddb547c7903df00a704eabe8f054741c27bb79eee"
     },
     {
       "path": "courses/46211203-fc45-483b-9166-d746869925e7/zh_CN/transcript.md",
@@ -2519,7 +2514,7 @@
     {
       "path": "courses/46232ee2-4408-458c-9540-7afc2f650ffe/en_US/course.json",
       "bytes": 766,
-      "sha256": "d162daf9e9c1ccb7ea46fa8c927a87328288bdb488047a4b64bdc79fb5446a9c"
+      "sha256": "d8a60b8a7999b08466b3200dcba2579ac7a863e633267e0e9fa789ec88481e7c"
     },
     {
       "path": "courses/46232ee2-4408-458c-9540-7afc2f650ffe/en_US/transcript.md",
@@ -2539,7 +2534,7 @@
     {
       "path": "courses/46232ee2-4408-458c-9540-7afc2f650ffe/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "314c525ddacad4c1b310899dd13b017b6c8f120704d70310612b9ad33acc91d4"
+      "sha256": "e5c115b0ffb00bdb121702e214a98fa15e8a85de28fd7349811587629fb550ca"
     },
     {
       "path": "courses/46232ee2-4408-458c-9540-7afc2f650ffe/zh_CN/transcript.md",
@@ -2559,7 +2554,7 @@
     {
       "path": "courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/en_US/course.json",
       "bytes": 777,
-      "sha256": "6308e2187f845decc0e159464dd32112d6488dc76173eb0cb7bf895280fd0c4a"
+      "sha256": "b0316c49da3447026df0c3aa7a93c26ef8b81a5ba211260ac9bd5a976a9f075d"
     },
     {
       "path": "courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/en_US/transcript.md",
@@ -2579,7 +2574,7 @@
     {
       "path": "courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/zh_CN/course.json",
       "bytes": 779,
-      "sha256": "7eb7737d555b45bb670220ee3ca2f855752e310f199b63147be93f1e36bdeda2"
+      "sha256": "58c7e563da32927b3bf04b7623810eebd6252f9c5b5b9269c1e8ab1c7befa0d2"
     },
     {
       "path": "courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/zh_CN/transcript.md",
@@ -2599,7 +2594,7 @@
     {
       "path": "courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/course.json",
       "bytes": 780,
-      "sha256": "3996a983d080ee5129dfac643e523ccc28f8517fee3cb7662fdc119c1541b31f"
+      "sha256": "52c0bc780f3fd21997065680f8ed95bf360e3db5ba60cad6a4d558d90ab4c9f1"
     },
     {
       "path": "courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md",
@@ -2619,7 +2614,7 @@
     {
       "path": "courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/course.json",
       "bytes": 777,
-      "sha256": "9b32437eeafef0efc171b5fb0b1643b58ae951cd9be414215d6e8b0e0c8f0e2c"
+      "sha256": "c48072aeeacdf1c76c278af4991718b8f7b5de66c5d60c8957ee0564b3511141"
     },
     {
       "path": "courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md",
@@ -2639,7 +2634,7 @@
     {
       "path": "courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/course.json",
       "bytes": 781,
-      "sha256": "3116b2c41a02c69c69a3e481a27cfed8522ad5be07d634fd9000e4993be3d601"
+      "sha256": "96aba64aba16eb574784eb5f9164ac0cf78aceff1dc813443bfff7d2fe2e4c55"
     },
     {
       "path": "courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/transcript.md",
@@ -2659,7 +2654,7 @@
     {
       "path": "courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/en_US/course.json",
       "bytes": 790,
-      "sha256": "8b7aa6fe801c0ef0d84b37e91e0525dd025969ab4ae0f3074b31024609fa80b8"
+      "sha256": "6ea5cb2eeb10c3dcc067f90b84cff11ba319c60180066ee2db19fb8bbb81c514"
     },
     {
       "path": "courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/en_US/transcript.md",
@@ -2679,7 +2674,7 @@
     {
       "path": "courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "211545b223aa1fe77f4d50c8036d8626e84b48f384181706906018b6c2bf8ac3"
+      "sha256": "a67327b91a701b9bcac87a6dbed1fa24dcf36a902ef370c91b58231fd1889534"
     },
     {
       "path": "courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/zh_CN/transcript.md",
@@ -2699,7 +2694,7 @@
     {
       "path": "courses/48f69162-d84a-4743-843c-4f3578a6bc99/en_US/course.json",
       "bytes": 781,
-      "sha256": "d65f51434a5b5ee882d308a3d6ab8fa507efed905502c927c96726010a157958"
+      "sha256": "2dd48b42fe548a76da9b95041ade89d6f6039c66dabcf9b8123700943064859d"
     },
     {
       "path": "courses/48f69162-d84a-4743-843c-4f3578a6bc99/en_US/transcript.md",
@@ -2719,7 +2714,7 @@
     {
       "path": "courses/48f69162-d84a-4743-843c-4f3578a6bc99/zh_CN/course.json",
       "bytes": 777,
-      "sha256": "9c9fd787d9fc8de447f0b63b127984b9964b19273a47a1804308e5e34d6e4906"
+      "sha256": "89bf1fa31fca5086e019c9b0e96c79947c82b883bd080f29ebd78fd9abd1c7d1"
     },
     {
       "path": "courses/48f69162-d84a-4743-843c-4f3578a6bc99/zh_CN/transcript.md",
@@ -2739,7 +2734,7 @@
     {
       "path": "courses/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/en_US/course.json",
       "bytes": 784,
-      "sha256": "d2ba792628aae133ef1a1395d2efbfa205a24db7fb5c8d86d3db2f0145238067"
+      "sha256": "8c3027e453f9c05a9b68e18a0e092e083e42926c3f28eadb1839c9a484e9a7af"
     },
     {
       "path": "courses/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/en_US/transcript.md",
@@ -2759,7 +2754,7 @@
     {
       "path": "courses/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/en_US/course.json",
       "bytes": 806,
-      "sha256": "b9bc07477205fd970c8c02f952e1f32bf47ef82e883a26163c70e41a4c1e209c"
+      "sha256": "fa8df0e78048723556ebf8ffdd21e775f987db88f8c7c6ffb4d8a77292b362f2"
     },
     {
       "path": "courses/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/en_US/transcript.md",
@@ -2779,7 +2774,7 @@
     {
       "path": "courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/en_US/course.json",
       "bytes": 785,
-      "sha256": "90f475966824bbba1bd8208a2654ddce21a47c86f292ae179f7f4102e09315f1"
+      "sha256": "0e78c5c22528792fb8244d3300878fd9d67a47b573ef2ec5ba6829d31fd466e7"
     },
     {
       "path": "courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/en_US/transcript.md",
@@ -2799,7 +2794,7 @@
     {
       "path": "courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "c795dbf99d6557ba0ac249554f8e2544b9fbec972b23e31a1ca1f1f42a0865a0"
+      "sha256": "ffaae92ecc3b557d94269d3a68c05e5a14470372d0fe392ab085e8965995dfc2"
     },
     {
       "path": "courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/zh_CN/transcript.md",
@@ -2819,7 +2814,7 @@
     {
       "path": "courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/en_US/course.json",
       "bytes": 790,
-      "sha256": "4c9105b622dea40d703962229952dbc3061fd936eb3d35b18a2c35638ab69e11"
+      "sha256": "196b8a03592cc0dfe375531a00a8eff50a933eefe9ddc8e3f065ddf897dffa55"
     },
     {
       "path": "courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/en_US/transcript.md",
@@ -2839,7 +2834,7 @@
     {
       "path": "courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "5efb4c51b2ff21afb9f946a370d02b6f8dd653e135e703f6bae7bec6735f3a89"
+      "sha256": "922c46abf518c11fdacda0f972dc4621480073e081c660a0ecd1116fc524fbb0"
     },
     {
       "path": "courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/zh_CN/transcript.md",
@@ -2859,7 +2854,7 @@
     {
       "path": "courses/4c982766-929e-4a32-bc33-6614f7ddfc78/en_US/course.json",
       "bytes": 791,
-      "sha256": "1d2fda45966ebcb78219ea5d0a10b2c5493b04ef02ca9483b79c3da9087fb20e"
+      "sha256": "56e192f341390f44ee5cfa30aeed254008acb224572f8fb3826270b5e2064e55"
     },
     {
       "path": "courses/4c982766-929e-4a32-bc33-6614f7ddfc78/en_US/transcript.md",
@@ -2879,7 +2874,7 @@
     {
       "path": "courses/4c982766-929e-4a32-bc33-6614f7ddfc78/zh_CN/course.json",
       "bytes": 788,
-      "sha256": "adb30743add166ea5cc00fe04b11b5628f797f9eb78ccae7e8d831e63561cf19"
+      "sha256": "d8000fdb15d2d8a9de81fd5802977bd99acf5ef48504e2c911b3ac2800335715"
     },
     {
       "path": "courses/4c982766-929e-4a32-bc33-6614f7ddfc78/zh_CN/transcript.md",
@@ -2899,7 +2894,7 @@
     {
       "path": "courses/4e174673-a256-4767-b783-7e015e825e35/en_US/course.json",
       "bytes": 789,
-      "sha256": "793c47242904ef9b3c227c6da16d8f8e278b2c179a58b5a5781c4c0877df4dcc"
+      "sha256": "2cc4500e65e5ef42c4e20bdcc7f80b85f7763eca22bc35aa0fd152012142d441"
     },
     {
       "path": "courses/4e174673-a256-4767-b783-7e015e825e35/en_US/transcript.md",
@@ -2919,7 +2914,7 @@
     {
       "path": "courses/4e174673-a256-4767-b783-7e015e825e35/zh_CN/course.json",
       "bytes": 791,
-      "sha256": "ae23b43ca67f1a09ee912649ead6c1a856078d7aefb07bb5939e09a2492f4c3b"
+      "sha256": "a0bfa25f38083e3b5a9eaf1f70de901c841b3f743ed2ae30b7be7b76fd0c7db0"
     },
     {
       "path": "courses/4e174673-a256-4767-b783-7e015e825e35/zh_CN/transcript.md",
@@ -2939,7 +2934,7 @@
     {
       "path": "courses/4e1a71e7-388e-49ad-9752-866786639586/en_US/course.json",
       "bytes": 769,
-      "sha256": "c1e7e7ef8633156132d0aae91e4917086c2787f36d65fd5bae96b1a92189cbc1"
+      "sha256": "85ad59069bd451e89ee6588988bd01f99030818ccf6c3904916f9cf23c80cf9a"
     },
     {
       "path": "courses/4e1a71e7-388e-49ad-9752-866786639586/en_US/transcript.md",
@@ -2959,7 +2954,7 @@
     {
       "path": "courses/4e1a71e7-388e-49ad-9752-866786639586/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "af5afbd29bcdf5f18b93a3c94ddb8ad7e3ad1a56c6194cdf19f27c849ec22eb9"
+      "sha256": "124ca5902b50c9767fab42119f7303b54d5885e4ccf93c7c7457a056576ff706"
     },
     {
       "path": "courses/4e1a71e7-388e-49ad-9752-866786639586/zh_CN/transcript.md",
@@ -2979,7 +2974,7 @@
     {
       "path": "courses/4efdaeac-dee5-4834-aac8-54ee56b89830/en_US/course.json",
       "bytes": 785,
-      "sha256": "5db7d66474fd3afd3477dd5d9136036420bd753fd0bc5ac24c4bdb7e4dbc1143"
+      "sha256": "dab5a2cf29b4112d44c9ffad18fe4a503281f5ccf5df87590e6e38e1ce91ffc2"
     },
     {
       "path": "courses/4efdaeac-dee5-4834-aac8-54ee56b89830/en_US/transcript.md",
@@ -2999,7 +2994,7 @@
     {
       "path": "courses/4efdaeac-dee5-4834-aac8-54ee56b89830/zh_CN/course.json",
       "bytes": 782,
-      "sha256": "1de682417a2c1d1edba26a8b3ce176876d95038de4aae6b034df45842b2b8d1e"
+      "sha256": "10554367caad6a62d061940d33e58fa574d40eb5378ea7dd1a33a19fff22b62e"
     },
     {
       "path": "courses/4efdaeac-dee5-4834-aac8-54ee56b89830/zh_CN/transcript.md",
@@ -3019,7 +3014,7 @@
     {
       "path": "courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/en_US/course.json",
       "bytes": 770,
-      "sha256": "15b9ecf71db34208e8c3b84f09c12e3ce02d2cc662cdbd25b9b66210ee2bdd88"
+      "sha256": "187fef64ffaaf46c52921d1dd37124cac4e6bb4932cebd02ca4a48d38d10aee7"
     },
     {
       "path": "courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/en_US/transcript.md",
@@ -3039,7 +3034,7 @@
     {
       "path": "courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "9ba4988e9d40d5a576080d351088d3b95d1c2d6ac8268d96217ca870c5d27c48"
+      "sha256": "822f35ddf435294d870824ff570e2fa3e67441c094fe72c7c14ef8f790cee16b"
     },
     {
       "path": "courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/zh_CN/transcript.md",
@@ -3059,7 +3054,7 @@
     {
       "path": "courses/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2/en_US/course.json",
       "bytes": 775,
-      "sha256": "d193174853750dd2f4eeb408ed6781bf7d1afc411c3f9495c9d25f94061c92aa"
+      "sha256": "f4bc28df8998119c443ca919f4102e90cb70a087184611d124fa5f6664bd2b67"
     },
     {
       "path": "courses/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2/en_US/transcript.md",
@@ -3079,7 +3074,7 @@
     {
       "path": "courses/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/en_US/course.json",
       "bytes": 798,
-      "sha256": "c0e340f67908aeb93ceddd8fdfc116210e69d782a4dd347633705442f560843e"
+      "sha256": "4afd335ee0ee65978c9f436e1eb844a925ca5b2171a8ed0233b6713241de0c02"
     },
     {
       "path": "courses/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/en_US/transcript.md",
@@ -3099,7 +3094,7 @@
     {
       "path": "courses/54789ffd-acce-49b9-afb2-7873981bf0df/en_US/course.json",
       "bytes": 760,
-      "sha256": "8c345f83608490eac9b72404bd8e931d0df1a58095d1df942caf64c6c9d60fc1"
+      "sha256": "a1c28df48281d42103749c722b1d44516fbab0aeed087c68cfe75a62367b6b05"
     },
     {
       "path": "courses/54789ffd-acce-49b9-afb2-7873981bf0df/en_US/transcript.md",
@@ -3119,7 +3114,7 @@
     {
       "path": "courses/54789ffd-acce-49b9-afb2-7873981bf0df/zh_CN/course.json",
       "bytes": 761,
-      "sha256": "d3e39abcfb6050a4b780095cd8f8ad0fa2b5d0df0523acb3f2224eaae6a48e78"
+      "sha256": "f98560e2364a80ae60f3711bf4dc27a79301cd345c7e46682b6d7b5f5f37f27b"
     },
     {
       "path": "courses/54789ffd-acce-49b9-afb2-7873981bf0df/zh_CN/transcript.md",
@@ -3139,7 +3134,7 @@
     {
       "path": "courses/56035ae2-6096-4bc5-9085-93895e434294/en_US/course.json",
       "bytes": 787,
-      "sha256": "3f4ae74a7f9c07485f62d05837abf5dc2867278935f9752e593b914b621012d8"
+      "sha256": "e46509afae5496f38d0be3bf441369b9f52e6e90a7eb545f5889e007d72200e4"
     },
     {
       "path": "courses/56035ae2-6096-4bc5-9085-93895e434294/en_US/transcript.md",
@@ -3159,7 +3154,7 @@
     {
       "path": "courses/56cdec0f-e196-49bd-aa26-e02440f70885/en_US/course.json",
       "bytes": 787,
-      "sha256": "1770dbd47ad8684f15ba3335c0dc970e3de24803ef807fc0c48aaaa4a5db13ea"
+      "sha256": "e0ee0286a9e35b34518fa468b330b004194e4364689027e88c68a45fa9c7f9bb"
     },
     {
       "path": "courses/56cdec0f-e196-49bd-aa26-e02440f70885/en_US/transcript.md",
@@ -3184,7 +3179,7 @@
     {
       "path": "courses/56cdec0f-e196-49bd-aa26-e02440f70885/zh_CN/course.json",
       "bytes": 783,
-      "sha256": "29edd5461f69ea41eb491967f1aa9cbbafebf6144b54172d19517082d9fadf2e"
+      "sha256": "83ccae3f2c6bf80d77393f40634114eaa465500abf543f3bc566b3c1b86827f4"
     },
     {
       "path": "courses/56cdec0f-e196-49bd-aa26-e02440f70885/zh_CN/transcript.md",
@@ -3204,7 +3199,7 @@
     {
       "path": "courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/course.json",
       "bytes": 760,
-      "sha256": "f009895055635502b47ea7d57437226affa39dffa1aa366cd7ab01edc9875eb8"
+      "sha256": "381dd7458547a6e8ef35600f352363e8bb2844c331eec83e6f8c1f1e6255fe5a"
     },
     {
       "path": "courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md",
@@ -3224,7 +3219,7 @@
     {
       "path": "courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/en_US/course.json",
       "bytes": 766,
-      "sha256": "843f35f6455f13d0b0c509447822de0d8e82c3e105e973882bf16990c4edd7e2"
+      "sha256": "35cf6af1b7db27772ad36c9b8401d6cc6caafb1b6ae295158c2a122d13ade153"
     },
     {
       "path": "courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/en_US/transcript.md",
@@ -3244,7 +3239,7 @@
     {
       "path": "courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/zh_CN/course.json",
       "bytes": 763,
-      "sha256": "69620a5b7ff2b2a0cfc98fac9ab56babfef3eeacbbfb31a919f7841d48a7bb30"
+      "sha256": "39a0cc275c9b9bb2b7774673e690ad46fbaef0f2253d5b68c943f6fa72f24a18"
     },
     {
       "path": "courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/zh_CN/transcript.md",
@@ -3264,7 +3259,7 @@
     {
       "path": "courses/59a08397-d4b4-4b33-9d38-e83d81329279/en_US/course.json",
       "bytes": 800,
-      "sha256": "84d426d74fa256449f0c3a8464657ab02288131522ab774248d0c12ab3e5d15b"
+      "sha256": "8bad24e426031f0e5f006c86b4e58cabe28207b398a393a53e77424e4eb020be"
     },
     {
       "path": "courses/59a08397-d4b4-4b33-9d38-e83d81329279/en_US/transcript.md",
@@ -3284,7 +3279,7 @@
     {
       "path": "courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/en_US/course.json",
       "bytes": 789,
-      "sha256": "2d5c2a3b1df5ad982a5a860b22aec0e2caf05e93e0e80dbba04c84330cf2b002"
+      "sha256": "df59b06c736293107735a81f1511ecff175358e01b201d744ccf67099f40837f"
     },
     {
       "path": "courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/en_US/transcript.md",
@@ -3304,7 +3299,7 @@
     {
       "path": "courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/zh_CN/course.json",
       "bytes": 790,
-      "sha256": "ccce9b0b2d1e9b1b789c2f818b061d08c79f7743eca2886f98ee73d91f497b35"
+      "sha256": "d6df7ffe6a557ea00c1d0935bf3093cd824259bbbb876e411ffa6a6675efc7ac"
     },
     {
       "path": "courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/zh_CN/transcript.md",
@@ -3324,7 +3319,7 @@
     {
       "path": "courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/course.json",
       "bytes": 778,
-      "sha256": "4d016d6d17e94c87b8efac249ade62e508f90f46566f04ed82657a48b3651376"
+      "sha256": "f801e06ad4d44b85c9470c6ae486a37fe8d92b9ed97e392c3008e46ec918a794"
     },
     {
       "path": "courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/transcript.md",
@@ -3344,7 +3339,7 @@
     {
       "path": "courses/5f6aa41f-9467-425a-80ad-0b62264c8769/en_US/course.json",
       "bytes": 809,
-      "sha256": "aa7b2fb89692a7c2eca59e1ec64dcbf9fbf3f7241b2b3a4785e53cbe715e7fb1"
+      "sha256": "145bbb5649863c55dc4d83dc34d109d9a77ba934e6595528e964f2b52cd7a951"
     },
     {
       "path": "courses/5f6aa41f-9467-425a-80ad-0b62264c8769/en_US/transcript.md",
@@ -3364,7 +3359,7 @@
     {
       "path": "courses/5f6aa41f-9467-425a-80ad-0b62264c8769/zh_CN/course.json",
       "bytes": 806,
-      "sha256": "b080359e5f30ce0920bc007de971c45fcc168c68014db3c8779012305b6ba444"
+      "sha256": "0646fbcc434da6d436991653d49bbaf0117a5148f964645c309c54b7c216c121"
     },
     {
       "path": "courses/5f6aa41f-9467-425a-80ad-0b62264c8769/zh_CN/transcript.md",
@@ -3389,7 +3384,7 @@
     {
       "path": "courses/604ec123-3bb9-4808-a56c-38270532352a/en_US/course.json",
       "bytes": 787,
-      "sha256": "73e124e5d9e360c1a2251e8b81389944a80e12ef34f16ec7b229dc40a81213a6"
+      "sha256": "b93a09aef8f3ddfa4d6f3a626e5858e17ffe7cde3123b7c1bf725388b03c33ef"
     },
     {
       "path": "courses/604ec123-3bb9-4808-a56c-38270532352a/en_US/transcript.md",
@@ -3409,7 +3404,7 @@
     {
       "path": "courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/course.json",
       "bytes": 786,
-      "sha256": "9fe4da54e9dd9a0b857caf07497855c8f5fe8465cac2c57bbf7fee69d732d63d"
+      "sha256": "d7c10f38591a23fc94364e880d738c5f1f38c1f84a3a3005bc20fbc6a2d153f7"
     },
     {
       "path": "courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/transcript.md",
@@ -3429,7 +3424,7 @@
     {
       "path": "courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/course.json",
       "bytes": 805,
-      "sha256": "6a035c355e9f53c8baea63732fcc8e8281c437583325a48a3f0c366523bb3082"
+      "sha256": "ace8f93262aff6e547f324091a5914b406e04389b3fc8c2e398851d76e1b9617"
     },
     {
       "path": "courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/transcript.md",
@@ -3449,7 +3444,7 @@
     {
       "path": "courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/en_US/course.json",
       "bytes": 786,
-      "sha256": "9adb08da5c22f38c35c10bea701833201bd2f90a0a3f0ec1d01af49a6daac68d"
+      "sha256": "90fce35f1d366cbed2398c01b2256b11e105064dd0c222df3687b45a73e23a36"
     },
     {
       "path": "courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/en_US/transcript.md",
@@ -3469,7 +3464,7 @@
     {
       "path": "courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/zh_CN/course.json",
       "bytes": 783,
-      "sha256": "1ede6055b7eda39f40fdb78225d006fe06246c58cb8181df7ddc9850b6e81d81"
+      "sha256": "1ff1b8932bc16886bac322113fcc11f8c0eb229a46ccafbedb6d43b152860598"
     },
     {
       "path": "courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/zh_CN/transcript.md",
@@ -3489,7 +3484,7 @@
     {
       "path": "courses/646406cf-7b11-45ec-896e-90bf3578c8c3/en_US/course.json",
       "bytes": 769,
-      "sha256": "cdf4cd944c28429323815c5a4f2f375bf5d20bf8a56de78b801d11f0eeb7c735"
+      "sha256": "183ac2230aa72b0bebf908b368564830854bdffa953e9acf0dfb8c650fb2db9a"
     },
     {
       "path": "courses/646406cf-7b11-45ec-896e-90bf3578c8c3/en_US/transcript.md",
@@ -3509,7 +3504,7 @@
     {
       "path": "courses/670035e4-6834-46f9-be38-385231351096/en_US/course.json",
       "bytes": 769,
-      "sha256": "ba2aaea3e508f1d896cb5d61374f7437dc5e0f49f2eb0d134da8fb0fe6b06c75"
+      "sha256": "ca893aaa0346cc1cc3249d6d27918e18d5d12527d0fc4b4747115b03109aaddc"
     },
     {
       "path": "courses/670035e4-6834-46f9-be38-385231351096/en_US/transcript.md",
@@ -3529,7 +3524,7 @@
     {
       "path": "courses/670035e4-6834-46f9-be38-385231351096/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "eec1b52726cac3b88d44cfd08fe46458313ee4cc4f36ff678ed43e31fc03da69"
+      "sha256": "c1351e76349276b4edff84a113389c7465276658d7c0e348f4b62925eeb9afa8"
     },
     {
       "path": "courses/670035e4-6834-46f9-be38-385231351096/zh_CN/transcript.md",
@@ -3549,7 +3544,7 @@
     {
       "path": "courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/en_US/course.json",
       "bytes": 791,
-      "sha256": "ad71933a5da7cb49bdf3ff0fb05fcc5598b61c960c216b713366fe7e2a1d4d04"
+      "sha256": "be3e8ef88b012df29ee7e76bf9b1051f4fc0940ec3f9c2f77efe9cb173732124"
     },
     {
       "path": "courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/en_US/transcript.md",
@@ -3569,7 +3564,7 @@
     {
       "path": "courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/zh_CN/course.json",
       "bytes": 794,
-      "sha256": "60fddc88f4d70becd93d431b701c1f999bd7418cbe4ea88eac855f1529da6c57"
+      "sha256": "42ad548b3bf50b6a01ff3c9b27075fe1b8839e616758af4a300a3fe6a09b4fff"
     },
     {
       "path": "courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/zh_CN/transcript.md",
@@ -3589,7 +3584,7 @@
     {
       "path": "courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/en_US/course.json",
       "bytes": 784,
-      "sha256": "f301ae67d386e8fe10838d5d11d006fa3e664f8f9a5a2a33ce0298a776e311ae"
+      "sha256": "2985f3471875e681a304ba34a21d454666a61c894b59288273ba9fc181776731"
     },
     {
       "path": "courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/en_US/transcript.md",
@@ -3609,7 +3604,7 @@
     {
       "path": "courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/zh_CN/course.json",
       "bytes": 786,
-      "sha256": "7e419dd7c0754048fb16527d1a6fec1402ee7d1923bdda0a62637e5f774fd9b4"
+      "sha256": "8e4e62f39706e2a11084408fd2cc94d43fd53623c479d557565c7b0f089df2fa"
     },
     {
       "path": "courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/zh_CN/transcript.md",
@@ -3629,7 +3624,7 @@
     {
       "path": "courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/course.json",
       "bytes": 808,
-      "sha256": "d36c2e1dbc11b060a7b4383706c16426e1aefdc56655ccec7eb6113cd8fcb403"
+      "sha256": "17aba3f773949149bc531d18ae1214c306a1d3e4b5eb8d8609f2efad6132f431"
     },
     {
       "path": "courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md",
@@ -3649,7 +3644,7 @@
     {
       "path": "courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/en_US/course.json",
       "bytes": 783,
-      "sha256": "bfdafd92e1857f219cfce8e25b6f415dfc4ad9f3db19c33a517bf6d7eee8ef33"
+      "sha256": "b19cd8f29c08274d34b1eef1014622407af3a952731a95bfad791fb578a3531e"
     },
     {
       "path": "courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/en_US/transcript.md",
@@ -3669,7 +3664,7 @@
     {
       "path": "courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/zh_CN/course.json",
       "bytes": 780,
-      "sha256": "20d201336dd81d3f62a4a39495d4414988969a8ab0e785534d0d6419e862540d"
+      "sha256": "e0ca124695a9840cc38a11ee81abb3f5f10891372d0561e038f568736a39df1c"
     },
     {
       "path": "courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/zh_CN/transcript.md",
@@ -3689,7 +3684,7 @@
     {
       "path": "courses/6b90667d-d6c3-48af-97af-de027f1e5b13/en_US/course.json",
       "bytes": 781,
-      "sha256": "a24824190ff980956dfba2976fb903520d9d7d326ec54f748a1649dda704ff16"
+      "sha256": "02ccb4a466d9a53aa45267a6a2757ef4eeb459492b946b74abca2d2298bbe8a9"
     },
     {
       "path": "courses/6b90667d-d6c3-48af-97af-de027f1e5b13/en_US/transcript.md",
@@ -3709,7 +3704,7 @@
     {
       "path": "courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/course.json",
       "bytes": 793,
-      "sha256": "2ce001de3562bb66f0871df20500d157c7e32956e62cdc17842e003aab16dafb"
+      "sha256": "244887f5c39c5abb9e9c6421480e65c76f80ee51af57c1af66e48d3f04cccc62"
     },
     {
       "path": "courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md",
@@ -3729,7 +3724,7 @@
     {
       "path": "courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/en_US/course.json",
       "bytes": 763,
-      "sha256": "78ac2fcad4dff057b99796175c342c87446410a109f1e93ee0f2b0f3e9da5eba"
+      "sha256": "272fb6cd582c4076c31f1138e8eedde4a18716224fb50f8897241079f417733c"
     },
     {
       "path": "courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/en_US/transcript.md",
@@ -3749,7 +3744,7 @@
     {
       "path": "courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/zh_CN/course.json",
       "bytes": 765,
-      "sha256": "775a9ea966444213c9f6d4bbc3e03b210532b50143fb5dbfe0f7841f0e3d9d0c"
+      "sha256": "ddaf20bb2b2d2d352e83f7b8ba14e86ea96a5691854ba1b79efa6586187939b9"
     },
     {
       "path": "courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/zh_CN/transcript.md",
@@ -3769,7 +3764,7 @@
     {
       "path": "courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/en_US/course.json",
       "bytes": 777,
-      "sha256": "c4794d6a6028eb51e77da5cf1ba919716276f179117bafd557db15b35651957a"
+      "sha256": "ffd9b85ad5d32c1f4503770f5389dee35d8a4cb19521f76fe78d1906f7c92c6d"
     },
     {
       "path": "courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/en_US/transcript.md",
@@ -3789,7 +3784,7 @@
     {
       "path": "courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/course.json",
       "bytes": 778,
-      "sha256": "4fc8380dae162b1a7a94893eb3e8657ad4b90d38bb0ed6c8c37545d0952a4c6f"
+      "sha256": "84672190d2b86440557b9859d7eaa9dba6ea0cb07d1f880e79d145f238b8b04e"
     },
     {
       "path": "courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md",
@@ -3809,7 +3804,7 @@
     {
       "path": "courses/7091e147-d59e-4eac-9648-65ff3bd2084d/en_US/course.json",
       "bytes": 771,
-      "sha256": "c192f82bbf3e64d207471aafeea22a2ac9af73fe84fe72fb685dec7970355692"
+      "sha256": "cc29a9855f1b960200a9c127b192abbf42fef55c75f0605c811137fbcc27102b"
     },
     {
       "path": "courses/7091e147-d59e-4eac-9648-65ff3bd2084d/en_US/transcript.md",
@@ -3829,7 +3824,7 @@
     {
       "path": "courses/7091e147-d59e-4eac-9648-65ff3bd2084d/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "02d0c77a02dbd96c499a8dea6a3ae01e45dc4ebfe14f22def7b6aa178452c619"
+      "sha256": "0b2f5d7738afe1db873414a1849ac9f4d101c4ccf7327e637c60e5d49dd24e64"
     },
     {
       "path": "courses/7091e147-d59e-4eac-9648-65ff3bd2084d/zh_CN/transcript.md",
@@ -3849,7 +3844,7 @@
     {
       "path": "courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/en_US/course.json",
       "bytes": 776,
-      "sha256": "192b1d68250140bc0c284368093e566d771cb6bda10ff73543bc6e8f0fe9cc02"
+      "sha256": "59d95bf63c0ac59b224650391ec07a547b9c8e01525d0c26f13cac5b47658e69"
     },
     {
       "path": "courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/en_US/transcript.md",
@@ -3869,7 +3864,7 @@
     {
       "path": "courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/zh_CN/course.json",
       "bytes": 773,
-      "sha256": "aaff8dbaa5a7cdde6f8244a1cd6fb63a8a4873ffebc1a94d6cff85739de4d76a"
+      "sha256": "d89a833045623b9342c006306e5dc2ce9c96106d870d5e5c0f3352e87b337b57"
     },
     {
       "path": "courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/zh_CN/transcript.md",
@@ -3889,7 +3884,7 @@
     {
       "path": "courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/en_US/course.json",
       "bytes": 772,
-      "sha256": "a7032889dd7b1306eef6e05d8192f2692bcebad150ad1094b38d42182c14c199"
+      "sha256": "de1ee97e2089000be4e674121e8ae7d1196c8d9a8dc47df61222192362606dbf"
     },
     {
       "path": "courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/en_US/transcript.md",
@@ -3909,7 +3904,7 @@
     {
       "path": "courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "2022da3e253b91a125f8dd0ec6282dddddd39ec424ef8dcdc390e0fd58b4d0a9"
+      "sha256": "c3a71312520437e1f597040a9e08a4b6fa73e425d8c46a5763a36b22c03a5c0c"
     },
     {
       "path": "courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/transcript.md",
@@ -3929,7 +3924,7 @@
     {
       "path": "courses/71df97e1-a698-4e73-a357-ae7903433914/en_US/course.json",
       "bytes": 770,
-      "sha256": "cc4a26576617a8505328e21de6b3d09dd3b31b21594484434f4d8bf3f77f09ba"
+      "sha256": "cb46b1f684c9bdf46344a5b2f9d9ac2d0a53e3b99886316d945f652f2236382a"
     },
     {
       "path": "courses/71df97e1-a698-4e73-a357-ae7903433914/en_US/transcript.md",
@@ -3949,7 +3944,7 @@
     {
       "path": "courses/71df97e1-a698-4e73-a357-ae7903433914/zh_CN/course.json",
       "bytes": 767,
-      "sha256": "c9d0a04671a4592af2f2ec777414f13d00231b9ed91b36b008b1fbd4145a474f"
+      "sha256": "5845b7a2bc5448527337a63d2a7609122803452da85dee70ac657e52e7792c8f"
     },
     {
       "path": "courses/71df97e1-a698-4e73-a357-ae7903433914/zh_CN/transcript.md",
@@ -3969,7 +3964,7 @@
     {
       "path": "courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/en_US/course.json",
       "bytes": 819,
-      "sha256": "e82d9b02727f5433d6ea272b12ff8157352b5119e6afa6117f9d47a015e1defd"
+      "sha256": "1ee60e574d048ba48b4b44e82958af214673e0316516bb38036efba1ddcd8667"
     },
     {
       "path": "courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/en_US/transcript.md",
@@ -3989,7 +3984,7 @@
     {
       "path": "courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/zh_CN/course.json",
       "bytes": 816,
-      "sha256": "a7dc9fe3f63d503ab316957d9c1e6994fa59d12748f7de07d7890b9aea0a9186"
+      "sha256": "d2ac04fe3ca91897619ebf299681915b90ee241e9c2916dfcd84cda2bedf98df"
     },
     {
       "path": "courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/zh_CN/transcript.md",
@@ -4009,7 +4004,7 @@
     {
       "path": "courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/en_US/course.json",
       "bytes": 792,
-      "sha256": "1e4c13784097e769e052898fa300130ec8380916132af0763a3aa5ee74c9b351"
+      "sha256": "466533c4ec8e587914bd201ad9e7fe56ddea9ce108910d4ba3d1a30d69c85778"
     },
     {
       "path": "courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/en_US/transcript.md",
@@ -4029,7 +4024,7 @@
     {
       "path": "courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "14ddd44861d44766e9d36ca3a5db7cb1adebd67d27ad4893c29f3e666c33bdc8"
+      "sha256": "a6ecd3a4cc58afda069d9eee5e84b051e62a6bfdc4eeea632535f2f6db6bc4f0"
     },
     {
       "path": "courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/zh_CN/transcript.md",
@@ -4054,7 +4049,7 @@
     {
       "path": "courses/75af3c97-c8b3-4a51-9773-05df4c838565/en_US/course.json",
       "bytes": 771,
-      "sha256": "509adb8de4b9da13f806ddcb4e0cc401e1e4b001f5c7033f32bf0e8ea549b888"
+      "sha256": "cfb14c09cb6359090ddbaaab5346943dc13121b26bc0457a4e0755de53a05fe7"
     },
     {
       "path": "courses/75af3c97-c8b3-4a51-9773-05df4c838565/en_US/transcript.md",
@@ -4074,7 +4069,7 @@
     {
       "path": "courses/75af3c97-c8b3-4a51-9773-05df4c838565/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "051449f1fce6efad93af19873a0afd9b06125213bd72155d2298c6c42ff84a8f"
+      "sha256": "4aec4733b12c2c954edf07e069310509bfaef72f89edd07d3c07bf72b72fdeeb"
     },
     {
       "path": "courses/75af3c97-c8b3-4a51-9773-05df4c838565/zh_CN/transcript.md",
@@ -4094,7 +4089,7 @@
     {
       "path": "courses/76559113-a4ac-436a-b50a-28c7d282cca4/en_US/course.json",
       "bytes": 798,
-      "sha256": "7e1dac0d2963757c02ba1aecb37b4fe7b1ec3d0eee42d7c853ae5d8a20796e6c"
+      "sha256": "79686538dc9f45024105d6ccf1d33593de75971a0defac7ee612f80c682dd13e"
     },
     {
       "path": "courses/76559113-a4ac-436a-b50a-28c7d282cca4/en_US/transcript.md",
@@ -4119,7 +4114,7 @@
     {
       "path": "courses/76559113-a4ac-436a-b50a-28c7d282cca4/zh_CN/course.json",
       "bytes": 795,
-      "sha256": "b06c66694ef77ca042b0c5d7dc8362b5823194516bf63ccdee74b53ce85c7aff"
+      "sha256": "0a27d89ad046f1eaacae91ccb390bbbefc259e917f54e19fa4fe0095f4229ebe"
     },
     {
       "path": "courses/76559113-a4ac-436a-b50a-28c7d282cca4/zh_CN/transcript.md",
@@ -4144,7 +4139,7 @@
     {
       "path": "courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/course.json",
       "bytes": 767,
-      "sha256": "d6316b9ac5fc20c71867006d49701729f1be0eeee5454b3e978ada88d97ffd4e"
+      "sha256": "c8768374b3ca191986afd7e599dbf4f04d9a528cdbda73a9ce212b80be501e69"
     },
     {
       "path": "courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md",
@@ -4169,7 +4164,7 @@
     {
       "path": "courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/course.json",
       "bytes": 764,
-      "sha256": "2b73e527b046919d492469e2ca58e08b0623ba4ef2aeabe8fd167726536ee4de"
+      "sha256": "9976e2e483d633fefa5899e85445d93367262615f2f05d1c456cde676244371d"
     },
     {
       "path": "courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md",
@@ -4189,7 +4184,7 @@
     {
       "path": "courses/7bfe5496-318f-4e42-8fee-a0f1c8394caf/en_US/course.json",
       "bytes": 797,
-      "sha256": "e6f1df4fe32ce4e14d4f68b402df7986fe35f46a11bec46b86dbf20c9b620db4"
+      "sha256": "606f73fa249abd420c6266ce07944e8e1ee0cf3800f4a3e74abda2f587536046"
     },
     {
       "path": "courses/7bfe5496-318f-4e42-8fee-a0f1c8394caf/en_US/transcript.md",
@@ -4209,7 +4204,7 @@
     {
       "path": "courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/en_US/course.json",
       "bytes": 760,
-      "sha256": "18294cbbf57c0d8017ea146869bd0146fc04d81477eb285ad7dbe8e261ad13dc"
+      "sha256": "dd113edd1ac0781e2cb36fe76e6856fe945d552ec9e5ebb2a651c31ab9982aa1"
     },
     {
       "path": "courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/en_US/transcript.md",
@@ -4229,7 +4224,7 @@
     {
       "path": "courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "cf66a6f55e4b5f01758d013f1bfad2567913a3fee14200e77e9b00594c1279ba"
+      "sha256": "161a06db6f9055a56ad0b1275747bcf30eb8ca3d450d95bb7ab22dd131737d1c"
     },
     {
       "path": "courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/zh_CN/transcript.md",
@@ -4249,7 +4244,7 @@
     {
       "path": "courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/course.json",
       "bytes": 809,
-      "sha256": "0ea1b9dbc369e66e134f7ccb76b35f06b03dcb17fee13cddd3ea9a887c951522"
+      "sha256": "e5beb34c367148137190aff5d0d1a561279059139e567b6815075973a5653349"
     },
     {
       "path": "courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md",
@@ -4269,7 +4264,7 @@
     {
       "path": "courses/7e919233-e34f-44f5-83fe-82db49d61d66/en_US/course.json",
       "bytes": 764,
-      "sha256": "e354e76f4909f536598298c70e65b876aba27837e329df6ad9dca5648315e074"
+      "sha256": "75158951ad090fd1f29398f2aa7b07a6614f2ba4c34ad3f2898a1e1fef8360c1"
     },
     {
       "path": "courses/7e919233-e34f-44f5-83fe-82db49d61d66/en_US/transcript.md",
@@ -4289,7 +4284,7 @@
     {
       "path": "courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/en_US/course.json",
       "bytes": 818,
-      "sha256": "aa70ce7f56c176a0335d21be3983fe7c71fc8fb4ebb78c60a54497deebd46cab"
+      "sha256": "0e753c978dae6298f295740dc1dddd14604beb3c0d32dbde7d215e4f318e40eb"
     },
     {
       "path": "courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/en_US/transcript.md",
@@ -4309,7 +4304,7 @@
     {
       "path": "courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/zh_CN/course.json",
       "bytes": 819,
-      "sha256": "a03b6856cd8b8712d8bfd33a96e8f1747639cb349d1adc04402ea36201eb2db4"
+      "sha256": "170f0872718287552281261a3de141e0c1867d3ef710ebd2d4c9251e9d52149a"
     },
     {
       "path": "courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/zh_CN/transcript.md",
@@ -4329,7 +4324,7 @@
     {
       "path": "courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/course.json",
       "bytes": 775,
-      "sha256": "4e58dd7b0794d6c131c3fbc30392894993d65caf057e4acf3caf71b408b754a2"
+      "sha256": "0ea4c8f1d399973f772a5ac4dc0d75065f6bbd278fc8e287567d03406308eade"
     },
     {
       "path": "courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md",
@@ -4349,7 +4344,7 @@
     {
       "path": "courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/course.json",
       "bytes": 779,
-      "sha256": "d8b2ff6f174a762d6bc4d651831a3dd6b29e3791371ece70299b9256627966e3"
+      "sha256": "28fe92cb0004876b89460b086c4fce0fb7ae8213ff8eed7a9faea9fd5d1c8030"
     },
     {
       "path": "courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md",
@@ -4369,7 +4364,7 @@
     {
       "path": "courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/course.json",
       "bytes": 787,
-      "sha256": "ebfe53b294c327ebc4b88a8b36d73cf4269c42fbb58a25dd361245d936b2dcae"
+      "sha256": "1a6f52f9b440fd5d4a151a25380a75bc89f2c51b17a9651123412fd4f0efd4ea"
     },
     {
       "path": "courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/transcript.md",
@@ -4389,7 +4384,7 @@
     {
       "path": "courses/8628d447-78f5-4fa2-b438-b240dc816a64/en_US/course.json",
       "bytes": 780,
-      "sha256": "7ee3a3ef6bbb1906d4b64776324abc8dd2a679beaa18d2e2e6e98a544e68b757"
+      "sha256": "b9810a8bd278bbbde8654e1314880f578a852368049f8931f0e85dd683f4f760"
     },
     {
       "path": "courses/8628d447-78f5-4fa2-b438-b240dc816a64/en_US/transcript.md",
@@ -4409,7 +4404,7 @@
     {
       "path": "courses/8628d447-78f5-4fa2-b438-b240dc816a64/zh_CN/course.json",
       "bytes": 777,
-      "sha256": "2f081810b726cf0e37fa3684190231af5d23999132b13bc52e355f8ff6501866"
+      "sha256": "6639c09adecb23b842934650ec8fa566cc148f30a101ff71279d79bda81c443e"
     },
     {
       "path": "courses/8628d447-78f5-4fa2-b438-b240dc816a64/zh_CN/transcript.md",
@@ -4434,7 +4429,7 @@
     {
       "path": "courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/course.json",
       "bytes": 801,
-      "sha256": "7d1a9925db10bb18c51284c36865c7a9f018acda492b7cc31d37ac9eca817385"
+      "sha256": "4a38b07ee68d1f330009145fdfded7978a14a131942ee552c0b97eddd52e26eb"
     },
     {
       "path": "courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md",
@@ -4454,7 +4449,7 @@
     {
       "path": "courses/86849b9b-5690-4484-b490-c26b186bc7b0/en_US/course.json",
       "bytes": 793,
-      "sha256": "d11bbf4bff5c86cb46504ed852f5650956b1f04d5572ac5ac3026b9371ea1753"
+      "sha256": "f52b208442b06b3fa728d0483129996350a984eb2340ac1dab780f2c6afd82a6"
     },
     {
       "path": "courses/86849b9b-5690-4484-b490-c26b186bc7b0/en_US/transcript.md",
@@ -4474,7 +4469,7 @@
     {
       "path": "courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/course.json",
       "bytes": 790,
-      "sha256": "a4cd76135bff5fde5906981837bd773b2e5deaa652d9862d3d8c54acb6ceb513"
+      "sha256": "f5edf511703f9c96e2051c786f4c1ea0fd1dd1194f08e973dde19b38e50fbeaf"
     },
     {
       "path": "courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/transcript.md",
@@ -4494,7 +4489,7 @@
     {
       "path": "courses/86a28216-f389-4eb3-be1e-934587862b3b/en_US/course.json",
       "bytes": 786,
-      "sha256": "3a0ceed255f619d747a9de5356e606eefdda20df004af275eb0ea690ab6912a7"
+      "sha256": "faa6e22c9450b426a2cfcddac443a9d053187768da8b6ac34ca08f3bb7a052f7"
     },
     {
       "path": "courses/86a28216-f389-4eb3-be1e-934587862b3b/en_US/transcript.md",
@@ -4514,7 +4509,7 @@
     {
       "path": "courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/course.json",
       "bytes": 786,
-      "sha256": "bb0554c95161f32b0199fcbb78b7e4e6928f1a42b6c56fd1a62c80bbe650b861"
+      "sha256": "0fd22c47ca6f5b315406925bf88a36e89a72f4aa4a8e07660b76f046a2e8e9b1"
     },
     {
       "path": "courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/transcript.md",
@@ -4534,7 +4529,7 @@
     {
       "path": "courses/86a775c7-75a3-479b-a2fc-fbc3e1997c00/en_US/course.json",
       "bytes": 793,
-      "sha256": "a5f737f08c05bc750c26ba44edfe603b1ce1fabcc357a1851cb756493d354d54"
+      "sha256": "ec278452cf326d912fc814fc429e7679ac8c749e9890fd93a356dd221d18cf99"
     },
     {
       "path": "courses/86a775c7-75a3-479b-a2fc-fbc3e1997c00/en_US/transcript.md",
@@ -4554,7 +4549,7 @@
     {
       "path": "courses/86a775c7-75a3-479b-a2fc-fbc3e1997c00/zh_CN/course.json",
       "bytes": 793,
-      "sha256": "d2848a02ab741d08027b8c6b4f43776284013c9aa4d3e37c0fa7394fe225cd83"
+      "sha256": "aa9acd62eda8edc76ca236195436f77adf3acaffa7902890f7a9e9145c25e21e"
     },
     {
       "path": "courses/86a775c7-75a3-479b-a2fc-fbc3e1997c00/zh_CN/transcript.md",
@@ -4574,7 +4569,7 @@
     {
       "path": "courses/8b11c55d-c853-4773-be8d-acd872ca08c1/en_US/course.json",
       "bytes": 794,
-      "sha256": "07d397104b1918b42b9666b68e78d48902b870994d073cebfa56e92d93ac22b8"
+      "sha256": "dbd8e761862f1b1665d8c0d0e4e342399bc04d1b9f9ebb87ce3c7928a11cf067"
     },
     {
       "path": "courses/8b11c55d-c853-4773-be8d-acd872ca08c1/en_US/transcript.md",
@@ -4594,7 +4589,7 @@
     {
       "path": "courses/8b11c55d-c853-4773-be8d-acd872ca08c1/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "c84f6bdaf870eda9e7bfa8f4824dfcfc7f5543fc7122d9f0e2cb067b2cc797f0"
+      "sha256": "c5c077da8129398384690e33613a1c51942c8c5afb7efb49d5734d08387da492"
     },
     {
       "path": "courses/8b11c55d-c853-4773-be8d-acd872ca08c1/zh_CN/transcript.md",
@@ -4614,7 +4609,7 @@
     {
       "path": "courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/en_US/course.json",
       "bytes": 771,
-      "sha256": "3abda4bbe7e4d456491f826e8965eb78d2c6f32a4307800aa8c765b98f0c3b9b"
+      "sha256": "95058065084460c65c3b68aba932a7eebe62bc637c0ca9fd45c4cc8a513be6d1"
     },
     {
       "path": "courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/en_US/transcript.md",
@@ -4634,7 +4629,7 @@
     {
       "path": "courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "e00487a3ef8c08288ffae4f040c970ba3d72ec6cb9ba807104614ef605de231f"
+      "sha256": "9f775cf0d4c37bdb8ff8d5a50859ee1db331e2c608d27aa426c60c8d823e2c97"
     },
     {
       "path": "courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md",
@@ -4659,7 +4654,7 @@
     {
       "path": "courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/en_US/course.json",
       "bytes": 778,
-      "sha256": "32d234fbd177e6cd30eacd87c1a088c4c65b23a968848d55633772cb8a8ff10c"
+      "sha256": "29f6610ddc55b15ea40f4e828f5e70f26633d06d7fd7ee1654dd86dd0eb05b88"
     },
     {
       "path": "courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/en_US/transcript.md",
@@ -4679,7 +4674,7 @@
     {
       "path": "courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "933aaf5e82a9bf40808e451c3b56459d08a7a55ed921a77e3695579a2af7a5be"
+      "sha256": "117b3b1d5bdca540cb56277c7aca3e1fad32fa5fbaf6eb71caf0cca5ebd7e9eb"
     },
     {
       "path": "courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/zh_CN/transcript.md",
@@ -4699,7 +4694,7 @@
     {
       "path": "courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/en_US/course.json",
       "bytes": 793,
-      "sha256": "98c960ed18666debd7475790814fa060bc101e72ae1f53386ab12ba72f0a72e3"
+      "sha256": "e6e26792a08800b863925980ebaddaf7b7c8223af00acbbb082cf4b9c7022838"
     },
     {
       "path": "courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/en_US/transcript.md",
@@ -4719,7 +4714,7 @@
     {
       "path": "courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/zh_CN/course.json",
       "bytes": 793,
-      "sha256": "e869859871eb507138450f878eaa339cfaad37ccc609833deebf66b4d08bc106"
+      "sha256": "1e8d45e0acb8dbe7e8fd10487051c7657c2d65e80399bf5517b8b84b862eb05d"
     },
     {
       "path": "courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/zh_CN/transcript.md",
@@ -4739,7 +4734,7 @@
     {
       "path": "courses/915791db-c5a1-4c02-ad04-d0c8a4b0211f/en_US/course.json",
       "bytes": 762,
-      "sha256": "3d2a41cb0ac8850c729aed6133d0343e56cb728e4cde75f62e5962a4b8cc4b8f"
+      "sha256": "0f10b832d7d1c36d1c4b10339ce6c4c9629f7e06316847b4f6ebb9637061cff4"
     },
     {
       "path": "courses/915791db-c5a1-4c02-ad04-d0c8a4b0211f/en_US/transcript.md",
@@ -4759,7 +4754,7 @@
     {
       "path": "courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/en_US/course.json",
       "bytes": 779,
-      "sha256": "92a2d11b360cf15822ec08352a5e2c68fbef3e6927e6e96dea02094f004edf5b"
+      "sha256": "8311289241f2ce1490efa5339b2eca1f0ccc1deb341cebb61c03297079125edd"
     },
     {
       "path": "courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/en_US/transcript.md",
@@ -4779,7 +4774,7 @@
     {
       "path": "courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/zh_CN/course.json",
       "bytes": 779,
-      "sha256": "e4b73ad3bd3ac820de0f3cef2905941ce9ea060551813ecb6398aebd4ae0cc22"
+      "sha256": "6c5c69215824ad586ec2cca73b2f13e3c0ee4ec45220cfb1a71e97da1238ae64"
     },
     {
       "path": "courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/zh_CN/transcript.md",
@@ -4799,7 +4794,7 @@
     {
       "path": "courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/en_US/course.json",
       "bytes": 779,
-      "sha256": "c5a5805c73ca0f45d263955861bc411b8ad5bbfd11155f913c9c36af93f437cd"
+      "sha256": "e576389171a27433c6fef6bbf81e0904f64883201228f5be2bb287170dbefba6"
     },
     {
       "path": "courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/en_US/transcript.md",
@@ -4819,7 +4814,7 @@
     {
       "path": "courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/zh_CN/course.json",
       "bytes": 779,
-      "sha256": "4d24d308b3c65236319ac5cdb5cf3f62b1a74a7cbb517fc0fb50db606738ea24"
+      "sha256": "f9204389667cadd1d0941a3bb9aec1f18e318b132fadf8e9bf3f566a1999d3c6"
     },
     {
       "path": "courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/zh_CN/transcript.md",
@@ -4839,7 +4834,7 @@
     {
       "path": "courses/939ce460-adb7-4689-b04e-fa6047635af5/en_US/course.json",
       "bytes": 792,
-      "sha256": "5f688e0b18105c30bb5dd07888e6a7a41867c7d2feb2d24e5233da0353b0ebf4"
+      "sha256": "012896fdd42e35ca0d5d41263ccb018444d7a458029b7f5fdfcd82da43a7f8a4"
     },
     {
       "path": "courses/939ce460-adb7-4689-b04e-fa6047635af5/en_US/transcript.md",
@@ -4859,7 +4854,7 @@
     {
       "path": "courses/939ce460-adb7-4689-b04e-fa6047635af5/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "58b24e944a6a04ca16abca7099b59476e8df78674f383a1ab080f4f662fad610"
+      "sha256": "7fc690ff599a30149aeef4e0e4b0c3cd1cfbe6f9ade814561e54a7efc00715d9"
     },
     {
       "path": "courses/939ce460-adb7-4689-b04e-fa6047635af5/zh_CN/transcript.md",
@@ -4884,7 +4879,7 @@
     {
       "path": "courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/en_US/course.json",
       "bytes": 774,
-      "sha256": "677d6de0f97465016ed2cac69f2e1a5b418ebe7f18b20d81665dc8d178775477"
+      "sha256": "00d46768c91f1aeeee9eeb5ed62ff5e00d8d8971b850ea5256282d03867c4c5a"
     },
     {
       "path": "courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/en_US/transcript.md",
@@ -4904,7 +4899,7 @@
     {
       "path": "courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "35791f9fe3a833de5591936f6c67b0b2e5dd6f6c79d08261a5ab6b8e3a988ec2"
+      "sha256": "7dca10a682b437e1ad6665abc7211daaa815ef7732bfdee15505e199dec0d663"
     },
     {
       "path": "courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/zh_CN/transcript.md",
@@ -4924,7 +4919,7 @@
     {
       "path": "courses/96b54729-94ae-4307-9f05-964c727bdbe0/en_US/course.json",
       "bytes": 788,
-      "sha256": "0446cf0f35f5ee28ef167220ad20300f4c42636cff193b1f37308366cf6d1f8c"
+      "sha256": "b7a1e9d277b4c9e2d788203f0026b8984c69e951f143b65ecc0f9552447d9890"
     },
     {
       "path": "courses/96b54729-94ae-4307-9f05-964c727bdbe0/en_US/transcript.md",
@@ -4944,7 +4939,7 @@
     {
       "path": "courses/96b54729-94ae-4307-9f05-964c727bdbe0/zh_CN/course.json",
       "bytes": 785,
-      "sha256": "8a13e2f7ad437516fae44a82e4ab0990cb8e92b975de10a86c7c65a69f4b6d18"
+      "sha256": "abb4a0fca2ff3998409305a98812b35e3817504ff438123d6ebe60255c695f59"
     },
     {
       "path": "courses/96b54729-94ae-4307-9f05-964c727bdbe0/zh_CN/transcript.md",
@@ -4964,7 +4959,7 @@
     {
       "path": "courses/98cd18f1-eae5-4664-9e8f-bb014e997231/en_US/course.json",
       "bytes": 807,
-      "sha256": "0b9b0ea02c9c9b5d4a56a03a096cacfd78dde6d07527ebdbaa1f79f63f2b0444"
+      "sha256": "29e3e6d491f09c4f2dc0bd999c23d10ce14240cd5bd09ede90666104c08c7a68"
     },
     {
       "path": "courses/98cd18f1-eae5-4664-9e8f-bb014e997231/en_US/transcript.md",
@@ -4984,7 +4979,7 @@
     {
       "path": "courses/98cd18f1-eae5-4664-9e8f-bb014e997231/zh_CN/course.json",
       "bytes": 803,
-      "sha256": "03d13be9535b35d8afb045a8aaf53ba83d17130191718b7638b620a504cd32e6"
+      "sha256": "4ebd0260daeb96357595c3772334da6fbf123b8638e2945cacc30036edf55377"
     },
     {
       "path": "courses/98cd18f1-eae5-4664-9e8f-bb014e997231/zh_CN/transcript.md",
@@ -5004,7 +4999,7 @@
     {
       "path": "courses/98f10d9f-bf23-418f-b4bb-370a640aef33/en_US/course.json",
       "bytes": 770,
-      "sha256": "327de28cff915ccf71c982cd74ce91c50ec67891992fb05276fe9d0c027641ca"
+      "sha256": "d1782d676dea52a170acc0cc72c866b63a35f7dff8a401519d0711ba04a52b48"
     },
     {
       "path": "courses/98f10d9f-bf23-418f-b4bb-370a640aef33/en_US/transcript.md",
@@ -5024,7 +5019,7 @@
     {
       "path": "courses/98f10d9f-bf23-418f-b4bb-370a640aef33/zh_CN/course.json",
       "bytes": 765,
-      "sha256": "d911d558b99ef49fb317afc679348a34e50e2a3f1962a8b4914e4d001ed0f494"
+      "sha256": "773ceec90592e53a4839e2632ba4820c50c1ce5df3d6bd453994a05fe74685af"
     },
     {
       "path": "courses/98f10d9f-bf23-418f-b4bb-370a640aef33/zh_CN/transcript.md",
@@ -5044,7 +5039,7 @@
     {
       "path": "courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/course.json",
       "bytes": 784,
-      "sha256": "47388b1b581f9b5a4630d3537c4dba7c7147858231765e7d853cd286d0c0fcda"
+      "sha256": "69adac8d7f9cb0e7c1d07545630391717d8106f8e8f63c31a6a7c795bf7ec56a"
     },
     {
       "path": "courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/transcript.md",
@@ -5064,7 +5059,7 @@
     {
       "path": "courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/en_US/course.json",
       "bytes": 795,
-      "sha256": "571f2fcbb2d735183ad176c76a04293d18692967a3adbdb4fc78f5c7c3e058bd"
+      "sha256": "9ab08d43181695f848cb34d8a7a74e81101537247c9393095b911be9dcb4bc4a"
     },
     {
       "path": "courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/en_US/transcript.md",
@@ -5084,7 +5079,7 @@
     {
       "path": "courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/zh_CN/course.json",
       "bytes": 792,
-      "sha256": "8cac2b01e56598de706fdfe706e939bb08fc6ba6b14c112f43cdc695b614bca4"
+      "sha256": "32b5238363fc0bf354451b5635b543b234f4b339e93dbf6aaef169766ed3f713"
     },
     {
       "path": "courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/zh_CN/transcript.md",
@@ -5104,7 +5099,7 @@
     {
       "path": "courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/course.json",
       "bytes": 820,
-      "sha256": "75f8496d741e27b726817c40e20149cdb5366c750aef3d35082bfc58c2cc5a62"
+      "sha256": "d7a46131cf1224f51480c14d1867faf68ad84d095ba07d6899f0dcc594ce86a6"
     },
     {
       "path": "courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/transcript.md",
@@ -5124,7 +5119,7 @@
     {
       "path": "courses/9db093ea-ff03-4325-ae88-01b4da66993a/en_US/course.json",
       "bytes": 764,
-      "sha256": "eececca104751d380337d9a21706d6569156534abfc8d185bf4858b57475029f"
+      "sha256": "347770994fd9d88e643dcf6a0f9244bfbb444c30cfb0d41b693ca713c9fa0927"
     },
     {
       "path": "courses/9db093ea-ff03-4325-ae88-01b4da66993a/en_US/transcript.md",
@@ -5144,7 +5139,7 @@
     {
       "path": "courses/9db093ea-ff03-4325-ae88-01b4da66993a/zh_CN/course.json",
       "bytes": 765,
-      "sha256": "c3c24a42095b94668a4e03cf4c4f0a6fa8415c1c7def1863db51cb3bdeea497b"
+      "sha256": "b3ab55a6db34e04c0c1b05c8be4219edcfb99b27413b3ad8ed6ad38bf7f67313"
     },
     {
       "path": "courses/9db093ea-ff03-4325-ae88-01b4da66993a/zh_CN/transcript.md",
@@ -5164,7 +5159,7 @@
     {
       "path": "courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/en_US/course.json",
       "bytes": 778,
-      "sha256": "00e375c923d13dbac5d14ef240061e8d0102742d20fef5cbb40e20a2f7c2ab0a"
+      "sha256": "9ff6be56604f7204c3c29c7e446d23d4ef4c099a2d30ffd6708522998b05bcbc"
     },
     {
       "path": "courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/en_US/transcript.md",
@@ -5184,7 +5179,7 @@
     {
       "path": "courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/zh_CN/course.json",
       "bytes": 775,
-      "sha256": "a4b1b6e536b9af558176c966a8985bfb50e33ff416ed2d41c7ea898f005dfec8"
+      "sha256": "b60dcd7d94e4b95cfaa42c524ea86cf44f80201331969de8fcd00bc743789cdd"
     },
     {
       "path": "courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/zh_CN/transcript.md",
@@ -5204,7 +5199,7 @@
     {
       "path": "courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/course.json",
       "bytes": 757,
-      "sha256": "2dc87829ab5a5137bf56c9a0a335280262356e00dabc1668a150870cdd41572e"
+      "sha256": "5b390603fc196fc0fc7d31ab78e7766b30c312809e23ef1fc5aee5615c97e3fd"
     },
     {
       "path": "courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md",
@@ -5224,7 +5219,7 @@
     {
       "path": "courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/en_US/course.json",
       "bytes": 791,
-      "sha256": "8ca1ec28e0078fa2fa319bc25fa536edccb89f0fa25b084092975750fe5564be"
+      "sha256": "16b5e845dd52d37d237b7ec6810e8f05936f0eae70eced01f29518df64b00dc0"
     },
     {
       "path": "courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/en_US/transcript.md",
@@ -5244,7 +5239,7 @@
     {
       "path": "courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/zh_CN/course.json",
       "bytes": 791,
-      "sha256": "ce50bd522b240a77e158952f00eb723f3c17466fbe07fd67b194e7d2d59f62d2"
+      "sha256": "7faf61b776e3cea76b7a1a84bd6b7be1fc5918a6b7a8a7d520d34ab5b8ddde72"
     },
     {
       "path": "courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/zh_CN/transcript.md",
@@ -5264,7 +5259,7 @@
     {
       "path": "courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/course.json",
       "bytes": 766,
-      "sha256": "701622c0e1d43d6db866956afe21cec728ad5706c550a2199373d9a187edae19"
+      "sha256": "f83e5d2c4534c4c2c9ce50afebe26b3a7b3255e04f23273cac610961866a0a55"
     },
     {
       "path": "courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md",
@@ -5284,7 +5279,7 @@
     {
       "path": "courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "2fbc0be18fdb01d3cd54124571289c498cd29f0a80d45ad2cfd6cbc733cdafa1"
+      "sha256": "ae104711728a0014032a85a1434d488f396795ec245f728a3115156dfcbbfe35"
     },
     {
       "path": "courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md",
@@ -5304,7 +5299,7 @@
     {
       "path": "courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/course.json",
       "bytes": 781,
-      "sha256": "a87d4a2bc78a43cc4c27fb1ee847c72a706b08e1b528e6902ef57693fed52d3d"
+      "sha256": "4f1af2be79504c8db23d2b5ae2bd77d19da2cac1eac5d14d22fecca760b334ce"
     },
     {
       "path": "courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md",
@@ -5324,7 +5319,7 @@
     {
       "path": "courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/en_US/course.json",
       "bytes": 783,
-      "sha256": "b8d56da65b60f8c1edcb5f56bdf1c7ca99943cf3eadd2bc26f429c5178275435"
+      "sha256": "ad545e79e02efc616236a306194803a4fafb569860993f6a3567469847bbf5f7"
     },
     {
       "path": "courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/en_US/transcript.md",
@@ -5344,7 +5339,7 @@
     {
       "path": "courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/zh_CN/course.json",
       "bytes": 780,
-      "sha256": "c1bf0a5188533c8a2a394a1986314c28605fef0e6d34fe73edac058f0c1a1398"
+      "sha256": "0354f0a750a0782e685e0c05cc2eec3f773798292e096ae7022f8f4dc746094c"
     },
     {
       "path": "courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/zh_CN/transcript.md",
@@ -5364,7 +5359,7 @@
     {
       "path": "courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/course.json",
       "bytes": 796,
-      "sha256": "0070c98d1261924fc52390dd6d4b5259b3f0f5ecdf10cd246d90ca63fbb408b3"
+      "sha256": "fb8677aa984ff921c9453be7d84bfe3e78ef62503c5e49da1cc110751de18af2"
     },
     {
       "path": "courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md",
@@ -5384,7 +5379,7 @@
     {
       "path": "courses/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/en_US/course.json",
       "bytes": 776,
-      "sha256": "a7635ea2f48ac2186e5d67b768cd4f7c1c7e9f135dab8096c61a63f699670804"
+      "sha256": "2d338fd013ff5a6ddafedbccdf6655bcea26d1a4a9eed29999f8b1ca4f47808d"
     },
     {
       "path": "courses/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/en_US/transcript.md",
@@ -5404,7 +5399,7 @@
     {
       "path": "courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/en_US/course.json",
       "bytes": 769,
-      "sha256": "81ba09a722159389fd6d9915bd1b52420563d1215b315bd9bf2d3880f60d517a"
+      "sha256": "c940e1eca01c82219def5f69463a957a594c1f143e37c8e537206db3704c692e"
     },
     {
       "path": "courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/en_US/transcript.md",
@@ -5429,7 +5424,7 @@
     {
       "path": "courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "1b4c6fef78f930d9955b311f7b656aa6593af523bf6dd25e3eac9e6da3687fee"
+      "sha256": "582f8fe713aacc03ab144a27dba39eb1ee3f224631d1551045dd8061ae9e4fdf"
     },
     {
       "path": "courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/zh_CN/transcript.md",
@@ -5454,7 +5449,7 @@
     {
       "path": "courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/en_US/course.json",
       "bytes": 776,
-      "sha256": "9cedf8961d1c2194221ffa82ad965038e54ef1430fcb71312650727eb80e72b9"
+      "sha256": "d8834a6972bcf6cdd7fcf9c8b7be0099849f245dbc142fb790dad259918983ae"
     },
     {
       "path": "courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/en_US/transcript.md",
@@ -5474,7 +5469,7 @@
     {
       "path": "courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/zh_CN/course.json",
       "bytes": 776,
-      "sha256": "d53c2cce85c62bfc9cf599bc2d6a623c66373f75c5e409941495f1dcf3ff09ac"
+      "sha256": "10625667492a1c36e6d2d714a2f1eb1776fd2f365bc7b02af8119fb799667205"
     },
     {
       "path": "courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/zh_CN/transcript.md",
@@ -5494,7 +5489,7 @@
     {
       "path": "courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/en_US/course.json",
       "bytes": 766,
-      "sha256": "17f30cb4dd4c416b31f80eb40fd39ce4e7c7a43a60750c4ca3ba9307afb9b5a3"
+      "sha256": "ac3bfad71cee13b2a033f57c8626d9d9602351c5023e9366a5a748cd3cabe94e"
     },
     {
       "path": "courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/en_US/transcript.md",
@@ -5514,7 +5509,7 @@
     {
       "path": "courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "0d130dc3872e9f31808bbb3d0beb5b85cde78b6185f74fec905288a7eed98cf4"
+      "sha256": "1fbe10c8c2085348d03748577def6882af7dfadd80fd06611c76ec1e1fcdb14e"
     },
     {
       "path": "courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/zh_CN/transcript.md",
@@ -5534,7 +5529,7 @@
     {
       "path": "courses/a7739325-a1a7-4818-be27-86715ca39727/en_US/course.json",
       "bytes": 789,
-      "sha256": "0baa9b65fbdba6244aec3c0d99d386346fe3e0207e5efa959aeb8c7a62eb784a"
+      "sha256": "a4e539105845e641fb938b402a7d53bc6931143aa84783da73d1b082fa417e0d"
     },
     {
       "path": "courses/a7739325-a1a7-4818-be27-86715ca39727/en_US/transcript.md",
@@ -5554,7 +5549,7 @@
     {
       "path": "courses/a7739325-a1a7-4818-be27-86715ca39727/zh_CN/course.json",
       "bytes": 786,
-      "sha256": "94231160bd94ac279ce395d0a4f4ac48fd1af2fcb75c56f6f7c7e7535d9281e4"
+      "sha256": "1721f459c2b6bbad83312c0c9f45bb19becfac16e82c1a7688191de0eb2e16bb"
     },
     {
       "path": "courses/a7739325-a1a7-4818-be27-86715ca39727/zh_CN/transcript.md",
@@ -5574,7 +5569,7 @@
     {
       "path": "courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/en_US/course.json",
       "bytes": 791,
-      "sha256": "48725d1def6dced38483100c39d69dc509d8e93b9b69883ed0e8f82bfa2199bb"
+      "sha256": "cfdcef7025196c3127cf5eb5b5c9aeed2c66a938ad21f792d1b2a417ac3271a2"
     },
     {
       "path": "courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/en_US/transcript.md",
@@ -5594,7 +5589,7 @@
     {
       "path": "courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "a2d454311fcb2c9cb27f9da239ddac22653cff5b689deed2d64e7ca5b555b136"
+      "sha256": "55003680f579efd1d537513a067819b25166fdbf032c2e3258696b2a4ddeb3d9"
     },
     {
       "path": "courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/zh_CN/transcript.md",
@@ -5614,7 +5609,7 @@
     {
       "path": "courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/en_US/course.json",
       "bytes": 779,
-      "sha256": "fac54c9f7fbb90e2e84a600b3b1914a3b868a59c9adcc9cb3ca0dd0d7ff38501"
+      "sha256": "c0cea3daf0f24a22eeada27000b196107faa406bd505b3ea24858215d14d7e51"
     },
     {
       "path": "courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/en_US/transcript.md",
@@ -5634,7 +5629,7 @@
     {
       "path": "courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/zh_CN/course.json",
       "bytes": 779,
-      "sha256": "63d1a2dee7bb75923d2f4e0bfe1954f14cb207fe0a682fde1fd879e2fe1b4fca"
+      "sha256": "fbcc6e56caedf576f658a28034063d59f3de0a43583904f3636c3a106b33f796"
     },
     {
       "path": "courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/zh_CN/transcript.md",
@@ -5654,7 +5649,7 @@
     {
       "path": "courses/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/en_US/course.json",
       "bytes": 797,
-      "sha256": "d153ed375a7ec2a75b44f3809df5bff589bea9f0e8da85c86a94b19caaacd2e5"
+      "sha256": "fe80b0f1b62b63db0b4c503aac2aac7aeeb163748835640b9f3a13aa8d080498"
     },
     {
       "path": "courses/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/en_US/transcript.md",
@@ -5674,7 +5669,7 @@
     {
       "path": "courses/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/en_US/course.json",
       "bytes": 835,
-      "sha256": "c515e7baf7eb1dbe863bb485d91c7e4c8fd5e3cf5af2e9f10e1bccf8a7750806"
+      "sha256": "efe7b38695acd56dc778a53380ac53a9b77939c6799e913290cb675e83d94023"
     },
     {
       "path": "courses/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/en_US/transcript.md",
@@ -5694,7 +5689,7 @@
     {
       "path": "courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/course.json",
       "bytes": 784,
-      "sha256": "be593063a00d1f51e92b7a3543c0ad70a325faa38b1b53dc20d80728e5da5017"
+      "sha256": "0a7a8a8fee14e0f05ef0c24d79c89a8b21c5b46762068a1436cb9a4250ea55cb"
     },
     {
       "path": "courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md",
@@ -5714,7 +5709,7 @@
     {
       "path": "courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/course.json",
       "bytes": 774,
-      "sha256": "4d4996288f6d2477a0f50f1ab0a2307791c3ca3755e8e1c96994aa015def350e"
+      "sha256": "2fbea4a6dca621e3b6e9ef8cbb4e958b785c64adb99ccbcc041b2e60b6909b79"
     },
     {
       "path": "courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/transcript.md",
@@ -5734,7 +5729,7 @@
     {
       "path": "courses/aba9eb41-2ee6-4954-b183-954de3867b0a/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "75bd741347aab9d3636013742249ad19b8fdc9c89fbd3ae22fa7dae286f775a9"
+      "sha256": "b65b8aaedcc4a1f328efcca33e1f29ebdd78c183d68f8256385c6fe814ab910a"
     },
     {
       "path": "courses/aba9eb41-2ee6-4954-b183-954de3867b0a/zh_CN/transcript.md",
@@ -5759,7 +5754,7 @@
     {
       "path": "courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/en_US/course.json",
       "bytes": 766,
-      "sha256": "1564684715ee046e9f37901a3369ff278016be1fe7c11f3c29f857c908f97492"
+      "sha256": "1813b7874a2a43e4b530ac898f93a409863cca5d935d298522fbfb04ca98da2c"
     },
     {
       "path": "courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/en_US/transcript.md",
@@ -5779,7 +5774,7 @@
     {
       "path": "courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "3354a2d7c214de1140951ee64c593300b35710ae77aeb04264e4f8498389988f"
+      "sha256": "a233dc5eaa8ad1417ef1aa835e4bb5c391bb121a548ed306def665614be9cbd3"
     },
     {
       "path": "courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/zh_CN/transcript.md",
@@ -5799,7 +5794,7 @@
     {
       "path": "courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/en_US/course.json",
       "bytes": 785,
-      "sha256": "091e0ba104c11efd9b7efe71a2bed412a1d37e16f331d5649e350ad0aed43f9f"
+      "sha256": "639e5c83da458ba9791844fa9fdd7a7b8d3751c9312fc651a54c9bcdf313ef3e"
     },
     {
       "path": "courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/en_US/transcript.md",
@@ -5819,7 +5814,7 @@
     {
       "path": "courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/course.json",
       "bytes": 782,
-      "sha256": "cc5b57b22cdf95fefb7a6e9917c369a88a43e11a680e05188bb4b303e3b00625"
+      "sha256": "a7a63147f2d4000afc830770a0b6e84ba24e6608038891e35e9ca45a119f63e6"
     },
     {
       "path": "courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/transcript.md",
@@ -5839,7 +5834,7 @@
     {
       "path": "courses/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/en_US/course.json",
       "bytes": 806,
-      "sha256": "adcae87792b8c31f7dec1f0e377c0776fae74ebec52f245c0d893f0780f0a587"
+      "sha256": "40d864e7c03330d206a8ffa5f95919b6719999d06271f04e3a5c95e22d75c201"
     },
     {
       "path": "courses/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/en_US/transcript.md",
@@ -5859,7 +5854,7 @@
     {
       "path": "courses/b2793d1b-4fd8-40a0-925f-160e71b76136/en_US/course.json",
       "bytes": 824,
-      "sha256": "0e982d3791d6400d4289fffa8d8abf9e8d703b934eb39c18aad2abdc8e3650fb"
+      "sha256": "dd2de4efac16757ba8296b63182c7dd2a22de794c91a93fb6aef416773fed771"
     },
     {
       "path": "courses/b2793d1b-4fd8-40a0-925f-160e71b76136/en_US/transcript.md",
@@ -5879,7 +5874,7 @@
     {
       "path": "courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/course.json",
       "bytes": 803,
-      "sha256": "ce8b15b19b20fce6ec47916e0c3f4c283d14ceb250af463e1afb2d704084fda2"
+      "sha256": "ee3e056ef39c2d5cd26279662b5cea4f2d562fbd1b766c2601f70a9c8968d1e4"
     },
     {
       "path": "courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md",
@@ -5899,7 +5894,7 @@
     {
       "path": "courses/b4b4965f-32e8-499c-9a67-1fbd54ad622c/en_US/course.json",
       "bytes": 794,
-      "sha256": "37ecee67c6252f700f30d2b01dd12548552d45fd9b74eff634937d494c633325"
+      "sha256": "45d89c54b0eaf64e1a64d77392e9a3a27039b0168de73dafa725c4c73a3649b3"
     },
     {
       "path": "courses/b4b4965f-32e8-499c-9a67-1fbd54ad622c/en_US/transcript.md",
@@ -5919,7 +5914,7 @@
     {
       "path": "courses/b4b4965f-32e8-499c-9a67-1fbd54ad622c/zh_CN/course.json",
       "bytes": 795,
-      "sha256": "d3572ec5b94b0c543b8890ece6e6ec4b0ba6c97b8237983b214dd6fc73473c50"
+      "sha256": "288b94a7d751113501024a402957550ed0c914a97b734a1bfa144200901a548a"
     },
     {
       "path": "courses/b4b4965f-32e8-499c-9a67-1fbd54ad622c/zh_CN/transcript.md",
@@ -5939,7 +5934,7 @@
     {
       "path": "courses/b4cca00f-167a-4e8b-add1-aa375c018186/en_US/course.json",
       "bytes": 785,
-      "sha256": "7b2aae78ed490d77b65f4687be5cfa3aad2b246e0f2746ce6c3961f5e8a68b43"
+      "sha256": "c1070c788beead8da0fea3ee327f546bea1e21354ea57404c1582e7c040eeccb"
     },
     {
       "path": "courses/b4cca00f-167a-4e8b-add1-aa375c018186/en_US/transcript.md",
@@ -5959,7 +5954,7 @@
     {
       "path": "courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/course.json",
       "bytes": 790,
-      "sha256": "9687041e0fd983195b7885d856b0fd2304d2884f37dbd01907c338b953ae673a"
+      "sha256": "6f376edc229a4306e898ee1384a23c5ffb382384da2ce296e5f3003542350165"
     },
     {
       "path": "courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/transcript.md",
@@ -5979,7 +5974,7 @@
     {
       "path": "courses/b576fddc-129d-4ce1-8c71-15e515b7f551/en_US/course.json",
       "bytes": 763,
-      "sha256": "8c6d5e4c489502fe00d87a850476938319f7026c6466bc98f69f3cd8e314fe07"
+      "sha256": "036495243df65278a6bdc94e40206e16a3f4ce6520fb1012531e89c1c70fb1ec"
     },
     {
       "path": "courses/b576fddc-129d-4ce1-8c71-15e515b7f551/en_US/transcript.md",
@@ -5999,7 +5994,7 @@
     {
       "path": "courses/b576fddc-129d-4ce1-8c71-15e515b7f551/zh_CN/course.json",
       "bytes": 763,
-      "sha256": "2d54d2e30917331764a4a796446ae487908993352d7ae4725a509d230ec1aedc"
+      "sha256": "8fb772ada4780b68ccdac1c82c3aa9343fe33e95bc9fd672a73fd8e56a87be2d"
     },
     {
       "path": "courses/b576fddc-129d-4ce1-8c71-15e515b7f551/zh_CN/transcript.md",
@@ -6019,7 +6014,7 @@
     {
       "path": "courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/en_US/course.json",
       "bytes": 796,
-      "sha256": "b9a08825aab269d0ac06260e9fb21987943c7f091d13ba1e925a8236c8af1435"
+      "sha256": "2bbc9b55132777eaee4b4e387a001af9c265404a28b6be50ee55d3799b37cfa4"
     },
     {
       "path": "courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/en_US/transcript.md",
@@ -6039,7 +6034,7 @@
     {
       "path": "courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/zh_CN/course.json",
       "bytes": 793,
-      "sha256": "ecc6c7c5272c3b15bdb0461f8993f751edd49123b01deaefcbfe07e0dc940897"
+      "sha256": "4a6c06a392b8a5c80d1222e5f86f4bb125457f1e440cec5115b8e948f2934666"
     },
     {
       "path": "courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/zh_CN/transcript.md",
@@ -6059,7 +6054,7 @@
     {
       "path": "courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/en_US/course.json",
       "bytes": 776,
-      "sha256": "84a3358f227ead91cb42a01bf4ffeab095fbdec64914a19330a7c80e0cf4d90e"
+      "sha256": "effb7d32eb1af1c0aacfeb4d5d4af6aeac314ea33704d3b0e7262dc7d13242a4"
     },
     {
       "path": "courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/en_US/transcript.md",
@@ -6079,7 +6074,7 @@
     {
       "path": "courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/zh_CN/course.json",
       "bytes": 777,
-      "sha256": "82616e703b039cd217941ef2eb773bffd9a5c81a17bea4f31369249a0ba58c77"
+      "sha256": "8d7bf5786468771bcbeef50c69d80b882369f53ed1ea7e99c1cb798a535916e6"
     },
     {
       "path": "courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/zh_CN/transcript.md",
@@ -6099,7 +6094,7 @@
     {
       "path": "courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/en_US/course.json",
       "bytes": 806,
-      "sha256": "692d73bdd4f55c4b8cf3a0c246b6077082b922e58ffb404c13ff6df268494db8"
+      "sha256": "1a687dd7cb8af13d28b5d86c3bb562e0c5272736eacc219eed7d0edf8d194b91"
     },
     {
       "path": "courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/en_US/transcript.md",
@@ -6119,7 +6114,7 @@
     {
       "path": "courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/course.json",
       "bytes": 806,
-      "sha256": "e7408fcb366c2fdc5607ecf2defe216fe029bc259c21c10a7de7d82a37e2b4ff"
+      "sha256": "7e4bf8a5438b4ab67f7a63ee8f7976417abbe12a96cb3b565cd3a09c7501eb64"
     },
     {
       "path": "courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md",
@@ -6139,7 +6134,7 @@
     {
       "path": "courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/en_US/course.json",
       "bytes": 783,
-      "sha256": "5e589eba61fc65ca0263c4368e20fa879bbd6cc63e1d284712321335b32989f2"
+      "sha256": "37c141d35bf7a96a08b466eab84c27400230f7931bbee82c816baad21833997f"
     },
     {
       "path": "courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/en_US/transcript.md",
@@ -6159,7 +6154,7 @@
     {
       "path": "courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/zh_CN/course.json",
       "bytes": 778,
-      "sha256": "8b4d02052499ce1005abfc0673eb6724571fb5514933d0b3fae0d35f9b69dd47"
+      "sha256": "7faea5d96bb506be3842e3f24d0a1c50383de17b2a03b46770f78708ba635c05"
     },
     {
       "path": "courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/zh_CN/transcript.md",
@@ -6179,7 +6174,7 @@
     {
       "path": "courses/b70e661e-4dae-45be-913d-a46ad2fe147e/en_US/course.json",
       "bytes": 815,
-      "sha256": "13377696d1156fa76264de96fd38ca1d8e6e8b7fd282c7841d53c8ebc30430fa"
+      "sha256": "a7b8312dd14578104191fb7cdba4bd95b1fef0662697749d187379e6b4661e4d"
     },
     {
       "path": "courses/b70e661e-4dae-45be-913d-a46ad2fe147e/en_US/transcript.md",
@@ -6199,7 +6194,7 @@
     {
       "path": "courses/b70e661e-4dae-45be-913d-a46ad2fe147e/zh_CN/course.json",
       "bytes": 812,
-      "sha256": "a90b86fd051006ced3fdcae440cd51ae6aa1ebfeee28a87a15c20a5526855a66"
+      "sha256": "f55a386a4d8c389d3871ccc2bdd8208ad63b58ddff923ff8badeab014c7bcbf8"
     },
     {
       "path": "courses/b70e661e-4dae-45be-913d-a46ad2fe147e/zh_CN/transcript.md",
@@ -6219,7 +6214,7 @@
     {
       "path": "courses/b8348fcf-9c79-422d-a88c-feac58b9abc3/en_US/course.json",
       "bytes": 801,
-      "sha256": "915395ae186070ea30a2648cf1c47369f4b6300c06ae6efc481b0715a060177b"
+      "sha256": "6adf9615f9be4c0875eaae99d62d5b8ceab05589b36570b2bd2a368ad59d8f5b"
     },
     {
       "path": "courses/b8348fcf-9c79-422d-a88c-feac58b9abc3/en_US/transcript.md",
@@ -6239,7 +6234,7 @@
     {
       "path": "courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/course.json",
       "bytes": 793,
-      "sha256": "c5d861469ecfc496e7f2b168d9e9742c5bce6de8d930917a47691de8ce2ba7a1"
+      "sha256": "9f860b1a0391e4333c25a25a80d6f71d5198aa160043bddff3456a96452abc91"
     },
     {
       "path": "courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/transcript.md",
@@ -6259,7 +6254,7 @@
     {
       "path": "courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/zh_CN/course.json",
       "bytes": 790,
-      "sha256": "c67cbfec1b217b8dfec376ed9b9cb41eed6353362606e5a7d91445a85dfbe400"
+      "sha256": "ef3ee9b8d3ce1697cb24f24fe2f315a3ba951e841a24b814dfcddd2e6bc06f29"
     },
     {
       "path": "courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/zh_CN/transcript.md",
@@ -6279,7 +6274,7 @@
     {
       "path": "courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/en_US/course.json",
       "bytes": 774,
-      "sha256": "0fa879145392b0d9d38a4d1e8c20015088b95a8f52100dfbb2fb2428ef22e113"
+      "sha256": "0457d5fd7fbe6e7410cf8a5d37100107f13c63cf083c0c1319a3c72216e504a2"
     },
     {
       "path": "courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/en_US/transcript.md",
@@ -6299,7 +6294,7 @@
     {
       "path": "courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "9f5f6f5b1062028648c83379f2faddfd8e314ab3a5c3be382346836aa9eebdbb"
+      "sha256": "5cb6f861a848142a1b425ba8c015062a23ebe794ec75001d5f29b612ece80532"
     },
     {
       "path": "courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/zh_CN/transcript.md",
@@ -6319,7 +6314,7 @@
     {
       "path": "courses/b9848392-da33-4115-b2b9-bd58fb905ffd/en_US/course.json",
       "bytes": 806,
-      "sha256": "3a28ad7008b15848958e8fe85aa20e86fcafc8827647b2bcbb76a8a897a08dcf"
+      "sha256": "df9882e2d8790da23e58906b0ddc51755e253bddb8c47073df2ffbf29dba7650"
     },
     {
       "path": "courses/b9848392-da33-4115-b2b9-bd58fb905ffd/en_US/transcript.md",
@@ -6339,7 +6334,7 @@
     {
       "path": "courses/b9848392-da33-4115-b2b9-bd58fb905ffd/zh_CN/course.json",
       "bytes": 806,
-      "sha256": "08894e2bd2222e85daaef045788ec0f28aaf3d32a76f0d1aa7ed9cfa68ec58ff"
+      "sha256": "7e5db74a8a83bdc4a8f77f42fe87284a778a5d5b844b63aada4945458e93144c"
     },
     {
       "path": "courses/b9848392-da33-4115-b2b9-bd58fb905ffd/zh_CN/transcript.md",
@@ -6359,7 +6354,7 @@
     {
       "path": "courses/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/en_US/course.json",
       "bytes": 811,
-      "sha256": "4efbd1e0c80ae49fcb918fbfa00879a70dc86b10d68748383409817065fa2c01"
+      "sha256": "c765520fa9f3401a452a032fd95bc061e00b89f435cb203fb2ce26546352cb56"
     },
     {
       "path": "courses/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/en_US/transcript.md",
@@ -6379,7 +6374,7 @@
     {
       "path": "courses/be468b05-3e0c-4d53-9c5d-48309d236c5a/en_US/course.json",
       "bytes": 768,
-      "sha256": "0d859537f82eda7990e2ae7ae75f97cfbb74b2992853ddccc82f4fecb2a0f2fa"
+      "sha256": "a703a4c4e7e72833282944b7e8005987f6c0ae24080690f885fad89e1b91cd09"
     },
     {
       "path": "courses/be468b05-3e0c-4d53-9c5d-48309d236c5a/en_US/transcript.md",
@@ -6399,7 +6394,7 @@
     {
       "path": "courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/en_US/course.json",
       "bytes": 779,
-      "sha256": "9bbdb5522866fcd1723e4305bfa1bab32e21ca61e534a92294e00219888e9cc3"
+      "sha256": "412fcefbd6547e4f2339cf8415783b56364106d3475b6f87050aa93252267c65"
     },
     {
       "path": "courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/en_US/transcript.md",
@@ -6419,7 +6414,7 @@
     {
       "path": "courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/zh_CN/course.json",
       "bytes": 781,
-      "sha256": "f2e22a079338fc3dc49f0bbe50057f5102362b338480f64c503d8f13be9951b1"
+      "sha256": "b8e6749ef474e8bad8e9c062942dd17ad8281b6ded84148d7ec27721480a1e51"
     },
     {
       "path": "courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/zh_CN/transcript.md",
@@ -6439,7 +6434,7 @@
     {
       "path": "courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/en_US/course.json",
       "bytes": 763,
-      "sha256": "37b4cfa9fcad81400327456dcaf2b44ed918358ddc5387ed81861847dd2870f2"
+      "sha256": "36594788b68b98c71b0477ba7a96176d7eb02247ff15f9732e60fb96fa0a603d"
     },
     {
       "path": "courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/en_US/transcript.md",
@@ -6459,7 +6454,7 @@
     {
       "path": "courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "3e732d3c34fa72423a734cd76ad15d47003d6ac731d392f6dcc47946564fb637"
+      "sha256": "fdacec7510ce76d898043bf65be44075f70912be378b99ff084535ca716efd67"
     },
     {
       "path": "courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/zh_CN/transcript.md",
@@ -6479,7 +6474,7 @@
     {
       "path": "courses/c0812372-197d-45eb-a16f-a50d086fbb17/en_US/course.json",
       "bytes": 758,
-      "sha256": "c97e97bbf0fd37f031b1d5447832dfd2ac0d2a93c01dfed2a3cc521a2b281e98"
+      "sha256": "dec6dea2950c2eaea17050a5a759d60f59f67ef7e1444142abcab055d5ebf96e"
     },
     {
       "path": "courses/c0812372-197d-45eb-a16f-a50d086fbb17/en_US/transcript.md",
@@ -6499,7 +6494,7 @@
     {
       "path": "courses/c0812372-197d-45eb-a16f-a50d086fbb17/zh_CN/course.json",
       "bytes": 758,
-      "sha256": "a447677cccb096604c2abd37fe6992e411f7014d4d71eb547e79446a61ed88e6"
+      "sha256": "8cc7159db6477b8e0215c0c9c28aa5f76e14607262041aeb557ce516b37ccebf"
     },
     {
       "path": "courses/c0812372-197d-45eb-a16f-a50d086fbb17/zh_CN/transcript.md",
@@ -6519,7 +6514,7 @@
     {
       "path": "courses/c2fca831-79dc-4abe-a058-acee304a05d0/en_US/course.json",
       "bytes": 787,
-      "sha256": "3946ca3327735cf679b8926106cfbf3d8501e3652ef3ad61cd9ae41952dc451d"
+      "sha256": "fb4752b8c96660840edf4e667fd421e1112bab9f9fc918e34c8c63dc27fde9a9"
     },
     {
       "path": "courses/c2fca831-79dc-4abe-a058-acee304a05d0/en_US/transcript.md",
@@ -6539,7 +6534,7 @@
     {
       "path": "courses/c2fca831-79dc-4abe-a058-acee304a05d0/zh_CN/course.json",
       "bytes": 792,
-      "sha256": "9674edd04425e024962929f60aead82c89fe5b5ba8f84c66c9f0230f3f7fd6c5"
+      "sha256": "7d6367d8983c5a92e0acb14be55afb23829c7568f05bf39fbdb48ddfdb3d5845"
     },
     {
       "path": "courses/c2fca831-79dc-4abe-a058-acee304a05d0/zh_CN/transcript.md",
@@ -6559,7 +6554,7 @@
     {
       "path": "courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/en_US/course.json",
       "bytes": 787,
-      "sha256": "103203941be971534ea39be0ae790662df1f681b8247a05b76147358991eb464"
+      "sha256": "80c60aec50d319605862a9e9e8105f53cf8b22debe31c7df939de2a139cf8f16"
     },
     {
       "path": "courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/en_US/transcript.md",
@@ -6579,7 +6574,7 @@
     {
       "path": "courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/zh_CN/course.json",
       "bytes": 784,
-      "sha256": "5a8211ae340af996ded1e2b5e14fba25434a6f282b1faacfae1d27a6e15f9924"
+      "sha256": "18b30828b2c8d5e823c69000d017a275193ae36ab28b962133cee38a996fb271"
     },
     {
       "path": "courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/zh_CN/transcript.md",
@@ -6599,7 +6594,7 @@
     {
       "path": "courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/course.json",
       "bytes": 786,
-      "sha256": "63d957a5427d8c072a47e0d179f1e9146e2a4786a7059d2ea99050d08914110f"
+      "sha256": "3ca5d1a09673bf0ed9b645cca5a21c37ec5d1c8f0f51cc6bd42992796061b49d"
     },
     {
       "path": "courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md",
@@ -6619,7 +6614,7 @@
     {
       "path": "courses/c565e074-7605-493c-ba93-119058ccca69/en_US/course.json",
       "bytes": 797,
-      "sha256": "67bb09e8fcbd077deeb70721143a42ff8d8cd749e0fc2fc31792c60be2cb5256"
+      "sha256": "65f819e83478c6a98be59db978ea7c3ee8cdf75650eef48182daa55c551823de"
     },
     {
       "path": "courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md",
@@ -6639,7 +6634,7 @@
     {
       "path": "courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/en_US/course.json",
       "bytes": 790,
-      "sha256": "56a311cb76fc8dd46a3f4aee2b3d9a9a72b67dd8a2ab20adb09612b006f3b97a"
+      "sha256": "f96b751e6c698504fa616469f3655be68a47184166968b2c84a6524412534b25"
     },
     {
       "path": "courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/en_US/transcript.md",
@@ -6659,7 +6654,7 @@
     {
       "path": "courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/zh_CN/course.json",
       "bytes": 794,
-      "sha256": "1597ecb704d97e69626c384ec5e4ace827cc0d0ab2de53fea225ad6983c4d9bd"
+      "sha256": "564433fad9e4b4d6cd22d27b8a4fa2a1d99dbce64b4f788911ba171b90a9a28a"
     },
     {
       "path": "courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/zh_CN/transcript.md",
@@ -6679,7 +6674,7 @@
     {
       "path": "courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/course.json",
       "bytes": 780,
-      "sha256": "e8513530487d039af808d17f89e2054771bc90b8e51e57333d0c93d236f83576"
+      "sha256": "2c57f67c0c603efe814c294f5e3a5cea97465bba1bbaacce65a5720be7634e9d"
     },
     {
       "path": "courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md",
@@ -6699,7 +6694,7 @@
     {
       "path": "courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/en_US/course.json",
       "bytes": 778,
-      "sha256": "dada7a79af0cd612e60c313962db016f819e273f630704d8db1f490c85b6e9c0"
+      "sha256": "59e0c1fcdc467f5c550042f13664f75272a8c48f06e31fc43bc4638ff267fe52"
     },
     {
       "path": "courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/en_US/transcript.md",
@@ -6719,7 +6714,7 @@
     {
       "path": "courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/course.json",
       "bytes": 778,
-      "sha256": "dd51561fbaacc3ac639f37eaef4e36366db86ef474f3edeab612379abd468671"
+      "sha256": "95de765d2972bfecc4b1a2a88f9e1b4d0b1924c4eb7d7f87e49eb8c2c6eabade"
     },
     {
       "path": "courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/transcript.md",
@@ -6739,7 +6734,7 @@
     {
       "path": "courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/course.json",
       "bytes": 796,
-      "sha256": "4f2d1c4819d1200461c132c124eb4e58e7c6efa0df7d72bc09d8c0b5422854d6"
+      "sha256": "8351d6e020f2738d38201faf36ba006d2ac0d0e37912433a983cc212854a02f8"
     },
     {
       "path": "courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/transcript.md",
@@ -6759,7 +6754,7 @@
     {
       "path": "courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/zh_CN/course.json",
       "bytes": 801,
-      "sha256": "6f1a9c8e222cf1e4648445864bf5c918df72c3b45a0fa062ea721a781b983c1c"
+      "sha256": "19e1736ebba14a690e02a580c37724682ec04bd602e9b6f0e55f0c5f44075539"
     },
     {
       "path": "courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/zh_CN/transcript.md",
@@ -6779,7 +6774,7 @@
     {
       "path": "courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/en_US/course.json",
       "bytes": 800,
-      "sha256": "bc253416a8e3e61779a2e2e56b5160a9fce7c08472485ec4f0e7166549c8672b"
+      "sha256": "a15b0ca3e55a9c348e5483c99a8d389f8bd4dfb9ae64d57ed56bcc2ab4da47c7"
     },
     {
       "path": "courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/en_US/transcript.md",
@@ -6799,7 +6794,7 @@
     {
       "path": "courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/zh_CN/course.json",
       "bytes": 800,
-      "sha256": "1ee82b0b5a3b6d46aa85a0bf667d776ce1120cde73b2b1102d85f1e44fe14fa3"
+      "sha256": "c895075a390fa9ca70678beb697f50ae09396af62f9c2d9373c1fb9e8b9628c8"
     },
     {
       "path": "courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/zh_CN/transcript.md",
@@ -6819,7 +6814,7 @@
     {
       "path": "courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/course.json",
       "bytes": 794,
-      "sha256": "68ede43a5774845868afbd1d57e78def9483e27d4f4373998cea57ad1f52417f"
+      "sha256": "a86b56053ef77e067649eab4ea767685c3bd6918bf30082a9120f3ac7e4d4102"
     },
     {
       "path": "courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md",
@@ -6839,7 +6834,7 @@
     {
       "path": "courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/en_US/course.json",
       "bytes": 786,
-      "sha256": "8a08b9502696791066bcddc8e587ded48c5af1776963c91569cbf4c8929fffbc"
+      "sha256": "a0502f1e5dd78cfd556f9c30a4510734f76407ba1a80af11c5118e9517072ee5"
     },
     {
       "path": "courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/en_US/transcript.md",
@@ -6859,7 +6854,7 @@
     {
       "path": "courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/zh_CN/course.json",
       "bytes": 783,
-      "sha256": "fa4474f12bbff7099f32f7b0cfde097cab50d10cba75385f22b6b5f6a706cf4d"
+      "sha256": "de92f1ab2ff3a01e71ad4a00026fb7075c6881a4a5c104faf251c0ada3ca635a"
     },
     {
       "path": "courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/zh_CN/transcript.md",
@@ -6879,7 +6874,7 @@
     {
       "path": "courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/course.json",
       "bytes": 786,
-      "sha256": "151cc3d8720fd16b90701eed8363b8b64d1010412b30fea96eb75b54fc0bf460"
+      "sha256": "661b52fcaf5eabb191b45cd18fe39c5aee85c124c08b840555c3321d8e214139"
     },
     {
       "path": "courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/transcript.md",
@@ -6899,7 +6894,7 @@
     {
       "path": "courses/cc20d81e-40c2-437d-99d5-680282e316d6/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "846b89c4ee354345a89635d1efeb2658d4324c7976d6b7c189adecde182d65ac"
+      "sha256": "b76966d10d0f376bb850dcbe63a9a33ce488fa2ad055498483f10432c9ee9d8d"
     },
     {
       "path": "courses/cc20d81e-40c2-437d-99d5-680282e316d6/zh_CN/transcript.md",
@@ -6919,7 +6914,7 @@
     {
       "path": "courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/course.json",
       "bytes": 806,
-      "sha256": "f3121a602831702aa95056b5cdac7c9d2fb0ad95fbd665da3d970a6fb9c80295"
+      "sha256": "c07e297819e13998a217f6df35f121ce07ddc7a2901e69892ae7bfb57c59a18b"
     },
     {
       "path": "courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md",
@@ -6939,7 +6934,7 @@
     {
       "path": "courses/cd9b383b-e1d2-49be-a0d3-e5619543e97b/en_US/course.json",
       "bytes": 832,
-      "sha256": "fd353785f2fb00aa12cbc6fdfae3657c9dff44429920bf2b8e60defc433cd964"
+      "sha256": "d05723da6ad6fcea30a167719f7e789d69975d203bfd46786685b488c5d2c0d3"
     },
     {
       "path": "courses/cd9b383b-e1d2-49be-a0d3-e5619543e97b/en_US/transcript.md",
@@ -6959,7 +6954,7 @@
     {
       "path": "courses/cec68316-200d-40a4-ba00-01b3bfea9f08/en_US/course.json",
       "bytes": 754,
-      "sha256": "4e78d40abe555c75ff72b3247111f8895f088275fb2b87ead3bbf8daf681db96"
+      "sha256": "de0ef275d6b0905c0fdf0101f3cd47efcedfa64637001acbbcb31a3b9c16f705"
     },
     {
       "path": "courses/cec68316-200d-40a4-ba00-01b3bfea9f08/en_US/transcript.md",
@@ -6979,7 +6974,7 @@
     {
       "path": "courses/cec68316-200d-40a4-ba00-01b3bfea9f08/zh_CN/course.json",
       "bytes": 755,
-      "sha256": "ecf0eeee707cd7d4f8e5b52d3d303caccb14f18eb8e73df28299dffaeec8999c"
+      "sha256": "5a21011e5a962d875e2bd58b41b8cee82f1d16c9a43be1b3c9d742ff0a38502b"
     },
     {
       "path": "courses/cec68316-200d-40a4-ba00-01b3bfea9f08/zh_CN/transcript.md",
@@ -6999,7 +6994,7 @@
     {
       "path": "courses/cf32d928-86d3-4cd9-a835-de753e88cda1/en_US/course.json",
       "bytes": 779,
-      "sha256": "b01592c0c55cebf23594dc483d3fa1d091a9cc3226e4adb759f94ed33fcfbc71"
+      "sha256": "417920e263c3144bde02f1ff62d8fd4806198a33ba6699857466153c8181a957"
     },
     {
       "path": "courses/cf32d928-86d3-4cd9-a835-de753e88cda1/en_US/transcript.md",
@@ -7019,7 +7014,7 @@
     {
       "path": "courses/cf32d928-86d3-4cd9-a835-de753e88cda1/zh_CN/course.json",
       "bytes": 780,
-      "sha256": "2cf0caeeb226929abd1624eeec5385444b0d24afd0a9cb62a208aa5683a85479"
+      "sha256": "81c969cae950fa8ef7997ae8018aacf7dc581bd9a87c59fa025ff704da88e188"
     },
     {
       "path": "courses/cf32d928-86d3-4cd9-a835-de753e88cda1/zh_CN/transcript.md",
@@ -7039,7 +7034,7 @@
     {
       "path": "courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US/course.json",
       "bytes": 765,
-      "sha256": "3843d69c522a0ce041fa50cf121f1b4b5d6bc9d30c25e5f0930482958ed71b39"
+      "sha256": "763794a8e46fce713ea61dbccb589fe4c65f40ffad63f095be15030485febb9b"
     },
     {
       "path": "courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US/transcript.md",
@@ -7059,7 +7054,7 @@
     {
       "path": "courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN/course.json",
       "bytes": 761,
-      "sha256": "dec3475239e7e07fa025124b6a92beb709d91b876eb95a50c78ab745f0a1882c"
+      "sha256": "8bcdf2d8aa742f50b9758e14275dce5e1ae88c5a1fe8c1891923799fe646b12d"
     },
     {
       "path": "courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN/transcript.md",
@@ -7079,7 +7074,7 @@
     {
       "path": "courses/d0fecd7d-b374-4622-a4ca-a66c14119868/en_US/course.json",
       "bytes": 778,
-      "sha256": "8e08ad2b82a477c801a0e077ab5355b9e24c3c1dac95074ce9822aed93dd5243"
+      "sha256": "e08657cb48580c78951c79d1f29af019b58f30680c97b83e8869fa4f26336690"
     },
     {
       "path": "courses/d0fecd7d-b374-4622-a4ca-a66c14119868/en_US/transcript.md",
@@ -7099,7 +7094,7 @@
     {
       "path": "courses/d0fecd7d-b374-4622-a4ca-a66c14119868/zh_CN/course.json",
       "bytes": 775,
-      "sha256": "cf8edb65baa7644830f3769e6756afb282a7a05514d4858e7a05ebe7459bb6ec"
+      "sha256": "fa6034c0d37eb4a44a983b00b40b408f3639b742324f20e82d3bfde8c0f3014f"
     },
     {
       "path": "courses/d0fecd7d-b374-4622-a4ca-a66c14119868/zh_CN/transcript.md",
@@ -7119,7 +7114,7 @@
     {
       "path": "courses/d352e628-375e-4cf0-8870-1aee1c9f860d/en_US/course.json",
       "bytes": 773,
-      "sha256": "9ec3daa3819f4befbe2680aac23937dbf28285fcaa20bb9ea91e8fbf9345a930"
+      "sha256": "96ad14d786a02ac45785a39c46bf3b3432d7dcfba3c25444f9bd5363ac75e66a"
     },
     {
       "path": "courses/d352e628-375e-4cf0-8870-1aee1c9f860d/en_US/transcript.md",
@@ -7139,7 +7134,7 @@
     {
       "path": "courses/d352e628-375e-4cf0-8870-1aee1c9f860d/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "97698f517f3217d84493c74ea88c63a88687864676153934659b895215113a63"
+      "sha256": "e2896e045902d456fe047f604de50288fb2fa05721f30845a4a0d3d41c6bc6d9"
     },
     {
       "path": "courses/d352e628-375e-4cf0-8870-1aee1c9f860d/zh_CN/transcript.md",
@@ -7159,7 +7154,7 @@
     {
       "path": "courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/en_US/course.json",
       "bytes": 791,
-      "sha256": "5e6d109ca2bd494045d694d152145957892ef1d8100058d50841047b44a13b3f"
+      "sha256": "abdbbfec68f9ddc9cb8fd685ca9d1fcb202f659d17919a82c84dec86c0fe2fbf"
     },
     {
       "path": "courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/en_US/transcript.md",
@@ -7179,7 +7174,7 @@
     {
       "path": "courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/zh_CN/course.json",
       "bytes": 791,
-      "sha256": "a8e9da47e88e8ac97d03a9c2875538da169e4de15c12346416edf09521930261"
+      "sha256": "91bb8d8d61d7faeee7eb2696edcaf06fbe2097427b0ceecb6ad7834924b7af60"
     },
     {
       "path": "courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/zh_CN/transcript.md",
@@ -7199,7 +7194,7 @@
     {
       "path": "courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/course.json",
       "bytes": 790,
-      "sha256": "8f52ea9daaa18dfaf3819ec2ca88f147ec1e840f809ec79514f256ea8c2a46b4"
+      "sha256": "3fc5b8064916088da0a5637db48193164ac5c5e2f76098d5d048ddf79b052d4c"
     },
     {
       "path": "courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md",
@@ -7219,7 +7214,7 @@
     {
       "path": "courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/course.json",
       "bytes": 790,
-      "sha256": "40909c7df5203621b58a7a20d7bec464c61c307ca9dc207491d69694a99e4737"
+      "sha256": "d446a2a2e13839064254c2efbd3fc51d327ae353d34ee919c20410183a9345b7"
     },
     {
       "path": "courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/transcript.md",
@@ -7239,7 +7234,7 @@
     {
       "path": "courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/en_US/course.json",
       "bytes": 789,
-      "sha256": "fd6ffde6fef3889af894917c4c0f42cd5d96230775731f3ef9d01065b4b63f13"
+      "sha256": "7ddc6d1cce36b69e67b9d3e0d25c450904ed121b3abbda29b199dbb3d351f106"
     },
     {
       "path": "courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/en_US/transcript.md",
@@ -7259,7 +7254,7 @@
     {
       "path": "courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/zh_CN/course.json",
       "bytes": 786,
-      "sha256": "dd48476bc3acd70bc93471d48789ad05bd2d78462a8310d63006b1c304393620"
+      "sha256": "46907005efc467cddc472a4fe313cbda6b7d166f854402346e3ce1f1cfd92447"
     },
     {
       "path": "courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/zh_CN/transcript.md",
@@ -7279,7 +7274,7 @@
     {
       "path": "courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/en_US/course.json",
       "bytes": 784,
-      "sha256": "ba9bfdc637954023640e1a0100fefdb2f7afe623a6e7d751b8115bf7860fb0a7"
+      "sha256": "05c7d55c1263056ce6d3e486d270d90c47c349b119b2dcc69985f3714f9bb919"
     },
     {
       "path": "courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/en_US/transcript.md",
@@ -7299,7 +7294,7 @@
     {
       "path": "courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/zh_CN/course.json",
       "bytes": 781,
-      "sha256": "a8bc15ec85d6490a28f171355ed211217ec526a63ffc433b7cedd250db95d44a"
+      "sha256": "466e4bee247a1b19d6e7de96ac085a4e7255e653314439f84e6489a825f3e7cb"
     },
     {
       "path": "courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/zh_CN/transcript.md",
@@ -7319,7 +7314,7 @@
     {
       "path": "courses/d5417511-59df-4138-b6b6-62fecde7da70/en_US/course.json",
       "bytes": 777,
-      "sha256": "2b64a2f4f12bd2f5e78f5e418d23d82cc386105052c819db8fdef19c548456c7"
+      "sha256": "924f8f1db18d256acc6789e78f19383ac59107520e1a242ac859871f1471603d"
     },
     {
       "path": "courses/d5417511-59df-4138-b6b6-62fecde7da70/en_US/transcript.md",
@@ -7339,7 +7334,7 @@
     {
       "path": "courses/d5417511-59df-4138-b6b6-62fecde7da70/zh_CN/course.json",
       "bytes": 774,
-      "sha256": "a06ddaab11f8d46adc02bd636aa9371dfedfc318aaf678133a4e955fee9ee075"
+      "sha256": "c41fd719325f1cc8923b4c71742a62614e197c88be3e0a98227b444c0c20083f"
     },
     {
       "path": "courses/d5417511-59df-4138-b6b6-62fecde7da70/zh_CN/transcript.md",
@@ -7359,7 +7354,7 @@
     {
       "path": "courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/course.json",
       "bytes": 818,
-      "sha256": "b6b74e2d8ff1171103b695fb0712378ff004081528286520ecaa10114874c6e1"
+      "sha256": "5f4be1202a12d9e0fb3eaa96fc68cc5259b25cf219ad11c8a81ea41779793f74"
     },
     {
       "path": "courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md",
@@ -7379,7 +7374,7 @@
     {
       "path": "courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/en_US/course.json",
       "bytes": 779,
-      "sha256": "dedacb703bae8db8305db31a0255f971b2b047941a66766c3638c28d1c27f67f"
+      "sha256": "4f13706b4841df05c92fb268aaaeac97b4a0726ad6efae6fa27e0322f4c9ac86"
     },
     {
       "path": "courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/en_US/transcript.md",
@@ -7399,7 +7394,7 @@
     {
       "path": "courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/zh_CN/course.json",
       "bytes": 781,
-      "sha256": "f178c88157d82d1c0f760692778ab8a9e8e6cab20f24ce7102eaed6808d29a82"
+      "sha256": "5a72c942b8f8a976f38453c902204951e38ad404af3570fc7ab20859287e888e"
     },
     {
       "path": "courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/zh_CN/transcript.md",
@@ -7419,7 +7414,7 @@
     {
       "path": "courses/d7baf097-5cff-4173-82db-e2b9dc08b097/en_US/course.json",
       "bytes": 786,
-      "sha256": "5ef325bf7270d3392ad07baab7d02fedf00500ce7916bf7f9c3783af74a22ff0"
+      "sha256": "69fb88adc3bb2b1041037dd1de3869e43d51191c79d290b409165fbd9601ba17"
     },
     {
       "path": "courses/d7baf097-5cff-4173-82db-e2b9dc08b097/en_US/transcript.md",
@@ -7439,7 +7434,7 @@
     {
       "path": "courses/d7baf097-5cff-4173-82db-e2b9dc08b097/zh_CN/course.json",
       "bytes": 786,
-      "sha256": "13f82b34963a5ec5ff30e410ee0290170bbf5a181bf09a392cdee7436c03107c"
+      "sha256": "c1c554f6dada218000038cbaa1b7d312cbc42b5260a02c53b6e08837e79bb89b"
     },
     {
       "path": "courses/d7baf097-5cff-4173-82db-e2b9dc08b097/zh_CN/transcript.md",
@@ -7459,7 +7454,7 @@
     {
       "path": "courses/d7f37f61-9560-4e02-b672-9747aba417e0/en_US/course.json",
       "bytes": 787,
-      "sha256": "760c868d5b52eff428a4aea0234f33aa249db90c35ec40d3d6aaed765ddf856f"
+      "sha256": "62ba4a9a814cf38a9dcfb8249d10d82b2915cd8049579570690cc7d651e8e1e4"
     },
     {
       "path": "courses/d7f37f61-9560-4e02-b672-9747aba417e0/en_US/transcript.md",
@@ -7479,7 +7474,7 @@
     {
       "path": "courses/d7f37f61-9560-4e02-b672-9747aba417e0/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "5afdfa8686bbbe0f82dd9bf51e3de386fd956bb668e081dade48143ee9b1f908"
+      "sha256": "1c7189e95856b8c18fdf93b936072d33125dfa4f7e65b5fdb1e8b93ba5dcb4c7"
     },
     {
       "path": "courses/d7f37f61-9560-4e02-b672-9747aba417e0/zh_CN/transcript.md",
@@ -7499,7 +7494,7 @@
     {
       "path": "courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/en_US/course.json",
       "bytes": 812,
-      "sha256": "e0d3c79d81e5b47a354ba424e8591d238225d860ae85d4aa777f3b97fac9be0d"
+      "sha256": "c2535b1f4ceb33bd16ce7bf0a99222a38f992e52dbb94b131f9ca13507bd24d4"
     },
     {
       "path": "courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/en_US/transcript.md",
@@ -7519,7 +7514,7 @@
     {
       "path": "courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/zh_CN/course.json",
       "bytes": 810,
-      "sha256": "dc04895421cc35ffb08da2536850bd3286c9fb32e305828d26eebda17da821b7"
+      "sha256": "90c892480d57fe5e0617206170c53197c8f3b3551dd59c03c6c86947bb8fa6ed"
     },
     {
       "path": "courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/zh_CN/transcript.md",
@@ -7539,7 +7534,7 @@
     {
       "path": "courses/d89a8859-3460-479b-ae6b-3695a6f5e531/en_US/course.json",
       "bytes": 799,
-      "sha256": "588c8f2ba65223d704ff972e37dff08a3fb28e5dfba13f96c8dc26509a4bcefb"
+      "sha256": "0d043510ea618cbac6e30476211761e17807032a575a78a27ea0952c8c50ac15"
     },
     {
       "path": "courses/d89a8859-3460-479b-ae6b-3695a6f5e531/en_US/transcript.md",
@@ -7559,7 +7554,7 @@
     {
       "path": "courses/d89a8859-3460-479b-ae6b-3695a6f5e531/zh_CN/course.json",
       "bytes": 796,
-      "sha256": "954515a4ef04a094cfae26570dbb1816799dd4954684c4308d86e3051ae2a403"
+      "sha256": "73c5b80b43c225dbefc4c455fa8da4c88c16ed63a2baceb3c324fa299d829e63"
     },
     {
       "path": "courses/d89a8859-3460-479b-ae6b-3695a6f5e531/zh_CN/transcript.md",
@@ -7579,7 +7574,7 @@
     {
       "path": "courses/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/en_US/course.json",
       "bytes": 775,
-      "sha256": "2bdfda03d0f99bfd4f5e467a39231a6d4d22ff4c6dd20e9587e33d4a6a6790a7"
+      "sha256": "00458344bb7d3f8204cce9063b260d93689a2661f012746139d3bb60dd859158"
     },
     {
       "path": "courses/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/en_US/transcript.md",
@@ -7599,7 +7594,7 @@
     {
       "path": "courses/d937a9f0-9e1a-456b-b962-fbd311451e81/en_US/course.json",
       "bytes": 773,
-      "sha256": "8da0562ef318415b807b7f647929f5fc063422595e7b20c21c0eb76af9d38f64"
+      "sha256": "2beebabb016fc93fe3671873e25d4863d218fe012b9263150555f52fe520a493"
     },
     {
       "path": "courses/d937a9f0-9e1a-456b-b962-fbd311451e81/en_US/transcript.md",
@@ -7619,7 +7614,7 @@
     {
       "path": "courses/d937a9f0-9e1a-456b-b962-fbd311451e81/zh_CN/course.json",
       "bytes": 769,
-      "sha256": "8aee728f9c9c6027db2c9757449a0fc9444d93a0ed73962fd929bc42c0f927f1"
+      "sha256": "36e460e157b3eb4b53580bf60c8767790a09fb972fc55e74112f7596a5423a95"
     },
     {
       "path": "courses/d937a9f0-9e1a-456b-b962-fbd311451e81/zh_CN/transcript.md",
@@ -7639,7 +7634,7 @@
     {
       "path": "courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/en_US/course.json",
       "bytes": 806,
-      "sha256": "69626765584a6349b51a3c2ba2b9603cfd1a12e11e391d0ed1859d92d26b0399"
+      "sha256": "ab7ba69786b59d021dc0829dcb196f63be2941d3c80fb71ff919287591b3404a"
     },
     {
       "path": "courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/en_US/transcript.md",
@@ -7659,7 +7654,7 @@
     {
       "path": "courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/zh_CN/course.json",
       "bytes": 806,
-      "sha256": "b4fe8a567b5d65852f75c2cf11f5fefa73ac0617733c19b004b1155e298cad56"
+      "sha256": "7421d3b78fb7229c971162dbc11a07c424df2f4ecce770514d241d64a504a773"
     },
     {
       "path": "courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/zh_CN/transcript.md",
@@ -7679,7 +7674,7 @@
     {
       "path": "courses/dabaf94a-5775-43ac-af1b-f9bad8143ffa/en_US/course.json",
       "bytes": 784,
-      "sha256": "a4af52daa57134e178715ae8bbf7f0a89de510ecac1a2ed0c74a650427e3d4b9"
+      "sha256": "06a4ec148db5f324a15e5efd28bd4e6ebd591dabf856a18089a18ef28528f56c"
     },
     {
       "path": "courses/dabaf94a-5775-43ac-af1b-f9bad8143ffa/en_US/transcript.md",
@@ -7699,7 +7694,7 @@
     {
       "path": "courses/dabaf94a-5775-43ac-af1b-f9bad8143ffa/zh_CN/course.json",
       "bytes": 784,
-      "sha256": "0c853ade4ab190e54d59d7227b70012a961de72a62c03ad4af40aa38cd1ad376"
+      "sha256": "6cc4423042e0e3b1cea6ba9d1cee8708b944659470931487fd927bd1f56272a4"
     },
     {
       "path": "courses/dabaf94a-5775-43ac-af1b-f9bad8143ffa/zh_CN/transcript.md",
@@ -7719,7 +7714,7 @@
     {
       "path": "courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/course.json",
       "bytes": 821,
-      "sha256": "89b2c5e567701c7a6cf9aaf4533a0da5c8c414cba8c5bf68da5f414da9478a53"
+      "sha256": "c111993ce013740c89cdbfde8a661824e6543bf95cf4ca3e3013debe69dd8fca"
     },
     {
       "path": "courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md",
@@ -7739,7 +7734,7 @@
     {
       "path": "courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/en_US/course.json",
       "bytes": 781,
-      "sha256": "f48938172a258ec08d97c7faeed145def08e895bf4ffc67921ccb9fea8d2b658"
+      "sha256": "c6d08fad7103771bffd0858ac551882bd06f6aa212fd57193690ea2c950e85e2"
     },
     {
       "path": "courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/en_US/transcript.md",
@@ -7759,7 +7754,7 @@
     {
       "path": "courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/zh_CN/course.json",
       "bytes": 778,
-      "sha256": "e3914f2f8ae9b3b816e58072cf49d8723ac358604d7075b97982a064003a6ee4"
+      "sha256": "20361e892dab8ddc995ed883be13f44526927d5e89f8aba941d78f63d15958a6"
     },
     {
       "path": "courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/zh_CN/transcript.md",
@@ -7779,7 +7774,7 @@
     {
       "path": "courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/en_US/course.json",
       "bytes": 774,
-      "sha256": "c9594b4203b9ee5fc66f13c09fcf1f3f2380dbfd437f5c89f3d7182b04cd598c"
+      "sha256": "1c9eec9beda3d8cc3aa0158f081610069ba1dafe33e241533c1b1af5e3af3e57"
     },
     {
       "path": "courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/en_US/transcript.md",
@@ -7799,7 +7794,7 @@
     {
       "path": "courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/zh_CN/course.json",
       "bytes": 771,
-      "sha256": "e7fd19f864c82a205a8e8186b571b0fe20133589a32a7c69f5b1699044756cd8"
+      "sha256": "6c5521343020d565f611d07b67493dbf8c08b1af27c9112ff1c4845c02e18fce"
     },
     {
       "path": "courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/zh_CN/transcript.md",
@@ -7819,7 +7814,7 @@
     {
       "path": "courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/en_US/course.json",
       "bytes": 770,
-      "sha256": "de199f0a9039208460d77c14869413a80deec038d8aebf847c0b6cef7c717ff3"
+      "sha256": "bec37b9248097a702f9b32a7877d44f66ee88981dcbe69426b7af8a1111c8107"
     },
     {
       "path": "courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/en_US/transcript.md",
@@ -7839,7 +7834,7 @@
     {
       "path": "courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "fcc251d9a0a2453fc700a44f4e2ab011bbce7022a00fe5985dda0e3719e0c226"
+      "sha256": "d109cfc32dd3705419231f7769198098dbb114cf16e7a4c184b1d77f01776e5e"
     },
     {
       "path": "courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/zh_CN/transcript.md",
@@ -7859,7 +7854,7 @@
     {
       "path": "courses/dc894d03-0c41-4565-b319-557afa2da53d/en_US/course.json",
       "bytes": 795,
-      "sha256": "1979eb1aa7f96fceaddac30e27e5f336c77bc05cfb994bd466e6659e30346fb6"
+      "sha256": "ef12ae5fb131c30098c414f2e10a2a9dff13ddb000562085d1c577a501aa2d70"
     },
     {
       "path": "courses/dc894d03-0c41-4565-b319-557afa2da53d/en_US/transcript.md",
@@ -7879,7 +7874,7 @@
     {
       "path": "courses/dc894d03-0c41-4565-b319-557afa2da53d/zh_CN/course.json",
       "bytes": 796,
-      "sha256": "f85b1ccfc98a198946c235f5f668fc03b00bc6df526822820fa1b8e296ba92ed"
+      "sha256": "10f72f6afad9a804260d9edacd03b13a79f522c43cab2d7a1f424c53f714ce23"
     },
     {
       "path": "courses/dc894d03-0c41-4565-b319-557afa2da53d/zh_CN/transcript.md",
@@ -7899,7 +7894,7 @@
     {
       "path": "courses/dcafc422-e0f3-45da-8525-66f0619c1d7b/en_US/course.json",
       "bytes": 812,
-      "sha256": "8facd6569fb5cc8ef9408dd04fb6aea5d5b2824c184ae05c3ad4f8a853576a46"
+      "sha256": "7178316b4a00845de6d2158c9cf8e8f734b99b9baad9d45291bc555ecd5a3a5d"
     },
     {
       "path": "courses/dcafc422-e0f3-45da-8525-66f0619c1d7b/en_US/transcript.md",
@@ -7919,7 +7914,7 @@
     {
       "path": "courses/dcc806b9-188b-4795-bbf2-b1484c562a47/en_US/course.json",
       "bytes": 777,
-      "sha256": "83a96cb1d1f23d2d8edc27fc7a8ac1c8080d6c13cdfb57739d749f5911492b13"
+      "sha256": "549c98206722c9a8bfc9e8d1246e18c083f79ea7d453b1746696f86cd4484525"
     },
     {
       "path": "courses/dcc806b9-188b-4795-bbf2-b1484c562a47/en_US/transcript.md",
@@ -7939,7 +7934,7 @@
     {
       "path": "courses/dcc806b9-188b-4795-bbf2-b1484c562a47/zh_CN/course.json",
       "bytes": 777,
-      "sha256": "2b27f674cfe52503ade01957199b290f8e96dcda42594e3905f0a0e31de85a81"
+      "sha256": "7c34ebb287793177dbad0b93b1d2ab477953cd65dae90b7bdb22acb669b71e55"
     },
     {
       "path": "courses/dcc806b9-188b-4795-bbf2-b1484c562a47/zh_CN/transcript.md",
@@ -7959,7 +7954,7 @@
     {
       "path": "courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/en_US/course.json",
       "bytes": 785,
-      "sha256": "17a13c3c1e4ea8af0e51f8d9725698d4ca7e9e7ee0182cf5c82ecb4c07149264"
+      "sha256": "42329b9386d51bd524adc658b97199141196f0e5620031550a2cfe115d0a9bd7"
     },
     {
       "path": "courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/en_US/transcript.md",
@@ -7979,7 +7974,7 @@
     {
       "path": "courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/zh_CN/course.json",
       "bytes": 790,
-      "sha256": "7df2c7d8c803c5a98ff817c53f6fcb26c645e1fd5d2f10453f3e049fd75a1f99"
+      "sha256": "5f562712011e396bc6b943120762b6b072c2ca1b656a73ab77b65868112ee397"
     },
     {
       "path": "courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/zh_CN/transcript.md",
@@ -7999,7 +7994,7 @@
     {
       "path": "courses/e1741fe5-1d91-4595-937d-8bfe4456a771/en_US/course.json",
       "bytes": 780,
-      "sha256": "e3d46ff52c04974360b489bce35df5e5ba04057d86fad8716676f2064a236fbf"
+      "sha256": "12ad55f96f95188f24100f8498a28fddcb2e585bd55f8ef822a8179fa5757e3d"
     },
     {
       "path": "courses/e1741fe5-1d91-4595-937d-8bfe4456a771/en_US/transcript.md",
@@ -8019,7 +8014,7 @@
     {
       "path": "courses/e1741fe5-1d91-4595-937d-8bfe4456a771/zh_CN/course.json",
       "bytes": 781,
-      "sha256": "0751de7e75373f2cc65bcc48a72aede2ba994435788122ebbbb43cbc56c8c74e"
+      "sha256": "04231df8a1b00213bc1f769db4da5ff27823eff5b2ff254dc98f568035fcfecd"
     },
     {
       "path": "courses/e1741fe5-1d91-4595-937d-8bfe4456a771/zh_CN/transcript.md",
@@ -8039,7 +8034,7 @@
     {
       "path": "courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/course.json",
       "bytes": 757,
-      "sha256": "28e9ac275f8b62f518339376d4f446e7aebadcf7c435be27b81cacb43971db51"
+      "sha256": "acc278f877f24659d8457fbc413942ec2c84e6e74d5cbadd4a91c6d42709cfa7"
     },
     {
       "path": "courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md",
@@ -8059,7 +8054,7 @@
     {
       "path": "courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/course.json",
       "bytes": 765,
-      "sha256": "4b6a10df88572f598356370f76967286686b24d57dee5a46bc5bef6247b92f2c"
+      "sha256": "1bb15dc984d1cdf27ac14da930e547d96e65272264814e191270e9fc92fe0d91"
     },
     {
       "path": "courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/transcript.md",
@@ -8079,7 +8074,7 @@
     {
       "path": "courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/zh_CN/course.json",
       "bytes": 767,
-      "sha256": "939b6d97774af40057d073dd15c28d54f752348037dd9abbec2d335c1c0f705e"
+      "sha256": "7bed890e51fd88ae6252f27357a0db60dda870815369f3699b342fcd501bcc4c"
     },
     {
       "path": "courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/zh_CN/transcript.md",
@@ -8099,7 +8094,7 @@
     {
       "path": "courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/en_US/course.json",
       "bytes": 771,
-      "sha256": "848b2287d56cea4a50978e3aae5df8ea0a9321164c84a30831bfac0500b462c6"
+      "sha256": "de50dfa96ad463aa4e4abf04bf75b1827d692f54f854ad7503c45863de65639a"
     },
     {
       "path": "courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/en_US/transcript.md",
@@ -8119,7 +8114,7 @@
     {
       "path": "courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/zh_CN/course.json",
       "bytes": 768,
-      "sha256": "580ee2cb6157dd8dade714701fa5a8e9547532346548bca50abbbe89b534cb97"
+      "sha256": "5a286765a823d3378d09bcc6282dab9cb8ccec443b744d313a866b4506b82077"
     },
     {
       "path": "courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/zh_CN/transcript.md",
@@ -8139,7 +8134,7 @@
     {
       "path": "courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/en_US/course.json",
       "bytes": 782,
-      "sha256": "402a332517d0934abe7bbd190e14b3d18a881bdebfbe54fb03521a19de9ce34c"
+      "sha256": "d7d39c691253006585ab3bec7e4582d9b934304e4172bbce786e4f0f23f9cbd7"
     },
     {
       "path": "courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/en_US/transcript.md",
@@ -8159,7 +8154,7 @@
     {
       "path": "courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/zh_CN/course.json",
       "bytes": 784,
-      "sha256": "ae94ed0fd4b740e7ecbd52bf916798c58a6fc5184b3ddb6041cb34e3c27ac996"
+      "sha256": "011207e86fdafe50a33ccec2dfd5523d1d648d107bf3d008ee023b647ced0c7a"
     },
     {
       "path": "courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/zh_CN/transcript.md",
@@ -8179,7 +8174,7 @@
     {
       "path": "courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/en_US/course.json",
       "bytes": 769,
-      "sha256": "4be4fa58ca8df5d269ac6b4104208c2b6072cfd27377ffaae31ee276e9db0394"
+      "sha256": "eb95eb031fcea7ba48dedb75a4819d2336558910ea371ecc199b9507334c30df"
     },
     {
       "path": "courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/en_US/transcript.md",
@@ -8199,7 +8194,7 @@
     {
       "path": "courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/course.json",
       "bytes": 766,
-      "sha256": "804114700ca6b79653e35492435f20de97f25b581c531494e9ff24e9b9f60593"
+      "sha256": "299d660ef54de5352c96b05f873f0dddba870503ba65f81e97ba581fd91601b3"
     },
     {
       "path": "courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/transcript.md",
@@ -8219,7 +8214,7 @@
     {
       "path": "courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/en_US/course.json",
       "bytes": 776,
-      "sha256": "9d248f53f2a195dbd61043145e3c4d31b517addcf1151ea06e0f68ed7a71a9e3"
+      "sha256": "6b6fb0a76fbeb77866a5d86d63d3617ff2bb1d734705d55505484d39b149964b"
     },
     {
       "path": "courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/en_US/transcript.md",
@@ -8239,7 +8234,7 @@
     {
       "path": "courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/zh_CN/course.json",
       "bytes": 773,
-      "sha256": "fbc89571235937fcbe6a97f4295cb6141470811b6daad884878b4f119199217f"
+      "sha256": "935cf645a75981513714023290fd86d83c0f19e2cb5d44a51e2c713fe845e77f"
     },
     {
       "path": "courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/zh_CN/transcript.md",
@@ -8259,7 +8254,7 @@
     {
       "path": "courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/en_US/course.json",
       "bytes": 785,
-      "sha256": "d1e71ae4c4cdf16c45dcb37d50bf25b6cc0c1beabd5e522742846eac6740e268"
+      "sha256": "9a2c44bc85e27b9570f7bf5ae445241fc94881dd6d46eca5c024b0dbbf444b21"
     },
     {
       "path": "courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/en_US/transcript.md",
@@ -8279,7 +8274,7 @@
     {
       "path": "courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/zh_CN/course.json",
       "bytes": 782,
-      "sha256": "cc93f4983a16429eade204d7f3cf00b68acd665bde4384c76ce56017f18eab15"
+      "sha256": "94b656ec0845f01b7bc7a0d47c4819e897c0782cd36967951aba462cc2edba3c"
     },
     {
       "path": "courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/zh_CN/transcript.md",
@@ -8299,7 +8294,7 @@
     {
       "path": "courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/en_US/course.json",
       "bytes": 793,
-      "sha256": "80c790fa75afc4378b8c8ca789939a832ff8b79e6f380659fd98d6fbebcd595b"
+      "sha256": "64870e7247642cd22d01ea055f69faa8b6bae084f217da582cdf540a8c2f5216"
     },
     {
       "path": "courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/en_US/transcript.md",
@@ -8319,7 +8314,7 @@
     {
       "path": "courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "e88d4649a8c8c48786ab68f74a379f6c5d10b14639dc81238e303a42f6485902"
+      "sha256": "6492d1192f21b5400b747f153760da6e6690ed44bcca880c4b4542da3e190e6b"
     },
     {
       "path": "courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/zh_CN/transcript.md",
@@ -8339,7 +8334,7 @@
     {
       "path": "courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/en_US/course.json",
       "bytes": 787,
-      "sha256": "1a989adf804e61879e90df21a5395f3b2ad09cafc506d08c3905520c233363a2"
+      "sha256": "c3a38bea82607ef8c6135110ad95d35b0073003c683e43388b293b9d799ea250"
     },
     {
       "path": "courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/en_US/transcript.md",
@@ -8359,7 +8354,7 @@
     {
       "path": "courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/zh_CN/course.json",
       "bytes": 788,
-      "sha256": "51cd746c9f14d4e4b18178b68101095cee861dec95b960b2030495b082e790d0"
+      "sha256": "a4bb3b5b39cd212cfbe30c6ad5112fefcbd8501f50cb66bde551bf36831ac4a9"
     },
     {
       "path": "courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/zh_CN/transcript.md",
@@ -8379,7 +8374,7 @@
     {
       "path": "courses/e52369f9-c402-469f-aa56-c0dd1c706aef/en_US/course.json",
       "bytes": 774,
-      "sha256": "577c8377a5083fad0d92f777744b69ca0e7e16e081167b594c8613bd7063fd78"
+      "sha256": "05386ba6c03f757f5dea70179a5638d8772c0b2af6b37237dbfa673b833edd52"
     },
     {
       "path": "courses/e52369f9-c402-469f-aa56-c0dd1c706aef/en_US/transcript.md",
@@ -8399,7 +8394,7 @@
     {
       "path": "courses/e52369f9-c402-469f-aa56-c0dd1c706aef/zh_CN/course.json",
       "bytes": 770,
-      "sha256": "c9a8a55ad595d35ac01a77f89a0e9300cbf7e7ddf92fbf998f09b4245cf74637"
+      "sha256": "d3dc492d64814a388dbae53c2e25d4908dfd15f89c35d8bf6cd58776fb04ea4b"
     },
     {
       "path": "courses/e52369f9-c402-469f-aa56-c0dd1c706aef/zh_CN/transcript.md",
@@ -8419,7 +8414,7 @@
     {
       "path": "courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/en_US/course.json",
       "bytes": 790,
-      "sha256": "2bcd79b6122b9f90d3bf499c77ab4fd6c78fb242700298fdf7fc93f7a5ca4aca"
+      "sha256": "6cb12003125d770b1d9dd4a2217ba5de30c09f4a59b4e7a05b3641b8612ecdf4"
     },
     {
       "path": "courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/en_US/transcript.md",
@@ -8439,7 +8434,7 @@
     {
       "path": "courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/zh_CN/course.json",
       "bytes": 787,
-      "sha256": "404fc5a320e2a6130b1827461b71cea452cc650d62812384470e4b8626239006"
+      "sha256": "02b5cbb82048c8aa93f21e7a9a62b4c7431e13ddc0672142d4e27fc06d4ef097"
     },
     {
       "path": "courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/zh_CN/transcript.md",
@@ -8464,7 +8459,7 @@
     {
       "path": "courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/en_US/course.json",
       "bytes": 805,
-      "sha256": "ef49aab576a40c00e04cd5d29faabfd35964ea16eabc7dd91c21eb2ad7cc417f"
+      "sha256": "11c4ba9fce0f87a125043aaea2c5356befc26603d0fac9f41f7f1be198500815"
     },
     {
       "path": "courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/en_US/transcript.md",
@@ -8484,7 +8479,7 @@
     {
       "path": "courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/zh_CN/course.json",
       "bytes": 805,
-      "sha256": "79f537e8bac05e6ea6815b77d1c006c501caa4cfd90741bbad1831bc25506e2b"
+      "sha256": "83f0a480a9f326916370025a6ec7f9a22b5c8a85ea7b6efca5f84bfb712a767a"
     },
     {
       "path": "courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/zh_CN/transcript.md",
@@ -8504,7 +8499,7 @@
     {
       "path": "courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/en_US/course.json",
       "bytes": 765,
-      "sha256": "b29c7e68c90676003ba5abc183b74482b22b5aada91419c3e205c91cd1bc1cb4"
+      "sha256": "76d4e9bc8676098425ebca75cbd3135f411f5086da8e1187f0b6018b98ea4f7e"
     },
     {
       "path": "courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/en_US/transcript.md",
@@ -8524,7 +8519,7 @@
     {
       "path": "courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/zh_CN/course.json",
       "bytes": 770,
-      "sha256": "d3a9fb9064ba66c71a8a537e15075956b50dd3fe21cab3e697daae835f4e79d3"
+      "sha256": "d534403bee8d84baa3013242aa65d9dc7298a83a29c06be6a2c1a1617c9aeef2"
     },
     {
       "path": "courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/zh_CN/transcript.md",
@@ -8544,7 +8539,7 @@
     {
       "path": "courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/course.json",
       "bytes": 788,
-      "sha256": "f8ffb5e7f95630dd0d64b99240e4d9ca6df487e668327d4ca0a4eb0f1c7b1d49"
+      "sha256": "177062317c707f3515512bac5f0430ae1d3a0de494f7870f18a19d519c0b7f85"
     },
     {
       "path": "courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md",
@@ -8564,7 +8559,7 @@
     {
       "path": "courses/e8544607-590c-414e-8831-d0b3f0cf3bee/en_US/course.json",
       "bytes": 799,
-      "sha256": "75295ee0436ae07f0af81d26650b6e5da1c50f92ce02260f6e0dfc71f34d9b57"
+      "sha256": "eb03672cf4c1b3be2db2a1ac59b96219c7810d2d0c3a77d5a99e5daf88398abe"
     },
     {
       "path": "courses/e8544607-590c-414e-8831-d0b3f0cf3bee/en_US/transcript.md",
@@ -8584,7 +8579,7 @@
     {
       "path": "courses/e8544607-590c-414e-8831-d0b3f0cf3bee/zh_CN/course.json",
       "bytes": 796,
-      "sha256": "655884c5fd3a363eb9263c9f2e03cba7560ba7273196f4f33bd9ffb060663900"
+      "sha256": "c2eb406678377122e3c4ddc1234d9434e920472e42f78a4cca860fac57aaa2bb"
     },
     {
       "path": "courses/e8544607-590c-414e-8831-d0b3f0cf3bee/zh_CN/transcript.md",
@@ -8604,7 +8599,7 @@
     {
       "path": "courses/e8e0b050-73e3-48b8-a4dd-f841b131bc75/en_US/course.json",
       "bytes": 830,
-      "sha256": "727c02c5ec8fa00133ad9f7ff75bb905bb340581f852aa78e491e54fe192e8ee"
+      "sha256": "618672bf47dd4c8b8998679f493a1004202473ac396636380a67c0b04961f2d8"
     },
     {
       "path": "courses/e8e0b050-73e3-48b8-a4dd-f841b131bc75/en_US/transcript.md",
@@ -8624,7 +8619,7 @@
     {
       "path": "courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/en_US/course.json",
       "bytes": 759,
-      "sha256": "0eeb4f3b11ba33b49d3a1dcd3afffb4813ff0d73180f9b957b8a845de8237ff0"
+      "sha256": "58302c835e4453c6441c2c7fb80063e0efe64f152ce9eb435ef861e2e57f41ed"
     },
     {
       "path": "courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/en_US/transcript.md",
@@ -8644,7 +8639,7 @@
     {
       "path": "courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/zh_CN/course.json",
       "bytes": 760,
-      "sha256": "bbe63683b40daca1011790fa3768b79e35feeb07ea17b28f2f89e00f150eca28"
+      "sha256": "73d90039221fcce8e96a90da0e53fd23fe8ff53538c86923899dc5566dfa71ee"
     },
     {
       "path": "courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/zh_CN/transcript.md",
@@ -8664,7 +8659,7 @@
     {
       "path": "courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/course.json",
       "bytes": 801,
-      "sha256": "c619db6efed04cadb4be2439763101ec54be139fa0f9919a72b3213a50830edd"
+      "sha256": "87c26c811675b83d991edb45d50ed9b714fa32b8fda5d41174d595e299381f5f"
     },
     {
       "path": "courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md",
@@ -8684,7 +8679,7 @@
     {
       "path": "courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/course.json",
       "bytes": 798,
-      "sha256": "03124f1036ca5438763caead46b14e4d7542371ec3fbe9b72caca0ddffd521a3"
+      "sha256": "c19fc58a3197547f7aefeefa983d5ed385fe959c4efc38db15055d774a6c5a98"
     },
     {
       "path": "courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md",
@@ -8704,7 +8699,7 @@
     {
       "path": "courses/ed84f7d6-acde-4602-a079-f1a38ad9df24/en_US/course.json",
       "bytes": 790,
-      "sha256": "a6f62164ab9f1f24324787bf4ccab75fcec51d5f43969ed3b162154fb47385e4"
+      "sha256": "607e1392626f5170bb08a9b83ae881be5e701f9440d36194e7703e2401e4f43d"
     },
     {
       "path": "courses/ed84f7d6-acde-4602-a079-f1a38ad9df24/en_US/transcript.md",
@@ -8724,7 +8719,7 @@
     {
       "path": "courses/ed84f7d6-acde-4602-a079-f1a38ad9df24/zh_CN/course.json",
       "bytes": 791,
-      "sha256": "0b50cb34874cd7c55e60f1b23b3fda27e0faf34e91250224cf109445e5cbc6e4"
+      "sha256": "caa53807c58c532e76d6d9ed0d941f18dbf184fa798f04c9e92792bcd86a8546"
     },
     {
       "path": "courses/ed84f7d6-acde-4602-a079-f1a38ad9df24/zh_CN/transcript.md",
@@ -8744,7 +8739,7 @@
     {
       "path": "courses/eedd3a50-334a-4db4-adc1-f9db9c5efa7d/en_US/course.json",
       "bytes": 778,
-      "sha256": "454d6cae9a4aaa376331ee8de8275e03fcc7f5dae4afcf7e28ac7d8ba9bd1a29"
+      "sha256": "5d34421d5418c4cf696d4b42416449804187c0b19b287980a577626f5e9c40da"
     },
     {
       "path": "courses/eedd3a50-334a-4db4-adc1-f9db9c5efa7d/en_US/transcript.md",
@@ -8764,7 +8759,7 @@
     {
       "path": "courses/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/en_US/course.json",
       "bytes": 794,
-      "sha256": "1611104c4bce254f3cb1c8453c42a5eeb626b47f4df1a3d8a23450d55253c76a"
+      "sha256": "1c6a55a806c8e0a17a021174da8d4aaaa8340042a3dfe6b8302b0098be6d78ee"
     },
     {
       "path": "courses/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/en_US/transcript.md",
@@ -8784,7 +8779,7 @@
     {
       "path": "courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/course.json",
       "bytes": 784,
-      "sha256": "d6af9ef17408692a7c54dbfc8ce4258701cd337365e3cbc987db080d6da08153"
+      "sha256": "6dda5dcab11f7164d79cd1cae8dcfccc15243443f735de09a2544bf3cbe20151"
     },
     {
       "path": "courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/transcript.md",
@@ -8804,7 +8799,7 @@
     {
       "path": "courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/course.json",
       "bytes": 779,
-      "sha256": "b6d8e9185c9650c99d4c4eb289c17a84adb8a5264cf5f88e2e3aea3b2f959745"
+      "sha256": "09c5d44dd8b8c49c21b28e6ebbe11f7cc91a9c7094e3a06111f4bd5b9f6b2e35"
     },
     {
       "path": "courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md",
@@ -8824,7 +8819,7 @@
     {
       "path": "courses/f366511d-de14-4a25-b0a5-957ad76f014b/en_US/course.json",
       "bytes": 789,
-      "sha256": "2eda1f00c3069d58afa2b072f6b967a2e36330e01142afb178bfb98229632b00"
+      "sha256": "b5190c462f614266d2c8c7f5e556bb53ee2365df08702e013a920174cd754486"
     },
     {
       "path": "courses/f366511d-de14-4a25-b0a5-957ad76f014b/en_US/transcript.md",
@@ -8844,7 +8839,7 @@
     {
       "path": "courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/en_US/course.json",
       "bytes": 767,
-      "sha256": "59c940a8e89487a08f16abf2b88f677dd10b775f02d0ea2b456d9caee867f824"
+      "sha256": "e899b00b7f9d1c2c5cbe701d7f703e48a4e930f958406d311676dbdbec3598a0"
     },
     {
       "path": "courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/en_US/transcript.md",
@@ -8864,7 +8859,7 @@
     {
       "path": "courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/zh_CN/course.json",
       "bytes": 762,
-      "sha256": "09188f9d975756a7c56289ad519b851088c5af186b6ca67ce4f8c2dfd91a95ab"
+      "sha256": "3a513fb421b0c2610cf5cee9ccb4b805d380a217b2d338bf2ec64d1a9c74df78"
     },
     {
       "path": "courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/zh_CN/transcript.md",
@@ -8884,7 +8879,7 @@
     {
       "path": "courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/en_US/course.json",
       "bytes": 769,
-      "sha256": "9bf014f04f4f686988f72ef469b7601d2c0f6c8b7c1308dd32c6d0e876588573"
+      "sha256": "66b1033d21d8fa9d5beec6389dd0e8df61f002f08eb2e7bb6d361d8f9639c071"
     },
     {
       "path": "courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/en_US/transcript.md",
@@ -8904,7 +8899,7 @@
     {
       "path": "courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/zh_CN/course.json",
       "bytes": 770,
-      "sha256": "07c7898b90727f92d3c65fe8f9e1316b70adaad570d5f8f5fdfd0fc841218c6f"
+      "sha256": "57bcd6f46d8ad9419b8c63228ddec87bd55852a4d02b72fc0d1b34819618147b"
     },
     {
       "path": "courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/zh_CN/transcript.md",
@@ -8924,7 +8919,7 @@
     {
       "path": "courses/f69b665b-cb6b-4205-a4f4-b016c77c8375/en_US/course.json",
       "bytes": 799,
-      "sha256": "cdaa61e066a6c6c2219cf79e178f945dac47ac32823735047153c026e471b62b"
+      "sha256": "0228e6b48b732b0a0ae9d7305dddd381df280b9ac1c587aef79687eb3b59e692"
     },
     {
       "path": "courses/f69b665b-cb6b-4205-a4f4-b016c77c8375/en_US/transcript.md",
@@ -8944,7 +8939,7 @@
     {
       "path": "courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/course.json",
       "bytes": 786,
-      "sha256": "85798e8d35a88aa51b902bdb81b45f3a55fad96966446560f333e20a3f114c34"
+      "sha256": "4adad1fc1eba7b0d518d09b9731d89f13ea49d229b6253b7dc38188e4a86c017"
     },
     {
       "path": "courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/transcript.md",
@@ -8964,7 +8959,7 @@
     {
       "path": "courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/zh_CN/course.json",
       "bytes": 788,
-      "sha256": "8c4d6404e3fab60d55ccca524760a83504f940cd363bfe2a2051c9b49c624898"
+      "sha256": "2531638ae1b31545ba95c05311c6c3ac025f6885d35a2dea09f34a5b96ec5d40"
     },
     {
       "path": "courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/zh_CN/transcript.md",
@@ -8984,7 +8979,7 @@
     {
       "path": "courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/en_US/course.json",
       "bytes": 794,
-      "sha256": "b382e2a21dc1dc2e71fa4c9cf165f9e7262e6b559e2a43d91a7859ef7d90fd81"
+      "sha256": "d890b0363a982c3410a2275c442125dfd9a609e7675a738fd3e120253b551974"
     },
     {
       "path": "courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/en_US/transcript.md",
@@ -9004,7 +8999,7 @@
     {
       "path": "courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/zh_CN/course.json",
       "bytes": 789,
-      "sha256": "3b1bf67db2f65dfa7d7fa8a28f740575d5cbc466a8f767777b25bb1354893229"
+      "sha256": "c98691a3edc7101b3a8061745e851962d7f764fdda5f7b303b6ca1b52b317c40"
     },
     {
       "path": "courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/zh_CN/transcript.md",
@@ -9024,7 +9019,7 @@
     {
       "path": "courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/course.json",
       "bytes": 825,
-      "sha256": "f3357fc3d3f86280d1129b2d3403860f4239d043b64e296073e928b0f0e5a348"
+      "sha256": "560f28bad4c3ea2347afa3d4d9969e21f95aea687928e16f09c27c3d2297ff94"
     },
     {
       "path": "courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md",
@@ -9044,7 +9039,7 @@
     {
       "path": "courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/en_US/course.json",
       "bytes": 790,
-      "sha256": "0f275c69db942df45b4a31d0af4658e4e6b616a20964cde8fbec4450cab5ca98"
+      "sha256": "54331061db70b28406bf38d266583e5b45b29a4fdac6bc07cbdf62bc66fc28dc"
     },
     {
       "path": "courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/en_US/transcript.md",
@@ -9064,7 +9059,7 @@
     {
       "path": "courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/zh_CN/course.json",
       "bytes": 790,
-      "sha256": "cdd36c4366dec0cba4cb120ba53bd75d765fb268b9adfc51ff8241878a9b6225"
+      "sha256": "780abd4c042bc0a57879bb26d6b483b79cc3db789b04105dab7a27803271a266"
     },
     {
       "path": "courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/zh_CN/transcript.md",
@@ -9084,7 +9079,7 @@
     {
       "path": "courses/fac5a823-088b-43e5-b00a-62e23464bafb/en_US/course.json",
       "bytes": 787,
-      "sha256": "8e73f50e6b8c86d191070f570af8400e5a7b28f40adc02e4e83cc6fb3c21b9f4"
+      "sha256": "b7ead4d5909cf1b61a7ee480a12fc5eaf0197d809a8f38a45a030237b2bf14a0"
     },
     {
       "path": "courses/fac5a823-088b-43e5-b00a-62e23464bafb/en_US/transcript.md",
@@ -9104,7 +9099,7 @@
     {
       "path": "courses/fac5a823-088b-43e5-b00a-62e23464bafb/zh_CN/course.json",
       "bytes": 784,
-      "sha256": "0720cf163adce24d4246e16234f069e467a72745164c1a9b6c15e4a8aa6e9d93"
+      "sha256": "6590dbcdd7f07e1cc312c8ec2ffed2d92be3d41693de5348b246b1932d37d438"
     },
     {
       "path": "courses/fac5a823-088b-43e5-b00a-62e23464bafb/zh_CN/transcript.md",
@@ -9124,7 +9119,7 @@
     {
       "path": "courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/course.json",
       "bytes": 776,
-      "sha256": "318e78339875d37b6cc1450913f14deb295929e37f51352ab65aa8145070ee4d"
+      "sha256": "3cc0e0e8e22218265232a538ce2a42cec24f8736bda6f587db98bad82a2ef6a7"
     },
     {
       "path": "courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/transcript.md",
@@ -9144,7 +9139,7 @@
     {
       "path": "courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/en_US/course.json",
       "bytes": 779,
-      "sha256": "6da0741cb9ec07bb2c28f488fb2092dd89dff48d0780b9c74c8e7d449ad0075b"
+      "sha256": "dc29c7659e3695ccecec430424894d1dbc5379463b69bf897a18b27bc6173f87"
     },
     {
       "path": "courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/en_US/transcript.md",
@@ -9164,7 +9159,7 @@
     {
       "path": "courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/zh_CN/course.json",
       "bytes": 778,
-      "sha256": "3a8b74df61356fa738cc2ff0a93063013df646ca42680305256d0e1ea74c980e"
+      "sha256": "80c31a73f406c6ddc2f6756d07da803e6caafced57fa2f9febb24dc4b8cfde9c"
     },
     {
       "path": "courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/zh_CN/transcript.md",
@@ -9184,7 +9179,7 @@
     {
       "path": "courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/en_US/course.json",
       "bytes": 782,
-      "sha256": "6f6da1df46a403ebad8a9f8cd4bce9c4768447112a846d33bc55a09157a69c95"
+      "sha256": "680d3a1dfe18ea380edb9d634e22b6d081dbef2cc89c5b9580656f5bd4e91c1b"
     },
     {
       "path": "courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/en_US/transcript.md",
@@ -9204,7 +9199,7 @@
     {
       "path": "courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/zh_CN/course.json",
       "bytes": 782,
-      "sha256": "7eb3a17ee2739e857844e5adebd45e6e2bba3491bc41a0ab99b62c0dfd387768"
+      "sha256": "6d134557763ab8da0f438e68ba7299a021714170be429b3d36d115bef0a9b3fd"
     },
     {
       "path": "courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/zh_CN/transcript.md",
@@ -9224,7 +9219,7 @@
     {
       "path": "courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/en_US/course.json",
       "bytes": 787,
-      "sha256": "c9b5e0975ca5f9be1d2d6d415806adae5169f928002b0aee0bb2fce14a5f90a3"
+      "sha256": "fe3806a9a51c487d803f95526adf0ffd5f05b66abfdd73155c5cb72257c8e97b"
     },
     {
       "path": "courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/en_US/transcript.md",
@@ -9249,7 +9244,7 @@
     {
       "path": "courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/zh_CN/course.json",
       "bytes": 784,
-      "sha256": "3fa9aa8dadf120c2f3cff91d3db78509586719a8b88a9abbf6c11cc8b69bdf9f"
+      "sha256": "c8ae6ada924fe8da0d63edcb79e1fbcb48fa910ce14d2e2b9e4b851848e309be"
     },
     {
       "path": "courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/zh_CN/transcript.md",
@@ -9269,7 +9264,7 @@
     {
       "path": "courses/ff2db382-9bf6-48fb-8822-c3548a569339/en_US/course.json",
       "bytes": 780,
-      "sha256": "30d1ff346a0b938ec15cae9d7fa19eb96808740c552564eecc50d04a65c3b2f2"
+      "sha256": "46aa4f981e6b296d76111cdf3958ee0a3f00e66bc81665c4212072f2a0be56f5"
     },
     {
       "path": "courses/ff2db382-9bf6-48fb-8822-c3548a569339/en_US/transcript.md",
@@ -9289,7 +9284,7 @@
     {
       "path": "courses/ff2db382-9bf6-48fb-8822-c3548a569339/zh_CN/course.json",
       "bytes": 780,
-      "sha256": "6c29690ef027aaa9b51ff0b15d9bc5d2d1ceecef31391a2bfa9b223ce1344588"
+      "sha256": "f38004aee52958e5dbfd89bc82da9720438e7a4ad6cc5c221a779287ebe497be"
     },
     {
       "path": "courses/ff2db382-9bf6-48fb-8822-c3548a569339/zh_CN/transcript.md",
@@ -9313,13 +9308,13 @@
     },
     {
       "path": "index.html",
-      "bytes": 1777940,
-      "sha256": "9c01c3c03e1310e729f4949bd35b668f2e0669a66cc50b3d91deccf85de8f788"
+      "bytes": 1784409,
+      "sha256": "bfde60400378562bc7004c2faaf6a06cf7f4bf23fb0d35b83495628e47430bde"
     },
     {
       "path": "release.json",
       "bytes": 245,
-      "sha256": "c8ba68239c47a1549e81e6effd810815dbcfc33711c65a30e8abbbb6b472d7ce"
+      "sha256": "83b4b1c187f749733613b52a1a2e6cc39ee80faae54414549c9433fc925ad402"
     },
     {
       "path": "scripts/build_navigation.py",
@@ -9333,18 +9328,18 @@
     },
     {
       "path": "scripts/reader/app.js",
-      "bytes": 26758,
-      "sha256": "4daafeaeb7891f3f27b71b0230747dbbe2e7905f12429c3c153dbc3b933a0a02"
+      "bytes": 30823,
+      "sha256": "c8238ef1da7ee3bc32f8a4beca5a9ca1b4705f1f7c35be40206efc65a16dcada"
     },
     {
       "path": "scripts/reader/style.css",
-      "bytes": 16579,
-      "sha256": "a9a3818019dd53afba0e1eb97941b62c764fd08a56ca2b68bc59b1a536093db8"
+      "bytes": 18840,
+      "sha256": "5e5dbd742e9a59657009d8ce7eed207baebf44e444b004f228d2c486febf04f5"
     },
     {
       "path": "scripts/reader/template.html",
-      "bytes": 1896,
-      "sha256": "8ce6294f94c2f29ec702538c4be94329f039004a90f7b79f1257a50fbb20bf2e"
+      "bytes": 2039,
+      "sha256": "130b22502d78e8b432bbc25ca111ec859cfbc54fe843e32f5910a4d95c73518a"
     },
     {
       "path": "scripts/stage_site.py",

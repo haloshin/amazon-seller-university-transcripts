@@ -16,7 +16,9 @@
 
 <br>
 
-![270 门课程，8 个主题，455 份转写稿：英文 270 份、中文音轨稿 185 份](assets/reader-banner.png)
+<p align="center"><img src="assets/reader-banner.png" width="600" alt="展开的课程书册、课程文档与卖家学习工具"></p>
+
+<p align="center"><strong>270 门课程 &nbsp; / &nbsp; 455 份转写稿 &nbsp; / &nbsp; 8 个主题</strong><br><sub>英文 270 份 · 中文音轨稿 185 份</sub></p>
 
 <p align="center"><sub><a href="https://github.com/haloshin">SHIN</a> 整理维护 · 分享请保留来源与署名 · <a href="NOTICE.md">使用条件</a></sub></p>
 
@@ -38,11 +40,9 @@
 
 ## 按主题找课
 
+[![课程首页实拍：全文搜索、八个主题入口与五门入门课](assets/home-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/)
+
 从你正在处理的问题出发，进入对应课程。
-
-<br>
-
-![八个课程主题及数量：入门与账户 12、商品发布与定价 42、物流与配送 52、广告与促销 54、品牌与买家体验 30、合规与账户健康 30、全球开店 19、企业购与经营分析 31](assets/topic-map.png)
 
 <br>
 
@@ -61,10 +61,6 @@
 
 <br>
 
-![推荐的五门入门课：开店概览、卖家平台、销售政策、商品发布、FBA 入门](assets/starter-path.png)
-
-<br>
-
 1. **[新卖家 5 分钟开店概览](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=en_US&ui=zh)
 2. **[卖家平台入门](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=7656f83f-df7c-4a3f-93e6-84c7a1358cf9&lang=en_US&ui=zh)
 3. **[亚马逊销售政策概览](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=zh_CN&ui=zh)** · [EN](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96&lang=en_US&ui=zh)
@@ -77,11 +73,9 @@
 
 ## 先看一段原文
 
-FBA 入门课程的真实节选。英文稿与中文稿分别来自对应音轨。
+FBA 入门课程的英文阅读页实拍。英文稿与中文稿分别来自对应音轨，切换音轨即可对照阅读。
 
-<br>
-
-![FBA 入门课程的英文原文与中文音轨稿节选](assets/fba-reading-example.png)
+[![英文 FBA 阅读页：原文、音轨切换与同主题课程目录](assets/english-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 
 <br>
 
@@ -120,7 +114,7 @@ FBA 入门课程的真实节选。英文稿与中文稿分别来自对应音轨�
 
 <br>
 
-![HTML 阅读器之外，仍保留 Markdown、TXT 与 VTT 文件](assets/reading-formats.png)
+![在线阅读、离线查阅 HTML 和文字、配合原视频对照 VTT 字幕](assets/reading-formats.png)
 
 <br>
 
@@ -149,10 +143,6 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 <br>
 
 ### 阅读时，顺着主题继续
-
-<br>
-
-![课程页提供返回主题、切换已有音轨语言、阅读同主题上一篇与下一篇的入口](assets/course-navigation.png)
 
 <br>
 
