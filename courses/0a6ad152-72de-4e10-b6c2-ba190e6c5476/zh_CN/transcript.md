@@ -41,4 +41,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用品牌推广展示旗舰店亮点（英文）](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md) · [同主题下一篇：Happy Start 用 2 美元优惠券应对销售下滑的案例（英文）](../../../courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md)
+[同主题上一篇：使用品牌推广展示旗舰店亮点（中文译文）](../../../translations/8632fdd4-23c8-4700-9888-e9d8da14839e/zh_CN/translation.md) · [同主题下一篇：Happy Start 用 2 美元优惠券应对销售下滑的案例（中文译文）](../../../translations/d59ade8c-9301-4d24-8eb2-272007adbdac/zh_CN/translation.md)

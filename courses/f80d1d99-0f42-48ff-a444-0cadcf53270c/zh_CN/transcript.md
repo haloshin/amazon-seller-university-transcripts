@@ -130,4 +130,4 @@ General Settings选项卡下,可以看到每个商城的当前退货授权和标
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：优化卖家自配送 Prime 试用](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/zh_CN/transcript.md) · [同主题下一篇：将库存发送至 AWD（英文）](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md)
+[同主题上一篇：优化卖家自配送 Prime 试用](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/zh_CN/transcript.md) · [同主题下一篇：将库存发送至 AWD（中文译文）](../../../translations/b48df0ed-b989-4b5e-8fbb-c683221c2329/zh_CN/translation.md)

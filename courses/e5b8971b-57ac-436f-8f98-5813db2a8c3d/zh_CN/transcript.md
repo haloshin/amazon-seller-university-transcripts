@@ -38,4 +38,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：选择适合在亚马逊投放广告的商品（英文）](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md) · [同主题下一篇：开始使用品牌推广（英文）](../../../courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/transcript.md)
+[同主题上一篇：选择适合在亚马逊投放广告的商品（中文译文）](../../../translations/d3f10113-63e7-4e14-bf38-1c1def628834/zh_CN/translation.md) · [同主题下一篇：开始使用品牌推广（中文译文）](../../../translations/476c18b1-9666-4f27-ad6b-b29156467146/zh_CN/translation.md)

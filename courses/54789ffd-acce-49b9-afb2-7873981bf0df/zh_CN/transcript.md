@@ -40,4 +40,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：修改商品推广广告预算（英文）](../../../courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/transcript.md) · [同主题下一篇：创建持续投放的广告活动](../../../courses/d0fecd7d-b374-4622-a4ca-a66c14119868/zh_CN/transcript.md)
+[同主题上一篇：修改商品推广广告预算（中文译文）](../../../translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.md) · [同主题下一篇：创建持续投放的广告活动](../../../courses/d0fecd7d-b374-4622-a4ca-a66c14119868/zh_CN/transcript.md)

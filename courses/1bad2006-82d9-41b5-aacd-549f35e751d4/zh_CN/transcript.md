@@ -61,4 +61,4 @@ View FBA Reports
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：FBA 装箱清单（英文）](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md) · [同主题下一篇：获取整箱包装建议](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/zh_CN/transcript.md)
+[同主题上一篇：FBA 装箱清单（中文译文）](../../../translations/e1a48703-02ff-4e3d-b0c6-72410f498439/zh_CN/translation.md) · [同主题下一篇：获取整箱包装建议](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/zh_CN/transcript.md)

@@ -35,4 +35,4 @@ A+ 商品描述有助于生动演绎您的品牌故事。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：创建亚马逊品牌旗舰店（英文）](../../../courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/transcript.md) · [同主题下一篇：品牌旗舰店与 A+ 内容入门](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/zh_CN/transcript.md)
+[同主题上一篇：创建亚马逊品牌旗舰店（中文译文）](../../../translations/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/zh_CN/translation.md) · [同主题下一篇：品牌旗舰店与 A+ 内容入门](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/zh_CN/transcript.md)

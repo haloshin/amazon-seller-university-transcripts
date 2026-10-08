@@ -1,4 +1,4 @@
-[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md)
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#global-selling) · [All courses](../../../课程目录.md) · [中文译文](../../../translations/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/zh_CN/translation.md)
 
 > Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
 > Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.

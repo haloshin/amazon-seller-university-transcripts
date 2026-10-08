@@ -86,4 +86,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：亚马逊广告活动管理器预算规则入门（英文）](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md) · [同主题下一篇：品牌推广入门](../../../courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/zh_CN/transcript.md)
+[同主题上一篇：亚马逊广告活动管理器预算规则入门（中文译文）](../../../translations/2f75c115-2990-482d-b00c-219a06893243/zh_CN/translation.md) · [同主题下一篇：品牌推广入门](../../../courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/zh_CN/transcript.md)

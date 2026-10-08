@@ -41,4 +41,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：跟踪 AWD 货件（英文）](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md) · [同主题下一篇：使用配送模板](../../../courses/46232ee2-4408-458c-9540-7afc2f650ffe/zh_CN/transcript.md)
+[同主题上一篇：跟踪 AWD 货件（中文译文）](../../../translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.md) · [同主题下一篇：使用配送模板](../../../courses/46232ee2-4408-458c-9540-7afc2f650ffe/zh_CN/transcript.md)

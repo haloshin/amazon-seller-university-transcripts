@@ -7,6 +7,7 @@ from html.parser import HTMLParser
 from pathlib import Path
 from unittest.mock import patch
 import build_reader
+import translations
 from reading_paragraphs import reading_paragraphs
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -40,13 +41,45 @@ class ReaderHTML(HTMLParser):
 
 
 class ReaderTests(unittest.TestCase):
+    def test_all_courses_are_readable_in_chinese_without_fabricated_audio(self):
+        data = build_reader.reader_data()
+        catalog = {c['moduleId']: c for c in json.loads((ROOT / 'catalog.json').read_text())}
+        translated = 0
+        for course in data['courses']:
+            chinese = [v for v in course['variants'] if v['locale'].startswith('zh_CN')]
+            self.assertEqual(len(chinese), 1)
+            variant = chinese[0]
+            if variant['kind'] != 'translation':
+                continue
+            translated += 1
+            source = catalog[course['moduleId']]
+            self.assertEqual([v['locale'] for v in source['variants']], ['en_US'])
+            self.assertEqual(variant['locale'], 'zh_CN_translation')
+            self.assertEqual(variant['sourceLocale'], 'en_US')
+            self.assertFalse((ROOT / variant['path'] / 'captions.vtt').exists())
+            metadata = translations.load_translation(source, source['translations'][0])
+            self.assertEqual(re.sub(r'\s+', '', ''.join(variant['paragraphs'])), re.sub(r'\s+', '', ''.join(metadata['paragraphs'])))
+        self.assertEqual(translated, data['release']['translationCount'])
+        self.assertEqual(translated, 85)
+
+    def test_translation_rejects_stale_source_and_missing_paragraph(self):
+        course = next(c for c in json.loads((ROOT / 'catalog.json').read_text()) if c.get('translations'))
+        entry = course['translations'][0]
+        original = json.loads((ROOT / entry['metadata']).read_text())
+        for changed in ({**original, 'sourceSha256': '0' * 64},
+                        {**original, 'paragraphs': original['paragraphs'][:-1]},
+                        {**original, 'kind': 'transcript'}):
+            with self.subTest(change=changed), patch.object(translations.json, 'loads', return_value=changed):
+                with self.assertRaises(AssertionError):
+                    translations.load_translation(course, entry)
+
     def test_every_published_transcript_is_included_without_text_changes(self):
         page = ReaderHTML()
         page.feed((ROOT / 'index.html').read_text())
         data = json.loads(page.data)
         catalog = json.loads((ROOT / 'catalog.json').read_text())
         expected = {(c['moduleId'], v['locale']): (c,v) for c in catalog for v in c['variants']}
-        actual = {(c['moduleId'], v['locale']): (c,v) for c in data['courses'] for v in c['variants']}
+        actual = {(c['moduleId'], v['locale']): (c,v) for c in data['courses'] for v in c['variants'] if v['kind'] == 'transcript'}
         self.assertEqual(set(expected), set(actual))
         self.assertEqual(len(actual), data['release']['transcriptCount'])
         self.assertEqual(len(data['courses']), data['release']['courseCount'])

@@ -47,4 +47,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：为广告活动选择定向策略](../../../courses/09a25aab-2175-41ad-b349-443e73a9d646/zh_CN/transcript.md) · [同主题下一篇：使用 Video Generator 创建广告视频（英文）](../../../courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md)
+[同主题上一篇：为广告活动选择定向策略](../../../courses/09a25aab-2175-41ad-b349-443e73a9d646/zh_CN/transcript.md) · [同主题下一篇：使用 Video Generator 创建广告视频（中文译文）](../../../translations/aaf32411-71c9-438d-959b-30ee392a0319/zh_CN/translation.md)

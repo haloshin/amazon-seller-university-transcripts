@@ -1,0 +1,20 @@
+{
+  "moduleId": "e1a48703-02ff-4e3d-b0c6-72410f498439",
+  "kind": "translation",
+  "locale": "zh_CN",
+  "sourceLocale": "en_US",
+  "title": "FBA 装箱单",
+  "sourcePath": "courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.txt",
+  "sourceSha256": "3c7eefca2ab8f758cf32faf5b4d3510077466cea979871aca25e5ce14b5abd51",
+  "method": "AI-assisted translation and bilingual review; terminology aligned with existing Chinese audio transcripts",
+  "sourceParagraphCount": 5,
+  "paragraphs": [
+    "[音乐]",
+    "上传文件功能允许您下载装箱单文件、填写文件，然后将其上传回卖家平台，以提供您的箱内物品信息。此功能适用于任何类型的货件。请输入您货件中的箱子数量，并下载基于 Excel 的模板。",
+    "请在电子表格程序中打开该文件。对于每个箱子，请输入每种商品的件数、到期日期（如适用），以及箱子的重量和尺寸。输入完信息后，请保存文件。",
+    "请将文件上传回卖家平台。您无需将文件转换为其他格式。您也可以改为下载以制表符分隔的文本版本模板。",
+    "如果您更喜欢使用该文件格式。"
+  ],
+  "editionDate": "2026-10-08",
+  "releaseVersion": "0.7.0"
+}

@@ -1,4 +1,4 @@
-[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md)
+[Home](../../../README.en.md) · [Topic guide](../../../LEARNING_GUIDE.md#advertising-and-promotions) · [All courses](../../../课程目录.md) · [中文译文](../../../translations/db41274c-e769-4160-9b61-9c606e09e1f5/zh_CN/translation.md)
 
 > Compiled and maintained by [SHIN](https://github.com/haloshin) · [Original repository and updates](https://github.com/haloshin/amazon-seller-university-transcripts) · [Attribution and use](../../../NOTICE.md)
 > Course source: Amazon Seller University. Please retain the source and editorial credit; do not claim SHIN's work as your own or imply official endorsement.

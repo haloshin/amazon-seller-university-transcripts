@@ -19,4 +19,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：创建促销活动（Deal）](../../../courses/54789ffd-acce-49b9-afb2-7873981bf0df/zh_CN/transcript.md) · [同主题下一篇：使用品牌推广为旗舰店引流（英文）](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md)
+[同主题上一篇：创建促销活动（Deal）](../../../courses/54789ffd-acce-49b9-afb2-7873981bf0df/zh_CN/transcript.md) · [同主题下一篇：使用品牌推广为旗舰店引流（中文译文）](../../../translations/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/zh_CN/translation.md)

@@ -19,4 +19,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：Amazon Vine 评论如何提升新品曝光（英文）](../../../courses/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/en_US/transcript.md) · [同主题下一篇：改进品牌旗舰店设计（英文）](../../../courses/6b90667d-d6c3-48af-97af-de027f1e5b13/en_US/transcript.md)
+[同主题上一篇：Amazon Vine 评论如何提升新品曝光（中文译文）](../../../translations/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/zh_CN/translation.md) · [同主题下一篇：改进品牌旗舰店设计（中文译文）](../../../translations/6b90667d-d6c3-48af-97af-de027f1e5b13/zh_CN/translation.md)

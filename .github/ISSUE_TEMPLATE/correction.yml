@@ -1,5 +1,5 @@
-name: 转写纠错 / Transcript correction
-description: 提供原课程证据，帮助修正文字或校注。
+name: 转写与译文纠错 / Text correction
+description: 提供原课程证据，帮助修正转写、中文译文或校注。
 title: "[纠错] "
 body:
   - type: input
@@ -11,8 +11,8 @@ body:
   - type: input
     id: location
     attributes:
-      label: 语言与时间位置
-      placeholder: "zh_CN, 02:58–03:16"
+      label: 语言与位置（译文可填段落）
+      placeholder: "中文音轨 02:58–03:16；或中文译文第 3 段"
     validations:
       required: true
   - type: textarea

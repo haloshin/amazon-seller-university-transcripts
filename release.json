@@ -1,5 +1,5 @@
 {
-  "version": "0.6.3",
+  "version": "0.7.0",
   "archiveDate": "2026-07-27",
   "editionDate": "2026-10-08",
   "courseCount": 270,
@@ -9,5 +9,10 @@
     "zh_CN": 185
   },
   "unresolvedAssets": 2,
-  "editorialNotesAssets": 19
+  "editorialNotesAssets": 19,
+  "translationCount": 85,
+  "translationLocales": {
+    "zh_CN": 85
+  },
+  "chineseReadableCourses": 270
 }

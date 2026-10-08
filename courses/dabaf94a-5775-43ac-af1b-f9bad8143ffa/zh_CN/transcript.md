@@ -53,4 +53,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题下一篇：添加协议价格（英文）](../../../courses/2513f967-cfdc-40ad-8747-341bd9dbefec/en_US/transcript.md)
+[同主题下一篇：添加协议价格（中文译文）](../../../translations/2513f967-cfdc-40ad-8747-341bd9dbefec/zh_CN/translation.md)

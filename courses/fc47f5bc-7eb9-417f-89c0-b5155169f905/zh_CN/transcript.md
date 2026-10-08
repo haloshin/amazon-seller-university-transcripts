@@ -47,4 +47,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：品牌名称与标志设计的最佳实践](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/transcript.md) · [同主题下一篇：使用 Project Zero 阻止假冒商品（英文）](../../../courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md)
+[同主题上一篇：品牌名称与标志设计的最佳实践](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/transcript.md) · [同主题下一篇：使用 Project Zero 阻止假冒商品（中文译文）](../../../translations/c64157c2-1aa1-4a23-85ce-007980b079e0/zh_CN/translation.md)

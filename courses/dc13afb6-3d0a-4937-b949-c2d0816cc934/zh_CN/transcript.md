@@ -23,4 +23,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：配送设置自动化（SSA）入门](../../../courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/zh_CN/transcript.md) · [同主题下一篇：亚马逊入仓分销网络（AWD）入门（英文）](../../../courses/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/en_US/transcript.md)
+[同主题上一篇：配送设置自动化（SSA）入门](../../../courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/zh_CN/transcript.md) · [同主题下一篇：亚马逊入仓分销网络（AWD）入门（中文译文）](../../../translations/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/zh_CN/translation.md)

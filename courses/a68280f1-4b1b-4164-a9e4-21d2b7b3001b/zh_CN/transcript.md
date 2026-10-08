@@ -73,4 +73,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：展示广告入门](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/zh_CN/transcript.md) · [同主题下一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（英文）](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md)
+[同主题上一篇：展示广告入门](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/zh_CN/transcript.md) · [同主题下一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（中文译文）](../../../translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.md)

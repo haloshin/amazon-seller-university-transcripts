@@ -18,4 +18,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用受众竞价提升优化品牌推广活动（英文）](../../../courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md) · [同主题下一篇：在关键词定向中使用词组匹配的时机](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/zh_CN/transcript.md)
+[同主题上一篇：使用受众竞价提升优化品牌推广活动（中文译文）](../../../translations/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/zh_CN/translation.md) · [同主题下一篇：在关键词定向中使用词组匹配的时机](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/zh_CN/transcript.md)

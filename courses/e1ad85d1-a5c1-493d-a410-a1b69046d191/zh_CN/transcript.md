@@ -37,4 +37,4 @@ Li-poly、LIPO 或 LiPo是由几个相同的二次电芯串联和并联组成的
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：亚马逊通用商品政策入门（英文）](../../../courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md) · [同主题下一篇：管理合规控制面板](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/zh_CN/transcript.md)
+[同主题上一篇：亚马逊通用商品政策入门（中文译文）](../../../translations/a3d3e133-028a-408c-b85a-84031b302681/zh_CN/translation.md) · [同主题下一篇：管理合规控制面板](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/zh_CN/transcript.md)

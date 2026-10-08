@@ -18,7 +18,7 @@
 
 <p align="center"><img src="assets/reader-banner.png" width="600" alt="An open course book, course documents and seller learning tools"></p>
 
-<p align="center"><strong>270 courses &nbsp; / &nbsp; 455 transcripts &nbsp; / &nbsp; 8 topics</strong><br><sub>270 English · 185 Chinese-audio transcripts</sub></p>
+<p align="center"><strong>270 courses &nbsp; / &nbsp; 455 transcripts &nbsp; / &nbsp; 8 topics</strong><br><sub>270 English · 185 Chinese-audio transcripts · 85 additional Chinese translations</sub></p>
 
 <p align="center"><sub>Maintained by <a href="https://github.com/haloshin">SHIN</a> · Please retain source and credit · <a href="NOTICE.md">Terms of use</a></sub></p>
 
@@ -28,7 +28,7 @@
 
 **[Open the HTML reader ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)** · [Markdown guide](LEARNING_GUIDE.md)
 
-Browse all **270 courses and 455 transcripts** with full-text search, a contextual course directory, available audio-language switching and adjustable text size. Start with search or the guided reading path on the home page. Browse and filter in the dedicated library, then focus on the original text in the reader. Desktop and narrow screens are supported.
+Browse all **270 courses, 455 original-language transcripts and 85 Chinese translations** with full-text search, a contextual course directory, Chinese/English switching and adjustable text size. Start with search or the guided reading path on the home page. Browse and filter in the dedicated library, then focus on the original text in the reader. Desktop and narrow screens are supported.
 
 Download and extract the complete ZIP, then open **`index.html`** in a browser to read offline. Keep the entire folder together; no installation or local server is needed.
 
@@ -40,7 +40,7 @@ Download and extract the complete ZIP, then open **`index.html`** in a browser t
 
 ## Browse by topic
 
-[![Dedicated library in Chinese: topics, search, audio-language filters and course listings](assets/library-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=en)
+[![Dedicated library in Chinese: topics, search, reading-language filters and course listings](assets/library-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=en)
 
 Start with the question you are working on.
 
@@ -53,7 +53,7 @@ Start with the question you are working on.
 | [Fulfillment and shipping · 52](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=fulfillment&ui=en) | [Global selling · 19](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=global&ui=en) |
 | [Compliance and account health · 30](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=compliance&ui=en) | [Amazon Business and business insights · 31](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=business&ui=en) |
 
-<sub>Topic groups and Chinese navigation names are editorial additions. Original titles are retained. Courses without a Chinese-audio transcript are available in English.</sub>
+<sub>Topic groups and Chinese navigation names are editorial additions. Original titles are retained. All courses are readable in Chinese: 185 Chinese-audio transcripts and 85 translations from English.</sub>
 
 <br><br>
 
@@ -87,6 +87,18 @@ The English FBA introduction in the reader. Video transcripts use short reading 
 <br>
 
 **[Read the English course ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)** &emsp; [中文全文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=en)
+
+<br><br>
+
+## Chinese translations for English-only audio
+
+All 85 courses previously available only in English now include a **Chinese translation**. Translations follow the English text, with terminology checked against existing Chinese-audio transcripts and the project glossary. They are AI-assisted, separately labeled, and retain the original steps, examples, numbers and qualifications.
+
+[![AWD shipment-tracking course with a labeled Chinese translation and English original](assets/chinese-translation-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=en)
+
+[Read the Chinese translation ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=en) · [Browse all translations](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&language=zh_CN_translation&ui=en)
+
+<sub>Translations include Markdown and TXT downloads, full-text search and offline reading. They do not represent official Chinese audio and have no generated Chinese VTT. Original English transcripts and captions remain available.</sub>
 
 <br><br>
 
@@ -155,7 +167,7 @@ For AI-assisted study, provide the selected transcript and any accompanying read
 
 **[Try the FBA course ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)**
 
-<sub>Chinese pages label a next course as English when no Chinese-audio transcript is available. Language links reflect the available audio tracks.</sub>
+<sub>Topic navigation preserves the chosen reading language. Chinese audio transcripts and Chinese translations are labeled separately; the English originals remain available.</sub>
 
 <br><br>
 
@@ -172,6 +184,6 @@ Course content and related marks belong to their respective rights holders. Redi
 - **Watch the original video** — visit the [official Amazon Seller University portal](https://sell.amazon.com/learn/seller-university) and search by the original title. Some content requires Seller Central sign-in.
 - **Report a correction** — [submit feedback](https://github.com/haloshin/amazon-seller-university-transcripts/issues/new?template=correction.yml) with the course, language, timestamp and supporting evidence.
 
-<sub>Scope: courses archived on 2026-07-27. Chinese transcripts follow Chinese audio. A small number of courses include brief reading notes. Check current official fees, policies and interfaces. <a href="docs/SOURCES.md">Sources</a> · <a href="CONTRIBUTING.md">Contributing</a></sub>
+<sub>Scope: courses archived on 2026-07-27. Chinese audio transcripts follow Chinese audio; the 85 Chinese translations are AI-assisted translations reviewed against English transcripts, not official Chinese audio. A small number of courses include brief reading notes. Check current official fees, policies and interfaces. <a href="docs/SOURCES.md">Sources</a> · <a href="CONTRIBUTING.md">Contributing</a></sub>
 
 <br>

@@ -68,4 +68,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：全球业务扩展：跨境物流指南（英文）](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md) · [同主题下一篇：亚马逊全球商店销售入门](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/transcript.md)
+[同主题上一篇：全球业务扩展：跨境物流指南（中文译文）](../../../translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.md) · [同主题下一篇：亚马逊全球商店销售入门](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/transcript.md)

@@ -18,7 +18,7 @@
 
 <p align="center"><img src="assets/reader-banner.png" width="600" alt="展开的课程书册、课程文档与卖家学习工具"></p>
 
-<p align="center"><strong>270 门课程 &nbsp; / &nbsp; 455 份转写稿 &nbsp; / &nbsp; 8 个主题</strong><br><sub>英文 270 份 · 中文音轨稿 185 份</sub></p>
+<p align="center"><strong>270 门课程 &nbsp; / &nbsp; 455 份转写稿 &nbsp; / &nbsp; 8 个主题</strong><br><sub>英文 270 份 · 中文音轨稿 185 份 · 另附中文译文 85 份</sub></p>
 
 <p align="center"><sub><a href="https://github.com/haloshin">SHIN</a> 整理维护 · 分享请保留来源与署名 · <a href="NOTICE.md">使用条件</a></sub></p>
 
@@ -28,7 +28,7 @@
 
 **[打开完整阅读版 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/)** · [Markdown 学习导航](学习导航.md)
 
-**270 门课程、455 份转写稿**，支持全文搜索、同主题课程目录、已有音轨中英切换和字号调整。首页提供搜索与入门路径，课程库集中浏览和筛选，阅读页专注原文。电脑与手机均可使用。
+**270 门课程全部可中文阅读**：455 份原语言转写稿，另补 85 份中文译文。支持全文搜索、同主题课程目录、中英切换和字号调整。首页提供搜索与入门路径，课程库集中浏览和筛选，阅读页专注原文。电脑与手机均可使用。
 
 下载完整 ZIP 并解压，双击 **`index.html`**，即可用浏览器离线阅读。请保留完整文件夹，无需安装软件或启动服务。
 
@@ -40,7 +40,7 @@
 
 ## 按主题找课
 
-[![独立课程库：主题目录、全文搜索、音轨筛选与课程条目](assets/library-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=zh)
+[![独立课程库：主题目录、全文搜索、阅读语言筛选与课程条目](assets/library-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&ui=zh)
 
 从你正在处理的问题出发，进入对应课程。
 
@@ -53,7 +53,7 @@
 | [物流与配送 · 52](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=fulfillment&ui=zh) | [全球开店 · 19](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=global&ui=zh) |
 | [合规与账户健康 · 30](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=compliance&ui=zh) | [企业购与经营分析 · 31](https://haloshin.github.io/amazon-seller-university-transcripts/#topic=business&ui=zh) |
 
-<sub>主题与中文导航名由本项目编辑整理；课程页保留官方原标题。没有中文音轨的课程提供英文稿。</sub>
+<sub>主题与中文导航名由本项目编辑整理；课程页保留官方原标题。185 门提供中文音轨稿，其余 85 门提供中文译文，并保留英文原文。</sub>
 
 <br><br>
 
@@ -89,6 +89,18 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 <br>
 
 **[继续读中文全文 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)** &emsp; [Read in English](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=zh)
+
+<br><br>
+
+## 只有英文音轨的课，也能用中文读
+
+85 门原先仅有英文稿的课程已补齐**中文译文**。参照现有中文音轨稿和术语库，保留原课的步骤、案例、数字与限定条件；译文经 AI 辅助翻译与校对，页面单独标注来源。
+
+[![AWD 货件跟踪课程：中文译文、英文原文切换及来源说明](assets/chinese-translation-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh)
+
+**[试读 AWD 中文译文 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh)** · [查看全部中文译文](https://haloshin.github.io/amazon-seller-university-transcripts/#view=library&language=zh_CN_translation&ui=zh)
+
+<sub>译文提供 Markdown 与 TXT，纳入网页搜索和离线阅读。译文不代表官方中文音轨，也不附虚构的中文字幕；英文原文及原音轨 VTT 仍可获取。</sub>
 
 <br><br>
 
@@ -135,6 +147,7 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 - **HTML** — `index.html`，完整浏览器阅读版，内含全部转写稿、目录与全文搜索；正文阅读无需联网，外部链接需联网。
 - **Markdown** — `transcript.md`，在 GitHub 或 Markdown 阅读器中阅读全文。
 - **TXT** — `transcript.txt`，用于全文检索、复制或导入阅读工具。
+- **中文译文** — `translations/` 下的 `translation.md` 与 `translation.txt`，单独标注英文来源。
 - **VTT** — `captions.vtt`，需支持外部字幕的播放器配合原视频使用；本包不含视频。
 
 下载包附 [使用说明](使用说明.txt)、[LICENSE](LICENSE) 和 [NOTICE](NOTICE.md)。TXT 与 VTT 保留纯课程文本，整理署名与使用条款在阅读页和随包说明中。
@@ -157,7 +170,7 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 
 **[打开 FBA 课程试读 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)**
 
-<sub>中文页遇到仅有英文的下一篇，会标明“英文”。语言入口依课程已有音轨提供。</sub>
+<sub>同主题阅读会延续所选语言。“中文音轨”和“中文译文”分别标明来源，可随时切回 English。</sub>
 
 <br><br>
 
@@ -174,6 +187,6 @@ git clone https://github.com/haloshin/amazon-seller-university-transcripts.git
 - **看原视频** — [Amazon Seller University 官方学习入口](https://sell.amazon.com/learn/seller-university)，按课程原标题查找；部分内容需 Seller Central 登录。
 - **反馈错字或漏句** — [提交纠错](https://github.com/haloshin/amazon-seller-university-transcripts/issues/new?template=correction.yml)，请附课程名、语言、时间位置和依据。
 
-<sub>资料范围：2026-07-27 归档课程。中文稿来自中文音轨；少量课程附有简短阅读说明。费用、政策和界面请核对当前官方页面。<a href="docs/SOURCES.md">来源说明</a> · <a href="CONTRIBUTING.md">贡献说明</a></sub>
+<sub>资料范围：2026-07-27 归档课程。“中文音轨”为原中文讲解转写；“中文译文”为英文稿的 AI 辅助翻译与校对，非官方中文音轨。少量课程附有简短阅读说明。费用、政策和界面请核对当前官方页面。<a href="docs/SOURCES.md">来源说明</a> · <a href="CONTRIBUTING.md">贡献说明</a></sub>
 
 <br>

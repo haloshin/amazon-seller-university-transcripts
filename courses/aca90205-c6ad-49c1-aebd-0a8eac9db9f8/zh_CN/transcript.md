@@ -17,4 +17,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：亚马逊新卖家需要完成的步骤（英文）](../../../courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/transcript.md) · [同主题下一篇：新卖家 30 分钟开店概览](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md)
+[同主题上一篇：亚马逊新卖家需要完成的步骤（中文译文）](../../../translations/453b5103-a147-4ab3-a96c-7daa6264db65/zh_CN/translation.md) · [同主题下一篇：新卖家 30 分钟开店概览](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md)

@@ -18,4 +18,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：为广告活动添加否定关键词（英文）](../../../courses/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/en_US/transcript.md) · [同主题下一篇：修改品牌推广广告预算](../../../courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/zh_CN/transcript.md)
+[同主题上一篇：为广告活动添加否定关键词（中文译文）](../../../translations/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/zh_CN/translation.md) · [同主题下一篇：修改品牌推广广告预算](../../../courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/zh_CN/transcript.md)

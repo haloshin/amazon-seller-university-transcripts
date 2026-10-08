@@ -60,4 +60,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：FBA 的优势与费用](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN/transcript.md) · [同主题下一篇：FBA 装箱清单（英文）](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md)
+[同主题上一篇：FBA 的优势与费用](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN/transcript.md) · [同主题下一篇：FBA 装箱清单（中文译文）](../../../translations/e1a48703-02ff-4e3d-b0c6-72410f498439/zh_CN/translation.md)

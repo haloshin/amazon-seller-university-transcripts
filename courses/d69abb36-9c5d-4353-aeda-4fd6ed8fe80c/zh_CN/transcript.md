@@ -42,4 +42,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：开始销售订阅盒（英文）](../../../courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/transcript.md) · [同主题下一篇：鞋类与服装商品详情页建议](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/zh_CN/transcript.md)
+[同主题上一篇：开始销售订阅盒（中文译文）](../../../translations/fb515856-b468-4ba4-b3b4-5fe20065c08c/zh_CN/translation.md) · [同主题下一篇：鞋类与服装商品详情页建议](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/zh_CN/transcript.md)

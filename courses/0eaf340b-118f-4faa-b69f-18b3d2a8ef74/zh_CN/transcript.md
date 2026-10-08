@@ -50,4 +50,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：商品促销入门](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/transcript.md) · [同主题下一篇：亚马逊广告活动管理器预算规则入门（英文）](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md)
+[同主题上一篇：商品促销入门](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/transcript.md) · [同主题下一篇：亚马逊广告活动管理器预算规则入门（中文译文）](../../../translations/2f75c115-2990-482d-b00c-219a06893243/zh_CN/translation.md)

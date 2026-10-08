@@ -58,4 +58,4 @@ Send to Amazon 工作流程包括多个步骤,用于将商品发送至亚马逊,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：将库存发送至 AWD（英文）](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md) · [同主题下一篇：Send to Amazon 第 1b 步：包装单件商品](../../../courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/zh_CN/transcript.md)
+[同主题上一篇：将库存发送至 AWD（中文译文）](../../../translations/b48df0ed-b989-4b5e-8fbb-c683221c2329/zh_CN/translation.md) · [同主题下一篇：Send to Amazon 第 1b 步：包装单件商品](../../../courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/zh_CN/transcript.md)

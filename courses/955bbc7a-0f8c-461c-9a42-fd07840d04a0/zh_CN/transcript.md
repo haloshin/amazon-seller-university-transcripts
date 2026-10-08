@@ -61,4 +61,4 @@ Maria不确定要购买哪一款酒杯,她反复查看AnyCompany的无柄酒杯�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：识别销售下滑趋势（英文）](../../../courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md) · [同主题下一篇：品牌分析入门](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/zh_CN/transcript.md)
+[同主题上一篇：识别销售下滑趋势（中文译文）](../../../translations/f180dc0e-5b4c-4244-b759-34e657ec6a9d/zh_CN/translation.md) · [同主题下一篇：品牌分析入门](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/zh_CN/transcript.md)

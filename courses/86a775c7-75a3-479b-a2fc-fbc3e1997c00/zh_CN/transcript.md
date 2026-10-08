@@ -91,4 +91,4 @@ A+页面是打造愉快购物体验的独特方式
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（英文）](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md) · [同主题下一篇：广告控制台的商品页面（英文）](../../../courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md)
+[同主题上一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（中文译文）](../../../translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.md) · [同主题下一篇：广告控制台的商品页面（中文译文）](../../../translations/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/zh_CN/translation.md)

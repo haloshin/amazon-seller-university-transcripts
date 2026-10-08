@@ -39,4 +39,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：迟发率（LSR）概览](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/zh_CN/transcript.md) · [同主题下一篇：本地销售：通过卖家平台完成配送（英文）](../../../courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md)
+[同主题上一篇：迟发率（LSR）概览](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/zh_CN/transcript.md) · [同主题下一篇：本地销售：通过卖家平台完成配送（中文译文）](../../../translations/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/zh_CN/translation.md)

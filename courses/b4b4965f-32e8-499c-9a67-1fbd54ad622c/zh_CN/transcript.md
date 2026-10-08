@@ -47,4 +47,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：通过费用折扣提升亚马逊 B2B 销售（英文）](../../../courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/transcript.md) · [同主题下一篇：商机探测器最佳实践](../../../courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md)
+[同主题上一篇：通过费用折扣提升亚马逊 B2B 销售（中文译文）](../../../translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.md) · [同主题下一篇：商机探测器最佳实践](../../../courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md)

@@ -74,4 +74,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：Kangaroo Hangers 使用 FBA 降低运营成本的案例（英文）](../../../courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md) · [同主题下一篇：亚马逊购买配送入门](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/transcript.md)
+[同主题上一篇：Kangaroo Hangers 使用 FBA 降低运营成本的案例（中文译文）](../../../translations/c565e074-7605-493c-ba93-119058ccca69/zh_CN/translation.md) · [同主题下一篇：亚马逊购买配送入门](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/transcript.md)

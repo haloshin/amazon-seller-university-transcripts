@@ -21,4 +21,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：在关键词定向中使用广泛匹配的时机](../../../courses/c2fca831-79dc-4abe-a058-acee304a05d0/zh_CN/transcript.md) · [同主题下一篇：卖家投放亚马逊广告的原因（英文）](../../../courses/604ec123-3bb9-4808-a56c-38270532352a/en_US/transcript.md)
+[同主题上一篇：在关键词定向中使用广泛匹配的时机](../../../courses/c2fca831-79dc-4abe-a058-acee304a05d0/zh_CN/transcript.md) · [同主题下一篇：卖家投放亚马逊广告的原因（中文译文）](../../../translations/604ec123-3bb9-4808-a56c-38270532352a/zh_CN/translation.md)

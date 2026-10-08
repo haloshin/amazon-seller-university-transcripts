@@ -24,4 +24,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：兑换亚马逊广告促销优惠](../../../courses/d7baf097-5cff-4173-82db-e2b9dc08b097/zh_CN/transcript.md) · [同主题下一篇：将商品推广活动设为无结束日期（英文）](../../../courses/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/en_US/transcript.md)
+[同主题上一篇：兑换亚马逊广告促销优惠](../../../courses/d7baf097-5cff-4173-82db-e2b9dc08b097/zh_CN/transcript.md) · [同主题下一篇：将商品推广活动设为无结束日期（中文译文）](../../../translations/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/zh_CN/translation.md)

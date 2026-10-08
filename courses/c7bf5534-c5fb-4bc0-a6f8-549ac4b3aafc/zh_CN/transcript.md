@@ -212,4 +212,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：掌握商品信息 AI 工具：快速优化指南（英文）](../../../courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/transcript.md) · [同主题下一篇：品牌所有者的商品信息优化](../../../courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/zh_CN/transcript.md)
+[同主题上一篇：掌握商品信息 AI 工具：快速优化指南（中文译文）](../../../translations/6253ba22-f037-419d-95e5-8d6b921e885f/zh_CN/translation.md) · [同主题下一篇：品牌所有者的商品信息优化](../../../courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/zh_CN/transcript.md)

@@ -72,4 +72,4 @@ ShipStation,ScanPower Boxt和Shippo,只是销售合作伙伴应用商店中提�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：设置订单处理能力](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md) · [同主题下一篇：跟踪 AWD 货件（英文）](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md)
+[同主题上一篇：设置订单处理能力](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md) · [同主题下一篇：跟踪 AWD 货件（中文译文）](../../../translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.md)

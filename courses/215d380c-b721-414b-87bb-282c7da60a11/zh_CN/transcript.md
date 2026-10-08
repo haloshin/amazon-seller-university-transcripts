@@ -36,4 +36,4 @@ Accent Athletics还可以考虑开展展示型推广活动,来帮助提升销量
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题下一篇：AI 创意工具的提示词最佳实践（英文）](../../../courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md)
+[同主题下一篇：AI 创意工具的提示词最佳实践（中文译文）](../../../translations/2720bd0f-516c-459d-aa16-a3d04a759a10/zh_CN/translation.md)

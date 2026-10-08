@@ -5,6 +5,7 @@ import json
 from pathlib import Path
 from build_navigation import ROOT, TOPICS, STARTER_IDS
 from reading_paragraphs import reading_paragraphs
+from translations import load_translation
 
 
 def reader_data():
@@ -19,12 +20,25 @@ def reader_data():
             text = (directory / 'transcript.txt').read_text(encoding='utf-8')
             item['variants'].append({
                 'locale': variant['locale'],
+                'kind': 'transcript',
                 'text': text,
                 'paragraphs': reading_paragraphs(course['moduleId'], variant['locale'], text, course['title']),
                 'path': directory.relative_to(ROOT).as_posix(),
                 'notes': (ROOT / variant['notes']).read_text(encoding='utf-8') if variant.get('notes') else '',
                 'duration': metadata['sourceVideoDurationSeconds'],
                 'source': metadata['officialLearningEntry'],
+            })
+        for translation in course.get('translations', []):
+            translated = load_translation(course, translation)
+            source = next(v for v in item['variants'] if v['locale'] == translated['sourceLocale'])
+            text = (ROOT / translation['text']).read_text()
+            item['variants'].insert(0, {
+                'locale': 'zh_CN_translation', 'kind': 'translation',
+                'title': translated['title'], 'sourceLocale': translated['sourceLocale'],
+                'text': text,
+                'paragraphs': reading_paragraphs(course['moduleId'], 'zh_CN', text, translated['title']),
+                'path': str(Path(translation['text']).parent),
+                'notes': source['notes'], 'duration': source['duration'], 'source': source['source'],
             })
         courses.append(item)
     return {'release': json.loads((ROOT / 'release.json').read_text()),

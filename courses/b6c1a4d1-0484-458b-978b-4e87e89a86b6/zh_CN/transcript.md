@@ -71,4 +71,4 @@ Reactivate your account按钮。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：处理防伪政策违规](../../../courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/zh_CN/transcript.md) · [同主题下一篇：防范网络钓鱼（英文）](../../../courses/155f35ac-295f-46a0-bc01-2423a9d62936/en_US/transcript.md)
+[同主题上一篇：处理防伪政策违规](../../../courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/zh_CN/transcript.md) · [同主题下一篇：防范网络钓鱼（中文译文）](../../../translations/155f35ac-295f-46a0-bc01-2423a9d62936/zh_CN/translation.md)

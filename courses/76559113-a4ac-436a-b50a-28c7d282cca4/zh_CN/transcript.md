@@ -46,4 +46,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
-[同主题上一篇：商机探测器最佳实践](../../../courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md) · [同主题下一篇：可持续发展解决方案中心介绍（英文）](../../../courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/transcript.md)
+[同主题上一篇：商机探测器最佳实践](../../../courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md) · [同主题下一篇：可持续发展解决方案中心介绍（中文译文）](../../../translations/6199b321-db36-420b-8bd0-e847133387d0/zh_CN/translation.md)

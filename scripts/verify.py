@@ -14,6 +14,7 @@ from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
 from build_navigation import TOPICS, generated_pages, topic_link
+from translations import validate_translations
 
 ROOT = Path(__file__).resolve().parents[1]
 COURSE_FILES = {
@@ -180,6 +181,7 @@ def verify(refresh=False):
     require(dict(locales) == release["locales"], "Language counts mismatch")
     require(note_assets == release["editorialNotesAssets"], "Editorial note count mismatch")
     require(unresolved_assets == release["unresolvedAssets"], "Unresolved asset count mismatch")
+    translations = validate_translations(catalog, release)
     for name, content in generated_pages(catalog).items():
         require((ROOT / name).is_file() and (ROOT / name).read_text(encoding="utf-8") == content,
                 f"Navigation mismatch: {name}; run scripts/build_navigation.py after reviewed edits")
@@ -201,7 +203,7 @@ def verify(refresh=False):
     if refresh:
         write_json(ROOT / "manifest.json", manifest)
     require(read_json(ROOT / "manifest.json") == manifest, "Manifest mismatch; inspect edits, then run --refresh")
-    return {"result": "PASS", "courses": len(catalog), "topics": dict(counts), "transcripts": len(seen_assets), "locales": dict(locales), "unresolvedAssets": unresolved_assets, "files": len(paths) + 1, "scope": "local navigation, links, text consistency and file integrity"}
+    return {"result": "PASS", "courses": len(catalog), "topics": dict(counts), "transcripts": len(seen_assets), "translations": translations, "locales": dict(locales), "unresolvedAssets": unresolved_assets, "files": len(paths) + 1, "scope": "local navigation, links, text consistency and file integrity"}
 
 
 if __name__ == "__main__":
@@ -210,5 +212,5 @@ if __name__ == "__main__":
     args = parser.parse_args()
     try:
         print(json.dumps(verify(args.refresh), ensure_ascii=False))
-    except (ValueError, KeyError, OSError) as error:
+    except (AssertionError, ValueError, KeyError, OSError) as error:
         parser.exit(1, f"FAIL: {error}\n")

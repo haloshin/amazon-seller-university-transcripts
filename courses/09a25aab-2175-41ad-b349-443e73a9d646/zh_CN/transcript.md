@@ -48,4 +48,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：避免无差别折扣：精准定位促销买家（英文）](../../../courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/transcript.md) · [同主题下一篇：创建优惠券](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/zh_CN/transcript.md)
+[同主题上一篇：避免无差别折扣：精准定位促销买家（中文译文）](../../../translations/11a3fd91-5de9-4779-b780-60102e2f2c30/zh_CN/translation.md) · [同主题下一篇：创建优惠券](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/zh_CN/transcript.md)

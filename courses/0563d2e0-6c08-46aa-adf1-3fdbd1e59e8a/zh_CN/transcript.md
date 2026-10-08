@@ -40,4 +40,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：推荐报价资格与策略](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/transcript.md) · [同主题下一篇：使用 Amazon AI Studio 生成商品图片（英文）](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md)
+[同主题上一篇：推荐报价资格与策略](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/transcript.md) · [同主题下一篇：使用 Amazon AI Studio 生成商品图片（中文译文）](../../../translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.md)

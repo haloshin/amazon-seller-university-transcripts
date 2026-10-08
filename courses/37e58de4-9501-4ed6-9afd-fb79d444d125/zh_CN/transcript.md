@@ -14,4 +14,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用关键词匹配类型（英文）](../../../courses/0f15b9e5-5669-4df6-b88c-15b9bdf991db/en_US/transcript.md) · [同主题下一篇：使用品牌推广视频广告形式](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/transcript.md)
+[同主题上一篇：使用关键词匹配类型（中文译文）](../../../translations/0f15b9e5-5669-4df6-b88c-15b9bdf991db/zh_CN/translation.md) · [同主题下一篇：使用品牌推广视频广告形式](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/transcript.md)

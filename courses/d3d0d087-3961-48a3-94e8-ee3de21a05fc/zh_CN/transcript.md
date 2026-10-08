@@ -23,4 +23,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：北美联合账户](../../../courses/46211203-fc45-483b-9166-d746869925e7/zh_CN/transcript.md) · [同主题下一篇：在日本站销售（英文）](../../../courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md)
+[同主题上一篇：北美联合账户](../../../courses/46211203-fc45-483b-9166-d746869925e7/zh_CN/transcript.md) · [同主题下一篇：在日本站销售（中文译文）](../../../translations/a1080e38-8886-410a-aa3d-42654019dcb2/zh_CN/translation.md)

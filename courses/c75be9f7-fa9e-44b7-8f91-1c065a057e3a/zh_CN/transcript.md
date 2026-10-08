@@ -30,4 +30,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：防伪政策合规入门](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/zh_CN/transcript.md) · [同主题下一篇：亚马逊通用商品政策入门（英文）](../../../courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md)
+[同主题上一篇：防伪政策合规入门](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/zh_CN/transcript.md) · [同主题下一篇：亚马逊通用商品政策入门（中文译文）](../../../translations/a3d3e133-028a-408c-b85a-84031b302681/zh_CN/translation.md)

@@ -27,4 +27,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：DTocs 通过全球开店拓展加拿大市场的案例（英文）](../../../courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/transcript.md) · [同主题下一篇：全球业务扩展：跨境物流指南（英文）](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md)
+[同主题上一篇：DTocs 通过全球开店拓展加拿大市场的案例（中文译文）](../../../translations/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/zh_CN/translation.md) · [同主题下一篇：全球业务扩展：跨境物流指南（中文译文）](../../../translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.md)

@@ -20,4 +20,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：通用商品政策：解决错误代码 5885（英文）](../../../courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md) · [同主题下一篇：利用买家反馈改进商品信息](../../../courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/zh_CN/transcript.md)
+[同主题上一篇：通用商品政策：解决错误代码 5885（中文译文）](../../../translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.md) · [同主题下一篇：利用买家反馈改进商品信息](../../../courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/zh_CN/transcript.md)

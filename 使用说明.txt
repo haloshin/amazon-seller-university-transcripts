@@ -36,6 +36,11 @@ See LICENSE and NOTICE.md for the full scope.
 4. captions.vtt 保留配套字幕，需支持外部字幕的播放器配合原视频使用。
 5. 原视频请到 Amazon 官方学习入口观看；本包不含视频。
 
+中文阅读：270 门课程全部可中文阅读；185 门来自中文音轨，另 85 门提供中文译文。
+中文译文依据英文稿，经 AI 辅助翻译与校对，参照已有中文音轨统一术语，非官方中文音轨。
+translations/ 下的 translation.md 和 translation.txt 可单独阅读，译文纳入 HTML 搜索及离线包。
+译文不附中文 VTT；原英文稿和对应 VTT 保留。旧政策、费用和案例按原课表述保留。
+
 后续预告：卖家大学 Skill、课程题库目前均为规划方向，尚未发布。
 Star 用于收藏项目；可在 GitHub 的 Watch 中选择 Releases，关注版本发布。
 具体内容以后续公告为准。

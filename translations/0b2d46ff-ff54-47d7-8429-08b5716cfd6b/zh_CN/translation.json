@@ -1,0 +1,18 @@
+{
+  "moduleId": "0b2d46ff-ff54-47d7-8429-08b5716cfd6b",
+  "kind": "translation",
+  "locale": "zh_CN",
+  "sourceLocale": "en_US",
+  "title": "如何为您的广告活动添加否定关键词",
+  "sourcePath": "courses/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/en_US/transcript.txt",
+  "sourceSha256": "a199f248da4811bd9b9d56200bf84ddaca8c8f161d177d8e4eb39a6ef7ebe43b",
+  "method": "AI-assisted translation and bilingual review; terminology aligned with existing Chinese audio transcripts",
+  "sourceParagraphCount": 3,
+  "paragraphs": [
+    "我们来了解如何为已经在运行的广告活动添加否定关键词。假设您正在为一款高端商品投放广告，并且不希望您的广告在顾客使用“便宜”之类的查询词时展示，因为这些查询词与顾客并不相关。找到您的广告活动或广告组。在左侧菜单中，您会找到否定投放（Negative targeting）选项。",
+    "在这里，点击添加否定关键词（Add negative keywords）按钮。输入您的否定关键词，设置匹配类型，添加这些关键词，然后点击保存（Save）。",
+    "现在，当买家的搜索词与您的否定关键词匹配时，您的广告就不会展示。"
+  ],
+  "editionDate": "2026-10-08",
+  "releaseVersion": "0.7.0"
+}

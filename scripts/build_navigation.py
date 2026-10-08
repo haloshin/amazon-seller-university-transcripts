@@ -40,8 +40,16 @@ def variant(course, locale):
 
 
 def language_links(course):
-    return [f'[{label}]({v["transcript"]})' if (v := variant(course, locale)) else "—"
-            for locale, label in [("zh_CN", "中文"), ("en_US", "English")]]
+    links = []
+    for locale, label in [("zh_CN", "中文音轨"), ("en_US", "English")]:
+        v = variant(course, locale)
+        if v:
+            links.append(f'[{label}]({v["transcript"]})')
+        elif locale == 'zh_CN' and course.get('translations'):
+            links.append(f'[中文译文]({course["translations"][0]["transcript"]})')
+        else:
+            links.append('—')
+    return links
 
 
 def label(course, english, duplicates):
@@ -85,11 +93,11 @@ def render_guide(catalog, english=False):
     duplicates = {t for t, n in Counter(c["title"] for c in catalog).items() if n > 1}
     by_id = {c["moduleId"]: c for c in catalog}
     lines = (["# Learning guide", "", "Browse all 270 courses by topic, or start with the five courses below.", "",
-              "Topic groups and the suggested sequence are editorial navigation, not an official Amazon syllabus. Original course titles and transcripts are retained. Chinese navigation names in the Chinese guide are editorial translations; they do not mean a Chinese-audio transcript is available.", "",
+              "Topic groups and the suggested sequence are editorial navigation, not an official Amazon syllabus. Original course titles and transcripts are retained. All 270 courses can be read in Chinese: 185 Chinese-audio transcripts and 85 separately labeled Chinese translations from English. Translations are AI-assisted and are not official Chinese audio transcripts.", "",
               "[Home](README.en.md) · [All courses by original title](课程目录.md) · [中文导航](学习导航.md)", "", "## Start here", "",
               "| Order | Course | 中文 | English |", "| --- | --- | --- | --- |"] if english else
              ["# 学习导航", "", "270 门课程，按 8 个主题查找。第一次来，可以先读下面 5 门课。", "",
-              "主题分类和推荐顺序是本项目的阅读建议。中文导航名为编辑译名，官方原标题与转写正文保留；有中文导航名，不代表有中文音轨稿。中文栏为“—”的课程可阅读英文。", "",
+              "主题分类和推荐顺序是本项目的阅读建议。中文导航名为编辑译名，官方原标题与转写正文保留。270 门均可中文阅读：185 门为中文音轨稿，另 85 门为依据英文稿的 AI 辅助中文译文，分别标明来源。", "",
               "[返回首页](README.md) · [按官方原标题查看全部课程](课程目录.md) · [English guide](LEARNING_GUIDE.md)", "", "## 第一次来，从这里读", "",
               "| 顺序 | 课程 | 中文 | English |", "| --- | --- | --- | --- |"])
     for i, module in enumerate(STARTER_IDS, 1):
@@ -100,12 +108,12 @@ def render_guide(catalog, english=False):
     lines += ["", (f"The FBA course introduces Amazon fulfillment. For seller fulfillment, see [Intro to FBM]({fbm_path}). Choose other topics according to your needs." if english else
                     f"FBA 课程介绍亚马逊配送方式；自行配送订单可接着读[卖家自配送（FBM）入门]({fbm_path})。其他内容按自己的需要选择主题。"), "",
               "## Browse by topic" if english else "## 按主题找课", "",
-              "| Topic | Courses | Chinese audio available |" if english else "| 主题 | 课程数 | 其中有中文稿 |",
-              "| --- | ---: | ---: |"]
+              "| Topic | Courses | Chinese audio | Chinese translations |" if english else "| 主题 | 课程数 | 中文音轨 | 中文译文 |",
+              "| --- | ---: | ---: | ---: |"]
     for topic, names in TOPICS.items():
         group = [c for c in catalog if c["navigationTopic"] == topic]
         zh_count = sum(variant(c, "zh_CN") is not None for c in group)
-        lines.append(f"| [{names[int(english)]}]({topic_link(topic, english)}) | {len(group)} | {zh_count} |")
+        lines.append(f"| [{names[int(english)]}]({topic_link(topic, english)}) | {len(group)} | {zh_count} | {sum(bool(c.get('translations')) for c in group)} |")
     lines += ["", ("Each course appears in one primary topic. Courses sharing an original title show a short course ID to distinguish them; it is not a version number." if english else
                     "每门课按主要内容归入一个主题。同名课程附短课程编号用于区分，不表示版本先后。"), ""]
     for topic, names in TOPICS.items():
@@ -135,6 +143,8 @@ def render_course(course, current, catalog):
            f'[{"All courses" if english else "全部课程"}]({prefix}课程目录.md)']
     if other:
         nav.append(f'[{"中文" if english else "English"}](../{other_locale}/transcript.md)')
+    elif english and course.get('translations'):
+        nav.append(f'[中文译文]({prefix}{course["translations"][0]["transcript"]})')
     text = (ROOT / current["transcript"]).with_suffix(".txt").read_text(encoding="utf-8").strip()
     header = "# " + course["title"]
     body = text if text.startswith(header + "\n") else header + "\n\n" + text
@@ -156,18 +166,25 @@ def render_course(course, current, catalog):
             v = variant(c, current["locale"]) or variant(c, "en_US")
             title = c["title"] if english else c["navigationTitleZh"]
             if not english and v["locale"] != "zh_CN":
-                title += "（英文）"
+                if c.get('translations'):
+                    v = c['translations'][0]
+                    title += "（中文译文）"
+                else:
+                    title += "（英文）"
             adjacent.append(f'[{en if english else zh}：{title}]({prefix}{v["transcript"]})')
     lines += [" · ".join(adjacent), ""]
     return "\n".join(lines)
 
 
 def generated_pages(catalog):
+    from translations import load_translation, render_translation
     validate_catalog(catalog)
     pages = {"学习导航.md": render_guide(catalog), "LEARNING_GUIDE.md": render_guide(catalog, True)}
     for course in catalog:
         for current in course["variants"]:
             pages[current["transcript"]] = render_course(course, current, catalog)
+        for entry in course.get('translations', []):
+            pages[entry['transcript']] = render_translation(course, entry, load_translation(course, entry))
     return pages
 
 

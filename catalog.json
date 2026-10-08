@@ -12,7 +12,17 @@
       }
     ],
     "navigationTitleZh": "新卖家需要了解的三个要点",
-    "navigationTopic": "start"
+    "navigationTopic": "start",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/zh_CN/translation.md",
+        "text": "translations/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/zh_CN/translation.txt",
+        "metadata": "translations/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c",
@@ -27,7 +37,17 @@
       }
     ],
     "navigationTitleZh": "申请销售受限商品、品类或品牌",
-    "navigationTopic": "compliance"
+    "navigationTopic": "compliance",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/zh_CN/translation.md",
+        "text": "translations/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/zh_CN/translation.txt",
+        "metadata": "translations/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "2526203a-97da-4c0a-a0bb-26238ec18af9",
@@ -42,7 +62,17 @@
       }
     ],
     "navigationTitleZh": "预防或解决商品详情页政策违规",
-    "navigationTopic": "compliance"
+    "navigationTopic": "compliance",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2526203a-97da-4c0a-a0bb-26238ec18af9/zh_CN/translation.md",
+        "text": "translations/2526203a-97da-4c0a-a0bb-26238ec18af9/zh_CN/translation.txt",
+        "metadata": "translations/2526203a-97da-4c0a-a0bb-26238ec18af9/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "e831668e-b539-4d76-8691-5a5d44e60cc4",
@@ -57,7 +87,17 @@
       }
     ],
     "navigationTitleZh": "预防或解决商品发布政策违规",
-    "navigationTopic": "compliance"
+    "navigationTopic": "compliance",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/e831668e-b539-4d76-8691-5a5d44e60cc4/zh_CN/translation.md",
+        "text": "translations/e831668e-b539-4d76-8691-5a5d44e60cc4/zh_CN/translation.txt",
+        "metadata": "translations/e831668e-b539-4d76-8691-5a5d44e60cc4/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "f5890fd5-5dbe-48a3-a20d-65e48fbc949f",
@@ -138,7 +178,17 @@
       }
     ],
     "navigationTitleZh": "添加协议价格",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2513f967-cfdc-40ad-8747-341bd9dbefec/zh_CN/translation.md",
+        "text": "translations/2513f967-cfdc-40ad-8747-341bd9dbefec/zh_CN/translation.txt",
+        "metadata": "translations/2513f967-cfdc-40ad-8747-341bd9dbefec/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "8b11c55d-c853-4773-be8d-acd872ca08c1",
@@ -243,7 +293,17 @@
       }
     ],
     "navigationTitleZh": "AI 创意工具的提示词最佳实践",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2720bd0f-516c-459d-aa16-a3d04a759a10/zh_CN/translation.md",
+        "text": "translations/2720bd0f-516c-459d-aa16-a3d04a759a10/zh_CN/translation.txt",
+        "metadata": "translations/2720bd0f-516c-459d-aa16-a3d04a759a10/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "7c3e3a18-7515-47f2-bc42-54af1aa8ac04",
@@ -280,7 +340,17 @@
       }
     ],
     "navigationTitleZh": "全球开店第 1 步：决定销售地区和商品",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/17c191ba-5930-45ee-aff5-76d3965a8d11/zh_CN/translation.md",
+        "text": "translations/17c191ba-5930-45ee-aff5-76d3965a8d11/zh_CN/translation.txt",
+        "metadata": "translations/17c191ba-5930-45ee-aff5-76d3965a8d11/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "a9fc601e-4ce6-4a82-b2a0-13406c1e14cc",
@@ -295,7 +365,17 @@
       }
     ],
     "navigationTitleZh": "全球开店第 2 步：注册并发布商品",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/zh_CN/translation.md",
+        "text": "translations/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/zh_CN/translation.txt",
+        "metadata": "translations/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "44ee9dac-ba0e-423e-a330-d7b4e92fc83c",
@@ -310,7 +390,17 @@
       }
     ],
     "navigationTitleZh": "全球开店第 3 步：发货与配送",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/zh_CN/translation.md",
+        "text": "translations/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/zh_CN/translation.txt",
+        "metadata": "translations/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "b2793d1b-4fd8-40a0-925f-160e71b76136",
@@ -325,7 +415,17 @@
       }
     ],
     "navigationTitleZh": "全球开店第 4 步：管理业务",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/b2793d1b-4fd8-40a0-925f-160e71b76136/zh_CN/translation.md",
+        "text": "translations/b2793d1b-4fd8-40a0-925f-160e71b76136/zh_CN/translation.txt",
+        "metadata": "translations/b2793d1b-4fd8-40a0-925f-160e71b76136/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "3181cd9b-1483-4039-94e4-25436be0ef54",
@@ -340,7 +440,17 @@
       }
     ],
     "navigationTitleZh": "Amazon Handmade 商品图片",
-    "navigationTopic": "listings"
+    "navigationTopic": "listings",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/3181cd9b-1483-4039-94e4-25436be0ef54/zh_CN/translation.md",
+        "text": "translations/3181cd9b-1483-4039-94e4-25436be0ef54/zh_CN/translation.txt",
+        "metadata": "translations/3181cd9b-1483-4039-94e4-25436be0ef54/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "7bfe5496-318f-4e42-8fee-a0f1c8394caf",
@@ -355,7 +465,17 @@
       }
     ],
     "navigationTitleZh": "Amazon Handmade 制作时间与配送承诺",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/7bfe5496-318f-4e42-8fee-a0f1c8394caf/zh_CN/translation.md",
+        "text": "translations/7bfe5496-318f-4e42-8fee-a0f1c8394caf/zh_CN/translation.txt",
+        "metadata": "translations/7bfe5496-318f-4e42-8fee-a0f1c8394caf/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "7e919233-e34f-44f5-83fe-82db49d61d66",
@@ -370,7 +490,17 @@
       }
     ],
     "navigationTitleZh": "欢迎加入 Amazon Handmade",
-    "navigationTopic": "start"
+    "navigationTopic": "start",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/7e919233-e34f-44f5-83fe-82db49d61d66/zh_CN/translation.md",
+        "text": "translations/7e919233-e34f-44f5-83fe-82db49d61d66/zh_CN/translation.txt",
+        "metadata": "translations/7e919233-e34f-44f5-83fe-82db49d61d66/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "f9ca9049-6531-4f13-a693-273354d5a37f",
@@ -385,7 +515,17 @@
       }
     ],
     "navigationTitleZh": "Revolution Nutrition 的商品信息优化实践",
-    "navigationTopic": "listings"
+    "navigationTopic": "listings",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/f9ca9049-6531-4f13-a693-273354d5a37f/zh_CN/translation.md",
+        "text": "translations/f9ca9049-6531-4f13-a693-273354d5a37f/zh_CN/translation.txt",
+        "metadata": "translations/f9ca9049-6531-4f13-a693-273354d5a37f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "0963db14-0fbb-42f3-b8b4-b36bc5ceca5a",
@@ -400,7 +540,17 @@
       }
     ],
     "navigationTitleZh": "亚马逊免税计划",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/zh_CN/translation.md",
+        "text": "translations/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/zh_CN/translation.txt",
+        "metadata": "translations/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "e2f4e544-4e74-4bc0-8d2c-c02179b8d522",
@@ -460,7 +610,17 @@
       }
     ],
     "navigationTitleZh": "用于 B2B 商机的应用与 API",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/85f5bf24-105e-4675-abce-a689741f123a/zh_CN/translation.md",
+        "text": "translations/85f5bf24-105e-4675-abce-a689741f123a/zh_CN/translation.txt",
+        "metadata": "translations/85f5bf24-105e-4675-abce-a689741f123a/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e",
@@ -541,7 +701,17 @@
       }
     ],
     "navigationTitleZh": "避免无差别折扣：精准定位促销买家",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/11a3fd91-5de9-4779-b780-60102e2f2c30/zh_CN/translation.md",
+        "text": "translations/11a3fd91-5de9-4779-b780-60102e2f2c30/zh_CN/translation.txt",
+        "metadata": "translations/11a3fd91-5de9-4779-b780-60102e2f2c30/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "dc85c723-d2ab-4791-b3f6-c41c931cc586",
@@ -578,7 +748,17 @@
       }
     ],
     "navigationTitleZh": "B2B Central 概览",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/zh_CN/translation.md",
+        "text": "translations/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/zh_CN/translation.txt",
+        "metadata": "translations/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "a248d5e1-d0eb-459c-a8d3-215b20c70499",
@@ -703,7 +883,17 @@
       }
     ],
     "navigationTitleZh": "使用 Project Zero 阻止假冒商品",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/c64157c2-1aa1-4a23-85ce-007980b079e0/zh_CN/translation.md",
+        "text": "translations/c64157c2-1aa1-4a23-85ce-007980b079e0/zh_CN/translation.txt",
+        "metadata": "translations/c64157c2-1aa1-4a23-85ce-007980b079e0/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "14553ca4-057c-4ea0-8a7f-1962695ba18f",
@@ -718,7 +908,17 @@
       }
     ],
     "navigationTitleZh": "通过商品组合提升主力 ASIN 销量",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/14553ca4-057c-4ea0-8a7f-1962695ba18f/zh_CN/translation.md",
+        "text": "translations/14553ca4-057c-4ea0-8a7f-1962695ba18f/zh_CN/translation.txt",
+        "metadata": "translations/14553ca4-057c-4ea0-8a7f-1962695ba18f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "8628d447-78f5-4fa2-b438-b240dc816a64",
@@ -868,7 +1068,17 @@
       }
     ],
     "navigationTitleZh": "全球销售合作伙伴品牌指南与品牌转移步骤",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/cd9b383b-e1d2-49be-a0d3-e5619543e97b/zh_CN/translation.md",
+        "text": "translations/cd9b383b-e1d2-49be-a0d3-e5619543e97b/zh_CN/translation.txt",
+        "metadata": "translations/cd9b383b-e1d2-49be-a0d3-e5619543e97b/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "09a25aab-2175-41ad-b349-443e73a9d646",
@@ -905,7 +1115,17 @@
       }
     ],
     "navigationTitleZh": "选择卖家费用节省计划",
-    "navigationTopic": "start"
+    "navigationTopic": "start",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/zh_CN/translation.md",
+        "text": "translations/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/zh_CN/translation.txt",
+        "metadata": "translations/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "1cfccc07-e3c4-4bec-a368-fc0efddbd2ed",
@@ -964,7 +1184,17 @@
       }
     ],
     "navigationTitleZh": "配置退货设置",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/646406cf-7b11-45ec-896e-90bf3578c8c3/zh_CN/translation.md",
+        "text": "translations/646406cf-7b11-45ec-896e-90bf3578c8c3/zh_CN/translation.txt",
+        "metadata": "translations/646406cf-7b11-45ec-896e-90bf3578c8c3/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "09e14bee-0ab7-4674-9265-562271f8e59d",
@@ -979,7 +1209,17 @@
       }
     ],
     "navigationTitleZh": "使用亚马逊商标工具应对仿冒商品",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/09e14bee-0ab7-4674-9265-562271f8e59d/zh_CN/translation.md",
+        "text": "translations/09e14bee-0ab7-4674-9265-562271f8e59d/zh_CN/translation.txt",
+        "metadata": "translations/09e14bee-0ab7-4674-9265-562271f8e59d/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "15bd3f34-2946-412f-93dc-b34840ed885f",
@@ -994,7 +1234,17 @@
       }
     ],
     "navigationTitleZh": "CREASEBEAST 分享全球业务扩展的五个步骤",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/15bd3f34-2946-412f-93dc-b34840ed885f/zh_CN/translation.md",
+        "text": "translations/15bd3f34-2946-412f-93dc-b34840ed885f/zh_CN/translation.txt",
+        "metadata": "translations/15bd3f34-2946-412f-93dc-b34840ed885f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "cec68316-200d-40a4-ba00-01b3bfea9f08",
@@ -1053,7 +1303,17 @@
       }
     ],
     "navigationTitleZh": "使用 Video Generator 创建广告视频",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/aaf32411-71c9-438d-959b-30ee392a0319/zh_CN/translation.md",
+        "text": "translations/aaf32411-71c9-438d-959b-30ee392a0319/zh_CN/translation.txt",
+        "metadata": "translations/aaf32411-71c9-438d-959b-30ee392a0319/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "a7739325-a1a7-4818-be27-86715ca39727",
@@ -1090,7 +1350,17 @@
       }
     ],
     "navigationTitleZh": "创建仅限企业买家的报价",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/be468b05-3e0c-4d53-9c5d-48309d236c5a/zh_CN/translation.md",
+        "text": "translations/be468b05-3e0c-4d53-9c5d-48309d236c5a/zh_CN/translation.txt",
+        "metadata": "translations/be468b05-3e0c-4d53-9c5d-48309d236c5a/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "3498c716-6b42-436f-a44a-9f08c9f637cf",
@@ -1325,7 +1595,17 @@
       }
     ],
     "navigationTitleZh": "使用品牌推广为品牌旗舰店首页引流",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/69bf0781-44b0-42b7-8ed0-92e70f4873fa/zh_CN/translation.md",
+        "text": "translations/69bf0781-44b0-42b7-8ed0-92e70f4873fa/zh_CN/translation.txt",
+        "metadata": "translations/69bf0781-44b0-42b7-8ed0-92e70f4873fa/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "2337c4e9-860c-4e48-a12a-44f1cc961dca",
@@ -1428,7 +1708,17 @@
       }
     ],
     "navigationTitleZh": "将商品扩展至加拿大站和墨西哥站",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/d440d209-5fc4-4e61-b13d-d582afdd5019/zh_CN/translation.md",
+        "text": "translations/d440d209-5fc4-4e61-b13d-d582afdd5019/zh_CN/translation.txt",
+        "metadata": "translations/d440d209-5fc4-4e61-b13d-d582afdd5019/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "ff2db382-9bf6-48fb-8822-c3548a569339",
@@ -1554,7 +1844,17 @@
       }
     ],
     "navigationTitleZh": "FBA 装箱清单",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/e1a48703-02ff-4e3d-b0c6-72410f498439/zh_CN/translation.md",
+        "text": "translations/e1a48703-02ff-4e3d-b0c6-72410f498439/zh_CN/translation.txt",
+        "metadata": "translations/e1a48703-02ff-4e3d-b0c6-72410f498439/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "ace6f8ff-a674-41f1-a084-e39f03d9f1f0",
@@ -1591,7 +1891,17 @@
       }
     ],
     "navigationTitleZh": "选择适合在亚马逊投放广告的商品",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/d3f10113-63e7-4e14-bf38-1c1def628834/zh_CN/translation.md",
+        "text": "translations/d3f10113-63e7-4e14-bf38-1c1def628834/zh_CN/translation.txt",
+        "metadata": "translations/d3f10113-63e7-4e14-bf38-1c1def628834/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "e5b8971b-57ac-436f-8f98-5813db2a8c3d",
@@ -1650,7 +1960,17 @@
       }
     ],
     "navigationTitleZh": "DTocs 通过全球开店拓展加拿大市场的案例",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/zh_CN/translation.md",
+        "text": "translations/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/zh_CN/translation.txt",
+        "metadata": "translations/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "1c593692-76ae-49e6-aefd-2acd833f95fa",
@@ -1687,7 +2007,17 @@
       }
     ],
     "navigationTitleZh": "使用 Amazon AI Studio 生成商品图片",
-    "navigationTopic": "listings"
+    "navigationTopic": "listings",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.md",
+        "text": "translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.txt",
+        "metadata": "translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "1bad2006-82d9-41b5-aacd-549f35e751d4",
@@ -1746,7 +2076,17 @@
       }
     ],
     "navigationTitleZh": "通用商品政策：解决错误代码 5885",
-    "navigationTopic": "listings"
+    "navigationTopic": "listings",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.md",
+        "text": "translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.txt",
+        "metadata": "translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "2a483f34-bc0a-4996-852e-d80e9127ed19",
@@ -1849,7 +2189,17 @@
       }
     ],
     "navigationTitleZh": "开始使用品牌推广",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/476c18b1-9666-4f27-ad6b-b29156467146/zh_CN/translation.md",
+        "text": "translations/476c18b1-9666-4f27-ad6b-b29156467146/zh_CN/translation.txt",
+        "metadata": "translations/476c18b1-9666-4f27-ad6b-b29156467146/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "c9448d96-2300-4c06-852b-6283e0edf81c",
@@ -1864,7 +2214,17 @@
       }
     ],
     "navigationTitleZh": "全球业务扩展：跨境物流指南",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.md",
+        "text": "translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.txt",
+        "metadata": "translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "cbc8a41b-61ef-40ea-b07a-d22367625d07",
@@ -1923,7 +2283,17 @@
       }
     ],
     "navigationTitleZh": "亚马逊企业购买家指南",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/5cf5d1a0-1cb8-4826-864a-b75832d4b486/zh_CN/translation.md",
+        "text": "translations/5cf5d1a0-1cb8-4826-864a-b75832d4b486/zh_CN/translation.txt",
+        "metadata": "translations/5cf5d1a0-1cb8-4826-864a-b75832d4b486/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "98f10d9f-bf23-418f-b4bb-370a640aef33",
@@ -2004,7 +2374,17 @@
       }
     ],
     "navigationTitleZh": "Amazon Vine 评论如何提升新品曝光",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/zh_CN/translation.md",
+        "text": "translations/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/zh_CN/translation.txt",
+        "metadata": "translations/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "c565e074-7605-493c-ba93-119058ccca69",
@@ -2019,7 +2399,17 @@
       }
     ],
     "navigationTitleZh": "Kangaroo Hangers 使用 FBA 降低运营成本的案例",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/c565e074-7605-493c-ba93-119058ccca69/zh_CN/translation.md",
+        "text": "translations/c565e074-7605-493c-ba93-119058ccca69/zh_CN/translation.txt",
+        "metadata": "translations/c565e074-7605-493c-ba93-119058ccca69/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "f69b665b-cb6b-4205-a4f4-b016c77c8375",
@@ -2034,7 +2424,17 @@
       }
     ],
     "navigationTitleZh": "为品牌推广广告添加自定义图片",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/f69b665b-cb6b-4205-a4f4-b016c77c8375/zh_CN/translation.md",
+        "text": "translations/f69b665b-cb6b-4205-a4f4-b016c77c8375/zh_CN/translation.txt",
+        "metadata": "translations/f69b665b-cb6b-4205-a4f4-b016c77c8375/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "1c2896c9-4fc3-466a-84f2-49887f19f064",
@@ -2071,7 +2471,17 @@
       }
     ],
     "navigationTitleZh": "为广告活动添加否定关键词",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/zh_CN/translation.md",
+        "text": "translations/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/zh_CN/translation.txt",
+        "metadata": "translations/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "d891567f-ccc3-4cca-ba18-f0d5c1c582ed",
@@ -2130,7 +2540,17 @@
       }
     ],
     "navigationTitleZh": "修改商品推广广告预算",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.md",
+        "text": "translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.txt",
+        "metadata": "translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "54789ffd-acce-49b9-afb2-7873981bf0df",
@@ -2189,7 +2609,17 @@
       }
     ],
     "navigationTitleZh": "识别销售下滑趋势",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/f180dc0e-5b4c-4244-b759-34e657ec6a9d/zh_CN/translation.md",
+        "text": "translations/f180dc0e-5b4c-4244-b759-34e657ec6a9d/zh_CN/translation.txt",
+        "metadata": "translations/f180dc0e-5b4c-4244-b759-34e657ec6a9d/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "4c982766-929e-4a32-bc33-6614f7ddfc78",
@@ -2226,7 +2656,17 @@
       }
     ],
     "navigationTitleZh": "使用品牌推广为旗舰店引流",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/zh_CN/translation.md",
+        "text": "translations/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/zh_CN/translation.txt",
+        "metadata": "translations/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6",
@@ -2307,7 +2747,17 @@
       }
     ],
     "navigationTitleZh": "优化品牌推广：扩大触达并增加点击",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/e8e0b050-73e3-48b8-a4dd-f841b131bc75/zh_CN/translation.md",
+        "text": "translations/e8e0b050-73e3-48b8-a4dd-f841b131bc75/zh_CN/translation.txt",
+        "metadata": "translations/e8e0b050-73e3-48b8-a4dd-f841b131bc75/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "6b90667d-d6c3-48af-97af-de027f1e5b13",
@@ -2322,7 +2772,17 @@
       }
     ],
     "navigationTitleZh": "改进品牌旗舰店设计",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/6b90667d-d6c3-48af-97af-de027f1e5b13/zh_CN/translation.md",
+        "text": "translations/6b90667d-d6c3-48af-97af-de027f1e5b13/zh_CN/translation.txt",
+        "metadata": "translations/6b90667d-d6c3-48af-97af-de027f1e5b13/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "f0115b7f-8b51-4ab6-844d-a7a9df5d86dd",
@@ -2337,7 +2797,17 @@
       }
     ],
     "navigationTitleZh": "优化展示广告竞价",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/zh_CN/translation.md",
+        "text": "translations/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/zh_CN/translation.txt",
+        "metadata": "translations/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "48225115-e431-42ce-bfa5-ab1caef5f4b6",
@@ -2374,7 +2844,17 @@
       }
     ],
     "navigationTitleZh": "优化商品推广的定向、竞价与预算",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/db41274c-e769-4160-9b61-9c606e09e1f5/zh_CN/translation.md",
+        "text": "translations/db41274c-e769-4160-9b61-9c606e09e1f5/zh_CN/translation.txt",
+        "metadata": "translations/db41274c-e769-4160-9b61-9c606e09e1f5/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "fa1d94e1-a6cb-4241-bce6-ee32929f35e4",
@@ -2477,7 +2957,17 @@
       }
     ],
     "navigationTitleZh": "创建亚马逊品牌旗舰店",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/zh_CN/translation.md",
+        "text": "translations/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/zh_CN/translation.txt",
+        "metadata": "translations/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60",
@@ -2492,7 +2982,17 @@
       }
     ],
     "navigationTitleZh": "将商品推广活动设为无结束日期",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/zh_CN/translation.md",
+        "text": "translations/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/zh_CN/translation.txt",
+        "metadata": "translations/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "b9848392-da33-4115-b2b9-bd58fb905ffd",
@@ -2551,7 +3051,17 @@
       }
     ],
     "navigationTitleZh": "使用关键词匹配类型",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/0f15b9e5-5669-4df6-b88c-15b9bdf991db/zh_CN/translation.md",
+        "text": "translations/0f15b9e5-5669-4df6-b88c-15b9bdf991db/zh_CN/translation.txt",
+        "metadata": "translations/0f15b9e5-5669-4df6-b88c-15b9bdf991db/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "37e58de4-9501-4ed6-9afd-fb79d444d125",
@@ -3009,7 +3519,17 @@
       }
     ],
     "navigationTitleZh": "卖家自配送 Prime 入门",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/zh_CN/translation.md",
+        "text": "translations/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/zh_CN/translation.txt",
+        "metadata": "translations/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "71df97e1-a698-4e73-a357-ae7903433914",
@@ -3113,7 +3633,17 @@
       }
     ],
     "navigationTitleZh": "亚马逊通用商品政策入门",
-    "navigationTopic": "compliance"
+    "navigationTopic": "compliance",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/a3d3e133-028a-408c-b85a-84031b302681/zh_CN/translation.md",
+        "text": "translations/a3d3e133-028a-408c-b85a-84031b302681/zh_CN/translation.txt",
+        "metadata": "translations/a3d3e133-028a-408c-b85a-84031b302681/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "dc13afb6-3d0a-4937-b949-c2d0816cc934",
@@ -3172,7 +3702,17 @@
       }
     ],
     "navigationTitleZh": "亚马逊广告活动管理器预算规则入门",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2f75c115-2990-482d-b00c-219a06893243/zh_CN/translation.md",
+        "text": "translations/2f75c115-2990-482d-b00c-219a06893243/zh_CN/translation.txt",
+        "metadata": "translations/2f75c115-2990-482d-b00c-219a06893243/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "a95a9b85-2cc7-4216-9df5-74dc6dbd88b3",
@@ -3187,7 +3727,17 @@
       }
     ],
     "navigationTitleZh": "亚马逊入仓分销网络（AWD）入门",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/zh_CN/translation.md",
+        "text": "translations/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/zh_CN/translation.txt",
+        "metadata": "translations/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "75af3c97-c8b3-4a51-9773-05df4c838565",
@@ -3358,7 +3908,17 @@
       }
     ],
     "navigationTitleZh": "Leafael Jewelry 使用 Creator Connections 的增长案例",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.md",
+        "text": "translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.txt",
+        "metadata": "translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "b70e661e-4dae-45be-913d-a46ad2fe147e",
@@ -3461,7 +4021,17 @@
       }
     ],
     "navigationTitleZh": "本地销售：通过卖家平台完成配送",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/zh_CN/translation.md",
+        "text": "translations/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/zh_CN/translation.txt",
+        "metadata": "translations/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "3d34af1d-6cf6-46e6-b218-7fab5d1e2808",
@@ -3476,7 +4046,17 @@
       }
     ],
     "navigationTitleZh": "本地销售：员工管理",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/zh_CN/translation.md",
+        "text": "translations/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/zh_CN/translation.txt",
+        "metadata": "translations/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "bd6efd59-c829-48c6-8aa1-d94fd8c5f28e",
@@ -3491,7 +4071,17 @@
       }
     ],
     "navigationTitleZh": "本地销售：使用 Tech App 提供指定房间配送",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/zh_CN/translation.md",
+        "text": "translations/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/zh_CN/translation.txt",
+        "metadata": "translations/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "aeb181af-3ba3-43e0-a5c0-1c1be6428b47",
@@ -3506,7 +4096,17 @@
       }
     ],
     "navigationTitleZh": "管理 AWD 库存",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/zh_CN/translation.md",
+        "text": "translations/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/zh_CN/translation.txt",
+        "metadata": "translations/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4",
@@ -3609,7 +4209,17 @@
       }
     ],
     "navigationTitleZh": "掌握商品信息 AI 工具：快速优化指南",
-    "navigationTopic": "listings"
+    "navigationTopic": "listings",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/6253ba22-f037-419d-95e5-8d6b921e885f/zh_CN/translation.md",
+        "text": "translations/6253ba22-f037-419d-95e5-8d6b921e885f/zh_CN/translation.txt",
+        "metadata": "translations/6253ba22-f037-419d-95e5-8d6b921e885f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc",
@@ -3646,7 +4256,17 @@
       }
     ],
     "navigationTitleZh": "通过费用折扣提升亚马逊 B2B 销售",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.md",
+        "text": "translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.txt",
+        "metadata": "translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "756748fd-1204-45b1-91bf-a498cf9f9bd2",
@@ -3705,7 +4325,17 @@
       }
     ],
     "navigationTitleZh": "转移 AWD 库存",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/b8348fcf-9c79-422d-a88c-feac58b9abc3/zh_CN/translation.md",
+        "text": "translations/b8348fcf-9c79-422d-a88c-feac58b9abc3/zh_CN/translation.txt",
+        "metadata": "translations/b8348fcf-9c79-422d-a88c-feac58b9abc3/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "56035ae2-6096-4bc5-9085-93895e434294",
@@ -3720,7 +4350,17 @@
       }
     ],
     "navigationTitleZh": "使用 Amazon Freight 运输整车货件",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/56035ae2-6096-4bc5-9085-93895e434294/zh_CN/translation.md",
+        "text": "translations/56035ae2-6096-4bc5-9085-93895e434294/zh_CN/translation.txt",
+        "metadata": "translations/56035ae2-6096-4bc5-9085-93895e434294/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "9c8d24db-75e1-4d42-b405-796c5bc19cad",
@@ -3735,7 +4375,17 @@
       }
     ],
     "navigationTitleZh": "结合使用多渠道配送（MCF）与 FBA",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/9c8d24db-75e1-4d42-b405-796c5bc19cad/zh_CN/translation.md",
+        "text": "translations/9c8d24db-75e1-4d42-b405-796c5bc19cad/zh_CN/translation.txt",
+        "metadata": "translations/9c8d24db-75e1-4d42-b405-796c5bc19cad/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "b5aef394-1ef9-4eeb-9b1d-996153a2072f",
@@ -3794,7 +4444,17 @@
       }
     ],
     "navigationTitleZh": "亚马逊新卖家需要完成的步骤",
-    "navigationTopic": "start"
+    "navigationTopic": "start",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/453b5103-a147-4ab3-a96c-7daa6264db65/zh_CN/translation.md",
+        "text": "translations/453b5103-a147-4ab3-a96c-7daa6264db65/zh_CN/translation.txt",
+        "metadata": "translations/453b5103-a147-4ab3-a96c-7daa6264db65/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "dcc806b9-188b-4795-bbf2-b1484c562a47",
@@ -4117,7 +4777,17 @@
       }
     ],
     "navigationTitleZh": "广告控制台的商品页面",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/zh_CN/translation.md",
+        "text": "translations/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/zh_CN/translation.txt",
+        "metadata": "translations/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "dcafc422-e0f3-45da-8525-66f0619c1d7b",
@@ -4132,7 +4802,17 @@
       }
     ],
     "navigationTitleZh": "通过品牌推广和旗舰店触达高购买意向买家",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/dcafc422-e0f3-45da-8525-66f0619c1d7b/zh_CN/translation.md",
+        "text": "translations/dcafc422-e0f3-45da-8525-66f0619c1d7b/zh_CN/translation.txt",
+        "metadata": "translations/dcafc422-e0f3-45da-8525-66f0619c1d7b/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "76559113-a4ac-436a-b50a-28c7d282cca4",
@@ -4480,7 +5160,17 @@
       }
     ],
     "navigationTitleZh": "在日本站销售",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/a1080e38-8886-410a-aa3d-42654019dcb2/zh_CN/translation.md",
+        "text": "translations/a1080e38-8886-410a-aa3d-42654019dcb2/zh_CN/translation.txt",
+        "metadata": "translations/a1080e38-8886-410a-aa3d-42654019dcb2/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "b48df0ed-b989-4b5e-8fbb-c683221c2329",
@@ -4495,7 +5185,17 @@
       }
     ],
     "navigationTitleZh": "将库存发送至 AWD",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/b48df0ed-b989-4b5e-8fbb-c683221c2329/zh_CN/translation.md",
+        "text": "translations/b48df0ed-b989-4b5e-8fbb-c683221c2329/zh_CN/translation.txt",
+        "metadata": "translations/b48df0ed-b989-4b5e-8fbb-c683221c2329/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "59aa3f99-cc36-41f3-8c21-fdaadd2f8d85",
@@ -4798,7 +5498,17 @@
       }
     ],
     "navigationTitleZh": "向加拿大发货",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/915791db-c5a1-4c02-ad04-d0c8a4b0211f/zh_CN/translation.md",
+        "text": "translations/915791db-c5a1-4c02-ad04-d0c8a4b0211f/zh_CN/translation.txt",
+        "metadata": "translations/915791db-c5a1-4c02-ad04-d0c8a4b0211f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "8632fdd4-23c8-4700-9888-e9d8da14839e",
@@ -4813,7 +5523,17 @@
       }
     ],
     "navigationTitleZh": "使用品牌推广展示旗舰店亮点",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/8632fdd4-23c8-4700-9888-e9d8da14839e/zh_CN/translation.md",
+        "text": "translations/8632fdd4-23c8-4700-9888-e9d8da14839e/zh_CN/translation.txt",
+        "metadata": "translations/8632fdd4-23c8-4700-9888-e9d8da14839e/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "0a6ad152-72de-4e10-b6c2-ba190e6c5476",
@@ -4873,7 +5593,17 @@
       }
     ],
     "navigationTitleZh": "开始销售订阅盒",
-    "navigationTopic": "listings"
+    "navigationTopic": "listings",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/fb515856-b468-4ba4-b3b4-5fe20065c08c/zh_CN/translation.md",
+        "text": "translations/fb515856-b468-4ba4-b3b4-5fe20065c08c/zh_CN/translation.txt",
+        "metadata": "translations/fb515856-b468-4ba4-b3b4-5fe20065c08c/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "155f35ac-295f-46a0-bc01-2423a9d62936",
@@ -4888,7 +5618,17 @@
       }
     ],
     "navigationTitleZh": "防范网络钓鱼",
-    "navigationTopic": "compliance"
+    "navigationTopic": "compliance",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/155f35ac-295f-46a0-bc01-2423a9d62936/zh_CN/translation.md",
+        "text": "translations/155f35ac-295f-46a0-bc01-2423a9d62936/zh_CN/translation.txt",
+        "metadata": "translations/155f35ac-295f-46a0-bc01-2423a9d62936/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "d69abb36-9c5d-4353-aeda-4fd6ed8fe80c",
@@ -4925,7 +5665,17 @@
       }
     ],
     "navigationTitleZh": "可持续发展解决方案中心介绍",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/6199b321-db36-420b-8bd0-e847133387d0/zh_CN/translation.md",
+        "text": "translations/6199b321-db36-420b-8bd0-e847133387d0/zh_CN/translation.txt",
+        "metadata": "translations/6199b321-db36-420b-8bd0-e847133387d0/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "59a08397-d4b4-4b33-9d38-e83d81329279",
@@ -4940,7 +5690,17 @@
       }
     ],
     "navigationTitleZh": "美国卖家拓展国际市场的方法",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/59a08397-d4b4-4b33-9d38-e83d81329279/zh_CN/translation.md",
+        "text": "translations/59a08397-d4b4-4b33-9d38-e83d81329279/zh_CN/translation.txt",
+        "metadata": "translations/59a08397-d4b4-4b33-9d38-e83d81329279/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "d59ade8c-9301-4d24-8eb2-272007adbdac",
@@ -4955,7 +5715,17 @@
       }
     ],
     "navigationTitleZh": "Happy Start 用 2 美元优惠券应对销售下滑的案例",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/d59ade8c-9301-4d24-8eb2-272007adbdac/zh_CN/translation.md",
+        "text": "translations/d59ade8c-9301-4d24-8eb2-272007adbdac/zh_CN/translation.txt",
+        "metadata": "translations/d59ade8c-9301-4d24-8eb2-272007adbdac/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "dd1a15d7-10e1-4957-8809-7e5db0f4c0f1",
@@ -5058,7 +5828,17 @@
       }
     ],
     "navigationTitleZh": "跟踪 AWD 货件",
-    "navigationTopic": "fulfillment"
+    "navigationTopic": "fulfillment",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.md",
+        "text": "translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.txt",
+        "metadata": "translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "4fcf795f-20c7-439b-bed4-ce26fdb5f2f2",
@@ -5073,7 +5853,17 @@
       }
     ],
     "navigationTitleZh": "英国至美国合作承运商计划（UK2US）",
-    "navigationTopic": "global"
+    "navigationTopic": "global",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2/zh_CN/translation.md",
+        "text": "translations/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2/zh_CN/translation.txt",
+        "metadata": "translations/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "a52f7918-1f56-4b2b-b6b7-77d49b472c0f",
@@ -5088,7 +5878,17 @@
       }
     ],
     "navigationTitleZh": "了解按消费金额设置的促销",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/zh_CN/translation.md",
+        "text": "translations/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/zh_CN/translation.txt",
+        "metadata": "translations/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a",
@@ -5147,7 +5947,17 @@
       }
     ],
     "navigationTitleZh": "使用受众竞价提升优化品牌推广活动",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/zh_CN/translation.md",
+        "text": "translations/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/zh_CN/translation.txt",
+        "metadata": "translations/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "46232ee2-4408-458c-9540-7afc2f650ffe",
@@ -5272,7 +6082,17 @@
       }
     ],
     "navigationTitleZh": "Amazon Vine 早期评论帮助 Happy Start 的案例",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/13076c64-4d24-4075-984a-bcd3fd8311d1/zh_CN/translation.md",
+        "text": "translations/13076c64-4d24-4075-984a-bcd3fd8311d1/zh_CN/translation.txt",
+        "metadata": "translations/13076c64-4d24-4075-984a-bcd3fd8311d1/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "604ec123-3bb9-4808-a56c-38270532352a",
@@ -5287,7 +6107,17 @@
       }
     ],
     "navigationTitleZh": "卖家投放亚马逊广告的原因",
-    "navigationTopic": "ads"
+    "navigationTopic": "ads",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/604ec123-3bb9-4808-a56c-38270532352a/zh_CN/translation.md",
+        "text": "translations/604ec123-3bb9-4808-a56c-38270532352a/zh_CN/translation.txt",
+        "metadata": "translations/604ec123-3bb9-4808-a56c-38270532352a/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "f366511d-de14-4a25-b0a5-957ad76f014b",
@@ -5302,7 +6132,17 @@
       }
     ],
     "navigationTitleZh": "扩大业务前为每个 ASIN 评估排序",
-    "navigationTopic": "business"
+    "navigationTopic": "business",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/f366511d-de14-4a25-b0a5-957ad76f014b/zh_CN/translation.md",
+        "text": "translations/f366511d-de14-4a25-b0a5-957ad76f014b/zh_CN/translation.txt",
+        "metadata": "translations/f366511d-de14-4a25-b0a5-957ad76f014b/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "eedd3a50-334a-4db4-adc1-f9db9c5efa7d",
@@ -5317,7 +6157,17 @@
       }
     ],
     "navigationTitleZh": "商标品牌选择亚马逊的原因",
-    "navigationTopic": "brands"
+    "navigationTopic": "brands",
+    "translations": [
+      {
+        "kind": "translation",
+        "locale": "zh_CN",
+        "sourceLocale": "en_US",
+        "transcript": "translations/eedd3a50-334a-4db4-adc1-f9db9c5efa7d/zh_CN/translation.md",
+        "text": "translations/eedd3a50-334a-4db4-adc1-f9db9c5efa7d/zh_CN/translation.txt",
+        "metadata": "translations/eedd3a50-334a-4db4-adc1-f9db9c5efa7d/zh_CN/translation.json"
+      }
+    ]
   },
   {
     "moduleId": "8ba7337a-1f7a-4eb9-96aa-33af8c13baca",

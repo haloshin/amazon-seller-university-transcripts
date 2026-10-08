@@ -54,4 +54,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：通过品牌推广和旗舰店触达高购买意向买家（英文）](../../../courses/dcafc422-e0f3-45da-8525-66f0619c1d7b/en_US/transcript.md) · [同主题下一篇：使用品牌推广展示旗舰店亮点（英文）](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md)
+[同主题上一篇：通过品牌推广和旗舰店触达高购买意向买家（中文译文）](../../../translations/dcafc422-e0f3-45da-8525-66f0619c1d7b/zh_CN/translation.md) · [同主题下一篇：使用品牌推广展示旗舰店亮点（中文译文）](../../../translations/8632fdd4-23c8-4700-9888-e9d8da14839e/zh_CN/translation.md)

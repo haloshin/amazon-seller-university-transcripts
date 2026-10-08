@@ -91,4 +91,4 @@ Monitor Automate Pricing File Upload Status部分中,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：Revolution Nutrition 的商品信息优化实践（英文）](../../../courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md) · [同主题下一篇：自动定价：应用定价规则](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md)
+[同主题上一篇：Revolution Nutrition 的商品信息优化实践（中文译文）](../../../translations/f9ca9049-6531-4f13-a693-273354d5a37f/zh_CN/translation.md) · [同主题下一篇：自动定价：应用定价规则](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md)

@@ -35,4 +35,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用 Video Generator 创建广告视频（英文）](../../../courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md) · [同主题下一篇：创建首个商品推广广告活动](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md)
+[同主题上一篇：使用 Video Generator 创建广告视频（中文译文）](../../../translations/aaf32411-71c9-438d-959b-30ee392a0319/zh_CN/translation.md) · [同主题下一篇：创建首个商品推广广告活动](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md)

@@ -1,0 +1,25 @@
+{
+  "moduleId": "d8e9fa6b-b56b-4e48-9c35-d816fd71f59c",
+  "kind": "translation",
+  "locale": "zh_CN",
+  "sourceLocale": "en_US",
+  "title": "卖家自配送 Prime 入门",
+  "sourcePath": "courses/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/en_US/transcript.txt",
+  "sourceSha256": "c22e9ce4a69e9b36e66b5c59e9f01ff027ee2bb3d2557e172e136ff644141c6f",
+  "method": "AI-assisted translation and bilingual review; terminology aligned with existing Chinese audio transcripts",
+  "sourceParagraphCount": 10,
+  "paragraphs": [
+    "欢迎观看我们的卖家自配送 Prime 视频教程，卖家自配送 Prime 也称为 SFP。在本入门视频中，我们将介绍该计划的具体详情，包括资格要求。对于 SFP 卖家而言，一项主要优势是可以在符合条件的商品报价上展示 Prime 标识，同时直接从自己的仓库配送订单。",
+    "卖家将在当天发出订单，并为亚马逊 Prime 买家提供免费的一日达和两日达配送服务。当您将商品加入卖家自配送 Prime 后，亚马逊商城中您的商品旁边就会添加 Prime 标记。这让您的商品更容易被发现，也让 Prime 买家知道您能够提供快速、可靠的配送服务和出色的客户服务。",
+    "要将商品加入卖家自配送 Prime，您需要满足以下预资格审核标准。如果您满足这些要求，就可以开始卖家自配送 Prime 试用。",
+    "首先，与您的销售账户关联的默认发货地址必须是美国境内的发货地址。",
+    "其次，您需要拥有专业销售账户。第三，您需要在过去 90 天内配送过 100 个订单，并达到配送绩效标准。具体而言，这意味着您的取消率不能高于 2.5%。",
+    "您的有效追踪率需要高于 95%，迟发率需要低于 4%。您可以在账户状况控制面板中找到这些指标。您可以点击卖家平台主菜单（Seller Central Main Menu）来访问该控制面板。进入“绩效”（Performance），然后点击“账户状况”（Account Health）。",
+    "随后，您的配送绩效指标会显示在最右侧的列中。请注意，允许您报名参加试用的预资格审核要求，与实际试用期间的要求不同。您已准备好报名参加卖家自配送 Prime 试用。",
+    "首先，前往 sellercentral.amazon.com/seller-fulfilled-prime/register/welcome。如果您满足所有预资格审核要求，就可以通过输入账户信息来报名参加试用。这些信息包括您的公司名称、电话号码和电子邮件地址。",
+    "您还需要选择您的主要仓库地址。请记住，要符合卖家自配送 Prime 试用资格，您的仓库地址需要是美国境内的发货地址。输入信息后，点击“保存更改”（Save Changes）。",
+    "在下一页，同意计划政策并继续。成功注册试用后，请务必继续观看我们介绍卖家自配送 Prime 试用期间要求的视频。谢谢，祝您在亚马逊商城销售愉快。"
+  ],
+  "editionDate": "2026-10-08",
+  "releaseVersion": "0.7.0"
+}

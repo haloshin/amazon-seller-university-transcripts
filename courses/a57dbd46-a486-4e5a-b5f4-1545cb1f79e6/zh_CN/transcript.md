@@ -52,4 +52,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
-[同主题上一篇：企业价格入门](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/transcript.md) · [同主题下一篇：通过费用折扣提升亚马逊 B2B 销售（英文）](../../../courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/transcript.md)
+[同主题上一篇：企业价格入门](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/transcript.md) · [同主题下一篇：通过费用折扣提升亚马逊 B2B 销售（中文译文）](../../../translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.md)

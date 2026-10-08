@@ -56,4 +56,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：品牌分析：搜索查询绩效报告](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/zh_CN/transcript.md) · [同主题下一篇：创建仅限企业买家的报价（英文）](../../../courses/be468b05-3e0c-4d53-9c5d-48309d236c5a/en_US/transcript.md)
+[同主题上一篇：品牌分析：搜索查询绩效报告](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/zh_CN/transcript.md) · [同主题下一篇：创建仅限企业买家的报价（中文译文）](../../../translations/be468b05-3e0c-4d53-9c5d-48309d236c5a/zh_CN/translation.md)

@@ -82,4 +82,4 @@ ODR的绩效目标是在过去60天内低于订单总数的1%。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：预防或解决商品发布政策违规（英文）](../../../courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md) · [同主题下一篇：处理多账户政策违规](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/zh_CN/transcript.md)
+[同主题上一篇：预防或解决商品发布政策违规（中文译文）](../../../translations/e831668e-b539-4d76-8691-5a5d44e60cc4/zh_CN/translation.md) · [同主题下一篇：处理多账户政策违规](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/zh_CN/transcript.md)

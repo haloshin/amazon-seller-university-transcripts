@@ -82,4 +82,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：创建首个商品推广广告活动](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md) · [同主题下一篇：使用品牌推广为品牌旗舰店首页引流（英文）](../../../courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md)
+[同主题上一篇：创建首个商品推广广告活动](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md) · [同主题下一篇：使用品牌推广为品牌旗舰店首页引流（中文译文）](../../../translations/69bf0781-44b0-42b7-8ed0-92e70f4873fa/zh_CN/translation.md)

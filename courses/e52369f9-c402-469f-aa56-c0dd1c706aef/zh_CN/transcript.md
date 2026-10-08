@@ -33,4 +33,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：跟踪并回复买家评论](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/transcript.md) · [同主题下一篇：Amazon Vine 早期评论帮助 Happy Start 的案例（英文）](../../../courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/transcript.md)
+[同主题上一篇：跟踪并回复买家评论](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/transcript.md) · [同主题下一篇：Amazon Vine 早期评论帮助 Happy Start 的案例（中文译文）](../../../translations/13076c64-4d24-4075-984a-bcd3fd8311d1/zh_CN/translation.md)

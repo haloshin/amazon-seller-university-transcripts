@@ -22,4 +22,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用 Amazon AI Studio 生成商品图片（英文）](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md) · [同主题下一篇：通用商品政策：解决错误代码 5885（英文）](../../../courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md)
+[同主题上一篇：使用 Amazon AI Studio 生成商品图片（中文译文）](../../../translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.md) · [同主题下一篇：通用商品政策：解决错误代码 5885（中文译文）](../../../translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.md)

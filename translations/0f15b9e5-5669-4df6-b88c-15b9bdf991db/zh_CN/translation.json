@@ -1,0 +1,18 @@
+{
+  "moduleId": "0f15b9e5-5669-4df6-b88c-15b9bdf991db",
+  "kind": "translation",
+  "locale": "zh_CN",
+  "sourceLocale": "en_US",
+  "title": "如何使用关键词匹配类型",
+  "sourcePath": "courses/0f15b9e5-5669-4df6-b88c-15b9bdf991db/en_US/transcript.txt",
+  "sourceSha256": "a8a55cb96667a96a320c8982443b99f4e1fe3ba5076fbfb44593f11a95821028",
+  "method": "AI-assisted translation and bilingual review; terminology aligned with existing Chinese audio transcripts",
+  "sourceParagraphCount": 3,
+  "paragraphs": [
+    "关键词匹配类型可帮助您控制广告展示的位置。您可以通过三种方式在广告活动中设置关键词匹配类型。",
+    "首先，您可以使用亚马逊建议的关键词。默认情况下，每个关键词都包含三种可供选择的匹配类型：“广泛匹配”（Broad）、“词组匹配”（Phrase）和“精准匹配”（Exact）。您可以将所需的任何匹配类型添加到您的投放中。如果您要输入自己的关键词列表，请确保在顶部勾选您想要包含的匹配类型。最后，您可以批量上传关键词列表。",
+    "在这种情况下，我们的模板中包含一个用于填写匹配类型的列。"
+  ],
+  "editionDate": "2026-10-08",
+  "releaseVersion": "0.7.0"
+}

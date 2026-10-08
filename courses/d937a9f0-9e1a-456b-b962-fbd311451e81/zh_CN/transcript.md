@@ -34,4 +34,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用亚马逊商标工具应对仿冒商品（英文）](../../../courses/09e14bee-0ab7-4674-9265-562271f8e59d/en_US/transcript.md) · [同主题下一篇：通过 Amazon Vine 买家评论吸引流量](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/zh_CN/transcript.md)
+[同主题上一篇：使用亚马逊商标工具应对仿冒商品（中文译文）](../../../translations/09e14bee-0ab7-4674-9265-562271f8e59d/zh_CN/translation.md) · [同主题下一篇：通过 Amazon Vine 买家评论吸引流量](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/zh_CN/transcript.md)

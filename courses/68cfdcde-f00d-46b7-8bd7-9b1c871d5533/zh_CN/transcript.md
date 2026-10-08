@@ -14,4 +14,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：为新的商品推广活动添加否定商品定向](../../../courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/zh_CN/transcript.md) · [同主题下一篇：修改商品推广广告预算（英文）](../../../courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/transcript.md)
+[同主题上一篇：为新的商品推广活动添加否定商品定向](../../../courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/zh_CN/transcript.md) · [同主题下一篇：修改商品推广广告预算（中文译文）](../../../translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.md)

@@ -62,4 +62,4 @@ API用于构建应用程序。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：用于 B2B 商机的应用与 API（英文）](../../../courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/transcript.md) · [同主题下一篇：B2B Central 概览（英文）](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md)
+[同主题上一篇：用于 B2B 商机的应用与 API（中文译文）](../../../translations/85f5bf24-105e-4675-abce-a689741f123a/zh_CN/translation.md) · [同主题下一篇：B2B Central 概览（中文译文）](../../../translations/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/zh_CN/translation.md)

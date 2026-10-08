@@ -68,4 +68,4 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
-[同主题上一篇：使用品牌推广为旗舰店引流（英文）](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md) · [同主题下一篇：开始在展示型推广中使用情境定向](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/zh_CN/transcript.md)
+[同主题上一篇：使用品牌推广为旗舰店引流（中文译文）](../../../translations/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/zh_CN/translation.md) · [同主题下一篇：开始在展示型推广中使用情境定向](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/zh_CN/transcript.md)
