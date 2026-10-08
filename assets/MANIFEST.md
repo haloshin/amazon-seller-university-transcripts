@@ -1,6 +1,6 @@
 # README 图片
 
-本页登记当前使用的七张图，均由 Codex 内置图像工具生成，采用白底、黑色手绘线条和橙色重点标记。消费位置：[中文 README](../README.md) 与 [English README](../README.en.md)。四张展示图为 2:1、1774 × 887 像素；入门路线、课程导航和阅读格式三张操作图为 3:1、2172 × 724 像素。配套文字提供可点击的课程入口和英文说明。每图均附 SHIN 整理署名与原仓库地址，请在分享时保留。
+本页登记七张介绍插图和一张阅读版实拍图。七张插图均由 Codex 内置图像工具生成，采用白底、黑色手绘线条和橙色重点标记。消费位置：[中文 README](../README.md) 与 [English README](../README.en.md)。四张展示图为 2:1、1774 × 887 像素；入门路线、课程导航和阅读格式三张操作图为 3:1、2172 × 724 像素。配套文字提供可点击的课程入口和英文说明。每图均附 SHIN 整理署名与原仓库地址，请在分享时保留。
 
 | 图片 | 内容 |
 | --- | --- |
@@ -19,9 +19,9 @@
 预告仅用于说明未来方向，不代表当前已有安装包、题库或确定发布时间。配图中的署名标明整理来源，不主张 Amazon 课程的版权归属。
 
 
-## v0.4.0 HTML reader preview
+## v0.4.1 HTML reader preview
 
-- `html-reader-preview.jpg`: browser screenshot of the actual HTML reader, captured 2026-10-08 at 1280 × 720; used in README.md and README.en.md under the HTML reading section.
-- Source: the v0.4.0 HTML reader generated from this repository. Captured directly to this stable asset path; no temporary image reference or image-generation prompt.
-- Status: verified local preview; final public deployment verification is recorded with the release.
-- Existing seven illustrations remain available; the reading formats illustration describes the additional Markdown / TXT / VTT files.
+- `html-reader-preview.jpg`: actual course-page browser screenshot, captured 2026-10-08 at 1280 × 720; used in README.md and README.en.md.
+- Source: the v0.4.1 reader generated from this repository, showing the FBA Chinese-audio transcript and contextual course directory.
+- Status: desktop and 390px responsive layouts verified in the local browser; final deployment verification is recorded with the release.
+- The seven illustrations remain available; the reading formats illustration describes the additional Markdown / TXT / VTT files.

@@ -26,11 +26,11 @@
 
 **[打开完整阅读版 ↗](https://haloshin.github.io/amazon-seller-university-transcripts/)** · [Markdown 学习导航](学习导航.md)
 
-**270 门课程、455 份转写稿**，支持主题目录、全文搜索、已有音轨中英切换和字号调整，电脑与手机都可阅读。
+**270 门课程、455 份转写稿**，支持全文搜索、同主题课程目录、已有音轨中英切换和字号调整。首页可直接搜课，阅读页会定位当前课程，电脑与手机都可阅读。
 
 下载完整 ZIP 并解压，双击 **`index.html`**，即可用浏览器离线阅读。请保留完整文件夹，无需安装软件或启动服务。
 
-[![HTML 阅读版实拍：左侧主题目录、课程库与五门入门路径](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/)
+[![HTML 阅读版实拍：同主题课程目录、清晰的标题层次与中文正文](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
 
 <sub>阅读页使用已发布的同一份课程原文；中文稿来自中文音轨。</sub>
 

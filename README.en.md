@@ -26,11 +26,11 @@
 
 **[Open the HTML reader ↗](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)** · [Markdown guide](LEARNING_GUIDE.md)
 
-Browse all **270 courses and 455 transcripts** with topic navigation, full-text search, available audio-language switching and adjustable text size. The reader works on desktop and narrow screens.
+Browse all **270 courses and 455 transcripts** with full-text search, a contextual course directory, available audio-language switching and adjustable text size. Search from the home page and keep your place in the current topic while reading. The reader works on desktop and narrow screens.
 
 Download and extract the complete ZIP, then open **`index.html`** in a browser to read offline. Keep the entire folder together; no installation or local server is needed.
 
-[![HTML reader: topic sidebar, course library and five starting courses](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#ui=en)
+[![HTML reader: contextual course directory, title hierarchy and Chinese transcript](assets/html-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 
 <sub>Actual HTML reader preview. The course text is the same published transcript; Chinese text follows Chinese audio.</sub>
 
