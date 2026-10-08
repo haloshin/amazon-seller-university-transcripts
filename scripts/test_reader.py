@@ -92,15 +92,32 @@ class ReaderTests(unittest.TestCase):
         self.assertEqual(page.scripts, 2)
         self.assertEqual(json.loads(page.data), sample)
 
-    def test_reported_fba_course_has_four_reading_paragraphs(self):
+    def test_fba_benefits_keep_topic_boundaries_with_shorter_paragraphs(self):
         course = 'cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167'
         source = (ROOT / 'courses' / course / 'zh_CN/transcript.txt').read_text()
         paragraphs = reading_paragraphs(course, 'zh_CN', source, 'FBA benefits and costs')
-        self.assertEqual(len(paragraphs), 4)
-        self.assertTrue(paragraphs[0].endswith('从而最大限度地提高商品在亚马逊商城的曝光度和销量。'))
-        self.assertTrue(paragraphs[1].startswith('新加入亚马逊物流的卖家'))
-        self.assertTrue(paragraphs[2].startswith('您的亚马逊物流费用'))
-        self.assertTrue(paragraphs[3].startswith('您可以通过卖家平台中的三种工具'))
+        self.assertEqual(len(paragraphs), 6)
+        self.assertTrue(paragraphs[1].endswith('从而最大限度地提高商品在亚马逊商城的曝光度和销量。'))
+        self.assertTrue(any(p.startswith('新加入亚马逊物流的卖家') for p in paragraphs))
+        self.assertTrue(any(p.startswith('您的亚马逊物流费用') for p in paragraphs))
+        self.assertTrue(any(p.startswith('您可以通过卖家平台中的三种工具') for p in paragraphs))
+
+    def test_dashboard_access_and_functions_have_separate_short_paragraphs(self):
+        course = '1b57f3d1-0016-4f40-a7d3-6aa44d962482'
+        source = (ROOT / 'courses' / course / 'zh_CN/transcript.txt').read_text()
+        paragraphs = reading_paragraphs(course, 'zh_CN', source, 'FBA dashboard overview')
+        self.assertEqual(len(paragraphs), 17)
+        self.assertNotIn('要找到亚马逊物流控制面板', paragraphs[0])
+        self.assertTrue(paragraphs[1].startswith('要找到亚马逊物流控制面板'))
+        self.assertTrue(any(p.startswith('最后一个菜单选项是分析') for p in paragraphs))
+        self.assertLess(max(map(len, paragraphs)), 170)
+
+    def test_shorter_layout_keeps_closing_quotes_with_their_sentence(self):
+        source = '为了说明这项设置，我们先阅读页面上的提示。' * 3 + '页面显示：“请确认信息准确无误。”' + '然后再继续完成下一步操作。' * 5
+        paragraphs = reading_paragraphs('test', 'zh_CN', source, 'Test')
+        self.assertEqual(''.join(paragraphs), source)
+        self.assertFalse(any(p.startswith('”') for p in paragraphs))
+        self.assertGreater(len(paragraphs), 1)
 
     def test_explicit_paragraphs_lists_and_stage_notes_are_preserved(self):
         source = '[MUSIC PLAYING]\nRead the original\ncourse text.\n\n1. Prepare the goods.\n2. Ship the\norder.\n\nKeep the receipt.'

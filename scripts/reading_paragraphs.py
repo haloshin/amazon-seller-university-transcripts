@@ -39,7 +39,7 @@ def reading_paragraphs(module_id, locale, text, title):
         return [join_lines(content[a:b], locale) for a, b in zip(starts, starts[1:])]
 
     chinese = locale == 'zh_CN'
-    target, minimum, maximum = (180, 60, 280) if chinese else (500, 160, 800)
+    target, minimum, maximum = (90, 30, 150) if chinese else (300, 110, 460)
     transition = TRANSITION_ZH if chinese else TRANSITION_EN
     continuation = CONTINUATION_ZH if chinese else CONTINUATION_EN
     content_lines = [line.strip() for line in lines if line.strip()]
@@ -60,6 +60,7 @@ def reading_paragraphs(module_id, locale, text, title):
             # length is a fallback for sources with no paragraph information.
             if block and (END.search(current) or sparse_punctuation) and (
                 (len(current) >= minimum and transition.match(unit)) or
+                len(block) >= 3 or
                 (len(current) >= target and not continuation.match(unit)) or
                 (len(current) >= minimum and len(current) + len(unit) > maximum) or
                 len(current) >= maximum
@@ -74,8 +75,8 @@ def reading_paragraphs(module_id, locale, text, title):
     def flush_wrapped():
         if wrapped:
             sentence = join_lines(wrapped, locale)
-            if len(sentence) > maximum:
-                pattern = r'(?<=[。！？])' if chinese else r'(?<=[.!?])\s+(?=[A-Z“\"])'
+            if len(sentence) > target:
+                pattern = r'(?<=[。！？])(?![”’」』）》】])' if chinese else r'(?<=[.!?])\s+(?=[A-Z“\"])'
                 units.extend(part for part in re.split(pattern, sentence) if part.strip())
             else:
                 units.append(sentence)
