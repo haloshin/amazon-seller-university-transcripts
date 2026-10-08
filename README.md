@@ -86,29 +86,23 @@
 
 <br><br>
 
-## 后续内容，先看真实样稿
+## 更多学习方式
 
-**知识卡与题库已有样稿，完整内容尚未发布。** 下面展示的是从已有成果中挑选的预告，当前版本下载包仍以课程转写稿、译文与字幕为主。
+### 知识卡
 
-### 知识卡：把关键关系画出来
+一个知识点，一组图。以「商品推广入门」为例，用封面和四张讲解卡，说明核心价值、展示位置、点击计费与预算类型。
 
-从既有样稿中选出 **广告预算、内容测试、选品研究** 三张卡。把课程中的概念、对照关系和判断条件放进具体场景，作为读完原文后的复习材料。
-
-[![知识卡样稿拼图：预算规则、图片对照测试、选品搜索策略；尚未发布完整卡库](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
-
-<sub>三张均为已有知识卡原图拼版，点击可放大。属于项目编辑整理，非官方课程原图；完整知识卡库尚未开放下载。</sub>
+[![商品推广入门知识卡：一张封面与四张连续讲解卡](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
 
 <br>
 
-### 课程题库：读过之后，能不能说清楚？
+### 课程题库
 
-已有题目围绕课程中的**概念辨析与业务判断**展开，并保留参考答案和原文位置。下面两道分别来自“评论与评分的最佳实践”和“多渠道配送：运作方式”。
+读完课程，用问答检查理解，结合参考答案回到原文复习。
 
-[![题库样稿：区分卖家反馈评级、判断 MCF 客户服务职责；附参考答案与课程时间位置](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
+[![课程题库：问题、参考答案与课程出处](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
 
-[查看第一题对应课程 ↗](https://haloshin.github.io/seller-university/#view=course&id=fc47f5bc-7eb9-417f-89c0-b5155169f905&lang=zh_CN&ui=zh) &emsp; [查看第二题对应课程 ↗](https://haloshin.github.io/seller-university/#view=course&id=fc0c4ad6-1655-4418-be86-bf00c8f7cf16&lang=zh_CN&ui=zh)
-
-<sub>这是已有题目和参考答案的排版预览，不是已经上线的答题界面。完整题库尚未发布；示例依据归档课程，实际运营请核对当前官方说明。</sub>
+<sub>知识卡与题库正在整理，敬请期待。点击图片可放大查看。</sub>
 
 <br><br>
 
@@ -161,7 +155,7 @@ git clone https://github.com/haloshin/seller-university.git
 | 内容方向 | 当前状态 |
 | :--- | :--- |
 | **Amazon 课程阅读库** | 已发布：原语言转写、中文译文、字幕与离线阅读 |
-| **知识卡与课程题库** | 本页展示精选样稿；完整内容尚未发布 |
+| **知识卡与课程题库** | 筹备中，部分内容见上方展示 |
 | **Seller University Skill** | 计划用于查课与辅助学习，尚未发布 |
 | **TikTok Shop · Walmart · Shopify** | 后续平台方向，尚未上线 |
 

@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 12222,
-      "sha256": "b39635845589b8aea668a7a5cba0fe101effd81ecac269084fe421e3c612f187"
+      "bytes": 11069,
+      "sha256": "bf98b080e1da625458df83e0e7924da5a553ab62e7ef6c07e24cbe995746b695"
     },
     {
       "path": "README.md",
-      "bytes": 11954,
-      "sha256": "7cdc55503b6ba861afb440d1adb85df0063b7e309acbb1f61a357c1fd3092340"
+      "bytes": 10831,
+      "sha256": "951233cd4b0ae2caad74e858dd976826776481ba726e16829ff107f9ffb3999f"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 13754,
-      "sha256": "143e1765f45cce200c787af0914442e20fb756c8d7053de818b72647f80d8d58"
+      "bytes": 12569,
+      "sha256": "91200f4778033d9ca32b67c34fd5593e472dc91e2cc07e48a5718c5b6d1a4cfa"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 12891,
-      "sha256": "45bfc9fdf41e2e8ef7620c83aba506ef6f63caafd01c634900b7ac5f777964c8"
+      "bytes": 11733,
+      "sha256": "a0ef66f490da20c235b3dc95b1ae4e3dda0030f935e4e24b2b161d683513deac"
     },
     {
       "path": "amazon/catalog.json",
@@ -10613,8 +10613,8 @@
     },
     {
       "path": "assets/knowledge-cards-preview.jpg",
-      "bytes": 383182,
-      "sha256": "d44b6b106aa1fab0509a88751cad52c74527a74c12c08dd4c0ec00a2b6785128"
+      "bytes": 560782,
+      "sha256": "d692e015e63749c9c6ce6170aabe85ae54a492c01c869bc73ef432743c504e8b"
     },
     {
       "path": "assets/learning-roadmap.png",
@@ -10628,8 +10628,8 @@
     },
     {
       "path": "assets/question-bank-preview.jpg",
-      "bytes": 242280,
-      "sha256": "35dc931b34134fda92398458a1407c4566597ea03c743403b40bc72e57e25a28"
+      "bytes": 197981,
+      "sha256": "d444c202ec72c39dca8e92d4d81adc705d4ec4e1ee1bd1691d6dcadd554e395e"
     },
     {
       "path": "assets/reader-banner.png",

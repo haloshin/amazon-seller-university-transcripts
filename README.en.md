@@ -86,29 +86,23 @@ Translations follow the terminology used in existing Chinese-audio courses, pres
 
 <br><br>
 
-## A preview of what comes next
+## More ways to learn
 
-**Knowledge-card and question-bank drafts exist; the full collections are unreleased.** These selected samples preview work already prepared. The current release download focuses on course transcripts, translations and captions.
+### Knowledge cards
 
-### Knowledge cards: make the relationships visible
+One topic, a connected set of cards. This Chinese introduction to Sponsored Products uses a cover and four cards to explain value, placements, pay-per-click pricing and budget types.
 
-Three existing Chinese draft cards cover **advertising budgets, content experiments and product research**. They turn course concepts, comparisons and conditions into visual study material.
-
-[![Existing Chinese knowledge-card drafts: budget rules, image experiments and product research; full collection unreleased](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
-
-<sub>A collage of three existing cards; click to enlarge. These are project-created editorial visuals, not official course slides. The full card collection is not available for download.</sub>
+[![Sponsored Products knowledge cards: one cover and four connected explanation cards](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
 
 <br>
 
-### Course questions: check what you understood
+### Course questions
 
-Existing questions pair **concept checks and practical judgments** with reference answers and course locations. These two Chinese examples ask which rating reflects the seller experience, and who handles customer service for MCF orders.
+Check your understanding after a course, then use the reference answers to revisit the source.
 
-[![Two existing Chinese question-bank items with reference answers and course timestamps; preview only](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
+[![Chinese course questions with reference answers and source locations](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
 
-[Read the first source course ↗](https://haloshin.github.io/seller-university/#view=course&id=fc47f5bc-7eb9-417f-89c0-b5155169f905&lang=en_US&ui=en) &emsp; [Read the second source course ↗](https://haloshin.github.io/seller-university/#view=course&id=fc0c4ad6-1655-4418-be86-bf00c8f7cf16&lang=en_US&ui=en)
-
-<sub>This is a layout preview of existing questions, not a released quiz interface. The full question bank is unreleased. Image timestamps refer to Chinese audio; check current official guidance before applying archived material.</sub>
+<sub>Knowledge cards and the question bank are in preparation, not yet released. Click the images to enlarge.</sub>
 
 <br><br>
 
@@ -159,7 +153,7 @@ git clone https://github.com/haloshin/seller-university.git
 | Direction | Current status |
 | :--- | :--- |
 | **Amazon reading library** | Released: transcripts, Chinese translations, captions and offline reader |
-| **Knowledge cards & question bank** | Selected drafts shown above; full collections unreleased |
+| **Knowledge cards & question bank** | In preparation; selected examples shown above |
 | **Seller University Skill** | Planned for course lookup and study assistance; unreleased |
 | **TikTok Shop · Walmart · Shopify** | Future platform directions; not yet available |
 
