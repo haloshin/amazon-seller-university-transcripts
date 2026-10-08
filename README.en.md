@@ -1,3 +1,5 @@
+<a name="amazon-seller-university-transcripts"></a>
+
 <h1 align="center">Amazon Seller University</h1>
 
 <p align="center"><strong>Course transcripts · Read, search and learn offline</strong></p>
