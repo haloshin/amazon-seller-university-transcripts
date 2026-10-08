@@ -2,6 +2,7 @@
 <p align="center"><strong>A learning library for marketplace sellers</strong></p>
 <p align="center">Official courses organized for reading, searching and offline study.<br>Starting with Amazon, with more to come.</p>
 <p align="center"><a href="https://haloshin.github.io/seller-university/#ui=en"><strong>Read online ↗</strong></a> &emsp; <a href="amazon/README.en.md"><strong>Amazon collection →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>Download ↓</strong></a></p>
+<p align="center"><strong>270 courses · 8 topics · Every course readable in Chinese</strong></p>
 <p align="center"><sub><a href="README.md">中文</a> · Compiled by <a href="https://github.com/haloshin">SHIN</a> · Unofficial project</sub></p>
 
 <br>
@@ -28,13 +29,86 @@ The first collection covers **Amazon Seller University**. Transcripts preserve t
 
 <br><br>
 
+## What do the 270 courses cover?
+
+The published Amazon collection spans **8 topics**, from opening an account and listing products to fulfillment, advertising, brands and international selling.
+
+| Topic | Courses | Examples of coverage |
+| :--- | ---: | :--- |
+| [Getting started](https://haloshin.github.io/seller-university/#topic=start&ui=en) | **12** | Seller Central, new-seller setup, payments dashboard |
+| [Listings & pricing](https://haloshin.github.io/seller-university/#topic=listings&ui=en) | **42** | Listings, images, video, variations, automated pricing |
+| [Fulfillment](https://haloshin.github.io/seller-university/#topic=fulfillment&ui=en) | **52** | FBA, seller fulfillment, AWD, MCF, returns, shipments |
+| [Ads & promotions](https://haloshin.github.io/seller-university/#topic=ads&ui=en) | **54** | Sponsored Products, targeting, budget rules, coupons |
+| [Brands & customer experience](https://haloshin.github.io/seller-university/#topic=brands&ui=en) | **30** | Brand Registry, A+ Content, reviews, brand protection |
+| [Compliance & account health](https://haloshin.github.io/seller-university/#topic=compliance&ui=en) | **30** | Selling policies, restricted products, violations |
+| [B2B & business analytics](https://haloshin.github.io/seller-university/#topic=business&ui=en) | **31** | Business credentials, negotiated pricing, Brand Analytics |
+| [Global selling](https://haloshin.github.io/seller-university/#topic=global&ui=en) | **19** | Marketplaces, cross-border listings, fulfillment, payments |
+
+[![Course library with topic, language and keyword filters; Chinese UI shown](assets/library-preview.jpg)](https://haloshin.github.io/seller-university/#view=library&ui=en)
+
+<sub>Topics and Chinese navigation titles are editorial. Course pages retain official titles. Counts come from the current <a href="amazon/catalog.json">catalog</a>, not the entire official course offering.</sub>
+
+<br><br>
+
+## Start with a course that fits your next step
+
+| Your starting point | Try this course |
+| :--- | :--- |
+| Understand the selling process | [New-seller overview ↗](https://haloshin.github.io/seller-university/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=en_US&ui=en) |
+| Get your products listed | [Introduction to listing ↗](https://haloshin.github.io/seller-university/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=en_US&ui=en) |
+| Let Amazon fulfill orders | [Intro to FBA ↗](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en) |
+| Fulfill orders yourself | [Intro to seller fulfillment ↗](https://haloshin.github.io/seller-university/#view=course&id=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01&lang=en_US&ui=en) |
+
+**[Browse all courses →](https://haloshin.github.io/seller-university/#view=library&ui=en)** &emsp; [Markdown learning guide](amazon/LEARNING_GUIDE.md)
+
+<br><br>
+
 ## Find a course. Settle into reading.
 
 Browse topics, search titles and full text, switch languages, adjust text size and continue through related courses. Chinese-audio transcripts and translations from English are labeled separately.
 
 [![English FBA course with language switching and a topic directory](assets/english-reader-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 
-See the [Amazon introduction](amazon/README.en.md) for topics, the full catalog and more reading examples.
+### Original audio and added translations are labeled separately
+
+**185 courses** include Chinese-audio transcripts; the other **85** have added Chinese translations. Every course retains an English transcript. That makes **540 reading texts across 270 courses**, not 540 separate courses.
+
+Translations follow the terminology used in existing Chinese-audio courses, preserving steps, examples, numbers and qualifications. Short paragraphs support continuous reading; full-text search helps you find a term in context.
+
+<details>
+<summary><strong>Preview a Chinese translation of an English-only course</strong></summary>
+
+[![AWD course translated into Chinese, with a labeled source and English switch](assets/chinese-translation-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=en)
+
+[Read the example ↗](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=en) · [Browse Chinese translations](https://haloshin.github.io/seller-university/#view=library&language=zh_CN_translation&ui=en)
+
+</details>
+
+<br><br>
+
+## A preview of what comes next
+
+**Knowledge-card and question-bank drafts exist; the full collections are unreleased.** These selected samples preview work already prepared. The current release download focuses on course transcripts, translations and captions.
+
+### Knowledge cards: make the relationships visible
+
+Three existing Chinese draft cards cover **advertising budgets, content experiments and product research**. They turn course concepts, comparisons and conditions into visual study material.
+
+[![Existing Chinese knowledge-card drafts: budget rules, image experiments and product research; full collection unreleased](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
+
+<sub>A collage of three existing cards; click to enlarge. These are project-created editorial visuals, not official course slides. The full card collection is not available for download.</sub>
+
+<br>
+
+### Course questions: check what you understood
+
+Existing questions pair **concept checks and practical judgments** with reference answers and course locations. These two Chinese examples ask which rating reflects the seller experience, and who handles customer service for MCF orders.
+
+[![Two existing Chinese question-bank items with reference answers and course timestamps; preview only](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
+
+[Read the first source course ↗](https://haloshin.github.io/seller-university/#view=course&id=fc47f5bc-7eb9-417f-89c0-b5155169f905&lang=en_US&ui=en) &emsp; [Read the second source course ↗](https://haloshin.github.io/seller-university/#view=course&id=fc0c4ad6-1655-4418-be86-bf00c8f7cf16&lang=en_US&ui=en)
+
+<sub>This is a layout preview of existing questions, not a released quiz interface. The full question bank is unreleased. Image timestamps refer to Chinese audio; check current official guidance before applying archived material.</sub>
 
 <br><br>
 
@@ -43,6 +117,13 @@ See the [Amazon introduction](amazon/README.en.md) for topics, the full catalog 
 **[Download the complete ZIP ↓](https://github.com/haloshin/seller-university/releases/latest)**, extract it and open **`index.html`** at the root. Course text, navigation and full-text search work offline without installation.
 
 ![Read online, browse offline and follow captions](assets/reading-formats.png)
+
+| Format | Use it for |
+| :--- | :--- |
+| **HTML reader** | Topic browsing, full-text search and language switching, including offline |
+| **Markdown** | Reading full courses on GitHub or in your preferred reader |
+| **Plain TXT** | Searching, copying passages and importing into reading tools |
+| **VTT captions** | Time references for original audio in a compatible player |
 
 You can also use the [Markdown guide](amazon/LEARNING_GUIDE.md) or plain TXT files. Original audio transcripts include VTT captions; translations include Markdown and TXT. Video files are not distributed. Course pages provide verified official course links and label unconfirmed entries.
 
@@ -75,9 +156,14 @@ git clone https://github.com/haloshin/seller-university.git
 
 ## Planned updates
 
-![Amazon is available; more platforms, knowledge cards, quizzes and a Skill are planned](assets/learning-roadmap.png)
+| Direction | Current status |
+| :--- | :--- |
+| **Amazon reading library** | Released: transcripts, Chinese translations, captions and offline reader |
+| **Knowledge cards & question bank** | Selected drafts shown above; full collections unreleased |
+| **Seller University Skill** | Planned for course lookup and study assistance; unreleased |
+| **TikTok Shop · Walmart · Shopify** | Future platform directions; not yet available |
 
-Future directions include **TikTok Shop, Walmart and Shopify**, alongside knowledge cards, a question bank and a Skill. **These are not yet released. The current download contains only the Amazon collection.** Scope and timing will follow future announcements.
+The aim is to extend course reading with visual review, practice and study assistance. Scope and timing will follow future announcements.
 
 **Star to bookmark · Watch → Custom → Releases for updates**<br>
 [Published releases](https://github.com/haloshin/seller-university/releases)

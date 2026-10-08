@@ -106,16 +106,31 @@ All 85 courses previously available only in English now include a **Chinese tran
 
 ## Planned updates
 
+**Preview existing drafts below. Full knowledge-card and question-bank collections are unreleased.**
+
+### Knowledge cards: make the relationships visible
+
+Three existing Chinese draft cards cover **advertising budgets, content experiments and product research**. They turn course concepts, comparisons and conditions into visual study material.
+
+[![Existing Chinese knowledge-card drafts: budget rules, image experiments and product research; full collection unreleased](../assets/knowledge-cards-preview.jpg)](../assets/knowledge-cards-preview.jpg)
+
+<sub>A collage of three existing cards; click to enlarge. These are project-created editorial visuals, not official course slides. The full card collection is not available for download.</sub>
+
 <br>
 
-![Amazon courses are available. TikTok Shop, Walmart, Shopify, knowledge cards, quizzes and a Skill are planned, not yet released](../assets/learning-roadmap.png)
+### Course questions: check what you understood
+
+Existing questions pair **concept checks and practical judgments** with reference answers and course locations. These two Chinese examples ask which rating reflects the seller experience, and who handles customer service for MCF orders.
+
+[![Two existing Chinese question-bank items with reference answers and course timestamps; preview only](../assets/question-bank-preview.jpg)](../assets/question-bank-preview.jpg)
+
+[Read the first source course ↗](https://haloshin.github.io/seller-university/#view=course&id=fc47f5bc-7eb9-417f-89c0-b5155169f905&lang=en_US&ui=en) &emsp; [Read the second source course ↗](https://haloshin.github.io/seller-university/#view=course&id=fc0c4ad6-1655-4418-be86-bf00c8f7cf16&lang=en_US&ui=en)
+
+<sub>This is a layout preview of existing questions, not a released quiz interface. The full question bank is unreleased. Image timestamps refer to Chinese audio; check current official guidance before applying archived material.</sub>
 
 <br>
 
-**Knowledge cards, a question bank and a Skill are planned, not yet released.** TikTok Shop, Walmart and Shopify are future platform directions. The current download contains only Amazon course materials; scope and timing will follow future announcements.
-
-**Star to bookmark · Watch for updates**<br>
-Choose Watch → Custom → Releases for release notifications. [Published versions](https://github.com/haloshin/seller-university/releases)
+For the Skill and future platforms, see the [Seller University overview](../README.en.md#planned-updates). **Star to bookmark · Watch → Custom → Releases for updates.**
 
 <br><br>
 

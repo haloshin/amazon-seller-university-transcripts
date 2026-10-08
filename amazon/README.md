@@ -108,16 +108,31 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 
 ## 接下来的更新
 
+**先看已有样稿：知识卡和课程题库的完整内容尚未发布。**
+
+### 知识卡：把关键关系画出来
+
+从既有样稿中选出 **广告预算、内容测试、选品研究** 三张卡。把课程中的概念、对照关系和判断条件放进具体场景，作为读完原文后的复习材料。
+
+[![知识卡样稿拼图：预算规则、图片对照测试、选品搜索策略；尚未发布完整卡库](../assets/knowledge-cards-preview.jpg)](../assets/knowledge-cards-preview.jpg)
+
+<sub>三张均为已有知识卡原图拼版，点击可放大。属于项目编辑整理，非官方课程原图；完整知识卡库尚未开放下载。</sub>
+
 <br>
 
-![课程转写稿现已提供；卖家大学 Skill 用于查课与辅助学习，课程题库用于按主题练习与自测；后两项规划中、尚未发布](../assets/learning-roadmap.png)
+### 课程题库：读过之后，能不能说清楚？
+
+已有题目围绕课程中的**概念辨析与业务判断**展开，并保留参考答案和原文位置。下面两道分别来自“评论与评分的最佳实践”和“多渠道配送：运作方式”。
+
+[![题库样稿：区分卖家反馈评级、判断 MCF 客户服务职责；附参考答案与课程时间位置](../assets/question-bank-preview.jpg)](../assets/question-bank-preview.jpg)
+
+[查看第一题对应课程 ↗](https://haloshin.github.io/seller-university/#view=course&id=fc47f5bc-7eb9-417f-89c0-b5155169f905&lang=zh_CN&ui=zh) &emsp; [查看第二题对应课程 ↗](https://haloshin.github.io/seller-university/#view=course&id=fc0c4ad6-1655-4418-be86-bf00c8f7cf16&lang=zh_CN&ui=zh)
+
+<sub>这是已有题目和参考答案的排版预览，不是已经上线的答题界面。完整题库尚未发布；示例依据归档课程，实际运营请核对当前官方说明。</sub>
 
 <br>
 
-**知识卡、课程题库与 Skill 均为规划中，尚未发布。** TikTok Shop、Walmart、Shopify 是后续平台方向；当前包仅包含 Amazon 课程资料，具体安排以后续公告为准。
-
-**Star 收藏项目 · Watch 订阅更新**<br>
-在 Watch → Custom → Releases 中选择版本通知。[查看已发布版本](https://github.com/haloshin/seller-university/releases)
+Skill 与更多平台方向见 [Seller University 总览](../README.md#接下来的更新)。**Star 收藏 · Watch → Custom → Releases 订阅后续版本。**
 
 <br><br>
 

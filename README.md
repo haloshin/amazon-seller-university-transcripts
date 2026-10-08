@@ -2,6 +2,7 @@
 <p align="center"><strong>多平台卖家学习库</strong></p>
 <p align="center">把官方课程整理成可阅读、可检索、可离线学习的资料。<br>从 Amazon 开始，持续整理。</p>
 <p align="center"><a href="https://haloshin.github.io/seller-university/"><strong>开始阅读 ↗</strong></a> &emsp; <a href="amazon/README.md"><strong>Amazon 专区 →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>下载资料 ↓</strong></a></p>
+<p align="center"><strong>270 门课程 · 8 个主题 · 全部可中文阅读</strong></p>
 <p align="center"><sub><a href="README.en.md">English</a> · <a href="https://github.com/haloshin">SHIN</a> 整理维护 · 非官方项目</sub></p>
 
 <br>
@@ -28,13 +29,86 @@
 
 <br><br>
 
+## 270 门课，覆盖哪些经营问题？
+
+从开店、发布商品、发货，到广告、品牌和全球经营，分成 **8 个主题**。下面列的是已收录内容，点击主题即可进入课程库。
+
+| 主题 | 课程数 | 可以查到什么 |
+| :--- | ---: | :--- |
+| [入门与账户](https://haloshin.github.io/seller-university/#topic=start&ui=zh) | **12** | 卖家平台入门、新卖家开店步骤、付款控制面板 |
+| [商品发布与定价](https://haloshin.github.io/seller-university/#topic=listings&ui=zh) | **42** | 商品信息、图片与视频、变体、自动定价 |
+| [物流与配送](https://haloshin.github.io/seller-university/#topic=fulfillment&ui=zh) | **52** | FBA、卖家自配送、AWD、MCF、退货与货件管理 |
+| [广告与促销](https://haloshin.github.io/seller-university/#topic=ads&ui=zh) | **54** | 商品推广、定向策略、预算规则、优惠券与促销 |
+| [品牌与买家体验](https://haloshin.github.io/seller-university/#topic=brands&ui=zh) | **30** | 品牌注册、A+ 内容、评论与评分、品牌保护 |
+| [合规与账户健康](https://haloshin.github.io/seller-university/#topic=compliance&ui=zh) | **30** | 销售政策、受限商品、账户状况、违规处理 |
+| [企业购与经营分析](https://haloshin.github.io/seller-university/#topic=business&ui=zh) | **31** | B2B、企业资质、协议价格、品牌分析报告 |
+| [全球开店](https://haloshin.github.io/seller-university/#topic=global&ui=zh) | **19** | 选择站点、跨境发布、配送、收款与扩展案例 |
+
+[![Amazon 课程库：按主题、语言与关键词筛选课程](assets/library-preview.jpg)](https://haloshin.github.io/seller-university/#view=library&ui=zh)
+
+<sub>主题与中文导航名由本项目整理；课程页保留官方原标题。数字来自当前 <a href="amazon/catalog.json">课程目录</a>，不是全部官方课程的总量。</sub>
+
+<br><br>
+
+## 第一次来，先挑一门试读
+
+| 你正在做什么 | 从这门课开始 |
+| :--- | :--- |
+| 准备开店，先建立整体认识 | [新卖家 5 分钟开店概览 ↗](https://haloshin.github.io/seller-university/#view=course&id=eaf6dccf-18fd-49ee-9b08-988472334a0b&lang=zh_CN&ui=zh) |
+| 已有商品，准备发布到亚马逊 | [商品发布入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3&lang=zh_CN&ui=zh) |
+| 想了解亚马逊代发货 | [亚马逊物流（FBA）入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh) |
+| 正在自己处理订单和发货 | [卖家自配送（FBM）入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01&lang=zh_CN&ui=zh) |
+
+**[浏览全部课程 →](https://haloshin.github.io/seller-university/#view=library&ui=zh)** &emsp; [Markdown 学习导航](amazon/学习导航.md)
+
+<br><br>
+
 ## 找得到，也读得下去
 
 按主题选课，搜索课程标题与全文；在阅读页切换中文、英文，调整字号，顺着同主题课程继续读。中文音轨稿与中文译文分别标明来源。
 
 [![Amazon 课程阅读：短段落、中文英文切换与同主题目录](assets/html-reader-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
 
-<sub>中英对照、课程主题、完整目录与更多阅读示例，见 <a href="amazon/README.md">Amazon 专区介绍</a>。</sub>
+### 中文音轨与补充译文，分别标清
+
+**185 门**有中文音轨转写，另外 **85 门**补充了中文译文；每门都保留英文稿。合计 **540 份阅读文本**，对应 270 门课程的中英文内容，不重复计算成课程数。
+
+译文参照现有中文音轨稿与术语库，保留课程的步骤、案例、数字和限定条件。正文按讲述节奏分段，方便连续阅读；也可以直接搜索一个术语，回到它在课程里的上下文。
+
+<details>
+<summary><strong>看看只有英文音轨的课程，如何用中文阅读</strong></summary>
+
+[![AWD 课程中文译文：可切回英文原文，页面单独标注译文来源](assets/chinese-translation-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh)
+
+[打开 AWD 中文译文 ↗](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh) · [查看全部中文译文](https://haloshin.github.io/seller-university/#view=library&language=zh_CN_translation&ui=zh)
+
+</details>
+
+<br><br>
+
+## 后续内容，先看真实样稿
+
+**知识卡与题库已有样稿，完整内容尚未发布。** 下面展示的是从已有成果中挑选的预告，当前版本下载包仍以课程转写稿、译文与字幕为主。
+
+### 知识卡：把关键关系画出来
+
+从既有样稿中选出 **广告预算、内容测试、选品研究** 三张卡。把课程中的概念、对照关系和判断条件放进具体场景，作为读完原文后的复习材料。
+
+[![知识卡样稿拼图：预算规则、图片对照测试、选品搜索策略；尚未发布完整卡库](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
+
+<sub>三张均为已有知识卡原图拼版，点击可放大。属于项目编辑整理，非官方课程原图；完整知识卡库尚未开放下载。</sub>
+
+<br>
+
+### 课程题库：读过之后，能不能说清楚？
+
+已有题目围绕课程中的**概念辨析与业务判断**展开，并保留参考答案和原文位置。下面两道分别来自“评论与评分的最佳实践”和“多渠道配送：运作方式”。
+
+[![题库样稿：区分卖家反馈评级、判断 MCF 客户服务职责；附参考答案与课程时间位置](assets/question-bank-preview.jpg)](assets/question-bank-preview.jpg)
+
+[查看第一题对应课程 ↗](https://haloshin.github.io/seller-university/#view=course&id=fc47f5bc-7eb9-417f-89c0-b5155169f905&lang=zh_CN&ui=zh) &emsp; [查看第二题对应课程 ↗](https://haloshin.github.io/seller-university/#view=course&id=fc0c4ad6-1655-4418-be86-bf00c8f7cf16&lang=zh_CN&ui=zh)
+
+<sub>这是已有题目和参考答案的排版预览，不是已经上线的答题界面。完整题库尚未发布；示例依据归档课程，实际运营请核对当前官方说明。</sub>
 
 <br><br>
 
@@ -43,6 +117,13 @@
 **[下载完整 ZIP ↓](https://github.com/haloshin/seller-university/releases/latest)**，解压后打开根目录的 **`index.html`**。课程正文、目录和全文搜索可离线使用，无需安装软件。
 
 ![在线阅读、离线查阅、字幕对照](assets/reading-formats.png)
+
+| 资料形式 | 适合怎样使用 |
+| :--- | :--- |
+| **HTML 阅读版** | 浏览主题、全文搜索、中英切换，解压即可离线读 |
+| **Markdown** | 直接在 GitHub 或自己的阅读器里看完整课程 |
+| **TXT 全文** | 快速检索、复制段落、导入个人阅读工具 |
+| **VTT 字幕** | 原音轨的时间对照，配合支持外部字幕的播放器使用 |
 
 也可以在 GitHub 阅读 [Markdown 学习导航](amazon/学习导航.md)，或使用课程 TXT。原音轨稿附 VTT 字幕，译文提供 Markdown 与 TXT；本项目不提供视频文件，课程页提供逐课官方链接，并标明尚未确认的入口。
 
@@ -77,9 +158,14 @@ git clone https://github.com/haloshin/seller-university.git
 
 ## 接下来的更新
 
-![Amazon 课程已上线；更多平台与知识卡、题库、Skill 规划中](assets/learning-roadmap.png)
+| 内容方向 | 当前状态 |
+| :--- | :--- |
+| **Amazon 课程阅读库** | 已发布：原语言转写、中文译文、字幕与离线阅读 |
+| **知识卡与课程题库** | 本页展示精选样稿；完整内容尚未发布 |
+| **Seller University Skill** | 计划用于查课与辅助学习，尚未发布 |
+| **TikTok Shop · Walmart · Shopify** | 后续平台方向，尚未上线 |
 
-后续计划整理 **TikTok Shop、Walmart、Shopify** 的学习资料，并探索知识卡、题库和 Skill。**这些内容尚未发布，当前下载包只包含 Amazon 板块。** 具体范围与安排以后续公告为准。
+希望从“读课程”逐步延伸到“看知识卡、做练习、辅助学习”。具体范围与安排以后续公告为准。
 
 **Star 收藏项目 · Watch 订阅版本更新**<br>
 在 Watch → Custom → Releases 中选择版本通知。[查看已发布版本](https://github.com/haloshin/seller-university/releases)
