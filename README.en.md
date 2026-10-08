@@ -73,7 +73,7 @@ Start with the question you are working on.
 
 ## Read a real excerpt
 
-The English FBA introduction in the reader. Caption line breaks are grouped into reading paragraphs without changing the original wording or order. English defaults to 17px; Chinese uses 16px with a two-character first-line indent. Switch audio transcripts, adjust the text size or download a course from the toolbar.
+The English FBA introduction in the reader. Caption line breaks are grouped into reading paragraphs without changing the original wording or order. The reader uses system serif fonts, a column up to 720px wide and clear paragraph spacing. English defaults to 17px; Chinese uses 16px with a two-character first-line indent. Switch audio transcripts, adjust the text size or download a course from the toolbar.
 
 [![English FBA transcript: original text, audio-language tabs and course navigation](assets/english-reader-preview.jpg)](https://haloshin.github.io/amazon-seller-university-transcripts/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 

@@ -143,7 +143,7 @@ mark { background:#ffe3b9; color:var(--ink); padding:1px 2px; }
 .breadcrumb { font-size:13px; color:var(--muted); margin-bottom:24px; display:flex; gap:12px; align-items:center; flex-wrap:wrap; }
 .breadcrumb a { color:var(--muted); }
 .breadcrumb a:hover { color:var(--accent); }
-.reading-shell { max-width:760px; margin:0 auto; }
+.reading-shell { max-width:720px; margin:0 auto; }
 .course-heading { padding:0 0 23px; border-bottom:1px solid var(--line); }
 .course-heading .eyebrow { color:var(--accent); }
 .course-heading h1 { font-size:36px; line-height:1.4; margin:18px 0; letter-spacing:-.025em; overflow-wrap:anywhere; }
@@ -167,8 +167,8 @@ mark { background:#ffe3b9; color:var(--ink); padding:1px 2px; }
 .reader-note p:last-child { margin-bottom:0; }
 .credit-line { font-size:13px; line-height:1.9; color:var(--muted); padding:28px 0; margin:0; border-top:1px solid var(--line); }
 .credit-line a { text-decoration:underline; text-underline-offset:4px; }
-.transcript { font-family:var(--sans); font-size:var(--reader-size); line-height:1.85; overflow-wrap:anywhere; padding:0 0 40px; }
-.transcript p { margin:0 0 1em; white-space:pre-wrap; }
+.transcript { font-family:var(--serif); font-size:var(--reader-size); line-height:1.85; overflow-wrap:anywhere; padding:0 0 40px; }
+.transcript p { margin:0 0 1.5em; white-space:pre-wrap; }
 .transcript[lang="zh-CN"] p:not(.transcript-list-item) { text-indent:2em; }
 .transcript[lang="en"] { font-family:var(--serif); font-size:calc(var(--reader-size) + 1px); line-height:1.85; }
 .transcript p:last-child { margin-bottom:0; }
