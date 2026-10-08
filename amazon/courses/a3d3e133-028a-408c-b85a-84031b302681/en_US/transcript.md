@@ -38,4 +38,6 @@ Welcome to this Seller University module on the Amazon Generic Product Policy. I
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a3d3e133-028a-408c-b85a-84031b302681) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to product restrictions, categories, and conditions](../../../courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/transcript.md) · [Next in topic：Lithium batteries overview](../../../courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/transcript.md)

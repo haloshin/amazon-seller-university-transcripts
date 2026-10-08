@@ -28,4 +28,6 @@ Amazon Custom lets you add customization options to your product listings, allow
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7c3e3a18-7515-47f2-bc42-54af1aa8ac04) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Add offers to products already in Amazon's catalog](../../../courses/8b11c55d-c853-4773-be8d-acd872ca08c1/en_US/transcript.md) · [Next in topic：Amazon Handmade: Product Images](../../../courses/3181cd9b-1483-4039-94e4-25436be0ef54/en_US/transcript.md)

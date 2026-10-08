@@ -49,4 +49,6 @@ Welcome to our training on getting recommendations for new and existing case pac
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b8ed006d-9b8d-4f30-8c5a-cde93aefb005) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Generate return reports](../../../courses/1bad2006-82d9-41b5-aacd-549f35e751d4/en_US/transcript.md) · [Next in topic：Guide to shipping settings](../../../courses/98f10d9f-bf23-418f-b4bb-370a640aef33/en_US/transcript.md)

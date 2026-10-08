@@ -49,4 +49,6 @@ Welcome to Sponsored Brands. In this video, you'll learn how to create and manag
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=476c18b1-9666-4f27-ad6b-b29156467146) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Five key Sponsored Products reports for campaign optimization](../../../courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/en_US/transcript.md) · [Next in topic：How to add a custom image to your Sponsored Brands campaign](../../../courses/f69b665b-cb6b-4205-a4f4-b016c77c8375/en_US/transcript.md)

@@ -39,4 +39,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e1741fe5-1d91-4595-937d-8bfe4456a771) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：配置退货设置（中文译文）](../../../translations/646406cf-7b11-45ec-896e-90bf3578c8c3/zh_CN/translation.md) · [同主题下一篇：FBA 的优势与费用](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/zh_CN/transcript.md)

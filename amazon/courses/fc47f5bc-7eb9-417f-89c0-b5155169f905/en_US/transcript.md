@@ -54,4 +54,6 @@ Welcome to our training on best practices for getting reviews and ratings in thi
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=fc47f5bc-7eb9-417f-89c0-b5155169f905) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Best practices for creating brand names and logos](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/en_US/transcript.md) · [Next in topic：Block counterfeits with Project Zero](../../../courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md)

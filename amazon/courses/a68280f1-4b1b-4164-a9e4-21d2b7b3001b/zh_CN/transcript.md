@@ -73,4 +73,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=a68280f1-4b1b-4164-a9e4-21d2b7b3001b) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：展示广告入门](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/zh_CN/transcript.md) · [同主题下一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（中文译文）](../../../translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.md)

@@ -82,4 +82,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=4b8130d1-db2f-4c0b-bf8a-69f1989754a6) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：创建首个商品推广广告活动](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/zh_CN/transcript.md) · [同主题下一篇：使用品牌推广为品牌旗舰店首页引流（中文译文）](../../../translations/69bf0781-44b0-42b7-8ed0-92e70f4873fa/zh_CN/translation.md)

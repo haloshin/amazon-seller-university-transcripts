@@ -91,4 +91,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d5417511-59df-4138-b6b6-62fecde7da70) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Resolve a product-matching error](../../../courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/en_US/transcript.md) · [Next in topic：Start selling subscription boxes](../../../courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/transcript.md)

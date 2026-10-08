@@ -41,4 +41,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=9bed00ee-586b-4d24-9e75-8868368fa8fb) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：跟踪 AWD 货件（中文译文）](../../../translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.md) · [同主题下一篇：使用配送模板](../../../courses/46232ee2-4408-458c-9540-7afc2f650ffe/zh_CN/transcript.md)

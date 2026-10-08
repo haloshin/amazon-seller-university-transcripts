@@ -76,4 +76,6 @@ In this video, we'll help you choose the best budgeting strategy for your Amazon
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b576fddc-129d-4ce1-8c71-15e515b7f551) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Reaching high intent shoppers with Sponsored Brands and Brand Stores](../../../courses/dcafc422-e0f3-45da-8525-66f0619c1d7b/en_US/transcript.md) · [Next in topic：Showcasing your Brand Store highlights with Sponsored Brands](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md)

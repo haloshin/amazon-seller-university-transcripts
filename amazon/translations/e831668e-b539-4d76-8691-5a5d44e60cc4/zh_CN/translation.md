@@ -122,4 +122,6 @@ GTIN 可确保商品在买卖过程中得到唯一识别，也有助于对运输
 
 [下载中文 TXT](translation.txt) · [对照英文原文](../../../courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e831668e-b539-4d76-8691-5a5d44e60cc4) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。

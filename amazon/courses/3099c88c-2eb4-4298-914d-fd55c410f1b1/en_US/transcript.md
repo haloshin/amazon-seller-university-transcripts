@@ -41,4 +41,6 @@ Welcome to our Send Your First FBA Shipment Training. We'll help you get started
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=3099c88c-2eb4-4298-914d-fd55c410f1b1) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon: Create a case-pack template](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/en_US/transcript.md) · [Next in topic：Set ASIN-specific handling time](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/en_US/transcript.md)

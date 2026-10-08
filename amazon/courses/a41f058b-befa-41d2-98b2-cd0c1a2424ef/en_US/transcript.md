@@ -59,4 +59,6 @@ Welcome to our training Ship and Fulfill using third-party apps. Amazon sellers 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a41f058b-befa-41d2-98b2-cd0c1a2424ef) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Set order-handling capacity](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/en_US/transcript.md) · [Next in topic：Track your Amazon Warehousing and Distribution (AWD) shipments](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md)

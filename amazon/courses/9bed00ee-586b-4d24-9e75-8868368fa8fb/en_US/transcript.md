@@ -40,4 +40,6 @@ Amazon Buy Shipping is a tool available to sellers who handle fulfillment of the
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=9bed00ee-586b-4d24-9e75-8868368fa8fb) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Track your Amazon Warehousing and Distribution (AWD) shipments](../../../courses/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/en_US/transcript.md) · [Next in topic：Use shipping templates](../../../courses/46232ee2-4408-458c-9540-7afc2f650ffe/en_US/transcript.md)

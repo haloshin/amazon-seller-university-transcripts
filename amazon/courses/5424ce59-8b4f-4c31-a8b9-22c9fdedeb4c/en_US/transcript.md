@@ -194,4 +194,6 @@ Welcome to our training on how to apply
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：3.2 Prevent or resolve product detail page policy violations](../../../courses/2526203a-97da-4c0a-a0bb-26238ec18af9/en_US/transcript.md)

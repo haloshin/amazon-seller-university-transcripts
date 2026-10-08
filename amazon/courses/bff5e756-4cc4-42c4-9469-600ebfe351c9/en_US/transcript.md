@@ -51,4 +51,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=bff5e756-4cc4-42c4-9469-600ebfe351c9) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Register a trademark through IP Accelerator](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/en_US/transcript.md) · [Next in topic：Tips to reduce A-to-z Guarantee Claims and returns](../../../courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/en_US/transcript.md)

@@ -46,4 +46,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e4f83254-a95d-4ca5-b8dd-763a41e9b566) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：通用商品政策：解决错误代码 5886/7](../../../courses/2a483f34-bc0a-4996-852e-d80e9127ed19/zh_CN/transcript.md) · [同主题下一篇：自动定价入门](../../../courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/zh_CN/transcript.md)

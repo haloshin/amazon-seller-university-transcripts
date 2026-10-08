@@ -186,7 +186,7 @@ git clone https://github.com/haloshin/seller-university.git
 
 <br>
 
-- **看原视频** — [Amazon Seller University 官方学习入口](https://sell.amazon.com/learn/seller-university)，按课程原标题查找；部分内容需 Seller Central 登录。
+- **看原视频** — 在课程页点击“观看本课原视频”；260 门已匹配官方归档版本，10 门暂未确认有效页面。详见[来源说明](docs/SOURCES.md)。
 - **反馈错字或漏句** — [提交纠错](https://github.com/haloshin/seller-university/issues/new?template=correction.yml)，请附课程名、语言、时间位置和依据。
 
 <sub>资料范围：2026-07-27 归档课程。“中文音轨”为原中文讲解转写；“中文译文”为英文稿的 AI 辅助翻译与校对，非官方中文音轨。少量课程附有简短阅读说明。费用、政策和界面请核对当前官方页面。<a href="docs/SOURCES.md">来源说明</a> · <a href="../CONTRIBUTING.md">贡献说明</a></sub>

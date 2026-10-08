@@ -28,4 +28,6 @@ Welcome. In this video, you will learn about how to use the ASIN Status Report t
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d3d0d087-3961-48a3-94e8-ee3de21a05fc) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：North America Unified Account](../../../courses/46211203-fc45-483b-9166-d746869925e7/en_US/transcript.md) · [Next in topic：Selling in Japan](../../../courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md)

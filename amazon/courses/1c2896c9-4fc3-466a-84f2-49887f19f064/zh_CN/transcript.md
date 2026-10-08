@@ -19,4 +19,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=1c2896c9-4fc3-466a-84f2-49887f19f064) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Amazon Vine 评论如何提升新品曝光（中文译文）](../../../translations/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/zh_CN/translation.md) · [同主题下一篇：改进品牌旗舰店设计（中文译文）](../../../translations/6b90667d-d6c3-48af-97af-de027f1e5b13/zh_CN/translation.md)

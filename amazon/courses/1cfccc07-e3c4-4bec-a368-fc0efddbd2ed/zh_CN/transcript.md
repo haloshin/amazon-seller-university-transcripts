@@ -17,4 +17,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=1cfccc07-e3c4-4bec-a368-fc0efddbd2ed) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：选择卖家费用节省计划（中文译文）](../../../translations/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/zh_CN/translation.md) · [同主题下一篇：新卖家入门大礼包介绍](../../../courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/zh_CN/transcript.md)

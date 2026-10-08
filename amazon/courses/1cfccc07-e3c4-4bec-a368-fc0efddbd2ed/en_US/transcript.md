@@ -37,4 +37,6 @@ As a new seller, you'll need to provide tax information
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1cfccc07-e3c4-4bec-a368-fc0efddbd2ed) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Choosing your seller savings programs (video)](../../../courses/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/en_US/transcript.md) · [Next in topic：Intro to New Seller Incentives](../../../courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/en_US/transcript.md)

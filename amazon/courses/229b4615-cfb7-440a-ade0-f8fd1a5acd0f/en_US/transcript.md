@@ -50,4 +50,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=229b4615-cfb7-440a-ade0-f8fd1a5acd0f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Group and sell products as Virtual Bundles](../../../courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/en_US/transcript.md) · [Next in topic：How to add a shoppable image to your Store](../../../courses/1c2896c9-4fc3-466a-84f2-49887f19f064/en_US/transcript.md)

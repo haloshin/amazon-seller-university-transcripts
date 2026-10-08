@@ -20,4 +20,6 @@ The FBA Inventory page in Seller Central consolidates information about your FBA
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dc13afb6-3d0a-4937-b949-c2d0816cc934) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Shipping Settings Automation (SSA)](../../../courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/en_US/transcript.md) · [Next in topic：Introduction to Amazon Warehousing and Distribution (AWD)](../../../courses/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/en_US/transcript.md)

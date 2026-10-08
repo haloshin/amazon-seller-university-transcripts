@@ -42,4 +42,6 @@ Expand listings to Amazon.ca and Amazon.com.mx
 
 [下载中文 TXT](translation.txt) · [对照英文原文](../../../courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/transcript.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d440d209-5fc4-4e61-b13d-d582afdd5019) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。

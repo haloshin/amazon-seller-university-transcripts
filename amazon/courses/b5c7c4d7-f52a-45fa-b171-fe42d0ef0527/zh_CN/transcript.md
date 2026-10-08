@@ -93,4 +93,6 @@ A+商品描述通常在提交后的7个工作日内批准或拒绝。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b5c7c4d7-f52a-45fa-b171-fe42d0ef0527) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：批量匹配或创建商品信息与变体](../../../courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/zh_CN/transcript.md) · [同主题下一篇：管理所有库存页面概览](../../../courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/zh_CN/transcript.md)

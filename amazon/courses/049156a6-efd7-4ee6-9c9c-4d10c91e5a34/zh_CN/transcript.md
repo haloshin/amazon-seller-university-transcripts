@@ -93,4 +93,6 @@ BIL将自动从您使用该全球SKU进行销售的任何其他商店扣除该�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=049156a6-efd7-4ee6-9c9c-4d10c91e5a34) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：向加拿大发货（中文译文）](../../../translations/915791db-c5a1-4c02-ad04-d0c8a4b0211f/zh_CN/translation.md) · [同主题下一篇：美国卖家拓展国际市场的方法（中文译文）](../../../translations/59a08397-d4b4-4b33-9d38-e83d81329279/zh_CN/translation.md)

@@ -50,4 +50,6 @@ Amazon offers a variety of self-service advertising solutions.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=215d380c-b721-414b-87bb-282c7da60a11) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：AI Creative Solutions Prompting Best Practices](../../../courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md)

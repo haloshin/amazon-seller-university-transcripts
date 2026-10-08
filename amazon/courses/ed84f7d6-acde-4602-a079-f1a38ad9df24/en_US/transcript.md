@@ -46,4 +46,6 @@ Welcome to our training on how to get paid when selling globally in the Amazon S
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=ed84f7d6-acde-4602-a079-f1a38ad9df24) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：From Local to Canada: How DTocs Used Amazon Global Selling to Expand](../../../courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/transcript.md) · [Next in topic：Global Expansion: A Guide to Cross-Border Logistic](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md)

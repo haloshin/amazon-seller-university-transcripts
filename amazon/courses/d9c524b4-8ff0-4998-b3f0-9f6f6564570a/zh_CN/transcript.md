@@ -48,4 +48,6 @@ B2B销售机会都可帮助您满足企业买家的需求。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d9c524b4-8ff0-4998-b3f0-9f6f6564570a) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：了解亚马逊企业购功能](../../../courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/zh_CN/transcript.md) · [同主题下一篇：生成库存报告](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/zh_CN/transcript.md)

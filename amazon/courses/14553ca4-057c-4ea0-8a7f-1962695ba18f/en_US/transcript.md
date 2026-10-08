@@ -53,4 +53,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=14553ca4-057c-4ea0-8a7f-1962695ba18f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Block counterfeits with Project Zero](../../../courses/c64157c2-1aa1-4a23-85ce-007980b079e0/en_US/transcript.md) · [Next in topic：Brand guide for global Amazon Selling Partners with step by step Brand Transfer Guidance](../../../courses/cd9b383b-e1d2-49be-a0d3-e5619543e97b/en_US/transcript.md)

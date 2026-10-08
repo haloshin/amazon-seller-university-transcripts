@@ -18,4 +18,6 @@ Are you eligible for Amazon Ads Promotions? They can be useful for maximizing ca
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d7baf097-5cff-4173-82db-e2b9dc08b097) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to optimize your Sponsored Products campaigns: Targeting, bidding, and budget](../../../courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md) · [Next in topic：How to set up your Amazon Ads account](../../../courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/en_US/transcript.md)

@@ -44,4 +44,6 @@ Automate pricing lets you dynamically adjust your prices within set limits to he
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b8e647bf-63c0-4663-bf13-ecd577c4d60f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Automate Pricing: Apply pricing rules](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/en_US/transcript.md) · [Next in topic：Automate Pricing: Create custom pricing rules](../../../courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/en_US/transcript.md)

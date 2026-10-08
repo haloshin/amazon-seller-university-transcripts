@@ -47,4 +47,6 @@ Welcome to the introduction to Amazon Ads. In this video, you'll learn how you c
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0eaf340b-118f-4faa-b69f-18b3d2a8ef74) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to promoting your products](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/en_US/transcript.md) · [Next in topic：Introduction to Amazon Ads Campaign Manager Budget Rules](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md)

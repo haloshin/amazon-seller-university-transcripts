@@ -41,4 +41,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e40f5909-c8db-47fc-9acd-09dfabe4813c) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：品牌分析入门](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/zh_CN/transcript.md) · [同主题下一篇：业务报告入门](../../../courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/zh_CN/transcript.md)

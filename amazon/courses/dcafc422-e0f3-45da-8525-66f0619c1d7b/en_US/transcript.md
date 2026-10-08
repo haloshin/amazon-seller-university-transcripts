@@ -32,4 +32,6 @@ In this video, you will learn how to guide shoppers to sub-pages in your brand s
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dcafc422-e0f3-45da-8525-66f0619c1d7b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Products page](../../../courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md) · [Next in topic：Set up your budgets](../../../courses/b576fddc-129d-4ce1-8c71-15e515b7f551/en_US/transcript.md)

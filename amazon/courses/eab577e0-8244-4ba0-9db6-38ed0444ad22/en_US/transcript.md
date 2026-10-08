@@ -36,4 +36,6 @@ A+ content helps brand owners showcase their products and tell their brand story
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=eab577e0-8244-4ba0-9db6-38ed0444ad22) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to set up your Brand Store on Amazon](../../../courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/transcript.md) · [Next in topic：Intro to Stores and A+ Content](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/transcript.md)

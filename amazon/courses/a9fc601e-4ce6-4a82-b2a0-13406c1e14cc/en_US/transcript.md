@@ -17,4 +17,6 @@ Your business is running smoothly right where you are, but you've got a case, ac
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a9fc601e-4ce6-4a82-b2a0-13406c1e14cc) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Global Selling - Sell Internationally - Step 1 of 4 - Decide Where and What to Sell](../../../courses/17c191ba-5930-45ee-aff5-76d3965a8d11/en_US/transcript.md) · [Next in topic：Amazon Global Selling - Sell Internationally - Step 3 of 4 - Ship and Fulfill](../../../courses/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/en_US/transcript.md)

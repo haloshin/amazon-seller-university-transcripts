@@ -49,4 +49,6 @@ Account Health控制面板,以查看通知。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=2a03a8b2-2dfe-4295-9d38-3a20f6d10581) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：库存缺陷与赔偿门户（IDR）概览](../../../courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/zh_CN/transcript.md) · [同主题下一篇：关联承运商账户并使用自己的 UPS/FedEx 运价](../../../courses/b70e661e-4dae-45be-913d-a46ad2fe147e/zh_CN/transcript.md)

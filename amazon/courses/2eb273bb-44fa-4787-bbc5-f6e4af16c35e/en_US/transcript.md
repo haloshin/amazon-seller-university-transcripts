@@ -11,4 +11,6 @@ You may wanna change the budget of your existing sponsored products campaigns at
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2eb273bb-44fa-4787-bbc5-f6e4af16c35e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to change your Sponsored Brands campaign budget](../../../courses/68cfdcde-f00d-46b7-8bd7-9b1c871d5533/en_US/transcript.md) · [Next in topic：How to create a Deal](../../../courses/54789ffd-acce-49b9-afb2-7873981bf0df/en_US/transcript.md)

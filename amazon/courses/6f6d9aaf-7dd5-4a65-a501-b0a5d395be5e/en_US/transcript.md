@@ -72,4 +72,6 @@ In the Pricing Rules page in Seller Central, you will see a list of all the pred
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Apply pricing rules in bulk](../../../courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/en_US/transcript.md) · [Next in topic：Automate Pricing: Change or remove a pricing rule](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/transcript.md)

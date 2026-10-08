@@ -24,4 +24,6 @@ In step four, you will be confirming carrier and pallet information. Note that y
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=5f6aa41f-9467-425a-80ad-0b62264c8769) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon – Step 3: Print box labels](../../../courses/d7f37f61-9560-4e02-b672-9747aba417e0/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 5: Print pallet labels](../../../courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/en_US/transcript.md)

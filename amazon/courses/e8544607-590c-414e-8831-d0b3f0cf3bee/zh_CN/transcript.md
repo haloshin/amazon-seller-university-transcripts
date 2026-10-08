@@ -39,4 +39,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e8544607-590c-414e-8831-d0b3f0cf3bee) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用第三方应用发布商品](../../../courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/zh_CN/transcript.md) · [同主题下一篇：管理您的实验：解读商品内容测试结果](../../../courses/28728898-9218-4f5d-8116-abf46b9ef834/zh_CN/transcript.md)

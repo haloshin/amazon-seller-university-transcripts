@@ -26,4 +26,6 @@ Hey, I'm Michael Koka, Head of Digital Commerce at Revolution Nutrition. I scale
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f366511d-de14-4a25-b0a5-957ad76f014b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Sustainability Solutions Hub: Introduction](../../../courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/transcript.md)

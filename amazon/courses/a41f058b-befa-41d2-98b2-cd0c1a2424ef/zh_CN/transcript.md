@@ -72,4 +72,6 @@ ShipStation,ScanPower Boxt和Shippo,只是销售合作伙伴应用商店中提�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=a41f058b-befa-41d2-98b2-cd0c1a2424ef) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：设置订单处理能力](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md) · [同主题下一篇：跟踪 AWD 货件（中文译文）](../../../translations/cd799532-62ff-4f7a-9853-fa83a5fc6dc1/zh_CN/translation.md)

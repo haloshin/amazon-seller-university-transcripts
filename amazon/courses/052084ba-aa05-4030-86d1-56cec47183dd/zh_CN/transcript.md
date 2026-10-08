@@ -79,4 +79,6 @@ Customer Delivery Promise,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+
 [同主题上一篇：为指定 ASIN 设置备货时间](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/zh_CN/transcript.md) · [同主题下一篇：设置订单处理能力](../../../courses/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6/zh_CN/transcript.md)

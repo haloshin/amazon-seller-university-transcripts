@@ -36,4 +36,6 @@ Welcome to the Amazon Business Seller Series, Business Only offers module.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=be468b05-3e0c-4d53-9c5d-48309d236c5a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Brand Analytics: Top Search Terms report](../../../courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/en_US/transcript.md) · [Next in topic：Customer Review Insights overview](../../../courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/transcript.md)

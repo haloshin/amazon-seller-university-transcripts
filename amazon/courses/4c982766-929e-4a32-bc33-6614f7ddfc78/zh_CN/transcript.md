@@ -74,4 +74,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=4c982766-929e-4a32-bc33-6614f7ddfc78) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Kangaroo Hangers 使用 FBA 降低运营成本的案例（中文译文）](../../../translations/c565e074-7605-493c-ba93-119058ccca69/zh_CN/translation.md) · [同主题下一篇：亚马逊购买配送入门](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/transcript.md)

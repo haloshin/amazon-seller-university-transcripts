@@ -28,4 +28,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=71621b53-ef31-45c4-a87d-dfb3346d1a94) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：确定商品重量与尺寸](../../../courses/4c982766-929e-4a32-bc33-6614f7ddfc78/zh_CN/transcript.md) · [同主题下一篇：Amazon Shipping 入门](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/zh_CN/transcript.md)

@@ -119,4 +119,6 @@ You can review country specific requirements here,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=a93ec23a-eb76-466a-a8a7-fbcdb46ee647) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：完成品牌注册后的下一步](../../../courses/43146fdf-a110-4056-971d-c287016104f5/zh_CN/transcript.md) · [同主题下一篇：通过 IP Accelerator 注册商标](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/zh_CN/transcript.md)

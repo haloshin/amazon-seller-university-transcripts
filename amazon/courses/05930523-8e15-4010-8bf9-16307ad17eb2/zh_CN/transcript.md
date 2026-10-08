@@ -86,4 +86,6 @@ Duplicate A Content。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=05930523-8e15-4010-8bf9-16307ad17eb2) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：管理您的实验：规划商品内容测试](../../../courses/16da6b21-dffe-4e57-b001-237ff67ed988/zh_CN/transcript.md) · [同主题下一篇：掌握商品信息 AI 工具：快速优化指南（中文译文）](../../../translations/6253ba22-f037-419d-95e5-8d6b921e885f/zh_CN/translation.md)

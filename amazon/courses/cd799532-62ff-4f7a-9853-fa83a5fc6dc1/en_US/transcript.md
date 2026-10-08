@@ -22,4 +22,6 @@ After creating your Amazon warehousing and distribution shipment, order or reple
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=cd799532-62ff-4f7a-9853-fa83a5fc6dc1) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Ship and fulfill using third-party apps](../../../courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/en_US/transcript.md) · [Next in topic：Use Amazon Buy Shipping for seller-fulfilled orders](../../../courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/en_US/transcript.md)

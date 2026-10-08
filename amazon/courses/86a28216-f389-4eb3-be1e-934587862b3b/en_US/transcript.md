@@ -14,4 +14,6 @@ Introducing Global Store, a simplified way to expand to new destinations for FBA
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=86a28216-f389-4eb3-be1e-934587862b3b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to get started with Amazon Global Selling](../../../courses/12577640-c955-43e6-9a2d-901c52aebad1/en_US/transcript.md) · [Next in topic：North America Unified Account](../../../courses/46211203-fc45-483b-9166-d746869925e7/en_US/transcript.md)

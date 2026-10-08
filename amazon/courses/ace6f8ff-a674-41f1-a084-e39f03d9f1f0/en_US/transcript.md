@@ -61,4 +61,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=ace6f8ff-a674-41f1-a084-e39f03d9f1f0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Creating culturally respectful listings](../../../courses/cf32d928-86d3-4cd9-a835-de753e88cda1/en_US/transcript.md) · [Next in topic：Fix inactive or suppressed listings](../../../courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/en_US/transcript.md)

@@ -58,4 +58,6 @@ Ready to expand your brand's presence and connect with high-value audiences?
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Understanding Spend-Based Promotions](../../../courses/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/en_US/transcript.md) · [Next in topic：When to use broad match in your keyword targeting](../../../courses/c2fca831-79dc-4abe-a058-acee304a05d0/en_US/transcript.md)

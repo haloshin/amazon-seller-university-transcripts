@@ -59,4 +59,6 @@ Shipping Settings Automation。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=c4530fd9-f439-456b-941c-ca653f1e7fb2) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Send to Amazon 入门](../../../courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/zh_CN/transcript.md) · [同主题下一篇：FBA 库存页面入门](../../../courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/zh_CN/transcript.md)

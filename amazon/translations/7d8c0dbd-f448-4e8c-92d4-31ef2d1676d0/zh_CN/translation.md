@@ -34,4 +34,6 @@ Use audience bid boosting to enhance your Sponsored Brands campaigns
 
 [下载中文 TXT](translation.txt) · [对照英文原文](../../../courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。

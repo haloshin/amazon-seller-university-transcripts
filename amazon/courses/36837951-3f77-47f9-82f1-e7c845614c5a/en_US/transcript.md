@@ -74,4 +74,6 @@ Welcome to our overview of Amazon's policy for listing dietary supplements on Am
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=36837951-3f77-47f9-82f1-e7c845614c5a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Dangerous goods overview](../../../courses/9db093ea-ff03-4325-ae88-01b4da66993a/en_US/transcript.md) · [Next in topic：Help with Battery Questions](../../../courses/7091e147-d59e-4eac-9648-65ff3bd2084d/en_US/transcript.md)

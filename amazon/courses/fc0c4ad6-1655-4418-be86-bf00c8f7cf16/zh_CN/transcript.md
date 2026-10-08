@@ -53,4 +53,6 @@ CREATE FULFILLMENT ORDERS,以了解如何创建MCF订单。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=fc0c4ad6-1655-4418-be86-bf00c8f7cf16) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：多渠道配送：创建配送订单](../../../courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/zh_CN/transcript.md) · [同主题下一篇：新版卖家平台：管理货件](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/zh_CN/transcript.md)

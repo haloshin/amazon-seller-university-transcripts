@@ -6,6 +6,8 @@ Seller University 是 SHIN 整理维护的多平台卖家学习库，目前仅�
 
 本项目由 SHIN 独立整理与维护，未声称得到 Amazon 的认证、授权发布或背书。转写稿、字幕及保留的课程表达不因进入 GitHub 而获得新的开放许可。
 
+**授权状态：截至 2026-10-08，尚未取得原课程权利人对本项目完整转写、翻译及再分发的明确书面许可。** 公开访问、署名与非商业目的不自动构成该许可；详见 [来源与条款](amazon/docs/SOURCES.md#再发布授权)。
+
 ## 分享与署名
 
 **分享请保留课程来源、SHIN 整理署名和原仓库链接；请勿冒充原创或 Amazon 官方发布。** 推荐分享原仓库链接，便于读者获取后续更新。
@@ -33,6 +35,8 @@ Seller University 是 SHIN 整理维护的多平台卖家学习库，目前仅�
 TXT 和 VTT 保持为课程文本及字幕，非课程的署名与说明集中展示在 Markdown / HTML 阅读页和随包[使用说明](使用说明.txt)中。
 
 ## Attribution and reuse
+
+As of October 8, 2026, express written permission for this project’s full-course transcription, translation and redistribution has not been obtained. Public access, attribution and noncommercial intent do not automatically grant that permission.
 
 Please retain the course source, SHIN's editorial credit and the original repository link when sharing. Do not falsely claim SHIN's contribution as your own or imply Amazon endorsement. Sharing the original repository link helps readers find updates.
 

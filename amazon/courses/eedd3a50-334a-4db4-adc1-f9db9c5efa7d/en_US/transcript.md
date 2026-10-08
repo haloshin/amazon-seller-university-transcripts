@@ -30,4 +30,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=eedd3a50-334a-4db4-adc1-f9db9c5efa7d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Why early reviews through Amazon Vine helped The Happy Start succeed](../../../courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/transcript.md)

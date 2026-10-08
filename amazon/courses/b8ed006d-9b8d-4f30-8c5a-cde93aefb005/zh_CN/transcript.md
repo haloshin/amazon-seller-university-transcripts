@@ -146,4 +146,6 @@ Case Pack Product Opportunities 工具的任意部分时,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b8ed006d-9b8d-4f30-8c5a-cde93aefb005) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：生成退货报告](../../../courses/1bad2006-82d9-41b5-aacd-549f35e751d4/zh_CN/transcript.md) · [同主题下一篇：配送设置指南](../../../courses/98f10d9f-bf23-418f-b4bb-370a640aef33/zh_CN/transcript.md)

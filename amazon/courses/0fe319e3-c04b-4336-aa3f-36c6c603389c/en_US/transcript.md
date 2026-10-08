@@ -82,4 +82,6 @@ A+ content helps showcase your brand and educate customers using rich media on p
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0fe319e3-c04b-4336-aa3f-36c6c603389c) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：Benefits of enrolling in Amazon Brand Registry](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/transcript.md)

@@ -47,4 +47,6 @@ Welcome to our training on how to set ASIN specific handling times.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=15f2f395-36f2-47a9-8cd2-17d6641a7077) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send your first FBA shipment](../../../courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/en_US/transcript.md) · [Next in topic：Set one-day default handling time](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/en_US/transcript.md)

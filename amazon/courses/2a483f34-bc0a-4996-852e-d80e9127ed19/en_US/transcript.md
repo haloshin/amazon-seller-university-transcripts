@@ -25,4 +25,6 @@ Welcome to this Seller University module on the generic product policy error cod
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2a483f34-bc0a-4996-852e-d80e9127ed19) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Generic Product Policy: Resolve error code 5885](../../../courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md) · [Next in topic：How to use feedback to improve product listings](../../../courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/en_US/transcript.md)

@@ -15,4 +15,6 @@ Keyword match types determine how closely the keywords you bid on match the shop
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e4ebc7c1-8b4c-443a-af13-49a4218562af) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：When to use broad match in your keyword targeting](../../../courses/c2fca831-79dc-4abe-a058-acee304a05d0/en_US/transcript.md) · [Next in topic：Why Sellers should be spending on Amazon Ads](../../../courses/604ec123-3bb9-4808-a56c-38270532352a/en_US/transcript.md)

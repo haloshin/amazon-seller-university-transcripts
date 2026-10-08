@@ -48,4 +48,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=09a25aab-2175-41ad-b349-443e73a9d646) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：避免无差别折扣：精准定位促销买家（中文译文）](../../../translations/11a3fd91-5de9-4779-b780-60102e2f2c30/zh_CN/translation.md) · [同主题下一篇：创建优惠券](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/zh_CN/transcript.md)

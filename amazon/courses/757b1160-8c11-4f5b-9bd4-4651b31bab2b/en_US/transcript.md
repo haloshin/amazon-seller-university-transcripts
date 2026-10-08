@@ -79,4 +79,6 @@ Welcome to our training on the Brand Analytics Search Query Performance Report.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=757b1160-8c11-4f5b-9bd4-4651b31bab2b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Brand Analytics: Search Catalog Performance report](../../../courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/en_US/transcript.md) · [Next in topic：Brand Analytics: Top Search Terms report](../../../courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/en_US/transcript.md)

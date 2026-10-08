@@ -50,4 +50,6 @@ If you have a professional selling plan, you can use the Automate Pricing Tool t
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d444a933-e839-49e3-ba9d-3dd16ceb6299) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Automate Pricing: Change or remove a pricing rule](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/en_US/transcript.md) · [Next in topic：Benefits of adding a video to a product listing](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/en_US/transcript.md)

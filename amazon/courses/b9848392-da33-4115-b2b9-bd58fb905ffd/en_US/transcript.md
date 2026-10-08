@@ -17,4 +17,6 @@ Let's find out how to use Amazon audiences in your Sponsored display campaigns.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b9848392-da33-4115-b2b9-bd58fb905ffd) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to update your Sponsored Products campaign to have no end date](../../../courses/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/en_US/transcript.md) · [Next in topic：How to use keyword match types](../../../courses/0f15b9e5-5669-4df6-b88c-15b9bdf991db/en_US/transcript.md)

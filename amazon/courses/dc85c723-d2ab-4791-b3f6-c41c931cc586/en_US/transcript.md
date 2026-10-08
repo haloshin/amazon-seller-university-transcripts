@@ -112,4 +112,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dc85c723-d2ab-4791-b3f6-c41c931cc586) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Apps and APIs for B2B product opportunities](../../../courses/85f5bf24-105e-4675-abce-a689741f123a/en_US/transcript.md) · [Next in topic：B2B Central overview](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md)

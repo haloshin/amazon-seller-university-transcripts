@@ -11,4 +11,6 @@ Add a custom image to your sponsored Brands product collection campaign to help 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f69b665b-cb6b-4205-a4f4-b016c77c8375) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Getting started with Sponsored Brands](../../../courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/transcript.md) · [Next in topic：How to add negative keywords to your campaigns](../../../courses/0b2d46ff-ff54-47d7-8429-08b5716cfd6b/en_US/transcript.md)

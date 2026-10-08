@@ -104,4 +104,6 @@ Welcome to our training on how to create multi-channel fulfillment or MCF orders
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b5aef394-1ef9-4eeb-9b1d-996153a2072f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Multi-Channel Fulfillment (MCF): How Amazon sellers can use MCF and FBA together](../../../courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/transcript.md) · [Next in topic：Multi-Channel Fulfillment: How it works](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/en_US/transcript.md)

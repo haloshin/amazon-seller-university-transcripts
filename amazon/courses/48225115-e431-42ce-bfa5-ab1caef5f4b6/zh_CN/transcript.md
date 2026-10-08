@@ -49,4 +49,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=48225115-e431-42ce-bfa5-ab1caef5f4b6) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：优化展示广告竞价（中文译文）](../../../translations/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/zh_CN/translation.md) · [同主题下一篇：优化商品推广的定向、竞价与预算（中文译文）](../../../translations/db41274c-e769-4160-9b61-9c606e09e1f5/zh_CN/translation.md)

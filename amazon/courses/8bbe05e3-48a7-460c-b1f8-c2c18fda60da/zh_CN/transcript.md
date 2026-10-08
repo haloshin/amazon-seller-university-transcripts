@@ -49,4 +49,6 @@ Confirm Packing Information。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=8bbe05e3-48a7-460c-b1f8-c2c18fda60da) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Send to Amazon 第 1 步：选择要发送的库存](../../../courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/zh_CN/transcript.md) · [同主题下一篇：Send to Amazon 第 2 步：确认发货](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/zh_CN/transcript.md)

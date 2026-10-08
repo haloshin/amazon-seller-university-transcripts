@@ -53,4 +53,6 @@ Selling on Amazon can be broken down into four steps. Step 1. Create an Amazon S
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=eaf6dccf-18fd-49ee-9b08-988472334a0b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Sell in the Amazon store: 30-minute overview for beginners](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/en_US/transcript.md) · [Next in topic：Welcome to Amazon](../../../courses/c0812372-197d-45eb-a16f-a50d086fbb17/en_US/transcript.md)

@@ -35,4 +35,6 @@ Welcome to our wrong item sent product compliance training. A wrong item sent pr
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=8ba7337a-1f7a-4eb9-96aa-33af8c13baca) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Toys and compliance](../../../courses/0982f544-3c62-43ee-b54a-606892d32662/en_US/transcript.md) · [Next in topic：“Used sold as new” product compliance](../../../courses/e4c74be9-7d81-4d53-9281-fa8e2019f185/en_US/transcript.md)

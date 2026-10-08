@@ -72,4 +72,6 @@ I'm Lizz, the creator of PO' UP! Card Game,
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=6253ba22-f037-419d-95e5-8d6b921e885f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Manage Your Experiments: set up a test for listing content](../../../courses/05930523-8e15-4010-8bf9-16307ad17eb2/en_US/transcript.md) · [Next in topic：Match or create product listings and variations in bulk](../../../courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/en_US/transcript.md)

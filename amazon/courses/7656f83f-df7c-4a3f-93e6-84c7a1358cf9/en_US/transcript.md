@@ -69,4 +69,6 @@ Seller Central is where you will manage a majority
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7656f83f-df7c-4a3f-93e6-84c7a1358cf9) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to New Seller Incentives](../../../courses/4f1b510f-fcdd-4011-8c44-223ccc7b1650/en_US/transcript.md) · [Next in topic：Intro to Seller University](../../../courses/71df97e1-a698-4e73-a357-ae7903433914/en_US/transcript.md)

@@ -18,4 +18,6 @@ Shoppable images in your store help customers see your products in context, enga
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1c2896c9-4fc3-466a-84f2-49887f19f064) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How Amazon Vine Reviews Boost New Product Visibility](../../../courses/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/en_US/transcript.md) · [Next in topic：How to improve your Brand Store design](../../../courses/6b90667d-d6c3-48af-97af-de027f1e5b13/en_US/transcript.md)

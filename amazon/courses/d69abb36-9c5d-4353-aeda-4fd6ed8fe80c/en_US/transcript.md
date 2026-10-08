@@ -78,4 +78,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d69abb36-9c5d-4353-aeda-4fd6ed8fe80c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Start selling subscription boxes](../../../courses/fb515856-b468-4ba4-b3b4-5fe20065c08c/en_US/transcript.md) · [Next in topic：Tips for shoe and apparel product detail pages](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/en_US/transcript.md)

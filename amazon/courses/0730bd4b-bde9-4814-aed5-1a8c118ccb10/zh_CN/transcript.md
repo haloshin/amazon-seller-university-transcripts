@@ -28,4 +28,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=0730bd4b-bde9-4814-aed5-1a8c118ccb10) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：亚马逊入仓分销网络（AWD）入门（中文译文）](../../../translations/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/zh_CN/translation.md) · [同主题下一篇：迟发率（LSR）概览](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/zh_CN/transcript.md)

@@ -37,4 +37,6 @@ Welcome to our video tutorial on seller-fulfilled prime, also known as SFP. In t
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d8e9fa6b-b56b-4e48-9c35-d816fd71f59c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Fulfillment by Merchant (FBM)](../../../courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md) · [Next in topic：Intro to Send to Amazon](../../../courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/en_US/transcript.md)

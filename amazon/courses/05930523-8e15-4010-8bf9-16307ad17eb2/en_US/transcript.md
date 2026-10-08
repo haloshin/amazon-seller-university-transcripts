@@ -86,4 +86,6 @@ Welcome to our training, "Manage Your Experiments, Set Up a Test for Listing Con
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=05930523-8e15-4010-8bf9-16307ad17eb2) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Manage Your Experiments: plan a test of your listing content](../../../courses/16da6b21-dffe-4e57-b001-237ff67ed988/en_US/transcript.md) · [Next in topic：Master AI tools for Amazon listings: Quick optimization guide](../../../courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/transcript.md)

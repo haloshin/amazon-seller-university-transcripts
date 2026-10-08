@@ -100,4 +100,6 @@ In Europe, Amazon operates in five marketplaces, including the United Kingdom, G
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=ff2db382-9bf6-48fb-8822-c3548a569339) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Expand listings to Amazon.ca and Amazon.com.mx](../../../courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/transcript.md) · [Next in topic：From Local to Canada: How DTocs Used Amazon Global Selling to Expand](../../../courses/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/en_US/transcript.md)

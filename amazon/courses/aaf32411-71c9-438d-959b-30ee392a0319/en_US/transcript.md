@@ -34,4 +34,6 @@ Video Generator is an AI-powered tool that transforms a single product image or 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=aaf32411-71c9-438d-959b-30ee392a0319) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Create a Coupon](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/en_US/transcript.md) · [Next in topic：Create exclusive discounts with Brand Tailored Promotions (BTP)](../../../courses/3498c716-6b42-436f-a44a-9f08c9f637cf/en_US/transcript.md)

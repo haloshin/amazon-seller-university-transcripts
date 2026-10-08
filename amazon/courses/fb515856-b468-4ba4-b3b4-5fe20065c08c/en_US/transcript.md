@@ -76,4 +76,6 @@ Welcome to our training start selling subscription boxes. Customers use the Amaz
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=fb515856-b468-4ba4-b3b4-5fe20065c08c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Resolve Brand Name Approval error](../../../courses/d5417511-59df-4138-b6b6-62fecde7da70/en_US/transcript.md) · [Next in topic：Suggest an edit to a product detail page](../../../courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/en_US/transcript.md)

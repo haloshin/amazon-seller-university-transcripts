@@ -40,4 +40,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=670035e4-6834-46f9-be38-385231351096) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：遵守亚马逊多账户政策](../../../courses/1e699b06-7a02-49f7-a155-4642280a63d0/zh_CN/transcript.md) · [同主题下一篇：危险品概览](../../../courses/9db093ea-ff03-4325-ae88-01b4da66993a/zh_CN/transcript.md)

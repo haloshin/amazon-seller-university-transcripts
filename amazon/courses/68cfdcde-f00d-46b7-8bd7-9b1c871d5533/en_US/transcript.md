@@ -14,4 +14,6 @@ If you have a sponsored Brands campaign running, you may want to change its budg
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=68cfdcde-f00d-46b7-8bd7-9b1c871d5533) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to add negative product targets to a new Sponsored Products campaign](../../../courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/en_US/transcript.md) · [Next in topic：How to change your Sponsored Products campaign budget](../../../courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/transcript.md)

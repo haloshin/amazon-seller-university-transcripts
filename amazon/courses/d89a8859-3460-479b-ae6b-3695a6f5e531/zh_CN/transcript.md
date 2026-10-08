@@ -98,4 +98,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d89a8859-3460-479b-ae6b-3695a6f5e531) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用品牌推广为品牌旗舰店首页引流（中文译文）](../../../translations/69bf0781-44b0-42b7-8ed0-92e70f4873fa/zh_CN/translation.md) · [同主题下一篇：选择适合在亚马逊投放广告的商品（中文译文）](../../../translations/d3f10113-63e7-4e14-bf38-1c1def628834/zh_CN/translation.md)

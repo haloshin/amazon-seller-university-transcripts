@@ -19,4 +19,6 @@ Let's see how you can optimize your bid with Sponsored display.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f0115b7f-8b51-4ab6-844d-a7a9df5d86dd) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to improve Sponsored Brands campaigns: Strategies to extend your reach and drive clicks](../../../courses/e8e0b050-73e3-48b8-a4dd-f841b131bc75/en_US/transcript.md) · [Next in topic：How to optimize your Sponsored Products campaigns](../../../courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/en_US/transcript.md)

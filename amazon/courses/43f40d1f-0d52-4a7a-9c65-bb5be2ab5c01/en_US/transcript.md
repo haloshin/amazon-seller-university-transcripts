@@ -102,4 +102,6 @@ When you list products on Amazon,
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Fulfillment by Amazon (FBA)](../../../courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) · [Next in topic：Intro to Seller Fulfilled Prime](../../../courses/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/en_US/transcript.md)

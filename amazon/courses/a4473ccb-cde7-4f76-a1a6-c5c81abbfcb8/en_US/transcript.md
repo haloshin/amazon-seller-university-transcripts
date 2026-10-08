@@ -11,4 +11,6 @@ The Sponsored Brands product collection ad format allows you to link to your sto
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to create an always-on campaign](../../../courses/d0fecd7d-b374-4622-a4ca-a66c14119868/en_US/transcript.md) · [Next in topic：How to earn a Brand Referral Bonus](../../../courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/en_US/transcript.md)

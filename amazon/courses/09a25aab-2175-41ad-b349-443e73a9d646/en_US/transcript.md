@@ -118,4 +118,6 @@ Choose a targeting strategy for your campaign
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=09a25aab-2175-41ad-b349-443e73a9d646) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Avoid blanket discounts: smart customer targeting for Amazon sellers](../../../courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/transcript.md) · [Next in topic：Create a Coupon](../../../courses/cec68316-200d-40a4-ba00-01b3bfea9f08/en_US/transcript.md)

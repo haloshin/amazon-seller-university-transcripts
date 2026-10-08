@@ -19,4 +19,6 @@ Staff management, adding a delivery associate.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=3d34af1d-6cf6-46e6-b218-7fab5d1e2808) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Local Selling: Seller Central UI-based fulfillment](../../../courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md) · [Next in topic：Local Selling: Using the Tech App - Room of Choice Delivery (Video)](../../../courses/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/en_US/transcript.md)

@@ -50,4 +50,6 @@ As a brand, the relationship you have
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2b3e0700-d867-45dc-bfd7-c2bf560e7739) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Introduction to Stores](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/en_US/transcript.md) · [Next in topic：Next steps for sellers who’ve enrolled a brand](../../../courses/43146fdf-a110-4056-971d-c287016104f5/en_US/transcript.md)

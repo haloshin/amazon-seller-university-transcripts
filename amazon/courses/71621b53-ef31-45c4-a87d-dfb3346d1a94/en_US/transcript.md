@@ -65,4 +65,6 @@ Amazon Buy Shipping is a tool available to sellers
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=71621b53-ef31-45c4-a87d-dfb3346d1a94) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to determine product weights and dimensions](../../../courses/4c982766-929e-4a32-bc33-6614f7ddfc78/en_US/transcript.md) · [Next in topic：Intro to Amazon Shipping](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/en_US/transcript.md)

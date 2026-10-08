@@ -250,4 +250,6 @@ FAQs部分了解有关入门配送和包装以及退货和赔偿的更多信息�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b5aef394-1ef9-4eeb-9b1d-996153a2072f) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：结合使用多渠道配送（MCF）与 FBA（中文译文）](../../../translations/9c8d24db-75e1-4d42-b405-796c5bc19cad/zh_CN/translation.md) · [同主题下一篇：多渠道配送：运作方式](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/zh_CN/transcript.md)

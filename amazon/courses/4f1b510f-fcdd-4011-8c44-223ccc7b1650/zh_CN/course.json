@@ -11,8 +11,10 @@
   "captionSha256": "180486d8d9e703945ef39ee3d2c179a36b2fb74ad6efb5d265e0b4677145115f",
   "sourceSnapshotDate": "2026-07-27",
   "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
-  "officialEntryType": "general_portal_not_course_deeplink",
-  "releaseVersion": "0.8.0",
+  "officialEntryType": "general_portal_course_unavailable",
+  "releaseVersion": "0.9.0",
   "sourceVideoDurationSeconds": 295.783333,
-  "transcriptSha256": "15885e38f2b7cf0d4fb98df98bfc9f9407ad88dcaf05a3ba858c0e6d2edda5d7"
+  "transcriptSha256": "15885e38f2b7cf0d4fb98df98bfc9f9407ad88dcaf05a3ba858c0e6d2edda5d7",
+  "officialLinkStatus": "official_module_unavailable",
+  "officialLinkCheckedDate": "2026-10-08"
 }

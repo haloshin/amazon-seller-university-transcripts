@@ -58,4 +58,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=96b54729-94ae-4307-9f05-964c727bdbe0) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：新版卖家平台：管理货件](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/zh_CN/transcript.md) · [同主题下一篇：卖家自配送订单的退货与退款](../../../courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/zh_CN/transcript.md)

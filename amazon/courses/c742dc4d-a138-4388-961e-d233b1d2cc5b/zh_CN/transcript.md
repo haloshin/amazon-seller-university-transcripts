@@ -64,4 +64,6 @@ Courtesy Refund 或客户支持 Customer Support 作为回复类型。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=c742dc4d-a138-4388-961e-d233b1d2cc5b) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：减少商城交易保障索赔与退货的建议](../../../courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/zh_CN/transcript.md) · [同主题下一篇：买家之声概览](../../../courses/e52369f9-c402-469f-aa56-c0dd1c706aef/zh_CN/transcript.md)

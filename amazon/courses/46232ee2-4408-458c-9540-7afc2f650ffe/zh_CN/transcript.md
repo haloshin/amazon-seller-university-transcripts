@@ -69,4 +69,6 @@ Shipping Settings 页面,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=46232ee2-4408-458c-9540-7afc2f650ffe) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：为卖家自配送订单使用亚马逊购买配送](../../../courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/zh_CN/transcript.md)

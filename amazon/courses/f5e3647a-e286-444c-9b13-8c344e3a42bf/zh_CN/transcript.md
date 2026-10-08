@@ -19,4 +19,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=f5e3647a-e286-444c-9b13-8c344e3a42bf) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：正确发布纽扣电池和硬币电池商品](../../../courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/zh_CN/transcript.md) · [同主题下一篇：防伪政策合规入门](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/zh_CN/transcript.md)

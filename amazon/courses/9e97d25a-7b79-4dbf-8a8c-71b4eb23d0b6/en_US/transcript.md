@@ -53,4 +53,6 @@ Welcome to our training on how to earn a brand referral bonus. Are you a brand o
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to drive traffic to your Store with Sponsored Brands](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md) · [Next in topic：How to get started with contextual targeting in your Sponsored Display campaign](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/en_US/transcript.md)

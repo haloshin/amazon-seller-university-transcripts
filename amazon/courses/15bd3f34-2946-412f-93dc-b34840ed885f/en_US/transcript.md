@@ -55,4 +55,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=15bd3f34-2946-412f-93dc-b34840ed885f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Global Selling - Sell Internationally - Step 4 of 4 - Manage Your Business](../../../courses/b2793d1b-4fd8-40a0-925f-160e71b76136/en_US/transcript.md) · [Next in topic：Expand listings to Amazon.ca and Amazon.com.mx](../../../courses/d440d209-5fc4-4e61-b13d-d582afdd5019/en_US/transcript.md)

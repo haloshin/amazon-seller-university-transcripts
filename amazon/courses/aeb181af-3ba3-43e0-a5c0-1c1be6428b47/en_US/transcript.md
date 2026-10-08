@@ -38,4 +38,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=aeb181af-3ba3-43e0-a5c0-1c1be6428b47) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Local Selling: Using the Tech App - Room of Choice Delivery (Video)](../../../courses/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e/en_US/transcript.md) · [Next in topic：Move your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/b8348fcf-9c79-422d-a88c-feac58b9abc3/en_US/transcript.md)

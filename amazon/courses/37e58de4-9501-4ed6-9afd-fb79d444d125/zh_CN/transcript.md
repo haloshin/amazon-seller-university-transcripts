@@ -14,4 +14,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=37e58de4-9501-4ed6-9afd-fb79d444d125) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用关键词匹配类型（中文译文）](../../../translations/0f15b9e5-5669-4df6-b88c-15b9bdf991db/zh_CN/translation.md) · [同主题下一篇：使用品牌推广视频广告形式](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/transcript.md)

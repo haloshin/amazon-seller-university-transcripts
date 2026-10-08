@@ -19,4 +19,6 @@ Welcome to this seller university module. In this video, we'll discuss what to d
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c52648f2-ab54-4aba-bb30-e44d1a7831ef) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Generic Product Policy: Resolve error code 5882](../../../courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/en_US/transcript.md) · [Next in topic：Generic Product Policy: Resolve error code 5886/7](../../../courses/2a483f34-bc0a-4996-852e-d80e9127ed19/en_US/transcript.md)

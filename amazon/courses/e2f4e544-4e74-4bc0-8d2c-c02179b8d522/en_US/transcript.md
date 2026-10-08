@@ -103,4 +103,6 @@ In this video, we will be reviewing how to use the automate pricing file to assi
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e2f4e544-4e74-4bc0-8d2c-c02179b8d522) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Product Listing Optimization: What actually works for Revolution Nutrition](../../../courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md) · [Next in topic：Automate Pricing: Apply pricing rules](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/en_US/transcript.md)

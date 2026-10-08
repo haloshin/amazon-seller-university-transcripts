@@ -5,10 +5,12 @@ import re
 from pathlib import Path
 from reading_paragraphs import reading_paragraphs
 
-ROOT = Path(__file__).resolve().parents[1] / "amazon"
+from platforms import platforms
+_registry, _configs = platforms()
+ROOT = _configs[_registry["defaultPlatform"]]["root"]
 
 
-def load_translation(course, entry):
+def load_translation(course, entry, ROOT=ROOT):
     path = ROOT / entry['metadata']
     data = json.loads(path.read_text())
     source = next(v for v in course['variants'] if v['locale'] == 'en_US')
@@ -31,38 +33,43 @@ def load_translation(course, entry):
     return data
 
 
-def render_translation(course, entry, data):
+def render_translation(course, entry, data, source_name=None, root=ROOT, official_home=None):
+    config=json.loads((root/'platform.json').read_text())
+    source_name=source_name or config['sourceName']
+    official_home=official_home or config['officialHome']
     english = next(v for v in course['variants'] if v['locale'] == 'en_US')
     prefix = '../../../'
     lines = [f'[学习导航]({prefix}学习导航.md) · [英文原文]({prefix}{english["transcript"]})', '',
              '# ' + data['title'], '', course['title'], '',
              '> 中文译文 · 依据英文转写稿，经 AI 辅助翻译与校对；非官方中文音轨转写。',
              '> 参照本库中文音轨稿统一术语，保留原课的步骤、案例和历史语境。', '',
-             '课程来源：Amazon Seller University · SHIN 整理维护。',
+             f'课程来源：{source_name} · SHIN 整理维护。',
              f'分享请保留来源、署名和[原仓库链接](https://github.com/haloshin/seller-university)。[使用条件]({prefix}../NOTICE.md)', '',
              *[p + '\n' for p in data['paragraphs']], '---', '',
              '[下载中文 TXT](translation.txt) · ' + f'[对照英文原文]({prefix}{english["transcript"]})', '']
     if english.get('notes'):
         lines += [f'英文原稿附有[阅读说明]({prefix}{english["notes"]})，译文保留对应的不确定性。', '']
+    from official_links import markdown_link
+    lines += [markdown_link(root, course['moduleId'], data['sourceLocale'], official_home), '']
     lines += ['费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。', '']
     return '\n'.join(lines)
 
 
-def validate_translations(catalog, release):
+def validate_translations(catalog, release, ROOT=ROOT, source_name=None):
     expected = set()
     count = 0
     for course in catalog:
         entries = course.get('translations', [])
         needs_chinese = not any(v['locale'] == 'zh_CN' for v in course['variants'])
-        assert len(entries) == int(needs_chinese), 'Missing or duplicate translation'
+        assert len(entries) <= int(needs_chinese), 'Duplicate translation or Chinese audio already exists'
         for entry in entries:
-            data = load_translation(course, entry)
+            data = load_translation(course, entry, ROOT)
             assert data['releaseVersion'] == release['version'], 'Translation version mismatch'
-            assert (ROOT / entry['transcript']).read_text() == render_translation(course, entry, data)
+            assert (ROOT / entry['transcript']).read_text() == render_translation(course, entry, data, source_name, ROOT)
             expected.update(ROOT / entry[key] for key in ('transcript', 'text', 'metadata'))
             count += 1
     actual = {p for p in (ROOT / 'translations').rglob('*') if p.is_file()}
     assert actual == expected, 'Unregistered translation files'
     assert count == release['translationCount'] == release['translationLocales']['zh_CN']
-    assert release['chineseReadableCourses'] == len(catalog)
+    assert release['chineseReadableCourses'] == sum(bool(c.get('translations')) or any(v['locale']=='zh_CN' for v in c['variants']) for c in catalog)
     return count

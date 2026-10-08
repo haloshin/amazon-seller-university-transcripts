@@ -24,4 +24,6 @@ Whether you're new to international shipping or you're a seasoned expert, it's
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=44ee9dac-ba0e-423e-a330-d7b4e92fc83c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Global Selling - Sell Internationally - Step 2 of 4 - Register and List Your Products](../../../courses/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/en_US/transcript.md) · [Next in topic：Amazon Global Selling - Sell Internationally - Step 4 of 4 - Manage Your Business](../../../courses/b2793d1b-4fd8-40a0-925f-160e71b76136/en_US/transcript.md)

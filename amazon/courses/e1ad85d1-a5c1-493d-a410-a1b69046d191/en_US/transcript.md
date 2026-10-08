@@ -37,4 +37,6 @@ Welcome to our training on lithium batteries. In this video, we'll show you the 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e1ad85d1-a5c1-493d-a410-a1b69046d191) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to the Amazon Generic Product Policy](../../../courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md) · [Next in topic：Manage your compliance dashboard](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/en_US/transcript.md)

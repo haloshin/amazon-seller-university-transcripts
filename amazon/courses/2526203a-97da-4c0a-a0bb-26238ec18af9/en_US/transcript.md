@@ -209,4 +209,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2526203a-97da-4c0a-a0bb-26238ec18af9) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：3.1 Apply to sell a restricted product, category, or brand](../../../courses/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c/en_US/transcript.md) · [Next in topic：3.3 Prevent or resolve listing policy violations](../../../courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md)

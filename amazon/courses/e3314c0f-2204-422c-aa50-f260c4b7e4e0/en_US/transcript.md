@@ -32,4 +32,6 @@ Once you've completed, send to Amazon Step 1, confirm inventory to send. You're 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e3314c0f-2204-422c-aa50-f260c4b7e4e0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon – Step 1b: Pack individual units](../../../courses/8bbe05e3-48a7-460c-b1f8-c2c18fda60da/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 3: Print box labels](../../../courses/d7f37f61-9560-4e02-b672-9747aba417e0/en_US/transcript.md)

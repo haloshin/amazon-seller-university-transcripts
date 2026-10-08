@@ -72,4 +72,6 @@ B2B报价是单件商品价格加上运费。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=04cad7f4-122c-4292-a3ac-ad63eca9ff73) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：生成库存报告](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/zh_CN/transcript.md) · [同主题下一篇：增长机会概览](../../../courses/d352e628-375e-4cf0-8870-1aee1c9f860d/zh_CN/transcript.md)

@@ -74,4 +74,6 @@ Hello and welcome to our video on cross-border logistics for Amazon Selling Part
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c9448d96-2300-4c06-852b-6283e0edf81c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Get paid when selling globally in the Amazon store](../../../courses/ed84f7d6-acde-4602-a079-f1a38ad9df24/en_US/transcript.md) · [Next in topic：How to get started with Amazon Global Selling](../../../courses/12577640-c955-43e6-9a2d-901c52aebad1/en_US/transcript.md)

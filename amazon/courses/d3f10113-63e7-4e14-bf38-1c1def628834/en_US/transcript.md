@@ -47,4 +47,6 @@ This video will show you how to use Seller Central to find products for advertis
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d3f10113-63e7-4e14-bf38-1c1def628834) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Earn a Brand Referral Bonus from non-Amazon advertising](../../../courses/d89a8859-3460-479b-ae6b-3695a6f5e531/en_US/transcript.md) · [Next in topic：Five key Sponsored Products reports for campaign optimization](../../../courses/e5b8971b-57ac-436f-8f98-5813db2a8c3d/en_US/transcript.md)

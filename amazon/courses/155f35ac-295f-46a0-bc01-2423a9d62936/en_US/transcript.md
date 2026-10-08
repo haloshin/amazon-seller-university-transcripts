@@ -53,4 +53,6 @@ Welcome to the Securing Your Seller Account series. It is important to protect y
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=155f35ac-295f-46a0-bc01-2423a9d62936) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Sales manipulation and competitor abuse](../../../courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/en_US/transcript.md) · [Next in topic：Toys and compliance](../../../courses/0982f544-3c62-43ee-b54a-606892d32662/en_US/transcript.md)

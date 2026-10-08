@@ -47,4 +47,6 @@ Welcome to our training on how to set a limit on order handling capacity.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=8b6172ef-90dc-4f88-ae56-53e7fbfbfff6) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Set one-day default handling time](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/en_US/transcript.md) · [Next in topic：Ship and fulfill using third-party apps](../../../courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/en_US/transcript.md)

@@ -68,4 +68,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=12577640-c955-43e6-9a2d-901c52aebad1) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：全球业务扩展：跨境物流指南（中文译文）](../../../translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.md) · [同主题下一篇：亚马逊全球商店销售入门](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/transcript.md)

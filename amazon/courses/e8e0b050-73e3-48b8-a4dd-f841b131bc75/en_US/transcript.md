@@ -52,4 +52,6 @@ Looking for better results from your sponsored brands campaigns? Here's a guided
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e8e0b050-73e3-48b8-a4dd-f841b131bc75) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to get started with contextual targeting in your Sponsored Display campaign](../../../courses/80ade8cf-2198-4c91-be7f-867cdf855b8d/en_US/transcript.md) · [Next in topic：How to optimize your bid with display ads](../../../courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/transcript.md)

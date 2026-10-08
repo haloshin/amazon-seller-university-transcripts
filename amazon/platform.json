@@ -1,0 +1,128 @@
+{
+  "id": "amazon",
+  "name": [
+    "Amazon",
+    "Amazon"
+  ],
+  "sourceName": "Amazon Seller University",
+  "officialHome": "https://sell.amazon.com/learn/seller-university",
+  "topics": {
+    "start": [
+      "入门与账户",
+      "Getting started and accounts"
+    ],
+    "listings": [
+      "商品发布与定价",
+      "Listings and pricing"
+    ],
+    "fulfillment": [
+      "物流与配送",
+      "Fulfillment and shipping"
+    ],
+    "ads": [
+      "广告与促销",
+      "Advertising and promotions"
+    ],
+    "brands": [
+      "品牌与买家体验",
+      "Brands and customer experience"
+    ],
+    "compliance": [
+      "合规与账户健康",
+      "Compliance and account health"
+    ],
+    "global": [
+      "全球开店",
+      "Global selling"
+    ],
+    "business": [
+      "企业购与经营分析",
+      "Amazon Business and business insights"
+    ]
+  },
+  "starters": [
+    "eaf6dccf-18fd-49ee-9b08-988472334a0b",
+    "7656f83f-df7c-4a3f-93e6-84c7a1358cf9",
+    "84fea35b-c5c6-4ae3-999b-1cea1b3a6d96",
+    "a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3",
+    "472d8e74-3402-4871-88d2-0ebaeb3263eb"
+  ],
+  "heroTitle": [
+    "亚马逊卖家大学",
+    "Amazon courses."
+  ],
+  "heroSubtitle": [
+    "课程转写稿",
+    "Ready to read."
+  ],
+  "heroDescription": [
+    "沿着原文学习，带着问题查阅。把官方课程，放进随时可以打开的阅读室。",
+    "Follow the original courses. Find the answers you need. A reading room for Amazon Seller University transcripts."
+  ],
+  "starterNames": [
+    [
+      "认识亚马逊开店",
+      "熟悉卖家平台",
+      "了解销售政策",
+      "发布第一件商品",
+      "了解 FBA 配送"
+    ],
+    [
+      "Get started",
+      "Meet Seller Central",
+      "Know the rules",
+      "Create a listing",
+      "Understand FBA"
+    ]
+  ],
+  "starterDescriptions": [
+    [
+      "先了解开店的基本流程",
+      "认识日常运营的工作入口",
+      "看清开始销售前的规则",
+      "从商品信息到正式刊登",
+      "理解亚马逊物流如何运作"
+    ],
+    [
+      "An overview for new sellers",
+      "Find your way around the tools",
+      "Read the selling guidelines",
+      "From product details to a listing",
+      "How fulfillment by Amazon works"
+    ]
+  ],
+  "topicDescriptions": {
+    "start": [
+      "开店准备、账户与卖家平台",
+      "Accounts, setup and Seller Central"
+    ],
+    "listings": [
+      "商品信息、刊登与定价",
+      "Product pages, listings and pricing"
+    ],
+    "fulfillment": [
+      "FBA、自配送与库存",
+      "FBA, merchant shipping and inventory"
+    ],
+    "ads": [
+      "广告投放、优惠与促销",
+      "Advertising, offers and promotions"
+    ],
+    "brands": [
+      "品牌建设与买家服务",
+      "Brand building and buyer service"
+    ],
+    "compliance": [
+      "销售规则与账户健康",
+      "Selling policies and account health"
+    ],
+    "global": [
+      "跨境销售与站点拓展",
+      "International sales and expansion"
+    ],
+    "business": [
+      "企业客户与经营分析",
+      "Business customers and insights"
+    ]
+  }
+}

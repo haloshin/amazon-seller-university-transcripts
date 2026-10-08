@@ -30,4 +30,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=46211203-fc45-483b-9166-d746869925e7) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：亚马逊全球商店销售入门](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/zh_CN/transcript.md) · [同主题下一篇：FBA 远程配送：加入或退出 ASIN](../../../courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/zh_CN/transcript.md)

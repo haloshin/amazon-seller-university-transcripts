@@ -74,4 +74,6 @@ Welcome to our training on how to upload your own size charts for your products 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Tips for shoe and apparel product detail pages](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/en_US/transcript.md)

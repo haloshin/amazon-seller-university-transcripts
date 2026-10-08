@@ -14,4 +14,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=68cfdcde-f00d-46b7-8bd7-9b1c871d5533) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：为新的商品推广活动添加否定商品定向](../../../courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/zh_CN/transcript.md) · [同主题下一篇：修改商品推广广告预算（中文译文）](../../../translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.md)

@@ -25,4 +25,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=ace6f8ff-a674-41f1-a084-e39f03d9f1f0) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：创建尊重文化差异的商品信息](../../../courses/cf32d928-86d3-4cd9-a835-de753e88cda1/zh_CN/transcript.md) · [同主题下一篇：修复不可售或被禁止显示的商品信息](../../../courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/zh_CN/transcript.md)

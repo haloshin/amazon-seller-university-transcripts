@@ -91,4 +91,6 @@ A+页面是打造愉快购物体验的独特方式
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=86a775c7-75a3-479b-a2fc-fbc3e1997c00) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Leafael Jewelry 使用 Creator Connections 的增长案例（中文译文）](../../../translations/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/zh_CN/translation.md) · [同主题下一篇：广告控制台的商品页面（中文译文）](../../../translations/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/zh_CN/translation.md)

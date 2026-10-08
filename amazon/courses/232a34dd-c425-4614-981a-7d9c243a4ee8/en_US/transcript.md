@@ -35,4 +35,6 @@ Amazon Shipping provides reliable ground delivery service for orders placed on A
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=232a34dd-c425-4614-981a-7d9c243a4ee8) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Amazon Buy Shipping](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/en_US/transcript.md) · [Next in topic：Intro to Fulfillment by Amazon (FBA)](../../../courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md)

@@ -22,4 +22,6 @@ Amazon Ads Promotions can help grow your business while reducing advertising cos
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a52f7918-1f56-4b2b-b6b7-77d49b472c0f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：This $2 Amazon coupon reversed a sales dip — here's what Happy Start did](../../../courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md) · [Next in topic：Use audience bid boosting to enhance your Sponsored Brands campaigns](../../../courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md)

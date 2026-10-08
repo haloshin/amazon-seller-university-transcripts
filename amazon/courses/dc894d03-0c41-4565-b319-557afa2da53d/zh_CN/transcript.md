@@ -197,4 +197,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=dc894d03-0c41-4565-b319-557afa2da53d) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：为商品信息添加视频的优势](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/zh_CN/transcript.md) · [同主题下一篇：使用 AI 创建适用于亚马逊的商品信息](../../../courses/a7739325-a1a7-4818-be27-86715ca39727/zh_CN/transcript.md)

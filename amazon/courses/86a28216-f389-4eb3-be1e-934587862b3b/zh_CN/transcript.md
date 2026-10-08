@@ -14,4 +14,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=86a28216-f389-4eb3-be1e-934587862b3b) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：开始使用亚马逊全球开店](../../../courses/12577640-c955-43e6-9a2d-901c52aebad1/zh_CN/transcript.md) · [同主题下一篇：北美联合账户](../../../courses/46211203-fc45-483b-9166-d746869925e7/zh_CN/transcript.md)

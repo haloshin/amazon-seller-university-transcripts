@@ -33,4 +33,6 @@ Welcome! In this video, we'll review how to register for an Amazon Ads account a
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=91b444b7-87b2-4542-b8fa-e1a9eff1b11b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to redeem Amazon Ads promotional offers](../../../courses/d7baf097-5cff-4173-82db-e2b9dc08b097/en_US/transcript.md) · [Next in topic：How to update your Sponsored Products campaign to have no end date](../../../courses/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60/en_US/transcript.md)

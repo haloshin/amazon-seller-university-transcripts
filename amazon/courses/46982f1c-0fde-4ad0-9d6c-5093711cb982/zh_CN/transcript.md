@@ -42,4 +42,6 @@ A+ 内容需要由相应的团队审核,以确保其符合指引。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=46982f1c-0fde-4ad0-9d6c-5093711cb982) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：加入亚马逊品牌注册的优势](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/zh_CN/transcript.md) · [同主题下一篇：品牌名称与标志设计的最佳实践](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/transcript.md)

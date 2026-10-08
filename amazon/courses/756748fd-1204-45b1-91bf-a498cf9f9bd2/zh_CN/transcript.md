@@ -31,4 +31,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=756748fd-1204-45b1-91bf-a498cf9f9bd2) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：管理合规控制面板](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/zh_CN/transcript.md) · [同主题下一篇：亚马逊销售政策概览](../../../courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md)

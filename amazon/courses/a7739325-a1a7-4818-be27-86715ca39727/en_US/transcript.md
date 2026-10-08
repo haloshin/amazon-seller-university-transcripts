@@ -86,4 +86,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a7739325-a1a7-4818-be27-86715ca39727) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Create a new product in Amazon's catalog, one at a time](../../../courses/dc894d03-0c41-4565-b319-557afa2da53d/en_US/transcript.md) · [Next in topic：Create product variations one at a time](../../../courses/9287b780-d339-4f5c-ba86-b0952e64ef8d/en_US/transcript.md)

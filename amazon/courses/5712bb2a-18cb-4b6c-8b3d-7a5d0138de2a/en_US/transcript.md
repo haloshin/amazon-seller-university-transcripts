@@ -64,4 +64,6 @@ Welcome to our overview of B2B Central. If you're a new professional seller in t
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：B2B apps and APIs overview](../../../courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/en_US/transcript.md) · [Next in topic：Brand Analytics: Demographics report](../../../courses/8628d447-78f5-4fa2-b438-b240dc816a64/en_US/transcript.md)

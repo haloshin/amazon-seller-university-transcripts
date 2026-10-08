@@ -64,4 +64,6 @@ Some products, product categories and products from brands enrolled in Amazon
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=fced740c-46e2-403f-8a87-5ffd1c9d605f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Address a Restricted Products policy violation](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/en_US/transcript.md) · [Next in topic：Comply with Amazon’s Multiple Account policy](../../../courses/1e699b06-7a02-49f7-a155-4642280a63d0/en_US/transcript.md)

@@ -35,4 +35,6 @@ Amazon Shipping 可为在亚马逊商城,您自己的网站和其他电子商务
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=232a34dd-c425-4614-981a-7d9c243a4ee8) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：亚马逊购买配送入门](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/zh_CN/transcript.md) · [同主题下一篇：亚马逊物流（FBA）入门](../../../courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md)

@@ -38,4 +38,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Enable weekend operations for MFN orders](../../../courses/e1741fe5-1d91-4595-937d-8bfe4456a771/en_US/transcript.md) · [Next in topic：FBA dashboard overview](../../../courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/en_US/transcript.md)

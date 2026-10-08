@@ -54,4 +54,6 @@ Looking to increase your chance of success when advertising? You've come to the 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=86a775c7-75a3-479b-a2fc-fbc3e1997c00) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Leafael Jewelry uses Creator Connections strategy for sales growth](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md) · [Next in topic：Products page](../../../courses/374c25ce-b5e3-47ba-8fb7-91dc3011cf49/en_US/transcript.md)

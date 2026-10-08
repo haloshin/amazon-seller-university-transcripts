@@ -57,4 +57,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=8b11c55d-c853-4773-be8d-acd872ca08c1) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题下一篇：Amazon Custom 定制商品计划概览](../../../courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/zh_CN/transcript.md)

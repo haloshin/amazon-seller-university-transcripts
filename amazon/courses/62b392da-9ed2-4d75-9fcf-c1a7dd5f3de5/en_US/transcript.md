@@ -146,4 +146,6 @@ Welcome to our training on enrolling a brand in Amazon Brand Registry.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Drive traffic with Amazon Vine customer reviews](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/en_US/transcript.md) · [Next in topic：Group and sell products as Virtual Bundles](../../../courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/en_US/transcript.md)

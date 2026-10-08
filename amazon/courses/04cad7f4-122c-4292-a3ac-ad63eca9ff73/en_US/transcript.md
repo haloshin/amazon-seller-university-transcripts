@@ -30,4 +30,6 @@ Welcome to our training on the business discount insights tool. Amazon Business 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=04cad7f4-122c-4292-a3ac-ad63eca9ff73) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Generate an inventory report](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/en_US/transcript.md) · [Next in topic：Growth Opportunities overview](../../../courses/d352e628-375e-4cf0-8870-1aee1c9f860d/en_US/transcript.md)

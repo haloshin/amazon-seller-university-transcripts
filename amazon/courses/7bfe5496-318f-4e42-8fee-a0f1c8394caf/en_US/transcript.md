@@ -47,4 +47,6 @@ What is a delivery promise?
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7bfe5496-318f-4e42-8fee-a0f1c8394caf) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：Configure return settings](../../../courses/646406cf-7b11-45ec-896e-90bf3578c8c3/en_US/transcript.md)

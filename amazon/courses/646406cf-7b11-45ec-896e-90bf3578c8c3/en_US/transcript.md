@@ -44,4 +44,6 @@ In this video, we'll be discussing the return settings page, policies regarding 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=646406cf-7b11-45ec-896e-90bf3578c8c3) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Handmade: Production Time and Delivery Promise](../../../courses/7bfe5496-318f-4e42-8fee-a0f1c8394caf/en_US/transcript.md) · [Next in topic：Enable weekend operations for MFN orders](../../../courses/e1741fe5-1d91-4595-937d-8bfe4456a771/en_US/transcript.md)

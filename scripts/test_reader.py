@@ -77,7 +77,7 @@ class ReaderTests(unittest.TestCase):
     def test_every_published_transcript_is_included_without_text_changes(self):
         page = ReaderHTML()
         page.feed((ROOT / 'index.html').read_text())
-        data = json.loads(page.data)
+        data = json.loads(page.data)['platforms']['amazon']
         catalog = json.loads((CONTENT / 'catalog.json').read_text())
         expected = {(c['moduleId'], v['locale']): (c,v) for c in catalog for v in c['variants']}
         actual = {(c['moduleId'], v['locale']): (c,v) for c in data['courses'] for v in c['variants'] if v['kind'] == 'transcript'}
@@ -120,7 +120,7 @@ class ReaderTests(unittest.TestCase):
 
     def test_future_html_like_text_cannot_escape_the_json_element(self):
         sample = {'course': '</script><script>alert("x")</script>', 'text': '<&>中文'}
-        with patch.object(build_reader, 'reader_data', return_value=sample):
+        with patch.object(build_reader, 'reader_bundle', return_value=sample):
             page = ReaderHTML()
             page.feed(build_reader.render())
         self.assertEqual(page.scripts, 2)

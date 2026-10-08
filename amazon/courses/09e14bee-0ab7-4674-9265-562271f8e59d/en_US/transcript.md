@@ -52,4 +52,6 @@ Hi, I'm Jerry from The Happy Start.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=09e14bee-0ab7-4674-9265-562271f8e59d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Brand guide for global Amazon Selling Partners with step by step Brand Transfer Guidance](../../../courses/cd9b383b-e1d2-49be-a0d3-e5619543e97b/en_US/transcript.md) · [Next in topic：Customer Service Fundamentals](../../../courses/d937a9f0-9e1a-456b-b962-fbd311451e81/en_US/transcript.md)

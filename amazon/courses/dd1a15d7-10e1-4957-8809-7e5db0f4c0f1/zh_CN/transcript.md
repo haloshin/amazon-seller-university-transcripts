@@ -43,4 +43,6 @@ A+ 商品描述还可用于提供造型信息,例如商品各种穿戴方式的�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=dd1a15d7-10e1-4957-8809-7e5db0f4c0f1) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：建议修改商品详情页](../../../courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/zh_CN/transcript.md) · [同主题下一篇：上传自己的尺码表](../../../courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/zh_CN/transcript.md)

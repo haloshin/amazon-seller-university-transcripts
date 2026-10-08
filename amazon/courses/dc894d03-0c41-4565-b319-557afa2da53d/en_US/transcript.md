@@ -128,4 +128,6 @@ Welcome to our training on create a new product in Amazon's catalog one at a tim
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dc894d03-0c41-4565-b319-557afa2da53d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Benefits of adding a video to a product listing](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/en_US/transcript.md) · [Next in topic：Create Amazon-ready product listings using AI](../../../courses/a7739325-a1a7-4818-be27-86715ca39727/en_US/transcript.md)

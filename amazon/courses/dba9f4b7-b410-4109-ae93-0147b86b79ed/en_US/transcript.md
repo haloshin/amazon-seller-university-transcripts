@@ -33,4 +33,6 @@ If your account receives a performance notification, it means Amazon has detecte
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dba9f4b7-b410-4109-ae93-0147b86b79ed) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Picture requirements for when you apply to sell](../../../courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/en_US/transcript.md) · [Next in topic：Respond to an A-to-z Guarantee Claims notification](../../../courses/4e174673-a256-4767-b783-7e015e825e35/en_US/transcript.md)

@@ -35,4 +35,6 @@ Welcome to the video guide to Amazon business customers. Amazon sellers list, pr
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=5cf5d1a0-1cb8-4826-864a-b75832d4b486) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Growth Opportunities overview](../../../courses/d352e628-375e-4cf0-8870-1aee1c9f860d/en_US/transcript.md) · [Next in topic：How to detect downward sales trends](../../../courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md)

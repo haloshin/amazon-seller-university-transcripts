@@ -30,4 +30,6 @@ Promoting your products in the Amazon store can help you increase visibility for
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to use views remarketing in your Sponsored Display campaigns](../../../courses/98cd18f1-eae5-4664-9e8f-bb014e997231/en_US/transcript.md) · [Next in topic：Introduction to Amazon Ads](../../../courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/en_US/transcript.md)

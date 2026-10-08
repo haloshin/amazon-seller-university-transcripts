@@ -20,4 +20,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=98cd18f1-eae5-4664-9e8f-bb014e997231) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用品牌推广视频广告形式](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/zh_CN/transcript.md) · [同主题下一篇：商品促销入门](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/zh_CN/transcript.md)

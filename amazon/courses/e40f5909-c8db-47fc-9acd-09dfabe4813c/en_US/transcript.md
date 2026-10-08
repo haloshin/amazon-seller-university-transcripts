@@ -60,4 +60,6 @@ As an Amazon seller, there are multiple ways for you to price your products comp
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e40f5909-c8db-47fc-9acd-09dfabe4813c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Brand Analytics](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/en_US/transcript.md) · [Next in topic：Intro to business reports](../../../courses/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6/en_US/transcript.md)

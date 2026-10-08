@@ -48,4 +48,6 @@ Add or appeal compliance 下的详细信息中找到。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=36837951-3f77-47f9-82f1-e7c845614c5a) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：危险品概览](../../../courses/9db093ea-ff03-4325-ae88-01b4da66993a/zh_CN/transcript.md) · [同主题下一篇：电池相关问题解答](../../../courses/7091e147-d59e-4eac-9648-65ff3bd2084d/zh_CN/transcript.md)

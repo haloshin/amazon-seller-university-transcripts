@@ -40,4 +40,6 @@ Welcome to the video on exploring B2B product recommendations.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d9c524b4-8ff0-4998-b3f0-9f6f6564570a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Explore Amazon Business features](../../../courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/en_US/transcript.md) · [Next in topic：Generate an inventory report](../../../courses/1c593692-76ae-49e6-aefd-2acd833f95fa/en_US/transcript.md)

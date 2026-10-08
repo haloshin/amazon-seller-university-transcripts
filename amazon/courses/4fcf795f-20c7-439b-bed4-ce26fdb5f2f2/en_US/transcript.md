@@ -34,4 +34,6 @@ Welcome to our training on the UK to US partnered carrier program. Today we will
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=4fcf795f-20c7-439b-bed4-ce26fdb5f2f2) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：The easiest way for US sellers to expand internationally](../../../courses/59a08397-d4b4-4b33-9d38-e83d81329279/en_US/transcript.md)

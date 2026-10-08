@@ -58,4 +58,6 @@ Welcome to our training on how to move your FTL shipments with Amazon Freight. D
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=56035ae2-6096-4bc5-9085-93895e434294) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Move your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/b8348fcf-9c79-422d-a88c-feac58b9abc3/en_US/transcript.md) · [Next in topic：Multi-Channel Fulfillment (MCF): How Amazon sellers can use MCF and FBA together](../../../courses/9c8d24db-75e1-4d42-b405-796c5bc19cad/en_US/transcript.md)

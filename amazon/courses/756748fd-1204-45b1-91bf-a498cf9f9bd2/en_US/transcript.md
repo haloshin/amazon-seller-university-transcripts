@@ -37,4 +37,6 @@ Understanding your compliance requirements is an important part of selling on Am
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=756748fd-1204-45b1-91bf-a498cf9f9bd2) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Manage your compliance dashboard](../../../courses/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4/en_US/transcript.md) · [Next in topic：Overview of Amazon selling policies](../../../courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md)

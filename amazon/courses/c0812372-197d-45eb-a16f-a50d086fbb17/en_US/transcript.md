@@ -24,4 +24,6 @@ Welcome to Amazon. Whether you're a seasoned seller or just getting started, Ama
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c0812372-197d-45eb-a16f-a50d086fbb17) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Sell in the Amazon store: 5-minute overview for beginners](../../../courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)

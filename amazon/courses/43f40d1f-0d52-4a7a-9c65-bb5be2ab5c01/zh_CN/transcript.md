@@ -46,4 +46,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：亚马逊物流（FBA）入门](../../../courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) · [同主题下一篇：卖家自配送 Prime 入门（中文译文）](../../../translations/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/zh_CN/translation.md)

@@ -51,4 +51,6 @@ Welcome to our training on resolving product matching errors. At Amazon we use p
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=09dea851-8b13-4fad-a9ee-bc4cf9d677c3) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Report an error with a product detail page](../../../courses/4efdaeac-dee5-4834-aac8-54ee56b89830/en_US/transcript.md) · [Next in topic：Resolve Brand Name Approval error](../../../courses/d5417511-59df-4138-b6b6-62fecde7da70/en_US/transcript.md)

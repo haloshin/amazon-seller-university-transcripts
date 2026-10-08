@@ -33,4 +33,6 @@ Whether you have a professional or individual selling account, you're eligible t
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=472d8e74-3402-4871-88d2-0ebaeb3263eb) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Amazon Shipping](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/en_US/transcript.md) · [Next in topic：Intro to Fulfillment by Merchant (FBM)](../../../courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md)

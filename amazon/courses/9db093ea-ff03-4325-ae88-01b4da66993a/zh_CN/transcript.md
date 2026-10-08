@@ -66,4 +66,6 @@ Dangerous Goods Identification Guide 帮助页面。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=9db093ea-ff03-4325-ae88-01b4da66993a) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：危险品基础认知](../../../courses/670035e4-6834-46f9-be38-385231351096/zh_CN/transcript.md) · [同主题下一篇：膳食补充剂政策与合规](../../../courses/36837951-3f77-47f9-82f1-e7c845614c5a/zh_CN/transcript.md)

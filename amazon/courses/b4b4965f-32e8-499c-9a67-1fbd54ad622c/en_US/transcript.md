@@ -40,4 +40,6 @@ Determining the right products to sell on Amazon is a critical foundation for br
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b4b4965f-32e8-499c-9a67-1fbd54ad622c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Maximize Your Amazon B2B Sales with Fee Discounts](../../../courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/transcript.md) · [Next in topic：Product Opportunity Explorer best practices](../../../courses/20873123-2c92-4e67-854e-08994da32d72/en_US/transcript.md)

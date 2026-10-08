@@ -84,4 +84,6 @@ Welcome to our video, "Register a Trademark for Your Brand."
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a93ec23a-eb76-466a-a8a7-fbcdb46ee647) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Next steps for sellers who’ve enrolled a brand](../../../courses/43146fdf-a110-4056-971d-c287016104f5/en_US/transcript.md) · [Next in topic：Register a trademark through IP Accelerator](../../../courses/fac5a823-088b-43e5-b00a-62e23464bafb/en_US/transcript.md)

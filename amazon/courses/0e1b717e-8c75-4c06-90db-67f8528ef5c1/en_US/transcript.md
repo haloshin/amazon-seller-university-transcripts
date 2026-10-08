@@ -63,4 +63,6 @@ Welcome to our training on the Brand Analytics Market Basket Analysis Report.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0e1b717e-8c75-4c06-90db-67f8528ef5c1) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Brand Analytics: Demographics report](../../../courses/8628d447-78f5-4fa2-b438-b240dc816a64/en_US/transcript.md) · [Next in topic：Brand Analytics: Repeat Purchase Behavior report](../../../courses/939ce460-adb7-4689-b04e-fa6047635af5/en_US/transcript.md)

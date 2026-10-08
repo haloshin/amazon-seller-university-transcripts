@@ -36,4 +36,6 @@ In this video, you'll learn how to bring shoppers to your Brand Store homepage u
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=69bf0781-44b0-42b7-8ed0-92e70f4873fa) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Drive this holiday season with ads and Coupons](../../../courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/en_US/transcript.md) · [Next in topic：Earn a Brand Referral Bonus from non-Amazon advertising](../../../courses/d89a8859-3460-479b-ae6b-3695a6f5e531/en_US/transcript.md)

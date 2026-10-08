@@ -60,4 +60,6 @@ Welcome to our video, Brand Guide for Global Amazon Selling Partners, with step-
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=cd9b383b-e1d2-49be-a0d3-e5619543e97b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Boost Hero ASIN Sales with Amazon Bundles](../../../courses/14553ca4-057c-4ea0-8a7f-1962695ba18f/en_US/transcript.md) · [Next in topic：Copycat Products Threatening Your Sales? Use Amazon Trademark Tools](../../../courses/09e14bee-0ab7-4674-9265-562271f8e59d/en_US/transcript.md)

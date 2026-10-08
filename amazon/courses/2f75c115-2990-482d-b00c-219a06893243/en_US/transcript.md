@@ -22,4 +22,6 @@ Budget Rules is a feature in Campaign Manager that helps you manage and optimize
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2f75c115-2990-482d-b00c-219a06893243) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Introduction to Amazon Ads](../../../courses/0eaf340b-118f-4faa-b69f-18b3d2a8ef74/en_US/transcript.md) · [Next in topic：Introduction to display ads](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/en_US/transcript.md)

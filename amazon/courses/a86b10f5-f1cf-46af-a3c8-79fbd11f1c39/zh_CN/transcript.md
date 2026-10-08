@@ -20,4 +20,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=a86b10f5-f1cf-46af-a3c8-79fbd11f1c39) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：亚马逊销售政策概览](../../../courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md) · [同主题下一篇：回复绩效通知](../../../courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/zh_CN/transcript.md)

@@ -22,4 +22,6 @@ Let's see how to use Views Remarketing in your Sponsored display campaigns to en
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=98cd18f1-eae5-4664-9e8f-bb014e997231) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to use the Sponsored Brands video ad format](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/en_US/transcript.md) · [Next in topic：Intro to promoting your products](../../../courses/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9/en_US/transcript.md)

@@ -58,4 +58,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b48df0ed-b989-4b5e-8fbb-c683221c2329) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Returns and refunds for seller-fulfilled orders](../../../courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/transcript.md) · [Next in topic：Send to Amazon - Step 1: Choose inventory to send](../../../courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/en_US/transcript.md)

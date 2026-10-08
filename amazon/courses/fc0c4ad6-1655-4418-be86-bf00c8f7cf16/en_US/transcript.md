@@ -40,4 +40,6 @@ Welcome to our training on how multi-channel fulfillment or MCF works. Modern bu
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=fc0c4ad6-1655-4418-be86-bf00c8f7cf16) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Multi-Channel Fulfillment: Create fulfillment orders](../../../courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/en_US/transcript.md) · [Next in topic：New Seller Central: Manage Shipments](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/en_US/transcript.md)

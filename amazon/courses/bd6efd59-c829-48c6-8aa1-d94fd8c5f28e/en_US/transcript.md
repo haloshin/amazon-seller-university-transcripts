@@ -31,4 +31,6 @@ After you pick up your packages for delivery, click View Packages from the Home 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=bd6efd59-c829-48c6-8aa1-d94fd8c5f28e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Local Selling: Staff Management](../../../courses/3d34af1d-6cf6-46e6-b218-7fab5d1e2808/en_US/transcript.md) · [Next in topic：Manage your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/en_US/transcript.md)

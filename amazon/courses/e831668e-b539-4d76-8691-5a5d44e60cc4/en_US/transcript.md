@@ -349,4 +349,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e831668e-b539-4d76-8691-5a5d44e60cc4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：3.2 Prevent or resolve product detail page policy violations](../../../courses/2526203a-97da-4c0a-a0bb-26238ec18af9/en_US/transcript.md) · [Next in topic：Account Health overview](../../../courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/en_US/transcript.md)

@@ -18,4 +18,6 @@ Let's look at how to set up a campaign without an end date, which can help custo
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d0fecd7d-b374-4622-a4ca-a66c14119868) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to create a Deal](../../../courses/54789ffd-acce-49b9-afb2-7873981bf0df/en_US/transcript.md) · [Next in topic：How to drive traffic to your Store with Sponsored Brands](../../../courses/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8/en_US/transcript.md)

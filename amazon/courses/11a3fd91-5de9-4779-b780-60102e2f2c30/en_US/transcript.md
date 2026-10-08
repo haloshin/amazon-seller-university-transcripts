@@ -41,4 +41,6 @@ Hi, I'm Kyle from Vital Pet Life.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=11a3fd91-5de9-4779-b780-60102e2f2c30) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：AI Creative Solutions Prompting Best Practices](../../../courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md) · [Next in topic：Choose a targeting strategy for your campaign](../../../courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md)

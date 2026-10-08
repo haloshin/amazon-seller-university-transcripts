@@ -24,4 +24,6 @@ If you're seeing step 5, print pallet labels in your Send to Amazon workflow, th
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=68fc0a50-82fa-4c0d-a355-eb6b951680f4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon – Step 4: Confirm carrier and pallet information](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/en_US/transcript.md) · [Next in topic：Send to Amazon: Create a case-pack template](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/en_US/transcript.md)

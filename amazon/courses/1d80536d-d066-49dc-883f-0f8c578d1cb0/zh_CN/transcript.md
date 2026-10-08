@@ -20,4 +20,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=1d80536d-d066-49dc-883f-0f8c578d1cb0) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：品牌所有者的商品信息优化](../../../courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/zh_CN/transcript.md) · [同主题下一篇：制定符合买家需求的商品价格](../../../courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/zh_CN/transcript.md)

@@ -174,4 +174,6 @@ Make it a Bundle小部件,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=cbc8a41b-61ef-40ea-b07a-d22367625d07) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：注册加入亚马逊品牌注册](../../../courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/zh_CN/transcript.md) · [同主题下一篇：Amazon Vine 评论如何提升新品曝光（中文译文）](../../../translations/229b4615-cfb7-440a-ade0-f8fd1a5acd0f/zh_CN/translation.md)

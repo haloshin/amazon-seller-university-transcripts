@@ -38,4 +38,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=472d8e74-3402-4871-88d2-0ebaeb3263eb) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Amazon Shipping 入门](../../../courses/232a34dd-c425-4614-981a-7d9c243a4ee8/zh_CN/transcript.md) · [同主题下一篇：卖家自配送（FBM）入门](../../../courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/zh_CN/transcript.md)

@@ -16,4 +16,6 @@ Let's see how to get started with sponsored display contextual targeting to targ
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=80ade8cf-2198-4c91-be7f-867cdf855b8d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to earn a Brand Referral Bonus](../../../courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/en_US/transcript.md) · [Next in topic：How to improve Sponsored Brands campaigns: Strategies to extend your reach and drive clicks](../../../courses/e8e0b050-73e3-48b8-a4dd-f841b131bc75/en_US/transcript.md)

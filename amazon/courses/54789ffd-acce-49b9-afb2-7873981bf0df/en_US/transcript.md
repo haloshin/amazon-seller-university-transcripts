@@ -47,4 +47,6 @@ You can create timed promotional offers with Amazon deals, an invite-only progra
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=54789ffd-acce-49b9-afb2-7873981bf0df) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to change your Sponsored Products campaign budget](../../../courses/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/en_US/transcript.md) · [Next in topic：How to create an always-on campaign](../../../courses/d0fecd7d-b374-4622-a4ca-a66c14119868/en_US/transcript.md)

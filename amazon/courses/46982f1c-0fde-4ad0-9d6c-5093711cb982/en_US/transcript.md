@@ -48,4 +48,6 @@ Welcome to the video on best practices for creating A+ content. Using this tool,
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=46982f1c-0fde-4ad0-9d6c-5093711cb982) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Benefits of enrolling in Amazon Brand Registry](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/en_US/transcript.md) · [Next in topic：Best practices for creating brand names and logos](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/en_US/transcript.md)

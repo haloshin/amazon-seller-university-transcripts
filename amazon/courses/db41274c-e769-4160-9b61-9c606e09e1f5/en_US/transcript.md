@@ -26,4 +26,6 @@ Whether you're setting up a sponsored products campaign or wanting to optimize y
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=db41274c-e769-4160-9b61-9c606e09e1f5) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to optimize your Sponsored Products campaigns](../../../courses/48225115-e431-42ce-bfa5-ab1caef5f4b6/en_US/transcript.md) · [Next in topic：How to redeem Amazon Ads promotional offers](../../../courses/d7baf097-5cff-4173-82db-e2b9dc08b097/en_US/transcript.md)

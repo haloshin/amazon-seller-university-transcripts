@@ -24,4 +24,6 @@ How to optimize your Sponsored Products campaigns: Targeting, bidding, and budge
 
 [下载中文 TXT](translation.txt) · [对照英文原文](../../../courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=db41274c-e769-4160-9b61-9c606e09e1f5) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。

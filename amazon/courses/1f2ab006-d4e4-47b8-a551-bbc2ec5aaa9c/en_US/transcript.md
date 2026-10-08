@@ -29,4 +29,6 @@ Most products sold in the Amazon store are required to have an industry-standard
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Price products using third-party apps](../../../courses/48f69162-d84a-4743-843c-4f3578a6bc99/en_US/transcript.md) · [Next in topic：Report an error with a product detail page](../../../courses/4efdaeac-dee5-4834-aac8-54ee56b89830/en_US/transcript.md)

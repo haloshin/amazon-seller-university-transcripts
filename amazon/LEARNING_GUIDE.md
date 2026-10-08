@@ -1,8 +1,8 @@
 # Learning guide
 
-Browse all 270 courses by topic, or start with the five courses below.
+Browse all 270 courses by topic, or start with the 5 courses below.
 
-Topic groups and the suggested sequence are editorial navigation, not an official Amazon syllabus. Original course titles and transcripts are retained. All 270 courses can be read in Chinese: 185 Chinese-audio transcripts and 85 separately labeled Chinese translations from English. Translations are AI-assisted and are not official Chinese audio transcripts.
+Topic groups and the suggested sequence are editorial navigation, not an official syllabus. Original course titles and transcripts are retained. Chinese translations are AI-assisted and labeled separately from Chinese audio transcripts.
 
 [Home](README.en.md) · [All courses by original title](课程目录.md) · [中文导航](学习导航.md)
 
@@ -15,8 +15,6 @@ Topic groups and the suggested sequence are editorial navigation, not an officia
 | 3 | Overview of Amazon selling policies | [中文音轨](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/zh_CN/transcript.md) | [English](courses/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96/en_US/transcript.md) |
 | 4 | Intro to listing products · a33f0b1d | [中文音轨](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md) | [English](courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/en_US/transcript.md) |
 | 5 | Intro to Fulfillment by Amazon (FBA) | [中文音轨](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/zh_CN/transcript.md) | [English](courses/472d8e74-3402-4871-88d2-0ebaeb3263eb/en_US/transcript.md) |
-
-The FBA course introduces Amazon fulfillment. For seller fulfillment, see [Intro to FBM](courses/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01/en_US/transcript.md). Choose other topics according to your needs.
 
 ## Browse by topic
 

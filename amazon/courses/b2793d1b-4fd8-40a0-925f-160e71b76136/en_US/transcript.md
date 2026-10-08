@@ -25,4 +25,6 @@ Congratulations! You've successfully navigated the world of international
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b2793d1b-4fd8-40a0-925f-160e71b76136) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Global Selling - Sell Internationally - Step 3 of 4 - Ship and Fulfill](../../../courses/44ee9dac-ba0e-423e-a330-d7b4e92fc83c/en_US/transcript.md) · [Next in topic：CREASEBEAST shares 5 steps to successfully expand your business globally](../../../courses/15bd3f34-2946-412f-93dc-b34840ed885f/en_US/transcript.md)

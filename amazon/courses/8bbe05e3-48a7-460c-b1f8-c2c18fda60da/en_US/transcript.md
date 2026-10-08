@@ -81,4 +81,6 @@ Welcome to our video on Step 1 B of Send to Amazon, a streamlined shipment workf
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=8bbe05e3-48a7-460c-b1f8-c2c18fda60da) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon - Step 1: Choose inventory to send](../../../courses/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 2: Confirm shipping](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/en_US/transcript.md)

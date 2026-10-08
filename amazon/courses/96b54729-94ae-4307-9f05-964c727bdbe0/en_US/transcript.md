@@ -133,4 +133,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=96b54729-94ae-4307-9f05-964c727bdbe0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：New Seller Central: Manage Shipments](../../../courses/dcc806b9-188b-4795-bbf2-b1484c562a47/en_US/transcript.md) · [Next in topic：Returns and refunds for seller-fulfilled orders](../../../courses/f80d1d99-0f42-48ff-a444-0cadcf53270c/en_US/transcript.md)

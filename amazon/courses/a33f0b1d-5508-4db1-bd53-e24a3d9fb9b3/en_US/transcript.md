@@ -28,4 +28,6 @@ Listing your first product is an exciting step in your seller journey. To set yo
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Automate Pricing](../../../courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/en_US/transcript.md) · [Next in topic：Intro to listing products](../../../courses/4e1a71e7-388e-49ad-9752-866786639586/en_US/transcript.md)

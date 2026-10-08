@@ -25,4 +25,6 @@ Campaign Optimization can help you adjust your sponsored products campaigns for 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=48225115-e431-42ce-bfa5-ab1caef5f4b6) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to optimize your bid with display ads](../../../courses/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd/en_US/transcript.md) · [Next in topic：How to optimize your Sponsored Products campaigns: Targeting, bidding, and budget](../../../courses/db41274c-e769-4160-9b61-9c606e09e1f5/en_US/transcript.md)

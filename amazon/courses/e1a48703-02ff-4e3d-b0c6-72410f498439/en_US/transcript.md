@@ -25,4 +25,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e1a48703-02ff-4e3d-b0c6-72410f498439) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：FBA dashboard overview](../../../courses/1b57f3d1-0016-4f40-a7d3-6aa44d962482/en_US/transcript.md) · [Next in topic：Generate return reports](../../../courses/1bad2006-82d9-41b5-aacd-549f35e751d4/en_US/transcript.md)

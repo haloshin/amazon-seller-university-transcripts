@@ -58,4 +58,6 @@ A+商品描述。而这可能会导致您无法提交A+商品描述。准备就�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=0fe319e3-c04b-4336-aa3f-36c6c603389c) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题下一篇：加入亚马逊品牌注册的优势](../../../courses/cc20d81e-40c2-437d-99d5-680282e316d6/zh_CN/transcript.md)

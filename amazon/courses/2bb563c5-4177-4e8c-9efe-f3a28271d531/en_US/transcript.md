@@ -22,4 +22,6 @@ So if you're an Amazon seller or product brand, AI tools like this help us creat
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2bb563c5-4177-4e8c-9efe-f3a28271d531) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Fix inactive or suppressed listings](../../../courses/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a/en_US/transcript.md) · [Next in topic：Generic Product Policy: Resolve error code 5882](../../../courses/4bbe836a-904f-4f14-8eb6-3382204cb48d/en_US/transcript.md)

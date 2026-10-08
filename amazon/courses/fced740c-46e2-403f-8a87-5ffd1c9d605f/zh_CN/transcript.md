@@ -36,4 +36,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=fced740c-46e2-403f-8a87-5ffd1c9d605f) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：处理受限商品政策违规](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/zh_CN/transcript.md) · [同主题下一篇：遵守亚马逊多账户政策](../../../courses/1e699b06-7a02-49f7-a155-4642280a63d0/zh_CN/transcript.md)

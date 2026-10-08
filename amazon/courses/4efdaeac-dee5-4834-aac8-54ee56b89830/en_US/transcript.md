@@ -18,4 +18,6 @@ To report a problem with a product detail page, open the Seller Central Main men
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=4efdaeac-dee5-4834-aac8-54ee56b89830) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Product ID overview](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/en_US/transcript.md) · [Next in topic：Resolve a product-matching error](../../../courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/en_US/transcript.md)

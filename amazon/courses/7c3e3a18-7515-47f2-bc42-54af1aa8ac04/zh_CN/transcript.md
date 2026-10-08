@@ -24,4 +24,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=7c3e3a18-7515-47f2-bc42-54af1aa8ac04) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：为亚马逊目录中的现有商品添加报价](../../../courses/8b11c55d-c853-4773-be8d-acd872ca08c1/zh_CN/transcript.md) · [同主题下一篇：Amazon Handmade 商品图片（中文译文）](../../../translations/3181cd9b-1483-4039-94e4-25436be0ef54/zh_CN/translation.md)

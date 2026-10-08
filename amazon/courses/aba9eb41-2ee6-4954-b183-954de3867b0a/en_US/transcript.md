@@ -55,4 +55,6 @@ Welcome to our intro to stores and A+ content.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=aba9eb41-2ee6-4954-b183-954de3867b0a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to A+ Content](../../../courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/en_US/transcript.md) · [Next in topic：Introduction to Stores](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/en_US/transcript.md)

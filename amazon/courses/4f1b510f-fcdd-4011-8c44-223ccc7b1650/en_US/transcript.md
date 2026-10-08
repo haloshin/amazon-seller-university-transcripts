@@ -30,4 +30,6 @@ Welcome to our intro to new seller incentives. In this video, we'll cover the el
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+
 [Previous in topic：Complete your self-service tax interview](../../../courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/en_US/transcript.md) · [Next in topic：Intro to Seller Central](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md)

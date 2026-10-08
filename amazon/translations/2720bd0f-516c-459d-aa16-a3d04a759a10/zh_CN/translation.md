@@ -30,4 +30,6 @@ AI Creative Solutions Prompting Best Practices
 
 [下载中文 TXT](translation.txt) · [对照英文原文](../../../courses/2720bd0f-516c-459d-aa16-a3d04a759a10/en_US/transcript.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2720bd0f-516c-459d-aa16-a3d04a759a10) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。

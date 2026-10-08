@@ -15,4 +15,6 @@ Let's look at how to add negative keywords to a campaign that's already running.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0b2d46ff-ff54-47d7-8429-08b5716cfd6b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to add a custom image to your Sponsored Brands campaign](../../../courses/f69b665b-cb6b-4205-a4f4-b016c77c8375/en_US/transcript.md) · [Next in topic：How to add negative product targets to a new Sponsored Products campaign](../../../courses/d891567f-ccc3-4cca-ba18-f0d5c1c582ed/en_US/transcript.md)

@@ -44,4 +44,6 @@ Welcome to our intro to business reports. Your Amazon Seller Central account giv
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a57dbd46-a486-4e5a-b5f4-1545cb1f79e6) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Business Pricing](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/en_US/transcript.md) · [Next in topic：Maximize Your Amazon B2B Sales with Fee Discounts](../../../courses/2c5f1474-43c2-4c6a-9186-dda315af7b2b/en_US/transcript.md)

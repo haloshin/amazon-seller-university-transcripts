@@ -16,4 +16,6 @@ Send to Amazon or STA is the shipment creation workflow for fulfillment by Amazo
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=573cbe59-7f9b-4cc0-93dc-8c8499df912e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Seller Fulfilled Prime](../../../courses/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/en_US/transcript.md) · [Next in topic：Intro to Shipping Settings Automation (SSA)](../../../courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/en_US/transcript.md)

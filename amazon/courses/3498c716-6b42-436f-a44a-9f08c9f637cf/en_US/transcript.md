@@ -59,4 +59,6 @@ If you're enrolled in Amazon Brand Registry, you can use brand tailored promotio
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=3498c716-6b42-436f-a44a-9f08c9f637cf) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Create ad ready videos with Video Generator](../../../courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md) · [Next in topic：Create your first advertising campaign with Sponsored Products](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/en_US/transcript.md)

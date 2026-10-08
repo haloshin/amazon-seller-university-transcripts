@@ -51,4 +51,6 @@ Welcome to our training on the Brand Analytics Demographics Report.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=8628d447-78f5-4fa2-b438-b240dc816a64) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：B2B Central overview](../../../courses/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/en_US/transcript.md) · [Next in topic：Brand Analytics: Market Basket Analysis report](../../../courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/en_US/transcript.md)

@@ -24,4 +24,6 @@ I'm Lizz and I'm the CEO and Founder of PO' UP! Card Game, Party Game Celebratin
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=453b5103-a147-4ab3-a96c-7daa6264db65) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Seller University](../../../courses/71df97e1-a698-4e73-a357-ae7903433914/en_US/transcript.md) · [Next in topic：Payments Dashboard overview](../../../courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/en_US/transcript.md)

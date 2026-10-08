@@ -42,4 +42,6 @@ A product ID such as GTIN, UPC, EAN, JAN, or ISBN, helps to provide fast and acc
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e8544607-590c-414e-8831-d0b3f0cf3bee) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：List products using third party apps](../../../courses/1214cbd4-bfb5-49a8-81dd-95da211fb487/en_US/transcript.md) · [Next in topic：Manage Your Experiments: interpret results for listing content you’ve tested](../../../courses/28728898-9218-4f5d-8116-abf46b9ef834/en_US/transcript.md)

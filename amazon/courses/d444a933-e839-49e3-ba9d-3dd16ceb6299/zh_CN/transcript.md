@@ -31,4 +31,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d444a933-e839-49e3-ba9d-3dd16ceb6299) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：自动定价：修改或移除定价规则](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/zh_CN/transcript.md) · [同主题下一篇：为商品信息添加视频的优势](../../../courses/a248d5e1-d0eb-459c-a8d3-215b20c70499/zh_CN/transcript.md)

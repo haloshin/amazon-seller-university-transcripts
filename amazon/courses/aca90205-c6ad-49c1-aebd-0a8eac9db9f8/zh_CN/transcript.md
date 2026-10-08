@@ -17,4 +17,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+
 [同主题上一篇：亚马逊新卖家需要完成的步骤（中文译文）](../../../translations/453b5103-a147-4ab3-a96c-7daa6264db65/zh_CN/translation.md) · [同主题下一篇：新卖家 30 分钟开店概览](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md)

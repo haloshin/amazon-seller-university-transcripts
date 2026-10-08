@@ -38,4 +38,6 @@ WORST CASE列
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=28728898-9218-4f5d-8116-abf46b9ef834) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：无商品编码发布商品：UPC/GTIN 豁免](../../../courses/e8544607-590c-414e-8831-d0b3f0cf3bee/zh_CN/transcript.md) · [同主题下一篇：管理您的实验：规划商品内容测试](../../../courses/16da6b21-dffe-4e57-b001-237ff67ed988/zh_CN/transcript.md)

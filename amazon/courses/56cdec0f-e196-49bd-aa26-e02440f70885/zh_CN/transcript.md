@@ -40,4 +40,6 @@ Seller Code of Conduct 这是注册流程的一部分
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=56cdec0f-e196-49bd-aa26-e02440f70885) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：账户状况概览](../../../courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/zh_CN/transcript.md) · [同主题下一篇：处理受限商品政策违规](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/zh_CN/transcript.md)

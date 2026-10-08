@@ -29,4 +29,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a1080e38-8886-410a-aa3d-42654019dcb2) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Remote Fulfillment with FBA: Enroll/Unenroll ASINs](../../../courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/en_US/transcript.md) · [Next in topic：Shipping to Canada](../../../courses/915791db-c5a1-4c02-ad04-d0c8a4b0211f/en_US/transcript.md)

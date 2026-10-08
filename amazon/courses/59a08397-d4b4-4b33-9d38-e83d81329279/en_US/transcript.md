@@ -18,4 +18,6 @@ Hi, my name is Angus and I'm the inventor of the Kangaroo Hanger, which is essen
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=59a08397-d4b4-4b33-9d38-e83d81329279) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Start selling in Canada or Mexico](../../../courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/en_US/transcript.md) · [Next in topic：UK2US Partnered Carrier Program](../../../courses/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2/en_US/transcript.md)

@@ -48,4 +48,6 @@ In this video we'll explore various saving opportunities available to you as an 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=49a26e47-25c4-4981-a15d-ea2dcbbf32ca) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Handmade: Welcome](../../../courses/7e919233-e34f-44f5-83fe-82db49d61d66/en_US/transcript.md) · [Next in topic：Complete your self-service tax interview](../../../courses/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed/en_US/transcript.md)

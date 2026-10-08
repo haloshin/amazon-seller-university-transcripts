@@ -34,4 +34,6 @@ FBA 会代表您以日语提供客户服务，因此，在我们处理买家的�
 
 [下载中文 TXT](translation.txt) · [对照英文原文](../../../courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a1080e38-8886-410a-aa3d-42654019dcb2) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 费用、政策及界面均反映原课归档时的内容，请核对当前官方信息。

@@ -35,4 +35,6 @@ Amazon Warehousing and Distribution, or AWD, is a low-cost bulk storage solution
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a95a9b85-2cc7-4216-9df5-74dc6dbd88b3) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to the FBA Inventory page](../../../courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/en_US/transcript.md) · [Next in topic：Inventory Defect and Reimbursement (IDR portal) overview](../../../courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/en_US/transcript.md)

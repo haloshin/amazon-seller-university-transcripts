@@ -126,4 +126,6 @@ Welcome to our training on the brand referral bonus.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d89a8859-3460-479b-ae6b-3695a6f5e531) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Drive traffic to your Brand Store homepage with Sponsored Brands](../../../courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md) · [Next in topic：Find Your Best Products to Advertise on Amazon](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md)

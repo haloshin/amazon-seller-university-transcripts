@@ -66,4 +66,6 @@ In this video, you'll learn about Sponsored Brands, a solution that helps you bu
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a68280f1-4b1b-4164-a9e4-21d2b7b3001b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Introduction to display ads](../../../courses/75af3c97-c8b3-4a51-9773-05df4c838565/en_US/transcript.md) · [Next in topic：Leafael Jewelry uses Creator Connections strategy for sales growth](../../../courses/42a82b6d-b45b-42c7-9ab4-9d7e084041cd/en_US/transcript.md)

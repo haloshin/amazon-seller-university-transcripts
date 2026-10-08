@@ -56,4 +56,6 @@ Welcome to our training "Manage Your Experiments" - plan a test of your listing 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=16da6b21-dffe-4e57-b001-237ff67ed988) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Manage Your Experiments: interpret results for listing content you’ve tested](../../../courses/28728898-9218-4f5d-8116-abf46b9ef834/en_US/transcript.md) · [Next in topic：Manage Your Experiments: set up a test for listing content](../../../courses/05930523-8e15-4010-8bf9-16307ad17eb2/en_US/transcript.md)

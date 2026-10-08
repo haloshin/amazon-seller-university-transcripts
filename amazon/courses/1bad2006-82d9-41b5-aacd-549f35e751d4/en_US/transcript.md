@@ -53,4 +53,6 @@ Welcome to our training on return reports. It's wonderful when customers love th
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1bad2006-82d9-41b5-aacd-549f35e751d4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：FBA Pack Lists](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md) · [Next in topic：Get recommendations for case packs](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/en_US/transcript.md)

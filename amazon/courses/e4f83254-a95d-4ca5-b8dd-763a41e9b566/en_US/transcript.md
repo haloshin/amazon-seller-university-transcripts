@@ -44,4 +44,6 @@ Customer feedback is essential to the Amazon Shopping Experience, whether positi
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e4f83254-a95d-4ca5-b8dd-763a41e9b566) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Generic Product Policy: Resolve error code 5886/7](../../../courses/2a483f34-bc0a-4996-852e-d80e9127ed19/en_US/transcript.md) · [Next in topic：Intro to Automate Pricing](../../../courses/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15/en_US/transcript.md)

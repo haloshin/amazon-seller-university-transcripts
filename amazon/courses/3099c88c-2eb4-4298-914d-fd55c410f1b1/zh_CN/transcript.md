@@ -39,4 +39,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=3099c88c-2eb4-4298-914d-fd55c410f1b1) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Send to Amazon：创建整箱包装模板](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/zh_CN/transcript.md) · [同主题下一篇：为指定 ASIN 设置备货时间](../../../courses/15f2f395-36f2-47a9-8cd2-17d6641a7077/zh_CN/transcript.md)

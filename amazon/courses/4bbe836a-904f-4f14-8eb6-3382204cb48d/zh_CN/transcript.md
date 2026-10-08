@@ -22,4 +22,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=4bbe836a-904f-4f14-8eb6-3382204cb48d) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用 Amazon AI Studio 生成商品图片（中文译文）](../../../translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.md) · [同主题下一篇：通用商品政策：解决错误代码 5885（中文译文）](../../../translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.md)

@@ -30,4 +30,6 @@ Welcome to our training on how to generate inventory reports in Seller Central. 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1c593692-76ae-49e6-aefd-2acd833f95fa) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Explore product recommendations with B2B product opportunities](../../../courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/en_US/transcript.md) · [Next in topic：Get pricing recommendations using ‘Business discount insights’](../../../courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/en_US/transcript.md)

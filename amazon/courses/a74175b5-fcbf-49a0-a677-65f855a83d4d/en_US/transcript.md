@@ -59,4 +59,6 @@ Welcome, in this video, we'll review how to create your very own Amazon store.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=a74175b5-fcbf-49a0-a677-65f855a83d4d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Stores and A+ Content](../../../courses/aba9eb41-2ee6-4954-b183-954de3867b0a/en_US/transcript.md) · [Next in topic：Introduction to Transparency](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/transcript.md)

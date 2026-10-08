@@ -29,4 +29,6 @@ Hey, I'm Michael Koka, head of Digital Commerce at Revolution Nutrition.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=eee5e435-7b6e-4d4d-be3a-c783a567a9f5) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：Amazon Handmade: Welcome](../../../courses/7e919233-e34f-44f5-83fe-82db49d61d66/en_US/transcript.md)

@@ -31,4 +31,6 @@ In this video, we'll show you how to refresh your brand store with rich visuals 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=6b90667d-d6c3-48af-97af-de027f1e5b13) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to add a shoppable image to your Store](../../../courses/1c2896c9-4fc3-466a-84f2-49887f19f064/en_US/transcript.md) · [Next in topic：How to set up your Brand Store on Amazon](../../../courses/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d/en_US/transcript.md)

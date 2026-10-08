@@ -40,4 +40,6 @@ Welcome to our training on how to respond to an Amazon Anti-Counterfeiting Polic
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f98c92e0-ad5a-472c-81e1-b08ab33581af) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Respond to an A-to-z Guarantee Claims notification](../../../courses/4e174673-a256-4767-b783-7e015e825e35/en_US/transcript.md) · [Next in topic：Sales manipulation and competitor abuse](../../../courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/en_US/transcript.md)

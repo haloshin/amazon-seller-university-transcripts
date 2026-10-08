@@ -33,4 +33,6 @@ Welcome to our training on how to use Amazon Multi-Channel Fulfillment or MCF wi
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=9c8d24db-75e1-4d42-b405-796c5bc19cad) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Move your FTL shipments with Amazon Freight](../../../courses/56035ae2-6096-4bc5-9085-93895e434294/en_US/transcript.md) · [Next in topic：Multi-Channel Fulfillment: Create fulfillment orders](../../../courses/b5aef394-1ef9-4eeb-9b1d-996153a2072f/en_US/transcript.md)

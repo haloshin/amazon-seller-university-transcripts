@@ -24,4 +24,6 @@ Here's the biggest insight. Ads are not just for running sales, they're your fas
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=604ec123-3bb9-4808-a56c-38270532352a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：When to use phrase match in your keyword targeting](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/en_US/transcript.md)

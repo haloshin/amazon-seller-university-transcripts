@@ -34,4 +34,6 @@ Hi everyone! As new sellers, we would love to check our sales all the time, righ
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f180dc0e-5b4c-4244-b759-34e657ec6a9d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Guide to Amazon Business customers](../../../courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/transcript.md) · [Next in topic：How to Read Amazon Business Reports](../../../courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/en_US/transcript.md)

@@ -59,4 +59,6 @@ Amazon sellers leverage various technologies to launch, manage, and grow their b
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=48f69162-d84a-4743-843c-4f3578a6bc99) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Price products to please your customers](../../../courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/en_US/transcript.md) · [Next in topic：Product ID overview](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/en_US/transcript.md)

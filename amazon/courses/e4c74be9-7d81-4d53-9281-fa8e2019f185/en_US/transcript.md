@@ -55,4 +55,6 @@ Welcome to our used sold as new product compliance training.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e4c74be9-7d81-4d53-9281-fa8e2019f185) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Wrong item sent product compliance](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/en_US/transcript.md)

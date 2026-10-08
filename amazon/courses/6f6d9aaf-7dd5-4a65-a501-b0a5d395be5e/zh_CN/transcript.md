@@ -49,4 +49,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：批量应用定价规则](../../../courses/e2f4e544-4e74-4bc0-8d2c-c02179b8d522/zh_CN/transcript.md) · [同主题下一篇：自动定价：修改或移除定价规则](../../../courses/b8e647bf-63c0-4663-bf13-ecd577c4d60f/zh_CN/transcript.md)

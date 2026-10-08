@@ -21,4 +21,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e4ebc7c1-8b4c-443a-af13-49a4218562af) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：在关键词定向中使用广泛匹配的时机](../../../courses/c2fca831-79dc-4abe-a058-acee304a05d0/zh_CN/transcript.md) · [同主题下一篇：卖家投放亚马逊广告的原因（中文译文）](../../../translations/604ec123-3bb9-4808-a56c-38270532352a/zh_CN/translation.md)

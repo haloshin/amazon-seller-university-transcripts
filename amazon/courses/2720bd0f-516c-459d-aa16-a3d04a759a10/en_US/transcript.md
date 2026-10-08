@@ -30,4 +30,6 @@ Looking to enhance your ad creatives with AI?
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2720bd0f-516c-459d-aa16-a3d04a759a10) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Advertise with goals in mind](../../../courses/215d380c-b721-414b-87bb-282c7da60a11/en_US/transcript.md) · [Next in topic：Avoid blanket discounts: smart customer targeting for Amazon sellers](../../../courses/11a3fd91-5de9-4779-b780-60102e2f2c30/en_US/transcript.md)

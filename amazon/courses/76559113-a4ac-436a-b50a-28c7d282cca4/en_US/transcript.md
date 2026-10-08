@@ -54,4 +54,6 @@ Welcome to our training on how to reduce your referral fees in select product ca
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=76559113-a4ac-436a-b50a-28c7d282cca4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Product Opportunity Explorer best practices](../../../courses/20873123-2c92-4e67-854e-08994da32d72/en_US/transcript.md) · [Next in topic：Sustainability Solutions Hub: Introduction](../../../courses/6199b321-db36-420b-8bd0-e847133387d0/en_US/transcript.md)

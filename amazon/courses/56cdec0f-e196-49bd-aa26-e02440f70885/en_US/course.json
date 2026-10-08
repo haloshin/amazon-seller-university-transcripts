@@ -10,9 +10,11 @@
   "subtitlesStatus": "machine_sentence_alignment",
   "captionSha256": "c251c0a4be865ab642f7e8264a69aa59496243ea8c52681c7ec104dd2ab3ff8d",
   "sourceSnapshotDate": "2026-07-27",
-  "officialLearningEntry": "https://sell.amazon.com/learn/seller-university",
-  "officialEntryType": "general_portal_not_course_deeplink",
-  "releaseVersion": "0.8.0",
+  "officialLearningEntry": "https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=56cdec0f-e196-49bd-aa26-e02440f70885",
+  "officialEntryType": "verified_course_page",
+  "releaseVersion": "0.9.0",
   "sourceVideoDurationSeconds": 267.266667,
-  "transcriptSha256": "128f921fd2eead95f5f148ac6475ed0440aef14429afd9d5debf6a5570d53d7f"
+  "transcriptSha256": "128f921fd2eead95f5f148ac6475ed0440aef14429afd9d5debf6a5570d53d7f",
+  "officialLinkStatus": "archive_match",
+  "officialLinkCheckedDate": "2026-10-08"
 }

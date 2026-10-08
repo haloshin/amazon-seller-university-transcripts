@@ -36,4 +36,6 @@ ASIN是亚马逊自动分配的编码,用于识别和追踪亚马逊目录中的
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用第三方应用为商品定价](../../../courses/48f69162-d84a-4743-843c-4f3578a6bc99/zh_CN/transcript.md) · [同主题下一篇：报告商品详情页错误](../../../courses/4efdaeac-dee5-4834-aac8-54ee56b89830/zh_CN/transcript.md)

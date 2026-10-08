@@ -57,4 +57,6 @@ Seller University offers a library of resources
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=71df97e1-a698-4e73-a357-ae7903433914) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Seller Central](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/en_US/transcript.md) · [Next in topic：Must-Do Steps for a New Amazon Seller](../../../courses/453b5103-a147-4ab3-a96c-7daa6264db65/en_US/transcript.md)

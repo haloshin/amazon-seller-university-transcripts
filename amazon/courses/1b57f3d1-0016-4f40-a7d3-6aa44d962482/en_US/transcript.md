@@ -45,4 +45,6 @@ The fulfillment by Amazon FBA dashboard provides a summarized view of your FBA s
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1b57f3d1-0016-4f40-a7d3-6aa44d962482) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：FBA benefits and costs](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US/transcript.md) · [Next in topic：FBA Pack Lists](../../../courses/e1a48703-02ff-4e3d-b0c6-72410f498439/en_US/transcript.md)

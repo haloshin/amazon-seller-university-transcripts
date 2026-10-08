@@ -44,7 +44,7 @@ See the [Amazon introduction](amazon/README.en.md) for topics, the full catalog 
 
 ![Read online, browse offline and follow captions](assets/reading-formats.png)
 
-You can also use the [Markdown guide](amazon/LEARNING_GUIDE.md) or plain TXT files. Original audio transcripts include VTT captions; translations include Markdown and TXT. Video files are not distributed. Use the original platform's official learning portal to find videos.
+You can also use the [Markdown guide](amazon/LEARNING_GUIDE.md) or plain TXT files. Original audio transcripts include VTT captions; translations include Markdown and TXT. Video files are not distributed. Course pages provide verified official course links and label unconfirmed entries.
 
 <details>
 <summary>Repository layout</summary>
@@ -93,3 +93,5 @@ Course content and marks remain with their rights holders and are not relicensed
 The Amazon collection was archived on 2026-07-27. Transcripts and translations received AI-assisted review, not human word-by-word listening or translation certification. This is not a complete catalog of all official courses. Check current official sources for fees, policies and interfaces. [Amazon sources](amazon/docs/SOURCES.md)
 
 [Report a correction](https://github.com/haloshin/seller-university/issues/new?template=correction.yml) with the platform, course, language, location and supporting evidence. [Contributing](CONTRIBUTING.md)
+
+**Permission status:** Written permission for full transcription, translation and redistribution of the original courses has not been obtained. See [source and permission details](amazon/docs/SOURCES.md#再发布授权).

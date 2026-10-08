@@ -29,4 +29,6 @@ If you're a fulfillment by Amazon, FBA Seller, the Inventory Defect and Reimburs
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0730bd4b-bde9-4814-aed5-1a8c118ccb10) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Introduction to Amazon Warehousing and Distribution (AWD)](../../../courses/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3/en_US/transcript.md) · [Next in topic：Late Shipment Rate (LSR) overview](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/en_US/transcript.md)

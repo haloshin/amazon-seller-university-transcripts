@@ -175,4 +175,6 @@ Professional sellers can add products to their Amazon inventory in bulk by uploa
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Master AI tools for Amazon listings: Quick optimization guide](../../../courses/6253ba22-f037-419d-95e5-8d6b921e885f/en_US/transcript.md) · [Next in topic：Optimizing listings for brand owners](../../../courses/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527/en_US/transcript.md)

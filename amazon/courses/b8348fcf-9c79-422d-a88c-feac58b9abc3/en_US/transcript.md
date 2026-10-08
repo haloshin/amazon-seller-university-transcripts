@@ -29,4 +29,6 @@ The Move Inventory workflow allows you to manage and distribute your Amazon
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b8348fcf-9c79-422d-a88c-feac58b9abc3) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Manage your Amazon Warehousing and Distribution (AWD) inventory](../../../courses/aeb181af-3ba3-43e0-a5c0-1c1be6428b47/en_US/transcript.md) · [Next in topic：Move your FTL shipments with Amazon Freight](../../../courses/56035ae2-6096-4bc5-9085-93895e434294/en_US/transcript.md)

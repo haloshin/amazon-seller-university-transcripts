@@ -33,4 +33,6 @@ B2B平台可以为您提供多种分析数据,方便您追踪B2B销售绩效并�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=7121f882-ad4a-449e-b05c-b470ce6d3d87) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：买家评论洞察概览](../../../courses/0646548c-7a14-4d03-851b-33a650f7c033/zh_CN/transcript.md) · [同主题下一篇：通过 B2B 商机探索商品推荐](../../../courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/zh_CN/transcript.md)

@@ -108,11 +108,11 @@ All 85 courses previously available only in English now include a **Chinese tran
 
 <br>
 
-![Transcripts are available now. A Seller University Skill for course lookup and learning, and a question bank for topic-based practice, are planned and not yet released](../assets/learning-roadmap.png)
+![Amazon courses are available. TikTok Shop, Walmart, Shopify, knowledge cards, quizzes and a Skill are planned, not yet released](../assets/learning-roadmap.png)
 
 <br>
 
-**The Seller University Skill and course question bank are planned, not yet released.** Details and timing will be announced later. Neither is included in the current download.
+**Knowledge cards, a question bank and a Skill are planned, not yet released.** TikTok Shop, Walmart and Shopify are future platform directions. The current download contains only Amazon course materials; scope and timing will follow future announcements.
 
 **Star to bookmark · Watch for updates**<br>
 Choose Watch → Custom → Releases for release notifications. [Published versions](https://github.com/haloshin/seller-university/releases)
@@ -183,7 +183,7 @@ Course content and related marks belong to their respective rights holders. Redi
 
 <br>
 
-- **Watch the original video** — visit the [official Amazon Seller University portal](https://sell.amazon.com/learn/seller-university) and search by the original title. Some content requires Seller Central sign-in.
+- **Watch the original video** — use “Watch this official course” on a course page. Official archived versions were matched for 260 courses; 10 course pages remain unavailable. See [Sources](docs/SOURCES.md).
 - **Report a correction** — [submit feedback](https://github.com/haloshin/seller-university/issues/new?template=correction.yml) with the course, language, timestamp and supporting evidence.
 
 <sub>Scope: courses archived on 2026-07-27. Chinese audio transcripts follow Chinese audio; the 85 Chinese translations are AI-assisted translations reviewed against English transcripts, not official Chinese audio. A small number of courses include brief reading notes. Check current official fees, policies and interfaces. <a href="docs/SOURCES.md">Sources</a> · <a href="../CONTRIBUTING.md">Contributing</a></sub>

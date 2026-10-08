@@ -79,4 +79,6 @@ Welcome to the training apps and APIs for B2B product opportunities.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=85f5bf24-105e-4675-abce-a689741f123a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Tax Exemption Program](../../../courses/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/en_US/transcript.md) · [Next in topic：B2B apps and APIs overview](../../../courses/dc85c723-d2ab-4791-b3f6-c41c931cc586/en_US/transcript.md)

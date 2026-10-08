@@ -31,4 +31,6 @@ Your products are one of the most important parts
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=374c25ce-b5e3-47ba-8fb7-91dc3011cf49) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Prepare your product detail pages for advertising](../../../courses/86a775c7-75a3-479b-a2fc-fbc3e1997c00/en_US/transcript.md) · [Next in topic：Reaching high intent shoppers with Sponsored Brands and Brand Stores](../../../courses/dcafc422-e0f3-45da-8525-66f0619c1d7b/en_US/transcript.md)

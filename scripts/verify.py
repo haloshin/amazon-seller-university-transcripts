@@ -13,7 +13,10 @@ from collections import Counter
 from pathlib import Path
 from urllib.parse import unquote, urlsplit
 
+import build_navigation
 from build_navigation import TOPICS, generated_pages, topic_link
+from platforms import platforms
+from build_legacy_links import pages as legacy_pages
 from translations import validate_translations
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -127,7 +130,11 @@ def validate_links_and_privacy(paths):
                 require(unquote(url.fragment) in anchors, f"Broken section link in {relative}: {target}")
 
 
-def verify(refresh=False):
+def verify_collection(config, refresh=False):
+    global CONTENT, TOPICS
+    CONTENT=config["root"]
+    TOPICS=config["topics"]
+    build_navigation.configure(config)
     catalog = read_json(CONTENT / "catalog.json")
     release = read_json(CONTENT / "release.json")
     require(len({c["moduleId"] for c in catalog}) == len(catalog) == release["courseCount"],
@@ -182,7 +189,7 @@ def verify(refresh=False):
     require(dict(locales) == release["locales"], "Language counts mismatch")
     require(note_assets == release["editorialNotesAssets"], "Editorial note count mismatch")
     require(unresolved_assets == release["unresolvedAssets"], "Unresolved asset count mismatch")
-    translations = validate_translations(catalog, release)
+    translations = validate_translations(catalog, release, CONTENT, config["sourceName"])
     for name, content in generated_pages(catalog).items():
         require((CONTENT / name).is_file() and (CONTENT / name).read_text(encoding="utf-8") == content,
                 f"Navigation mismatch: {name}; run scripts/build_navigation.py after reviewed edits")
@@ -190,21 +197,44 @@ def verify(refresh=False):
     for english, name in [(False, "README.md"), (True, "README.en.md")]:
         readme = unquote((CONTENT / name).read_text(encoding="utf-8"))
         for topic, titles in TOPICS.items():
-            entry = f"[{titles[int(english)]} · {counts[topic]}](https://haloshin.github.io/seller-university/#topic={topic}&ui={'en' if english else 'zh'})"
+            platform_query = '' if config['id']=='amazon' else 'platform='+config['id']+'&'
+            entry = f"[{titles[int(english)]} · {counts[topic]}](https://haloshin.github.io/seller-university/#{platform_query}topic={topic}&ui={'en' if english else 'zh'})"
             require(entry in readme, f"README topic link/count mismatch: {name}/{topic}")
+    link_path=CONTENT/'official-links.json'
+    if link_path.exists():
+        links=read_json(link_path)['courses']
+        require(set(links)=={c['moduleId'] for c in catalog}, 'Official link coverage mismatch')
+        for course in catalog:
+            for variant in course['variants']:
+                link=links[course['moduleId']]['variants'][variant['locale']]
+                metadata=read_json((CONTENT/variant['transcript']).with_name('course.json'))
+                require(metadata['officialLearningEntry']==link['url'], 'Official link metadata mismatch')
+                require(metadata['officialLinkStatus']==link['status'], 'Official link status mismatch')
+                if link['status']=='archive_match':
+                    require(link['archivedInstanceId']==link['currentInstanceId'] and link['archivedVersion']==link['currentVersion'], 'Official archive version mismatch')
+                    require(course['moduleId'] in link['url'] and variant['locale'] in link['url'], 'Wrong course/locale in official URL')
     paths = public_files()
     validate_links_and_privacy(paths)
     if refresh:
         for path, metadata in pending_metadata:
             write_json(path, metadata)
     manifest = {
-        "version": release["version"],
+        "version": read_json(ROOT / "platforms.json")["version"],
         "files": [{"path": p.relative_to(ROOT).as_posix(), "bytes": p.stat().st_size, "sha256": sha(p)} for p in paths],
     }
     if refresh:
         write_json(ROOT / "manifest.json", manifest)
     require(read_json(ROOT / "manifest.json") == manifest, "Manifest mismatch; inspect edits, then run --refresh")
     return {"result": "PASS", "courses": len(catalog), "topics": dict(counts), "transcripts": len(seen_assets), "translations": translations, "locales": dict(locales), "unresolvedAssets": unresolved_assets, "files": len(paths) + 1, "scope": "local navigation, links, text consistency and file integrity"}
+
+
+def verify(refresh=False):
+    registry, configs=platforms()
+    for name, text in legacy_pages():
+        require((ROOT/name).read_text()==text, 'Legacy pointer mismatch: '+name)
+    results={key:verify_collection(config, refresh) for key,config in configs.items()}
+    build_navigation.configure(configs[registry['defaultPlatform']])
+    return {'result':'PASS','version':registry['version'],'platforms':results}
 
 
 if __name__ == "__main__":

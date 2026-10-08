@@ -95,4 +95,6 @@ Welcome to our training on the Brand Analytics top search terms report.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d48b8bd8-bbcb-4a11-bb93-20719ca269db) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Brand Analytics: Search Query Performance report](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/en_US/transcript.md) · [Next in topic：Create Business-Only Offers](../../../courses/be468b05-3e0c-4d53-9c5d-48309d236c5a/en_US/transcript.md)

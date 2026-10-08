@@ -62,4 +62,6 @@ ASIN通过验证后,您就可以将填好的尺码表模板上传到尺码表自
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：鞋类与服装商品详情页建议](../../../courses/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1/zh_CN/transcript.md)

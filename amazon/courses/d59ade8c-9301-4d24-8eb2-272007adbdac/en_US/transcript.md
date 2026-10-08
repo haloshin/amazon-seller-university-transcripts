@@ -27,4 +27,6 @@ Hi, I'm Jerry from The Happy Start. As a small business owner, one of the most f
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d59ade8c-9301-4d24-8eb2-272007adbdac) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Sponsored Products advanced features and campaign optimization strategies](../../../courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/en_US/transcript.md) · [Next in topic：Understanding Spend-Based Promotions](../../../courses/a52f7918-1f56-4b2b-b6b7-77d49b472c0f/en_US/transcript.md)

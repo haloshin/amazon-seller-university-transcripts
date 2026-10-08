@@ -15,4 +15,6 @@ Let's see how to use product targeting in your sponsored brands campaign.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=37e58de4-9501-4ed6-9afd-fb79d444d125) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to use keyword match types](../../../courses/0f15b9e5-5669-4df6-b88c-15b9bdf991db/en_US/transcript.md) · [Next in topic：How to use the Sponsored Brands video ad format](../../../courses/b4cca00f-167a-4e8b-add1-aa375c018186/en_US/transcript.md)

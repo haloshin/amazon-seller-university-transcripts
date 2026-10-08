@@ -3,14 +3,20 @@
 import argparse
 import json
 from pathlib import Path
-from build_navigation import ROOT, TOPICS, STARTER_IDS
+from platforms import REPO, platforms
 from reading_paragraphs import reading_paragraphs
 from translations import load_translation
 
-REPO = ROOT.parent
 
 
-def reader_data():
+
+def reader_data(platform_id=None, repo=REPO):
+    repo = Path(repo).resolve()
+    registry, configs = platforms(repo)
+    config = configs[platform_id or registry['defaultPlatform']]
+    ROOT = config['root']
+    links_path = ROOT / 'official-links.json'
+    links = json.loads(links_path.read_text())['courses'] if links_path.exists() else {}
     catalog = json.loads((ROOT / 'catalog.json').read_text())
     courses = []
     for course in catalog:
@@ -25,13 +31,14 @@ def reader_data():
                 'kind': 'transcript',
                 'text': text,
                 'paragraphs': reading_paragraphs(course['moduleId'], variant['locale'], text, course['title']),
-                'path': directory.relative_to(REPO).as_posix(),
+                'path': directory.relative_to(repo).as_posix(),
                 'notes': (ROOT / variant['notes']).read_text(encoding='utf-8') if variant.get('notes') else '',
                 'duration': metadata['sourceVideoDurationSeconds'],
-                'source': metadata['officialLearningEntry'],
+                'source': links.get(course['moduleId'], {}).get('variants', {}).get(variant['locale'], {}).get('url', config['officialHome']),
+                'sourceStatus': links.get(course['moduleId'], {}).get('variants', {}).get(variant['locale'], {}).get('status', 'general_portal'),
             })
         for translation in course.get('translations', []):
-            translated = load_translation(course, translation)
+            translated = load_translation(course, translation, ROOT)
             source = next(v for v in item['variants'] if v['locale'] == translated['sourceLocale'])
             text = (ROOT / translation['text']).read_text()
             item['variants'].insert(0, {
@@ -39,18 +46,32 @@ def reader_data():
                 'title': translated['title'], 'sourceLocale': translated['sourceLocale'],
                 'text': text,
                 'paragraphs': reading_paragraphs(course['moduleId'], 'zh_CN', text, translated['title']),
-                'path': (Path('amazon') / translation['text']).parent.as_posix(),
-                'notes': source['notes'], 'duration': source['duration'], 'source': source['source'],
+                'path': (Path(config['directory']) / translation['text']).parent.as_posix(),
+                'notes': source['notes'], 'duration': source['duration'], 'source': source['source'], 'sourceStatus': source['sourceStatus'],
             })
         courses.append(item)
     return {'release': json.loads((ROOT / 'release.json').read_text()),
-            'topics': TOPICS, 'starters': STARTER_IDS, 'courses': courses,
-            'notice': (REPO / 'NOTICE.md').read_text(), 'license': (REPO / 'LICENSE').read_text()}
+            'topics': config['topics'], 'starters': config['starters'], 'courses': courses,
+            'config': {k:v for k,v in config.items() if k != 'root'},
+            'stats': {'courses': len(courses), 'transcripts': sum(v['kind']=='transcript' for c in courses for v in c['variants']),
+                      'translations': sum(v['kind']=='translation' for c in courses for v in c['variants']),
+                      'chineseAudio': sum(any(v['locale']=='zh_CN' for v in c['variants']) for c in courses),
+                      'englishAudio': sum(any(v['locale']=='en_US' for v in c['variants']) for c in courses),
+                      'chineseReadable': sum(any(v['locale'].startswith('zh_CN') for v in c['variants']) for c in courses)},
+            'notice': (repo / 'NOTICE.md').read_text(), 'license': (repo / 'LICENSE').read_text()}
+
+
+def reader_bundle(repo=REPO):
+    repo = Path(repo).resolve()
+    registry, configs = platforms(repo)
+    return {'version': registry['version'], 'defaultPlatform': registry['defaultPlatform'],
+            'plannedPlatforms': registry.get('plannedPlatforms', []),
+            'platforms': {key: reader_data(key, repo) for key in configs}}
 
 
 def render():
     template = (REPO / 'scripts/reader/template.html').read_text()
-    data = json.dumps(reader_data(), ensure_ascii=False, separators=(',', ':'))
+    data = json.dumps(reader_bundle(), ensure_ascii=False, separators=(',', ':'))
     # JSON lives in a non-executing script element. Escape HTML delimiters even
     # when a future transcript contains markup, preventing premature closure.
     data = data.replace('&', '\\u0026').replace('<', '\\u003c').replace('>', '\\u003e')

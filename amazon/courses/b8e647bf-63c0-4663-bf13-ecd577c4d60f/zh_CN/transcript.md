@@ -35,4 +35,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b8e647bf-63c0-4663-bf13-ecd577c4d60f) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：自动定价：应用定价规则](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md) · [同主题下一篇：自动定价：创建自定义规则](../../../courses/d444a933-e839-49e3-ba9d-3dd16ceb6299/zh_CN/transcript.md)

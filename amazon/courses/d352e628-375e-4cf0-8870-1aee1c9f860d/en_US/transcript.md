@@ -40,4 +40,6 @@ Welcome to our overview of the Growth Opportunities tool. After setting up your 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d352e628-375e-4cf0-8870-1aee1c9f860d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Get pricing recommendations using ‘Business discount insights’](../../../courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/en_US/transcript.md) · [Next in topic：Guide to Amazon Business customers](../../../courses/5cf5d1a0-1cb8-4826-864a-b75832d4b486/en_US/transcript.md)

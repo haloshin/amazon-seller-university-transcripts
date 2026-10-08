@@ -70,4 +70,6 @@ If you're a professional seller, you
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7121f882-ad4a-449e-b05c-b470ce6d3d87) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Customer Review Insights overview](../../../courses/0646548c-7a14-4d03-851b-33a650f7c033/en_US/transcript.md) · [Next in topic：Explore product recommendations with B2B product opportunities](../../../courses/d9c524b4-8ff0-4998-b3f0-9f6f6564570a/en_US/transcript.md)

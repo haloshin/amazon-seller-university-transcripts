@@ -61,4 +61,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=8628d447-78f5-4fa2-b438-b240dc816a64) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：B2B Central 概览（中文译文）](../../../translations/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a/zh_CN/translation.md) · [同主题下一篇：品牌分析：购物篮分析报告](../../../courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/zh_CN/transcript.md)

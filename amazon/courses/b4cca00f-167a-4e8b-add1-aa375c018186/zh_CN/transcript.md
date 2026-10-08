@@ -14,4 +14,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b4cca00f-167a-4e8b-add1-aa375c018186) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：在品牌推广中使用商品定向](../../../courses/37e58de4-9501-4ed6-9afd-fb79d444d125/zh_CN/transcript.md) · [同主题下一篇：在展示型推广中使用浏览再营销](../../../courses/98cd18f1-eae5-4664-9e8f-bb014e997231/zh_CN/transcript.md)

@@ -23,4 +23,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d3d0d087-3961-48a3-94e8-ee3de21a05fc) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：北美联合账户](../../../courses/46211203-fc45-483b-9166-d746869925e7/zh_CN/transcript.md) · [同主题下一篇：在日本站销售（中文译文）](../../../translations/a1080e38-8886-410a-aa3d-42654019dcb2/zh_CN/translation.md)

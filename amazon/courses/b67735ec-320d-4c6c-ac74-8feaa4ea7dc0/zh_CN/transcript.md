@@ -54,4 +54,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+
 [同主题上一篇：使用品牌定制促销创建专属折扣](../../../courses/3498c716-6b42-436f-a44a-9f08c9f637cf/zh_CN/transcript.md) · [同主题下一篇：使用广告与优惠券开展节日营销](../../../courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/zh_CN/transcript.md)

@@ -54,4 +54,6 @@ View all ASIN opportunities,查看可以提高该ASIN绩效的所有方法。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d352e628-375e-4cf0-8870-1aee1c9f860d) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用企业折扣洞察获取定价建议](../../../courses/04cad7f4-122c-4292-a3ac-ad63eca9ff73/zh_CN/transcript.md) · [同主题下一篇：亚马逊企业购买家指南（中文译文）](../../../translations/5cf5d1a0-1cb8-4826-864a-b75832d4b486/zh_CN/translation.md)

@@ -97,4 +97,6 @@ In this video, we'll cover one, actions Amazon takes to address restricted
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e58111b2-59e3-46e5-9ee6-bd2a3f25c49e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Address a Multiple Account Policy violation](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/en_US/transcript.md) · [Next in topic：Apply to sell a product, category, or brand](../../../courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/en_US/transcript.md)

@@ -70,4 +70,6 @@ Comprehensive View,下载包含所有相关列的报告。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=c5ae80c5-a23b-4e15-80a1-5b2aa1de431b) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：品牌分析：重复购买行为报告](../../../courses/939ce460-adb7-4689-b04e-fa6047635af5/zh_CN/transcript.md) · [同主题下一篇：品牌分析：搜索查询绩效报告](../../../courses/757b1160-8c11-4f5b-9bd4-4651b31bab2b/zh_CN/transcript.md)

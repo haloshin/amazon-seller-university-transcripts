@@ -57,4 +57,6 @@ Welcome to our understanding shipping settings training. In this video we'll
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=98f10d9f-bf23-418f-b4bb-370a640aef33) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Get recommendations for case packs](../../../courses/b8ed006d-9b8d-4f30-8c5a-cde93aefb005/en_US/transcript.md) · [Next in topic：Handling times and fulfillment settings](../../../courses/187391de-1128-40af-a940-f6e3c653b66f/en_US/transcript.md)

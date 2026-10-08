@@ -44,4 +44,6 @@ For brands like yours, preventing customers from receiving counterfeits is a top
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c64157c2-1aa1-4a23-85ce-007980b079e0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Best practices for reviews and ratings](../../../courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/en_US/transcript.md) · [Next in topic：Boost Hero ASIN Sales with Amazon Bundles](../../../courses/14553ca4-057c-4ea0-8a7f-1962695ba18f/en_US/transcript.md)

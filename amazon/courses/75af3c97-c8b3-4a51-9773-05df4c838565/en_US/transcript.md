@@ -44,4 +44,6 @@ In this video, we'll introduce how sponsored display can help drive traffic to y
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+
 [Previous in topic：Introduction to Amazon Ads Campaign Manager Budget Rules](../../../courses/2f75c115-2990-482d-b00c-219a06893243/en_US/transcript.md) · [Next in topic：Introduction to Sponsored Brands](../../../courses/a68280f1-4b1b-4164-a9e4-21d2b7b3001b/en_US/transcript.md)

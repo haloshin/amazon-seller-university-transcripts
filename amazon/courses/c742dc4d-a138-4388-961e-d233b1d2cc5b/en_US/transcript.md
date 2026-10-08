@@ -67,4 +67,6 @@ Welcome to our training on the customer reviews tool. Product reviews are an imp
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c742dc4d-a138-4388-961e-d233b1d2cc5b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Tips to reduce A-to-z Guarantee Claims and returns](../../../courses/2150b8bd-e4f7-4b95-9161-ca0d482e47f6/en_US/transcript.md) · [Next in topic：Voice of the Customer overview](../../../courses/e52369f9-c402-469f-aa56-c0dd1c706aef/en_US/transcript.md)

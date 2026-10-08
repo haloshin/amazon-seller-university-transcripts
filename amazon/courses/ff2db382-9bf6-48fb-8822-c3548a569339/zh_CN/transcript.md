@@ -94,4 +94,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=ff2db382-9bf6-48fb-8822-c3548a569339) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：将商品扩展至加拿大站和墨西哥站（中文译文）](../../../translations/d440d209-5fc4-4e61-b13d-d582afdd5019/zh_CN/translation.md) · [同主题下一篇：DTocs 通过全球开店拓展加拿大市场的案例（中文译文）](../../../translations/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/zh_CN/translation.md)

@@ -22,4 +22,6 @@ STA工作流程共有5步。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=573cbe59-7f9b-4cc0-93dc-8c8499df912e) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：卖家自配送 Prime 入门（中文译文）](../../../translations/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c/zh_CN/translation.md) · [同主题下一篇：配送设置自动化（SSA）入门](../../../courses/c4530fd9-f439-456b-941c-ca653f1e7fb2/zh_CN/transcript.md)

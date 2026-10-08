@@ -82,4 +82,6 @@ Account Health 页面,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=f98c92e0-ad5a-472c-81e1-b08ab33581af) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：回复亚马逊商城交易保障索赔通知](../../../courses/4e174673-a256-4767-b783-7e015e825e35/zh_CN/transcript.md) · [同主题下一篇：销售操纵与竞争对手滥用行为](../../../courses/b6c1a4d1-0484-458b-978b-4e87e89a86b6/zh_CN/transcript.md)

@@ -83,4 +83,6 @@ Welcome to our Dangerous Goods Overview.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=9db093ea-ff03-4325-ae88-01b4da66993a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Dangerous Goods Awareness](../../../courses/670035e4-6834-46f9-be38-385231351096/en_US/transcript.md) · [Next in topic：Dietary supplements policy and compliance](../../../courses/36837951-3f77-47f9-82f1-e7c845614c5a/en_US/transcript.md)

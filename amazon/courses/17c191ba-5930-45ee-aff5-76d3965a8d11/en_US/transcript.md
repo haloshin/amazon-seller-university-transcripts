@@ -22,4 +22,6 @@ You've got your sights set on taking your business global and reaching more
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=17c191ba-5930-45ee-aff5-76d3965a8d11) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：Amazon Global Selling - Sell Internationally - Step 2 of 4 - Register and List Your Products](../../../courses/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc/en_US/transcript.md)

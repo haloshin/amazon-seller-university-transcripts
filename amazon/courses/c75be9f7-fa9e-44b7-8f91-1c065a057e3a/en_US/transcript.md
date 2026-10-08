@@ -31,4 +31,6 @@ When listing products in the Amazon Store, you'll need to be aware of product re
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c75be9f7-fa9e-44b7-8f91-1c065a057e3a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Anti-Counterfeit Policy compliance](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/en_US/transcript.md) · [Next in topic：Intro to the Amazon Generic Product Policy](../../../courses/a3d3e133-028a-408c-b85a-84031b302681/en_US/transcript.md)

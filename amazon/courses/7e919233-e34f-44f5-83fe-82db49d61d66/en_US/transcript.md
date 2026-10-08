@@ -25,4 +25,6 @@ At Amazon Handmade, we know that behind everything you make, there's a story.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7e919233-e34f-44f5-83fe-82db49d61d66) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：3 Essential Tips Every New Amazon Seller Needs to Know](../../../courses/eee5e435-7b6e-4d4d-be3a-c783a567a9f5/en_US/transcript.md) · [Next in topic：Choosing your seller savings programs (video)](../../../courses/49a26e47-25c4-4981-a15d-ea2dcbbf32ca/en_US/transcript.md)

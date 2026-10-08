@@ -262,4 +262,6 @@ Welcome to our 30-minute overview of selling in the Amazon Store.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=43b1701d-6ab4-4eea-829f-fa1f3affc63c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Payments Dashboard overview](../../../courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/en_US/transcript.md) · [Next in topic：Sell in the Amazon store: 5-minute overview for beginners](../../../courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/en_US/transcript.md)

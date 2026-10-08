@@ -77,4 +77,6 @@ Welcome to our video next steps for sellers who've enrolled a brand. You've
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=43146fdf-a110-4056-971d-c287016104f5) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Introduction to Transparency](../../../courses/2b3e0700-d867-45dc-bfd7-c2bf560e7739/en_US/transcript.md) · [Next in topic：Register a trademark for your brand](../../../courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/en_US/transcript.md)

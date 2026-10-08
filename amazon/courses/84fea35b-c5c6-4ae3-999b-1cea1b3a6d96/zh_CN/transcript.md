@@ -24,4 +24,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：通过合规知识门户了解亚马逊合规要求](../../../courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/zh_CN/transcript.md) · [同主题下一篇：申请销售时的图片要求](../../../courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/zh_CN/transcript.md)

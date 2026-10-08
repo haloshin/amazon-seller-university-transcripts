@@ -47,4 +47,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=fc47f5bc-7eb9-417f-89c0-b5155169f905) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：品牌名称与标志设计的最佳实践](../../../courses/86849b9b-5690-4484-b490-c26b186bc7b0/zh_CN/transcript.md) · [同主题下一篇：使用 Project Zero 阻止假冒商品（中文译文）](../../../translations/c64157c2-1aa1-4a23-85ce-007980b079e0/zh_CN/translation.md)

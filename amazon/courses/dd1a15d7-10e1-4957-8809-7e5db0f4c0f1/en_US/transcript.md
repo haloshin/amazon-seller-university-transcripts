@@ -59,4 +59,6 @@ Welcome to the video on how to improve apparel and shoe detail pages to reduce r
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dd1a15d7-10e1-4957-8809-7e5db0f4c0f1) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Suggest an edit to a product detail page](../../../courses/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c/en_US/transcript.md) · [Next in topic：Upload your own size chart](../../../courses/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a/en_US/transcript.md)

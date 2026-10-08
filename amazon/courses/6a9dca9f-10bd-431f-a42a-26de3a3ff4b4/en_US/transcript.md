@@ -18,4 +18,6 @@ When selling in the Amazon store, you are in control of how you price your produ
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=6a9dca9f-10bd-431f-a42a-26de3a3ff4b4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Overview of Manage All Inventory](../../../courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/en_US/transcript.md) · [Next in topic：Price products using third-party apps](../../../courses/48f69162-d84a-4743-843c-4f3578a6bc99/en_US/transcript.md)

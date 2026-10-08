@@ -112,4 +112,6 @@ Amazon sellers leverage various technologies
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=1214cbd4-bfb5-49a8-81dd-95da211fb487) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to listing products](../../../courses/4e1a71e7-388e-49ad-9752-866786639586/en_US/transcript.md) · [Next in topic：List products without a Product ID (UPC/GTIN Exemption)](../../../courses/e8544607-590c-414e-8831-d0b3f0cf3bee/en_US/transcript.md)

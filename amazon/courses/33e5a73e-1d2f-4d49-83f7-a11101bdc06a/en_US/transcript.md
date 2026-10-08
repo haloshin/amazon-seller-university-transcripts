@@ -14,4 +14,6 @@ I didn't build a global warehouse, nor did I hire an international team to sell 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=33e5a73e-1d2f-4d49-83f7-a11101bdc06a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Expand Your Business to Europe with FBA](../../../courses/ff2db382-9bf6-48fb-8822-c3548a569339/en_US/transcript.md) · [Next in topic：Get paid when selling globally in the Amazon store](../../../courses/ed84f7d6-acde-4602-a079-f1a38ad9df24/en_US/transcript.md)

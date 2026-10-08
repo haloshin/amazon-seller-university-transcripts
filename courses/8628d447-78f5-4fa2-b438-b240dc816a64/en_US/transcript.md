@@ -1,0 +1,5 @@
+# 内容已迁移 · Moved
+
+[打开 Amazon 专区中的正式文件 / Open the current file](../../../amazon/courses/8628d447-78f5-4fa2-b438-b240dc816a64/en_US/transcript.md)
+
+此页仅保留旧链接。课程正文统一保存在 `amazon/`，请更新收藏。

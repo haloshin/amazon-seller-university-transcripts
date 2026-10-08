@@ -27,4 +27,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=ed84f7d6-acde-4602-a079-f1a38ad9df24) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：DTocs 通过全球开店拓展加拿大市场的案例（中文译文）](../../../translations/33e5a73e-1d2f-4d49-83f7-a11101bdc06a/zh_CN/translation.md) · [同主题下一篇：全球业务扩展：跨境物流指南（中文译文）](../../../translations/c9448d96-2300-4c06-852b-6283e0edf81c/zh_CN/translation.md)

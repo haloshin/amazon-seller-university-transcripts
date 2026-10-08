@@ -23,4 +23,6 @@ As of January 1st, 2020, many governments worldwide require manufacturers and su
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f5e3647a-e286-444c-9b13-8c344e3a42bf) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to properly list button and coin batteries](../../../courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/en_US/transcript.md) · [Next in topic：Intro to Anti-Counterfeit Policy compliance](../../../courses/13e13735-ad60-4d5e-8a69-55c7455cba80/en_US/transcript.md)

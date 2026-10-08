@@ -130,4 +130,6 @@ A-Z guarantee claims are an important component
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+
 [Previous in topic：Respond to a performance notification](../../../courses/dba9f4b7-b410-4109-ae93-0147b86b79ed/en_US/transcript.md) · [Next in topic：Respond to an Anti-Counterfeiting policy violation](../../../courses/f98c92e0-ad5a-472c-81e1-b08ab33581af/en_US/transcript.md)

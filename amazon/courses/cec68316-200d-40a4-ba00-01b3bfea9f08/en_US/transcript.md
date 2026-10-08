@@ -62,4 +62,6 @@ Welcome to our training on how to set up a coupon.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=cec68316-200d-40a4-ba00-01b3bfea9f08) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Choose a targeting strategy for your campaign](../../../courses/09a25aab-2175-41ad-b349-443e73a9d646/en_US/transcript.md) · [Next in topic：Create ad ready videos with Video Generator](../../../courses/aaf32411-71c9-438d-959b-30ee392a0319/en_US/transcript.md)

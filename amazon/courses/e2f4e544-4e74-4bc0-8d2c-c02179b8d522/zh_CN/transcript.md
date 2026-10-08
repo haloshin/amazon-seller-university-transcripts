@@ -91,4 +91,6 @@ Monitor Automate Pricing File Upload Status部分中,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e2f4e544-4e74-4bc0-8d2c-c02179b8d522) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Revolution Nutrition 的商品信息优化实践（中文译文）](../../../translations/f9ca9049-6531-4f13-a693-273354d5a37f/zh_CN/translation.md) · [同主题下一篇：自动定价：应用定价规则](../../../courses/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e/zh_CN/transcript.md)

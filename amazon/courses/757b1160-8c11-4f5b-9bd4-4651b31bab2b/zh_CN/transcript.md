@@ -220,4 +220,6 @@ Metrics Glossary页面上。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=757b1160-8c11-4f5b-9bd4-4651b31bab2b) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：品牌分析：搜索目录绩效报告](../../../courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/zh_CN/transcript.md) · [同主题下一篇：品牌分析：热门搜索词报告](../../../courses/d48b8bd8-bbcb-4a11-bb93-20719ca269db/zh_CN/transcript.md)

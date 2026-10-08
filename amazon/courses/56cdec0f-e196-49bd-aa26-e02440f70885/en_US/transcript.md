@@ -67,4 +67,6 @@ Welcome to the video on addressing Amazon's multiple accounts policy
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=56cdec0f-e196-49bd-aa26-e02440f70885) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Account Health overview](../../../courses/f5890fd5-5dbe-48a3-a20d-65e48fbc949f/en_US/transcript.md) · [Next in topic：Address a Restricted Products policy violation](../../../courses/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e/en_US/transcript.md)

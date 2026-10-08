@@ -21,4 +21,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c2fca831-79dc-4abe-a058-acee304a05d0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Use audience bid boosting to enhance your Sponsored Brands campaigns](../../../courses/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/en_US/transcript.md) · [Next in topic：When to use phrase match in your keyword targeting](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/en_US/transcript.md)

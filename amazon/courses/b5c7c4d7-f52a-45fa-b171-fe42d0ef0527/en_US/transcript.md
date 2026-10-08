@@ -152,4 +152,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b5c7c4d7-f52a-45fa-b171-fe42d0ef0527) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Match or create product listings and variations in bulk](../../../courses/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc/en_US/transcript.md) · [Next in topic：Overview of Manage All Inventory](../../../courses/1d80536d-d066-49dc-883f-0f8c578d1cb0/en_US/transcript.md)

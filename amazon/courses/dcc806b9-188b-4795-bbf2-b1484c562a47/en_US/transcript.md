@@ -56,4 +56,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dcc806b9-188b-4795-bbf2-b1484c562a47) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Multi-Channel Fulfillment: How it works](../../../courses/fc0c4ad6-1655-4418-be86-bf00c8f7cf16/en_US/transcript.md) · [Next in topic：Optimizing your Seller Fulfilled Prime trial](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/en_US/transcript.md)

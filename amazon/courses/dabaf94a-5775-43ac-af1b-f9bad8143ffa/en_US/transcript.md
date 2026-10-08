@@ -96,4 +96,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=dabaf94a-5775-43ac-af1b-f9bad8143ffa) · Course ID, audio language and archived version matched; availability may change.
+
 [Next in topic：Add negotiated pricing](../../../courses/2513f967-cfdc-40ad-8747-341bd9dbefec/en_US/transcript.md)

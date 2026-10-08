@@ -28,4 +28,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=0646548c-7a14-4d03-851b-33a650f7c033) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：创建仅限企业买家的报价（中文译文）](../../../translations/be468b05-3e0c-4d53-9c5d-48309d236c5a/zh_CN/translation.md) · [同主题下一篇：了解亚马逊企业购功能](../../../courses/7121f882-ad4a-449e-b05c-b470ce6d3d87/zh_CN/transcript.md)

@@ -55,4 +55,6 @@ Order Handling Capacity。
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=8b6172ef-90dc-4f88-ae56-53e7fbfbfff6) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：设置一天默认备货时间](../../../courses/052084ba-aa05-4030-86d1-56cec47183dd/zh_CN/transcript.md) · [同主题下一篇：使用第三方应用发货与配送](../../../courses/a41f058b-befa-41d2-98b2-cd0c1a2424ef/zh_CN/transcript.md)

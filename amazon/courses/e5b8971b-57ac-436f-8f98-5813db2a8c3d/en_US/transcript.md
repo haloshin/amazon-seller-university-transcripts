@@ -51,4 +51,6 @@ Want to get more from your sponsored products ads?
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e5b8971b-57ac-436f-8f98-5813db2a8c3d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Find Your Best Products to Advertise on Amazon](../../../courses/d3f10113-63e7-4e14-bf38-1c1def628834/en_US/transcript.md) · [Next in topic：Getting started with Sponsored Brands](../../../courses/476c18b1-9666-4f27-ad6b-b29156467146/en_US/transcript.md)

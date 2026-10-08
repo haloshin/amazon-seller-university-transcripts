@@ -73,4 +73,6 @@ In this video, we'll provide an overview of selling button or coin batteries as 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=fa1d94e1-a6cb-4241-bce6-ee32929f35e4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Help with Battery Questions](../../../courses/7091e147-d59e-4eac-9648-65ff3bd2084d/en_US/transcript.md) · [Next in topic：Information about Li-Batt 38.3](../../../courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/en_US/transcript.md)

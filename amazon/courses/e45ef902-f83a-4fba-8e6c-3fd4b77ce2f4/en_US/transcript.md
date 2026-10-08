@@ -45,4 +45,6 @@ Welcome to our training on the Manage Your Compliance Dashboard. In this module,
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Lithium batteries overview](../../../courses/e1ad85d1-a5c1-493d-a410-a1b69046d191/en_US/transcript.md) · [Next in topic：Meet Amazon's compliance requirements using the Compliance Knowledge Portal](../../../courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/en_US/transcript.md)

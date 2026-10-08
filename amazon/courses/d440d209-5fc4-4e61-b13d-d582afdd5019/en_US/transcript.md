@@ -74,4 +74,6 @@ If you're a seller using a North America unified account, you can sell on Amazon
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d440d209-5fc4-4e61-b13d-d582afdd5019) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：CREASEBEAST shares 5 steps to successfully expand your business globally](../../../courses/15bd3f34-2946-412f-93dc-b34840ed885f/en_US/transcript.md) · [Next in topic：Expand Your Business to Europe with FBA](../../../courses/ff2db382-9bf6-48fb-8822-c3548a569339/en_US/transcript.md)

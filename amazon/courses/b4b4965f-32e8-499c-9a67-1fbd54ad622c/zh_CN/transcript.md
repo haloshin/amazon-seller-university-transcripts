@@ -47,4 +47,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b4b4965f-32e8-499c-9a67-1fbd54ad622c) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：通过费用折扣提升亚马逊 B2B 销售（中文译文）](../../../translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.md) · [同主题下一篇：商机探测器最佳实践](../../../courses/20873123-2c92-4e67-854e-08994da32d72/zh_CN/transcript.md)

@@ -356,4 +356,6 @@ Manage Returns,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=43b1701d-6ab4-4eea-829f-fa1f3affc63c) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：付款控制面板概览](../../../courses/aca90205-c6ad-49c1-aebd-0a8eac9db9f8/zh_CN/transcript.md) · [同主题下一篇：新卖家 5 分钟开店概览](../../../courses/eaf6dccf-18fd-49ee-9b08-988472334a0b/zh_CN/transcript.md)

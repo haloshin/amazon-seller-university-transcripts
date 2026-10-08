@@ -18,4 +18,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=c04f9ed8-3a51-4f1f-aa98-b67f549b6b15) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：利用买家反馈改进商品信息](../../../courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/zh_CN/transcript.md) · [同主题下一篇：商品发布入门](../../../courses/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3/zh_CN/transcript.md)

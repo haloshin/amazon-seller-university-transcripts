@@ -32,4 +32,6 @@ When you register as a professional seller in the US, Canada, or Mexico, you'll 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=46211203-fc45-483b-9166-d746869925e7) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Introduction to Selling on Amazon Global Store](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/en_US/transcript.md) · [Next in topic：Remote Fulfillment with FBA: Enroll/Unenroll ASINs](../../../courses/d3d0d087-3961-48a3-94e8-ee3de21a05fc/en_US/transcript.md)

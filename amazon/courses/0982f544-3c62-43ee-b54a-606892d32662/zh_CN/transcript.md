@@ -73,4 +73,6 @@ Selling Children's Toys in the US
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=0982f544-3c62-43ee-b54a-606892d32662) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：防范网络钓鱼（中文译文）](../../../translations/155f35ac-295f-46a0-bc01-2423a9d62936/zh_CN/translation.md) · [同主题下一篇：错发商品的合规要求](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/zh_CN/transcript.md)

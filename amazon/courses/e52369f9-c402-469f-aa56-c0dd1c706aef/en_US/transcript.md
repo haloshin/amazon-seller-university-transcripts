@@ -40,4 +40,6 @@ Welcome to our overview of Voice of the Customer Dashboard.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e52369f9-c402-469f-aa56-c0dd1c706aef) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Track and respond to customer reviews](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/en_US/transcript.md) · [Next in topic：Why early reviews through Amazon Vine helped The Happy Start succeed](../../../courses/13076c64-4d24-4075-984a-bcd3fd8311d1/en_US/transcript.md)

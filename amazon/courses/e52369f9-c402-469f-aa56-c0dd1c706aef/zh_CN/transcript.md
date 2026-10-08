@@ -33,4 +33,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e52369f9-c402-469f-aa56-c0dd1c706aef) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：跟踪并回复买家评论](../../../courses/c742dc4d-a138-4388-961e-d233b1d2cc5b/zh_CN/transcript.md) · [同主题下一篇：Amazon Vine 早期评论帮助 Happy Start 的案例（中文译文）](../../../translations/13076c64-4d24-4075-984a-bcd3fd8311d1/zh_CN/translation.md)

@@ -32,4 +32,6 @@ Amazon's Intellectual Property, IP Accelerator, connects you with a vetted netwo
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=fac5a823-088b-43e5-b00a-62e23464bafb) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Register a trademark for your brand](../../../courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/en_US/transcript.md) · [Next in topic：Request access to brand selling benefits](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/en_US/transcript.md)

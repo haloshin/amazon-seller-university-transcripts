@@ -23,4 +23,6 @@ Welcome to our training on Amazon anti-counterfeiting policy compliance. The tip
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=13e13735-ad60-4d5e-8a69-55c7455cba80) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Information about Li-Batt 38.3](../../../courses/f5e3647a-e286-444c-9b13-8c344e3a42bf/en_US/transcript.md) · [Next in topic：Intro to product restrictions, categories, and conditions](../../../courses/c75be9f7-fa9e-44b7-8f91-1c065a057e3a/en_US/transcript.md)

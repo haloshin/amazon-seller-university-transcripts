@@ -17,4 +17,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=4efdaeac-dee5-4834-aac8-54ee56b89830) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：商品编码概览](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/zh_CN/transcript.md) · [同主题下一篇：解决商品匹配错误](../../../courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/zh_CN/transcript.md)

@@ -31,4 +31,6 @@ Learn how sponsored Brands store spotlight format can help you showcase the vari
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=8632fdd4-23c8-4700-9888-e9d8da14839e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Set up your budgets](../../../courses/b576fddc-129d-4ce1-8c71-15e515b7f551/en_US/transcript.md) · [Next in topic：Sponsored Products advanced features and campaign optimization strategies](../../../courses/0a6ad152-72de-4e10-b6c2-ba190e6c5476/en_US/transcript.md)

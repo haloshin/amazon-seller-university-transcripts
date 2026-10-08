@@ -76,4 +76,6 @@ Welcome to our training on how to determine product weights and dimensions.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=4c982766-929e-4a32-bc33-6614f7ddfc78) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How FBA helped Kangaroo Hangers lower operating costs](../../../courses/c565e074-7605-493c-ba93-119058ccca69/en_US/transcript.md) · [Next in topic：Intro to Amazon Buy Shipping](../../../courses/71621b53-ef31-45c4-a87d-dfb3346d1a94/en_US/transcript.md)

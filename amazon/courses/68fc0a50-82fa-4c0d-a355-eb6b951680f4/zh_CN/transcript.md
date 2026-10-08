@@ -40,4 +40,6 @@ ASIN建议您为此托盘粘贴单一ASIN标签
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=68fc0a50-82fa-4c0d-a355-eb6b951680f4) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Send to Amazon 第 4 步：确认承运商和托盘信息](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/zh_CN/transcript.md) · [同主题下一篇：Send to Amazon：创建整箱包装模板](../../../courses/134b3d1f-a54b-449a-813b-74285ee8bc0b/zh_CN/transcript.md)

@@ -40,4 +40,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：推荐报价资格与策略](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/zh_CN/transcript.md) · [同主题下一篇：使用 Amazon AI Studio 生成商品图片（中文译文）](../../../translations/2bb563c5-4177-4e8c-9efe-f3a28271d531/zh_CN/translation.md)

@@ -20,4 +20,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=2a483f34-bc0a-4996-852e-d80e9127ed19) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：通用商品政策：解决错误代码 5885（中文译文）](../../../translations/c52648f2-ab54-4aba-bb30-e44d1a7831ef/zh_CN/translation.md) · [同主题下一篇：利用买家反馈改进商品信息](../../../courses/e4f83254-a95d-4ca5-b8dd-763a41e9b566/zh_CN/transcript.md)

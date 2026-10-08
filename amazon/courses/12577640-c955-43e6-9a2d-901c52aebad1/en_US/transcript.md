@@ -41,4 +41,6 @@ With Amazon Global Selling, you can expand your business and reach customers acr
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=12577640-c955-43e6-9a2d-901c52aebad1) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Global Expansion: A Guide to Cross-Border Logistic](../../../courses/c9448d96-2300-4c06-852b-6283e0edf81c/en_US/transcript.md) · [Next in topic：Introduction to Selling on Amazon Global Store](../../../courses/86a28216-f389-4eb3-be1e-934587862b3b/en_US/transcript.md)

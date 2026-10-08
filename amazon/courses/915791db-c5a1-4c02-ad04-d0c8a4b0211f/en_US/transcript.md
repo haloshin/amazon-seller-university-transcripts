@@ -72,4 +72,6 @@ When you expand your business to an Amazon marketplace outside your home country
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=915791db-c5a1-4c02-ad04-d0c8a4b0211f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Selling in Japan](../../../courses/a1080e38-8886-410a-aa3d-42654019dcb2/en_US/transcript.md) · [Next in topic：Start selling in Canada or Mexico](../../../courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/en_US/transcript.md)

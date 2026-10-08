@@ -15,4 +15,6 @@ Video can instantly help your ad stand out, so let's look at how to use the spon
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b4cca00f-167a-4e8b-add1-aa375c018186) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to use product targeting in your Sponsored Brands campaign](../../../courses/37e58de4-9501-4ed6-9afd-fb79d444d125/en_US/transcript.md) · [Next in topic：How to use views remarketing in your Sponsored Display campaigns](../../../courses/98cd18f1-eae5-4664-9e8f-bb014e997231/en_US/transcript.md)

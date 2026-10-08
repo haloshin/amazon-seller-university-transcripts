@@ -40,4 +40,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=54789ffd-acce-49b9-afb2-7873981bf0df) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：修改商品推广广告预算（中文译文）](../../../translations/2eb273bb-44fa-4787-bbc5-f6e4af16c35e/zh_CN/translation.md) · [同主题下一篇：创建持续投放的广告活动](../../../courses/d0fecd7d-b374-4622-a4ca-a66c14119868/zh_CN/transcript.md)

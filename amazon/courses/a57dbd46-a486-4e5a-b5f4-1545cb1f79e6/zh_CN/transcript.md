@@ -52,4 +52,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=a57dbd46-a486-4e5a-b5f4-1545cb1f79e6) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：企业价格入门](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/transcript.md) · [同主题下一篇：通过费用折扣提升亚马逊 B2B 销售（中文译文）](../../../translations/2c5f1474-43c2-4c6a-9186-dda315af7b2b/zh_CN/translation.md)

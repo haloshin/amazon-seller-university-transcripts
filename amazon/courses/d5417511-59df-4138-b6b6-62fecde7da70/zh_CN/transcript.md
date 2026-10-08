@@ -38,4 +38,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d5417511-59df-4138-b6b6-62fecde7da70) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：解决商品匹配错误](../../../courses/09dea851-8b13-4fad-a9ee-bc4cf9d677c3/zh_CN/transcript.md) · [同主题下一篇：开始销售订阅盒（中文译文）](../../../translations/fb515856-b468-4ba4-b3b4-5fe20065c08c/zh_CN/translation.md)

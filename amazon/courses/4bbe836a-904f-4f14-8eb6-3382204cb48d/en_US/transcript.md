@@ -19,4 +19,6 @@ Welcome to the Seller University module. Today we'll discuss the generic product
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=4bbe836a-904f-4f14-8eb6-3382204cb48d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Generate Product Images with Amazon AI Studio](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md) · [Next in topic：Generic Product Policy: Resolve error code 5885](../../../courses/c52648f2-ab54-4aba-bb30-e44d1a7831ef/en_US/transcript.md)

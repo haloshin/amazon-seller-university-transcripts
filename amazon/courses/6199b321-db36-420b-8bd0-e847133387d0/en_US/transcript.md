@@ -38,4 +38,6 @@ Welcome to our video on the Sustainability Solutions Hub in Seller Central. In t
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=6199b321-db36-420b-8bd0-e847133387d0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Reduce your referral fees in select product categories](../../../courses/76559113-a4ac-436a-b50a-28c7d282cca4/en_US/transcript.md) · [Next in topic：Why top sellers rank each ASIN before scaling](../../../courses/f366511d-de14-4a25-b0a5-957ad76f014b/en_US/transcript.md)

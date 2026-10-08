@@ -19,4 +19,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=80ade8cf-2198-4c91-be7f-867cdf855b8d) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：获取品牌引流奖励](../../../courses/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6/zh_CN/transcript.md) · [同主题下一篇：优化品牌推广：扩大触达并增加点击（中文译文）](../../../translations/e8e0b050-73e3-48b8-a4dd-f841b131bc75/zh_CN/translation.md)

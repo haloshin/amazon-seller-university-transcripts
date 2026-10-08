@@ -49,4 +49,6 @@ Let's explore some advanced features and optimization strategies that can help y
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0a6ad152-72de-4e10-b6c2-ba190e6c5476) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Showcasing your Brand Store highlights with Sponsored Brands](../../../courses/8632fdd4-23c8-4700-9888-e9d8da14839e/en_US/transcript.md) · [Next in topic：This $2 Amazon coupon reversed a sales dip — here's what Happy Start did](../../../courses/d59ade8c-9301-4d24-8eb2-272007adbdac/en_US/transcript.md)

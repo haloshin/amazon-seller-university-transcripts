@@ -39,4 +39,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=d7f37f61-9560-4e02-b672-9747aba417e0) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：Send to Amazon 第 2 步：确认发货](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/zh_CN/transcript.md) · [同主题下一篇：Send to Amazon 第 4 步：确认承运商和托盘信息](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/zh_CN/transcript.md)

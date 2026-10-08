@@ -58,4 +58,6 @@
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=cc20d81e-40c2-437d-99d5-680282e316d6) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Add A+ Content to your listings](../../../courses/0fe319e3-c04b-4336-aa3f-36c6c603389c/en_US/transcript.md) · [Next in topic：Best practices for creating A+ content](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/en_US/transcript.md)

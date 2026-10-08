@@ -142,4 +142,6 @@ Welcome to our training "Understand Your Account Health Metrics".
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f5890fd5-5dbe-48a3-a20d-65e48fbc949f) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：3.3 Prevent or resolve listing policy violations](../../../courses/e831668e-b539-4d76-8691-5a5d44e60cc4/en_US/transcript.md) · [Next in topic：Address a Multiple Account Policy violation](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/en_US/transcript.md)

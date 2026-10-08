@@ -109,4 +109,6 @@ Welcome to our training on the brand analytics repeat purchase behavior report.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=939ce460-adb7-4689-b04e-fa6047635af5) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Brand Analytics: Market Basket Analysis report](../../../courses/0e1b717e-8c75-4c06-90db-67f8528ef5c1/en_US/transcript.md) · [Next in topic：Brand Analytics: Search Catalog Performance report](../../../courses/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b/en_US/transcript.md)

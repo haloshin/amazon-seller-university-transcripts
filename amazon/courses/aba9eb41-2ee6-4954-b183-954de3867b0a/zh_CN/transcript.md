@@ -82,4 +82,6 @@ A+商品描述不需要编程经验,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=aba9eb41-2ee6-4954-b183-954de3867b0a) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：A+ 内容入门](../../../courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/zh_CN/transcript.md) · [同主题下一篇：品牌旗舰店入门](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/zh_CN/transcript.md)

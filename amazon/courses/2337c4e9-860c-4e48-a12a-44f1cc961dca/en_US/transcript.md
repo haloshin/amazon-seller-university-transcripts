@@ -115,4 +115,6 @@ If you're enrolled in Amazon brand registry,
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2337c4e9-860c-4e48-a12a-44f1cc961dca) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Customer Service Fundamentals](../../../courses/d937a9f0-9e1a-456b-b962-fbd311451e81/en_US/transcript.md) · [Next in topic：Enroll your brand in Amazon Brand Registry](../../../courses/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5/en_US/transcript.md)

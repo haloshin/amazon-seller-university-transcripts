@@ -67,4 +67,6 @@ The Manage Returns page in Seller Central enables you to manage buyer return and
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=f80d1d99-0f42-48ff-a444-0cadcf53270c) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Optimizing your Seller Fulfilled Prime trial](../../../courses/96b54729-94ae-4307-9f05-964c727bdbe0/en_US/transcript.md) · [Next in topic：Send inventory to Amazon Warehousing and Distribution (AWD)](../../../courses/b48df0ed-b989-4b5e-8fbb-c683221c2329/en_US/transcript.md)

@@ -37,4 +37,6 @@ After confirming your shipments in step 2, it's time to print your box labels. I
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=d7f37f61-9560-4e02-b672-9747aba417e0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon – Step 2: Confirm shipping](../../../courses/e3314c0f-2204-422c-aa50-f260c4b7e4e0/en_US/transcript.md) · [Next in topic：Send to Amazon – Step 4: Confirm carrier and pallet information](../../../courses/5f6aa41f-9467-425a-80ad-0b62264c8769/en_US/transcript.md)

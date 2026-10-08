@@ -43,4 +43,6 @@ Welcome to our training on shipping settings automation, also known as SSA. Cust
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=c4530fd9-f439-456b-941c-ca653f1e7fb2) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Intro to Send to Amazon](../../../courses/573cbe59-7f9b-4cc0-93dc-8c8499df912e/en_US/transcript.md) · [Next in topic：Intro to the FBA Inventory page](../../../courses/dc13afb6-3d0a-4937-b949-c2d0816cc934/en_US/transcript.md)

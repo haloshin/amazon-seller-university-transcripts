@@ -64,4 +64,6 @@ Account Health可以在商品政策合规性, Product Policy Compliance下,查�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt) · [阅读说明](校注.md)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e58111b2-59e3-46e5-9ee6-bd2a3f25c49e) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：处理多账户政策违规](../../../courses/56cdec0f-e196-49bd-aa26-e02440f70885/zh_CN/transcript.md) · [同主题下一篇：申请销售商品、品类或品牌](../../../courses/fced740c-46e2-403f-8a87-5ffd1c9d605f/zh_CN/transcript.md)

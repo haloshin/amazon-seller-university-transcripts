@@ -47,4 +47,6 @@ Welcome to our Understand Shipping Templates training. In this video, you'll lea
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=46232ee2-4408-458c-9540-7afc2f650ffe) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Use Amazon Buy Shipping for seller-fulfilled orders](../../../courses/9bed00ee-586b-4d24-9e75-8868368fa8fb/en_US/transcript.md)

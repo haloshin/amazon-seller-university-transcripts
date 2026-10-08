@@ -44,4 +44,6 @@ If you're shipping boxes with one or more units of the same SKU, also known as c
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=134b3d1f-a54b-449a-813b-74285ee8bc0b) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Send to Amazon – Step 5: Print pallet labels](../../../courses/68fc0a50-82fa-4c0d-a355-eb6b951680f4/en_US/transcript.md) · [Next in topic：Send your first FBA shipment](../../../courses/3099c88c-2eb4-4298-914d-fd55c410f1b1/en_US/transcript.md)

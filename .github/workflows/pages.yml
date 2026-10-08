@@ -21,7 +21,7 @@ jobs:
           python-version: '3.12'
       - run: python3 scripts/verify.py
       - run: python3 scripts/build_reader.py --check
-      - run: python3 scripts/test_reader.py
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py'
       - uses: actions/configure-pages@v5
       - run: python3 scripts/stage_site.py --output "$RUNNER_TEMP/reader-site"
       - uses: actions/upload-pages-artifact@v4

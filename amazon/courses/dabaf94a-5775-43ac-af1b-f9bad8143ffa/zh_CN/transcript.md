@@ -53,4 +53,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=dabaf94a-5775-43ac-af1b-f9bad8143ffa) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题下一篇：添加协议价格（中文译文）](../../../translations/2513f967-cfdc-40ad-8747-341bd9dbefec/zh_CN/translation.md)

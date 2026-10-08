@@ -35,4 +35,6 @@ With Amazon Buy Shipping, you can access Amazon's negotiated shipping rates or l
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=b70e661e-4dae-45be-913d-a46ad2fe147e) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Late Shipment Rate (LSR) overview](../../../courses/2a03a8b2-2dfe-4295-9d38-3a20f6d10581/en_US/transcript.md) · [Next in topic：Local Selling: Seller Central UI-based fulfillment](../../../courses/6c78ae1a-2fea-4c86-93c0-ba855ce43c24/en_US/transcript.md)

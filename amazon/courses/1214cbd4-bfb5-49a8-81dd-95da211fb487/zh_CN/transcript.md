@@ -50,4 +50,6 @@ Helium 10、Inventory Lab 和 Zentail只是销售伙伴应用商店中众多可�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=1214cbd4-bfb5-49a8-81dd-95da211fb487) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：商品发布入门](../../../courses/4e1a71e7-388e-49ad-9752-866786639586/zh_CN/transcript.md) · [同主题下一篇：无商品编码发布商品：UPC/GTIN 豁免](../../../courses/e8544607-590c-414e-8831-d0b3f0cf3bee/zh_CN/transcript.md)

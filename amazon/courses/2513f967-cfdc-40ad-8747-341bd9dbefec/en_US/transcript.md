@@ -38,4 +38,6 @@ Welcome to the Amazon Business Seller Series Negotiated Pricing Module.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2513f967-cfdc-40ad-8747-341bd9dbefec) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Add business certifications to your profile](../../../courses/dabaf94a-5775-43ac-af1b-f9bad8143ffa/en_US/transcript.md) · [Next in topic：Amazon Tax Exemption Program](../../../courses/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/en_US/transcript.md)

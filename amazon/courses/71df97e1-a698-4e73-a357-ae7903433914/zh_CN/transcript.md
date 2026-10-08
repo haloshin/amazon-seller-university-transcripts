@@ -24,4 +24,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=71df97e1-a698-4e73-a357-ae7903433914) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：卖家平台入门](../../../courses/7656f83f-df7c-4a3f-93e6-84c7a1358cf9/zh_CN/transcript.md) · [同主题下一篇：亚马逊新卖家需要完成的步骤（中文译文）](../../../translations/453b5103-a147-4ab3-a96c-7daa6264db65/zh_CN/translation.md)

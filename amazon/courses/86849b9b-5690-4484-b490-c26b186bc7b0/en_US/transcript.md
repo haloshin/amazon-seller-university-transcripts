@@ -49,4 +49,6 @@ Welcome to our video best practices for creating brand names and logos. Brand
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+
 [Previous in topic：Best practices for creating A+ content](../../../courses/46982f1c-0fde-4ad0-9d6c-5093711cb982/en_US/transcript.md) · [Next in topic：Best practices for reviews and ratings](../../../courses/fc47f5bc-7eb9-417f-89c0-b5155169f905/en_US/transcript.md)

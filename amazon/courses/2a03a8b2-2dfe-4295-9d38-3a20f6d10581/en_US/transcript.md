@@ -35,4 +35,6 @@ Welcome to our training on the Late Shipment Rate, or LSR. Today we'll cover wha
 
 [Plain text](transcript.txt) · [Captions](captions.vtt) · [Reading notes](校注.md)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=2a03a8b2-2dfe-4295-9d38-3a20f6d10581) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Inventory Defect and Reimbursement (IDR portal) overview](../../../courses/0730bd4b-bde9-4814-aed5-1a8c118ccb10/en_US/transcript.md) · [Next in topic：Link Carrier Accounts In Seller Central To Use Your Own UPS/FedEx Rates](../../../courses/b70e661e-4dae-45be-913d-a46ad2fe147e/en_US/transcript.md)

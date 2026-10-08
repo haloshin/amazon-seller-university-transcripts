@@ -34,4 +34,6 @@ Welcome to our training fix inactive or suppressed listings. The Fix Your Produc
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Featured Offer eligibility and strategies](../../../courses/ace6f8ff-a674-41f1-a084-e39f03d9f1f0/en_US/transcript.md) · [Next in topic：Generate Product Images with Amazon AI Studio](../../../courses/2bb563c5-4177-4e8c-9efe-f3a28271d531/en_US/transcript.md)

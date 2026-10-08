@@ -19,4 +19,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=2b3e0700-d867-45dc-bfd7-c2bf560e7739) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：品牌旗舰店入门](../../../courses/a74175b5-fcbf-49a0-a677-65f855a83d4d/zh_CN/transcript.md) · [同主题下一篇：完成品牌注册后的下一步](../../../courses/43146fdf-a110-4056-971d-c287016104f5/zh_CN/transcript.md)

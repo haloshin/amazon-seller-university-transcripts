@@ -44,4 +44,6 @@ Welcome to our training on how to read Amazon Business Reports. Amazon Business 
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=955bbc7a-0f8c-461c-9a42-fd07840d04a0) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to detect downward sales trends](../../../courses/f180dc0e-5b4c-4244-b759-34e657ec6a9d/en_US/transcript.md) · [Next in topic：Intro to Brand Analytics](../../../courses/6d497a83-d4cd-45ee-bfa4-e53a246763b8/en_US/transcript.md)

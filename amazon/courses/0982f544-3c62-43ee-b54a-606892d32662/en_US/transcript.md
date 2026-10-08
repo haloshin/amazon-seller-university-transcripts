@@ -41,4 +41,6 @@ Welcome to our training on toys and compliance. At Amazon, safety is our top pri
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0982f544-3c62-43ee-b54a-606892d32662) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Stay Safe from Phishing](../../../courses/155f35ac-295f-46a0-bc01-2423a9d62936/en_US/transcript.md) · [Next in topic：Wrong item sent product compliance](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/en_US/transcript.md)

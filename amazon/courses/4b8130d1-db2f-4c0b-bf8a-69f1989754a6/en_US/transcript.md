@@ -99,4 +99,6 @@ Welcome to our training on preparing for the holiday season with ads and coupons
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=4b8130d1-db2f-4c0b-bf8a-69f1989754a6) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Create your first advertising campaign with Sponsored Products](../../../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/en_US/transcript.md) · [Next in topic：Drive traffic to your Brand Store homepage with Sponsored Brands](../../../courses/69bf0781-44b0-42b7-8ed0-92e70f4873fa/en_US/transcript.md)

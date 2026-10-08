@@ -109,4 +109,6 @@ Market Basket Analysis 报告,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[官方学习总入口](https://sell.amazon.com/learn/seller-university) · 暂未确认归档课程的有效页面，请按原标题查找；不将总入口视作本课视频。
+
 [同主题上一篇：阅读亚马逊业务报告](../../../courses/955bbc7a-0f8c-461c-9a42-fd07840d04a0/zh_CN/transcript.md) · [同主题下一篇：企业价格入门](../../../courses/e40f5909-c8db-47fc-9acd-09dfabe4813c/zh_CN/transcript.md)

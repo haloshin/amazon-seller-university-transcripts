@@ -51,4 +51,6 @@ Seller Engine侧重于实时定价优化,而不是采用标准的10至15分钟�
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=48f69162-d84a-4743-843c-4f3578a6bc99) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：制定符合买家需求的商品价格](../../../courses/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4/zh_CN/transcript.md) · [同主题下一篇：商品编码概览](../../../courses/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c/zh_CN/transcript.md)

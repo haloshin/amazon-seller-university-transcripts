@@ -1,0 +1,15 @@
+{
+  "version": "0.9.0",
+  "defaultPlatform": "amazon",
+  "platforms": [
+    {
+      "id": "amazon",
+      "directory": "amazon"
+    }
+  ],
+  "plannedPlatforms": [
+    "TikTok Shop",
+    "Walmart",
+    "Shopify"
+  ]
+}

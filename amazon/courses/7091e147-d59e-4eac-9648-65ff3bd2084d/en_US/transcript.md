@@ -61,4 +61,6 @@ Batteries are highly regulated. To ensure they are properly categorized, we need
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=7091e147-d59e-4eac-9648-65ff3bd2084d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Dietary supplements policy and compliance](../../../courses/36837951-3f77-47f9-82f1-e7c845614c5a/en_US/transcript.md) · [Next in topic：How to properly list button and coin batteries](../../../courses/fa1d94e1-a6cb-4241-bce6-ee32929f35e4/en_US/transcript.md)

@@ -24,4 +24,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=fac5a823-088b-43e5-b00a-62e23464bafb) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：为品牌注册商标](../../../courses/a93ec23a-eb76-466a-a8a7-fbcdb46ee647/zh_CN/transcript.md) · [同主题下一篇：申请使用品牌销售权益](../../../courses/bff5e756-4cc4-42c4-9469-600ebfe351c9/zh_CN/transcript.md)

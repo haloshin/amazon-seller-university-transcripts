@@ -46,4 +46,6 @@ When you sell in the Amazon store,
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=84fea35b-c5c6-4ae3-999b-1cea1b3a6d96) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Meet Amazon's compliance requirements using the Compliance Knowledge Portal](../../../courses/756748fd-1204-45b1-91bf-a498cf9f9bd2/en_US/transcript.md) · [Next in topic：Picture requirements for when you apply to sell](../../../courses/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39/en_US/transcript.md)

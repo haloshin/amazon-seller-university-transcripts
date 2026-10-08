@@ -55,4 +55,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=eaf6dccf-18fd-49ee-9b08-988472334a0b) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：新卖家 30 分钟开店概览](../../../courses/43b1701d-6ab4-4eea-829f-fa1f3affc63c/zh_CN/transcript.md) · [同主题下一篇：欢迎加入亚马逊](../../../courses/c0812372-197d-45eb-a16f-a50d086fbb17/zh_CN/transcript.md)

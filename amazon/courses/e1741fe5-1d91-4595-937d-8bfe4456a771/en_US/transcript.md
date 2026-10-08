@@ -39,4 +39,6 @@ Welcome to our enable weekend operations for merchant-fulfilled orders training.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=e1741fe5-1d91-4595-937d-8bfe4456a771) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Configure return settings](../../../courses/646406cf-7b11-45ec-896e-90bf3578c8c3/en_US/transcript.md) · [Next in topic：FBA benefits and costs](../../../courses/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167/en_US/transcript.md)

@@ -18,4 +18,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=c2fca831-79dc-4abe-a058-acee304a05d0) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：使用受众竞价提升优化品牌推广活动（中文译文）](../../../translations/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0/zh_CN/translation.md) · [同主题下一篇：在关键词定向中使用词组匹配的时机](../../../courses/e4ebc7c1-8b4c-443a-af13-49a4218562af/zh_CN/transcript.md)

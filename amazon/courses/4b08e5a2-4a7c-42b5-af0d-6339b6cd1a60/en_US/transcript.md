@@ -17,4 +17,6 @@ Let's look at how to update your sponsored products campaign to have no end date
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to set up your Amazon Ads account](../../../courses/91b444b7-87b2-4542-b8fa-e1a9eff1b11b/en_US/transcript.md) · [Next in topic：How to use Amazon audiences in your Sponsored Display campaigns](../../../courses/b9848392-da33-4115-b2b9-bd58fb905ffd/en_US/transcript.md)

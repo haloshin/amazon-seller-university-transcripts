@@ -71,4 +71,6 @@ Have you ever wondered if there's a way to make your products more visible on Am
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Official learning portal](https://sell.amazon.com/learn/seller-university) · The archived course page could not be confirmed. Search by its original title.
+
 [Previous in topic：Create exclusive discounts with Brand Tailored Promotions (BTP)](../../../courses/3498c716-6b42-436f-a44a-9f08c9f637cf/en_US/transcript.md) · [Next in topic：Drive this holiday season with ads and Coupons](../../../courses/4b8130d1-db2f-4c0b-bf8a-69f1989754a6/en_US/transcript.md)

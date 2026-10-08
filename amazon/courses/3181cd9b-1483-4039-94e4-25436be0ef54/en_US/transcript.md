@@ -70,4 +70,6 @@ Images are very important to customers.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=3181cd9b-1483-4039-94e4-25436be0ef54) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Amazon Custom overview](../../../courses/7c3e3a18-7515-47f2-bc42-54af1aa8ac04/en_US/transcript.md) · [Next in topic：Amazon Product Listing Optimization: What actually works for Revolution Nutrition](../../../courses/f9ca9049-6531-4f13-a693-273354d5a37f/en_US/transcript.md)

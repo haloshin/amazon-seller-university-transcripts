@@ -115,4 +115,6 @@ Welcome to our training on expanding your product offers to Amazon's Canada or M
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=049156a6-efd7-4ee6-9c9c-4d10c91e5a34) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Shipping to Canada](../../../courses/915791db-c5a1-4c02-ad04-d0c8a4b0211f/en_US/transcript.md) · [Next in topic：The easiest way for US sellers to expand internationally](../../../courses/59a08397-d4b4-4b33-9d38-e83d81329279/en_US/transcript.md)

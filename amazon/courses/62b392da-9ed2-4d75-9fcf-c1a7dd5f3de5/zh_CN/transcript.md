@@ -192,4 +192,6 @@ View or Respond按钮,
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：通过 Amazon Vine 买家评论吸引流量](../../../courses/2337c4e9-860c-4e48-a12a-44f1cc961dca/zh_CN/transcript.md) · [同主题下一篇：创建并销售虚拟捆绑商品](../../../courses/cbc8a41b-61ef-40ea-b07a-d22367625d07/zh_CN/transcript.md)

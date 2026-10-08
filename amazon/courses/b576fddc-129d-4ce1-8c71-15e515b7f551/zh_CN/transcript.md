@@ -54,4 +54,6 @@
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=b576fddc-129d-4ce1-8c71-15e515b7f551) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：通过品牌推广和旗舰店触达高购买意向买家（中文译文）](../../../translations/dcafc422-e0f3-45da-8525-66f0619c1d7b/zh_CN/translation.md) · [同主题下一篇：使用品牌推广展示旗舰店亮点（中文译文）](../../../translations/8632fdd4-23c8-4700-9888-e9d8da14839e/zh_CN/translation.md)

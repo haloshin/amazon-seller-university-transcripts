@@ -18,4 +18,6 @@ Keyword match types help you control where your ads appear.
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=0f15b9e5-5669-4df6-b88c-15b9bdf991db) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to use Amazon audiences in your Sponsored Display campaigns](../../../courses/b9848392-da33-4115-b2b9-bd58fb905ffd/en_US/transcript.md) · [Next in topic：How to use product targeting in your Sponsored Brands campaign](../../../courses/37e58de4-9501-4ed6-9afd-fb79d444d125/en_US/transcript.md)

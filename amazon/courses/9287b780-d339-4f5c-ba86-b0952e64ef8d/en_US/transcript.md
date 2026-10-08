@@ -56,4 +56,6 @@ Variations let you group similar products under a single listing, called a paren
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=9287b780-d339-4f5c-ba86-b0952e64ef8d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：Create Amazon-ready product listings using AI](../../../courses/a7739325-a1a7-4818-be27-86715ca39727/en_US/transcript.md) · [Next in topic：Creating culturally respectful listings](../../../courses/cf32d928-86d3-4cd9-a835-de753e88cda1/en_US/transcript.md)

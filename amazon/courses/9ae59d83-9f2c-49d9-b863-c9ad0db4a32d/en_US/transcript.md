@@ -38,4 +38,6 @@ Brand Stores are customizable multi-page storefronts, where you can showcase you
 
 [Plain text](transcript.txt) · [Captions](captions.vtt)
 
+[Watch this official course](https://sellercentral.amazon.com/su/learn?mons_sel_locale=en_US&learningModuleId=9ae59d83-9f2c-49d9-b863-c9ad0db4a32d) · Course ID, audio language and archived version matched; availability may change.
+
 [Previous in topic：How to improve your Brand Store design](../../../courses/6b90667d-d6c3-48af-97af-de027f1e5b13/en_US/transcript.md) · [Next in topic：Intro to A+ Content](../../../courses/eab577e0-8244-4ba0-9db6-38ed0444ad22/en_US/transcript.md)

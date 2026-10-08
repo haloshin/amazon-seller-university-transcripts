@@ -44,7 +44,7 @@
 
 ![在线阅读、离线查阅、字幕对照](assets/reading-formats.png)
 
-也可以在 GitHub 阅读 [Markdown 学习导航](amazon/学习导航.md)，或使用课程 TXT。原音轨稿附 VTT 字幕，译文提供 Markdown 与 TXT；本项目不提供视频文件，原视频请前往相应官方学习入口。
+也可以在 GitHub 阅读 [Markdown 学习导航](amazon/学习导航.md)，或使用课程 TXT。原音轨稿附 VTT 字幕，译文提供 Markdown 与 TXT；本项目不提供视频文件，课程页提供逐课官方链接，并标明尚未确认的入口。
 
 <details>
 <summary>文件放在哪里？</summary>
@@ -95,3 +95,5 @@ git clone https://github.com/haloshin/seller-university.git
 当前 Amazon 资料来自 2026-07-27 归档课程，转写与翻译经 AI 辅助校对，未经过人工逐字听审或逐句译审。课程不代表现有全部官方课程；费用、政策与界面请核对当前官方页面。[Amazon 来源说明](amazon/docs/SOURCES.md)
 
 发现错字或漏句，可[提交纠错](https://github.com/haloshin/seller-university/issues/new?template=correction.yml)，请附平台、课程名、语言、位置和依据。[贡献说明](CONTRIBUTING.md)
+
+**授权状态：**尚未取得原课程权利人对完整转写、翻译与再分发的明确书面许可。[适用条款与来源](amazon/docs/SOURCES.md#再发布授权)。

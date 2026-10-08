@@ -91,4 +91,6 @@ Sofia还会确认从下拉列表中
 
 [TXT 全文](transcript.txt) · [VTT 字幕](captions.vtt)
 
+[观看本课原视频](https://sellercentral.amazon.com/su/learn?mons_sel_locale=zh_CN&learningModuleId=e4c74be9-7d81-4d53-9281-fa8e2019f185) · 已核对课程 ID、音轨与归档版本；可用性可能随官方调整。
+
 [同主题上一篇：错发商品的合规要求](../../../courses/8ba7337a-1f7a-4eb9-96aa-33af8c13baca/zh_CN/transcript.md)
