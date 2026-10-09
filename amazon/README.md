@@ -19,7 +19,7 @@
 
 <br>
 
-![Amazon course library and Seller University Skill Beta](../assets/seller-university-cover-skill-beta.png)
+![Amazon 课程转写阅读：270 门课程、455 份转写稿、8 个主题](../assets/amazon-reading-cover.png)
 
 <p align="center"><strong>270 门课程 &nbsp; / &nbsp; 455 份转写稿 &nbsp; / &nbsp; 8 个主题</strong><br><sub>英文 270 份 · 中文音轨稿 185 份 · 另附中文译文 85 份</sub></p>
 

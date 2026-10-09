@@ -7,7 +7,7 @@
 
 <br>
 
-![Seller University：270 门课程阅读库与 356 模块 Skill Beta](assets/seller-university-cover-skill-beta.png)
+![Amazon 课程转写阅读：270 门课程、455 份转写稿、8 个主题](assets/amazon-reading-cover.png)
 
 <br><br>
 

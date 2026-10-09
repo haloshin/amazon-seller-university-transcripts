@@ -19,7 +19,7 @@
 
 <br>
 
-![Amazon course library and Seller University Skill Beta](../assets/seller-university-cover-skill-beta.png)
+![Amazon course reading: 270 courses, 455 transcripts and 8 topics; Chinese preview](../assets/amazon-reading-cover.png)
 
 <p align="center"><strong>270 courses &nbsp; / &nbsp; 455 transcripts &nbsp; / &nbsp; 8 topics</strong><br><sub>270 English · 185 Chinese-audio transcripts · 85 additional Chinese translations</sub></p>
 

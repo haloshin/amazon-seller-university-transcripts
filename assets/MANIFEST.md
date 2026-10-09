@@ -12,8 +12,9 @@
 | [chinese-translation-preview.jpg](chinese-translation-preview.jpg) | AWD 中文译文、英文切换及来源说明 | v0.8.0 真实浏览器截图；本地验证通过 |
 | [reading-formats.png](reading-formats.png) | 在线阅读、离线查阅、字幕对照 | Codex 内置 imagegen 新生成；2172 × 724；已选用 |
 | [learning-roadmap.png](learning-roadmap.png) | Amazon 已上线，更多平台及学习方式规划中 | Codex 内置 imagegen；2026-10-08 选用；历史规划图保留，当前 README 不引用 |
-| [seller-university-cover.png](seller-university-cover.png) | 多平台项目总封面 | Codex 内置 imagegen；2026-10-08 选用；旧总封面保留，当前 README 已换用 Skill Beta 封面 |
-| [seller-university-cover-skill-beta.png](seller-university-cover-skill-beta.png) | 课程阅读库 + Skill Beta 总封面 | Codex 内置 imagegen；2026-10-09 选用；四份 README 消费 |
+| [seller-university-cover.png](seller-university-cover.png) | 多平台项目总封面 | Codex 内置 imagegen；2026-10-08 选用；旧总封面保留，当前 README 已换用用户指定阅读封面 |
+| [seller-university-cover-skill-beta.png](seller-university-cover-skill-beta.png) | 课程阅读库 + Skill Beta 总封面 | Codex 内置 imagegen；2026-10-09 旧版总封面；已被用户指定阅读封面替换，文件保留 |
+| [amazon-reading-cover.png](amazon-reading-cover.png) | README 首张封面，四份中英文首页与 Amazon 专区共用 | 用户于 2026-10-09 指定的图片原件；2670 × 1190；已选用，未裁剪或修改 |
 | [skill-workflow.png](skill-workflow.png) | 提问、定位课程、回答与来源 | Codex 内置 imagegen；使用流程示意，非实测截图；四份 README 消费 |
 | [skill-installation.png](skill-installation.png) | 下载、安装、新会话、首次提问 | Codex 内置 imagegen；2026-10-09 选用；可复制命令位于图下文字 |
 

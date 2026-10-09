@@ -7,7 +7,7 @@
 
 <br>
 
-![Seller University: a course reading library and the Amazon Skill Beta](assets/seller-university-cover-skill-beta.png)
+![Amazon course reading: 270 courses, 455 transcripts and 8 topics; Chinese preview](assets/amazon-reading-cover.png)
 
 <br><br>
 
