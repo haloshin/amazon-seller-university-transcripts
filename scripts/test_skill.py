@@ -23,8 +23,16 @@ class SkillTests(unittest.TestCase):
     def test_inventory_multitopic(self):
         for q in ['美国站 FBA 库存积压，不知道该清仓还是继续打广告，你帮我定个方案。','积压 冗余 库龄 清仓']:
             self.assertTrue({r['pack_id'] for r in search.search(q,5)} & {'pack-06-fulfillment','pack-05-pricing'})
+    def test_mixed_platform_amazon_context(self):
+        cases=[('我做 Amazon，也做 Shopify，这次只问 Amazon FBA 库存积压。','pack-06-fulfillment'),
+               ('Amazon 商品推广预算，不是问沃尔玛广告。','pack-04-ads'),
+               ('Explain Amazon Sessions and Page views; I do not need Shopify analytics.','pack-09-insights'),
+               ('对比 Amazon 与 Shopify 上架，只查 Amazon 这部分资料。','pack-02-listing')]
+        for query,pack in cases:
+            with self.subTest(query=query):
+                self.assertIn(pack,{r['pack_id'] for r in search.search(query,5)})
     def test_no_match_and_platform(self):
-        for q in ['','   ','zzqxx_unrelated_928','Shopify 上架','沃尔玛广告']:
+        for q in ['','   ','zzqxx_unrelated_928','Shopify 上架','Shopify上架','Walmart广告','TikTokShop上架','TK上架','沃尔玛广告']:
             self.assertEqual(search.search(q),[])
     def test_coverage_routes_and_scope(self):
         rows=json.loads((SKILL/'references/catalog.json').read_text());courses={x['moduleId']:x for x in json.loads((ROOT/'amazon/catalog.json').read_text())}

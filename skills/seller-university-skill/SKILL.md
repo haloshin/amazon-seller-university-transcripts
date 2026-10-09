@@ -1,16 +1,17 @@
 ---
 name: seller-university-skill
-description: 基于 Amazon Seller University 历史课程，帮助卖家定位资料、理解概念、排查上架与广告等运营问题，并按需整理操作方案。用户提到卖家大学、Amazon 官方课程、FBA、Listing、品牌注册、广告、账户健康或需要课程依据时使用。覆盖 356 个知识模块、13 个主题能力包；仅覆盖 Amazon，不代替当前政策或真实店铺数据，不自动操作账户。
+description: 基于 Amazon Seller University 历史课程，为 Amazon 卖家查找课程依据、解释概念、排查运营问题并整理操作步骤。用户提到 Amazon 卖家大学、亚马逊官方课程，或在明确的 Amazon 语境下询问 FBA、Listing、品牌注册、商品推广、账户健康时使用；混合平台问题仅处理 Amazon 部分。不因单独出现广告、库存或上架就触发，不适用于其他平台政策或通用广告文案。覆盖 356 个知识模块、13 个主题包；不替代当前政策或真实店铺数据，不操作账户。
+compatibility: 本地检索脚本需要 Python 3.10+，只用标准库；无 Python 时可按 references/INDEX.md 查找。需要能够读取 Skill 文件的 Agent。
 ---
 
 # 卖家大学 Skill
 
-版本：1.0.0-beta.1。课程快照：2026-07-27。先回答用户的问题，再按需要展开。
+版本：1.0.0-beta.2。课程快照：2026-07-27。先回答用户的问题，再按需要展开。
 
 ## 使用步骤
 
 1. 识别用户要解释概念、排查问题还是制定方案。简单概念直接解释；涉及适用资格、金额或操作时，先了解站点、商品/账户阶段和目标。只追问会改变结论的信息，不一次索要所有资料。
-2. 在本 Skill 目录运行 `python3 scripts/find_modules.py "用户问题" --limit 5`。这是本地只读检索，无网络、账号或 API Key 依赖。英文、中文、术语别名和 Module ID 均可检索。打不开脚本时按 [课程目录](references/INDEX.md) 逐步查找。
+2. 确认实际询问的平台。同一句提到多个平台时，仅将用户要问的 Amazon 部分送入检索；“也做 Shopify”或“不是问沃尔玛”等背景不应导致 Amazon 问题被拒绝。若目标平台含混，先澄清；明确只问其他平台时说明本版不覆盖。在本 Skill 目录运行 `python3 scripts/find_modules.py "Amazon 相关问题" --limit 5`。这是本地只读检索，无网络、账号或 API Key 依赖。英文、中文、术语别名和 Module ID 均可检索。打不开脚本时按 [课程目录](references/INDEX.md) 逐步查找。
 3. 阅读搜索返回的 `knowledge_file`，必要时再看对应能力包。每次只加载 1–5 个相关模块。目录、搜索命中和引用可解析不等于内容已经核实。
 4. 默认输出：**简短结论 → 必要追问或具体步骤 → 1–3 条课程来源**。不用强行套角色模板。用户明确需要 SOP、决策分析或学习计划时，使用 [输出说明](references/output-contract.md)。
 5. 课程要点是历史整理摘述。引用时标明课程标题、Module ID、来源页码或时间戳；有公开阅读页就提供阅读链接，另附对应官方课程链接。没有阅读页时直说，不拼造地址。官方链接状态为 `not_verified` 或其他未匹配状态时，不宣称已验证可访问。
@@ -23,7 +24,7 @@ description: 基于 Amazon Seller University 历史课程，帮助卖家定位�
 - 不虚构店铺销售额、利润、库存、预算、资格或实时政策。未获得数据时不给确定的投放、补货或利润结论。
 - 不执行发布、广告调整、价格修改、发货、申诉提交等账户动作；用户需要操作时提供可复核的草案。
 - 只使用用户明确提供或授权读取的资料，不访问其他店铺、内部知识库或长期记忆，不上传私密资料。
-- 跨平台问题先说明本版只覆盖 Amazon；不把 Amazon 规则套到 TikTok Shop、Walmart 或 Shopify。
+- 跨平台问题先说明本版只覆盖 Amazon；可以回答其中的 Amazon 部分，但不把 Amazon 规则套到 TikTok Shop、Walmart 或 Shopify。检索命中只表示找到 Amazon 资料，不能据此证明其他平台的政策。
 - 本版不附知识卡图集和课程题库。不要宣称能打开未发布的题库或展示全部知识卡。
 
 常用叫法见 [术语对照](references/terminology.md)，适用范围与来源说明见 [来源说明](references/source-policy.md)。

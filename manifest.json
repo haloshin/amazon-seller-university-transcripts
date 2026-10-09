@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 16832,
-      "sha256": "fd1483c0bd4aa156afbbeae40c28b2957eb509d61c8ae6c217fd7ace4ddeb436"
+      "bytes": 16824,
+      "sha256": "9f605d9b88b36918e30f48b910000ed8068e6aed7ef77e8ae164b1a35d9306f3"
     },
     {
       "path": "README.md",
-      "bytes": 16101,
-      "sha256": "27408510a8d353c6a0d685beca296e17f9c0e54efe1beee3c5a0240eb2299156"
+      "bytes": 16100,
+      "sha256": "9b458829ae563bd7eeadb08263b99cb31cbaa55581c6682ae939fe2c8f97a3c1"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 18616,
-      "sha256": "159c4ceb856cd7371050913a03986e8d8f52e3892786d88ebba94f80e8b9ddb0"
+      "bytes": 18608,
+      "sha256": "6f45bcd499384b3144c9dee763ff62b43f9c416635736e08591f5c3317e3eb13"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 17317,
-      "sha256": "a9898e90b64083cb1968017bb3484f84a28eb1830df2c479fd556ec6994f6de9"
+      "bytes": 17316,
+      "sha256": "c1401aeb02701f71442037492d965c81aacff318823b5cab62e18b6da4f9de74"
     },
     {
       "path": "amazon/catalog.json",
@@ -13123,8 +13123,8 @@
     },
     {
       "path": "scripts/test_skill.py",
-      "bytes": 5359,
-      "sha256": "ca59f90e8c3df3a4a188271ed529cf2e9ae59a23c9507601fc55086961caa779"
+      "bytes": 6054,
+      "sha256": "bb94c2c594d434b2817f052c892584c1a0f234c86cf673bb1fb9cc0997427f5f"
     },
     {
       "path": "scripts/translations.py",
@@ -13153,33 +13153,38 @@
     },
     {
       "path": "skills/seller-university-skill/README.en.md",
-      "bytes": 2642,
-      "sha256": "7298144da8373eba8cbd977ca999e36d04fa715ca943fd2026ce4444799963b1"
+      "bytes": 3503,
+      "sha256": "787f80c0bbcfeec97a14a9a31f03c24b5006981c22b269d492268a97091b1f67"
     },
     {
       "path": "skills/seller-university-skill/README.md",
-      "bytes": 4379,
-      "sha256": "ef407623a4f7b5db3c7883a508ad11676b444d12d9cad525237de235fef41840"
+      "bytes": 5155,
+      "sha256": "566c2dc536b87740b4ab2ff2327ca348d80fbd2dbcdea30a1ac861f0c26e168f"
     },
     {
       "path": "skills/seller-university-skill/SKILL.md",
-      "bytes": 3244,
-      "sha256": "bdca76787282b66bbf85e7915d2c7f1997e79d74f57a6e9806b540490df9c0b7"
+      "bytes": 3978,
+      "sha256": "afef3514512e48b9fa651610f5d7175a52045e059427627b6e61fe9f10727732"
     },
     {
       "path": "skills/seller-university-skill/START-HERE.md",
-      "bytes": 880,
-      "sha256": "851169d6a0051ebff08890e1c2e6213bdc79e3542367e71fa5058497d55a911e"
+      "bytes": 1176,
+      "sha256": "bbc22e20b5407db0743398760e04b03d10be59ee1806d0917c01ca09c5df6808"
     },
     {
       "path": "skills/seller-university-skill/VALIDATION.md",
-      "bytes": 2500,
-      "sha256": "2cd6f50914ea61bcde61673bea3ddd5cd8304d68e278b4a1cbdeb9b60464b059"
+      "bytes": 3231,
+      "sha256": "98e0021700e811b2705617a862b6e09edabcef695311243e02e098a9869c8c91"
     },
     {
       "path": "skills/seller-university-skill/evals/evals.json",
-      "bytes": 1304,
-      "sha256": "f6132fbc5aba64129a31cd7d4a8d6f1813be670a1ae1f7b10e9e3992b4e01a73"
+      "bytes": 2479,
+      "sha256": "342fb61825ba90dad3c57f9af1a5db94d889ed589615b8f65e84fb69a930712d"
+    },
+    {
+      "path": "skills/seller-university-skill/evals/fixtures/course-note.md",
+      "bytes": 460,
+      "sha256": "c7469d9241080994c3f4fc3ab24a627eb7992f39dd57a7e99abbcfeb6fcab8b2"
     },
     {
       "path": "skills/seller-university-skill/examples/README.md",
@@ -14343,8 +14348,8 @@
     },
     {
       "path": "skills/seller-university-skill/references/modules/b576fddc-129d-4ce1-8c71-15e515b7f551.md",
-      "bytes": 2385,
-      "sha256": "1a98cbd37a9a92f1988a2b1b9636e99a8720cb3ce21eeca989f852faa16774bc"
+      "bytes": 2207,
+      "sha256": "e1d26e285e70b7e4965d3c2626b03457cc2e1abb9353564b3c3131a8ab90a742"
     },
     {
       "path": "skills/seller-university-skill/references/modules/b5aef394-1ef9-4eeb-9b1d-996153a2072f.md",
@@ -15054,7 +15059,7 @@
     {
       "path": "skills/seller-university-skill/references/release.json",
       "bytes": 238,
-      "sha256": "eb5707d4a88024e0fef211330102166af808246105421fbd19cdcffd11e0b31e"
+      "sha256": "75937e2d415c6c2d86ec2d253b64eee4ddd71a040913159eacf01aff27ee5ade"
     },
     {
       "path": "skills/seller-university-skill/references/source-policy.md",
@@ -15068,8 +15073,8 @@
     },
     {
       "path": "skills/seller-university-skill/scripts/find_modules.py",
-      "bytes": 5309,
-      "sha256": "6487f26d73d591c011349b99e2c916b5a44ca75168211f841e76a21eb0d2df77"
+      "bytes": 5607,
+      "sha256": "6ff8cbc02c19daa514501f15da33de447ec1b2bfb80c62cd5c2254ce7b6127ba"
     },
     {
       "path": "skills/seller-university-skill/scripts/install.py",

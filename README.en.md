@@ -1,7 +1,7 @@
 <h1 align="center">Seller University</h1>
 <p align="center"><strong>A learning library for marketplace sellers</strong></p>
 <p align="center">Read courses, find references, and bring your questions to an AI Skill.<br>Starting with Amazon, with more to come.</p>
-<p align="center"><a href="https://haloshin.github.io/seller-university/#ui=en"><strong>Read online ↗</strong></a> &emsp; <a href="amazon/README.en.md"><strong>Amazon collection →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>Download ↓</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1"><strong>Install Skill ↓</strong></a></p>
+<p align="center"><a href="https://haloshin.github.io/seller-university/#ui=en"><strong>Read online ↗</strong></a> &emsp; <a href="amazon/README.en.md"><strong>Amazon collection →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>Download ↓</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2"><strong>Install Skill ↓</strong></a></p>
 <p align="center"><strong>270 courses readable in Chinese · Skill covers 356 modules</strong></p>
 <p align="center"><sub><a href="README.md">中文</a> · Compiled by <a href="https://github.com/haloshin">SHIN</a> · Unofficial project</sub></p>
 
@@ -117,14 +117,14 @@ npx skills add https://github.com/haloshin/seller-university --skill seller-univ
 
 Select Codex or Claude Code in the installer. To choose explicitly, append `--agent codex` or `--agent claude-code`. Installation is project-scoped by default; `-g` selects a user-wide installation. Check the destination and any overwrite notice before confirming; back up an existing installation first. Unlike our ZIP installer, the third-party installer can replace an existing Skill.
 
-The Skill's local search needs **Python 3.10+**, with no extra Python packages or author-hosted API key. The tested path is macOS project installation using `skills 1.7.1`: all 388 installed files matched the source, and local search worked. This is not a full Agent UI or Windows acceptance test. See the [installer documentation](https://github.com/vercel-labs/skills#readme).
+The Skill's local search needs **Python 3.10+**, with no extra Python packages or author-hosted API key. The tested path is macOS project installation using `skills 1.7.1`: installed files matched the source, and local search worked. This is not a full Agent UI or Windows acceptance test. See the [installer documentation](https://github.com/vercel-labs/skills#readme).
 
 <details>
 <summary>Prefer a versioned ZIP or do not use npx? Expand the ZIP installation guide</summary>
 
 ![Install the Skill: download, extract and install, start a new session, ask a question](assets/skill-installation.png)
 
-**1. [Download the Skill ZIP](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** — choose `seller-university-skill-1.0.0-beta.1.zip`, then extract it. This is separate from the v0.9.2 course reading ZIP.
+**1. [Download the Skill ZIP](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2)** — choose `seller-university-skill-1.0.0-beta.2.zip`, then extract it. This is separate from the v0.9.2 course reading ZIP.
 
 **2. Open a terminal in the extracted `seller-university-skill` folder.** Python 3.10+ is needed; there are no third-party Python packages or author-hosted API dependencies.
 
@@ -190,7 +190,7 @@ The current **v0.9.2** release contains:
 - **Markdown and TXT course text**, plus **455 VTT caption files** for the original audio. Chinese translations do not include VTT captions.
 - **Learning guides, a course catalog, source and usage notes**, and accompanying LICENSE and NOTICE files.
 
-Video files are not included. Knowledge-card collections and the course question bank remain unreleased. The Skill has a [separate installation package](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1), which is not included in this v0.9.2 reader ZIP.
+Video files are not included. Knowledge-card collections and the course question bank remain unreleased. The Skill has a [separate installation package](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2), which is not included in this v0.9.2 reader ZIP.
 
 <br>
 

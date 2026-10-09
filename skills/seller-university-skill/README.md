@@ -4,7 +4,7 @@
 
 Amazon 全量覆盖 Beta：**356 个知识模块 · 13 个能力包**。其中 270 个模块可打开本项目的中文课程阅读页；另 86 个模块提供整理要点与官方课程定位，暂无公开转写页。模块来自视频、PDF 等课程资料，因此数量与阅读库的 270 门视频课程不同。
 
-[下载安装 ZIP](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1) · [课程目录](references/INDEX.md) · [使用示例](examples/README.md) · [English](README.en.md)
+[下载安装 ZIP](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2) · [课程目录](references/INDEX.md) · [使用示例](examples/README.md) · [English](README.en.md)
 
 ## 可以怎么用
 
@@ -20,7 +20,22 @@ Amazon 全量覆盖 Beta：**356 个知识模块 · 13 个能力包**。其中 2
 
 ## 安装
 
-下载 **`seller-university-skill-1.0.0-beta.1.zip`**，解压得到 `seller-university-skill` 文件夹。需要支持 Skills 的 Agent；运行本地检索脚本需要 Python 3.10 或以上，无第三方 Python 依赖，无作者服务器、账号或 API Key 依赖。联网核对政策使用你自己的 Agent 已有能力。
+### 命令安装
+
+在使用 Agent 的项目文件夹里打开终端，运行：
+
+```bash
+npx skills add https://github.com/haloshin/seller-university --skill seller-university-skill
+```
+
+需要 Node.js/npm 和 Git，按提示选择 Codex 或 Claude Code；也可加 `--agent codex` 或 `--agent claude-code` 指定宿主。默认仅当前项目可用，加 `-g` 则安装到用户目录。该命令获取仓库当前版本；要固定本版，请使用下方版本化 ZIP。
+
+本地检索需要 Python 3.10+；没有 Python 时，Agent 仍可从 [课程目录](references/INDEX.md) 按主题读取文件。npx 安装器可能覆盖已有同名 Skill，确认前先备份并检查目标位置。
+
+<details>
+<summary>下载固定版本 ZIP / 不使用 npx</summary>
+
+下载 **`seller-university-skill-1.0.0-beta.2.zip`**，解压得到 `seller-university-skill` 文件夹。需要支持 Skills 的 Agent；运行本地检索脚本需要 Python 3.10 或以上，无第三方 Python 依赖，无作者服务器、账号或 API Key 依赖。联网核对政策使用你自己的 Agent 已有能力。
 
 在解压得到的文件夹内打开终端：
 
@@ -33,13 +48,17 @@ python3 scripts/install.py --agent codex --apply
 
 Claude Code 将 `codex` 换成 `claude`。自定义宿主目录使用 `--target <Skills父目录>`；同样默认预览，添加 `--apply` 才复制。也可手动将整个文件夹放进宿主支持的 Skills 目录。
 
-安装后开启新会话，发送：
+**安装器只复制这个 Skill，不改模型、账号、环境变量或其他配置。** 遇到同名目录会拒绝覆盖；目标路径有符号链接也会拒绝。升级前先手动备份旧文件夹；回滚时移走新版、恢复旧文件夹并重启会话。
+
+</details>
+
+安装后在对应项目中开启新会话，发送：
 
 ```text
-请使用 seller-university-skill。先说明覆盖范围，然后帮我找到“商品推广预算”的课程，只引用实际读到的资料。
+请使用 seller-university-skill。解释 Amazon 的 Sessions 和 Page views 有什么区别，给我相关课程和来源。
 ```
 
-**安装器只复制这个 Skill，不改模型、账号、环境变量或其他配置。** 遇到同名目录会拒绝覆盖；目标路径有符号链接也会拒绝。升级前先手动备份旧文件夹；回滚时移走新版、恢复旧文件夹并重启会话。
+
 
 Codex / Claude 目录安装、重复安装保护和临时目录检索均有自动验证；Agent 对话模拟见 [验证说明](VALIDATION.md)。WorkBuddy、Windows 与各宿主 UI 的完整实机流程尚未验证，不标为已兼容验收。
 

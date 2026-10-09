@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://haloshin.github.io/seller-university/"><strong>网页阅读 ↗</strong></a> &emsp;
   <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>下载资料 ↓</strong></a> &emsp;
-  <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1"><strong>安装 Skill ↓</strong></a> &emsp;
+  <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2"><strong>安装 Skill ↓</strong></a> &emsp;
   <a href="#接下来的更新"><strong>关注更新 →</strong></a>
 </p>
 
@@ -138,14 +138,14 @@ npx skills add https://github.com/haloshin/seller-university --skill seller-univ
 
 按安装器提示选择 Codex 或 Claude Code。也可以在命令后加 `--agent codex` 或 `--agent claude-code` 指定宿主。默认仅安装到当前项目；加 `-g` 则安装到用户目录，供其他项目使用。确认前检查安装位置与覆盖提示；已有同名 Skill 时先备份。这个第三方安装器可能替换旧版，与下方 ZIP 安装器的“不覆盖”机制不同。
 
-Skill 的本地检索需要 **Python 3.10+**，不需要额外 Python 包或作者提供的 API Key。本次已验证 macOS 下 `skills 1.7.1` 的项目安装：388 个文件与源码一致，安装后检索可用；这不等于宿主 UI 或 Windows 的完整实机验收。安装器选项见[官方说明](https://github.com/vercel-labs/skills#readme)。
+Skill 的本地检索需要 **Python 3.10+**，不需要额外 Python 包或作者提供的 API Key。本次已验证 macOS 下 `skills 1.7.1` 的项目安装：安装文件与源码一致，安装后检索可用；这不等于宿主 UI 或 Windows 的完整实机验收。安装器选项见[官方说明](https://github.com/vercel-labs/skills#readme)。
 
 <details>
 <summary>不使用 npx，或想下载固定版本？展开 ZIP 安装说明</summary>
 
 ![Skill 安装指引：下载、解压安装、开启新会话、提出问题](../assets/skill-installation.png)
 
-**1. [下载 Skill 安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)**，选择 `seller-university-skill-1.0.0-beta.1.zip` 并解压。它与 v0.9.2 课程阅读 ZIP 是两个独立下载包。
+**1. [下载 Skill 安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2)**，选择 `seller-university-skill-1.0.0-beta.2.zip` 并解压。它与 v0.9.2 课程阅读 ZIP 是两个独立下载包。
 
 **2. 在解压得到的 `seller-university-skill` 文件夹内打开终端。** 需要 Python 3.10+，无需第三方 Python 包，也不依赖作者的服务器或 API Key。
 
@@ -217,7 +217,7 @@ Claude Code 用户把 `codex` 换成 `claude`。已有同名 Skill 时安装器�
 - **Markdown、TXT 正文**，以及原音轨对应的 **455 份 VTT 字幕**；中文译文不附 VTT。
 - **学习导航、课程目录、来源与使用说明**，以及 LICENSE、NOTICE 等随包文件。
 
-不含视频文件；完整知识卡和课程题库尚未发布。Skill 提供[独立安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)，不包含在这个 v0.9.2 阅读 ZIP 中。
+不含视频文件；完整知识卡和课程题库尚未发布。Skill 提供[独立安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.2)，不包含在这个 v0.9.2 阅读 ZIP 中。
 
 <br>
 

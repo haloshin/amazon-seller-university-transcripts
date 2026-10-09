@@ -43,12 +43,15 @@ ALIASES = {
     '推荐报价': ['featured offer'], '购物车': ['featured offer'], 'buy box': ['featured offer'],
     '自动定价': ['automate pricing', 'automated pricing'],
 }
-OTHER_PLATFORMS = re.compile(r'\b(tiktok|shopify|walmart)\b|沃尔玛|抖音|\btk\b', re.I)
+OTHER_PLATFORMS = re.compile(r'(?<![a-z])(?:tiktok(?:\s*shop)?|shopify|walmart|tk)(?![a-z])|沃尔玛|抖音', re.I)
+AMAZON_PLATFORM = re.compile(r'(?<![a-z])amazon(?![a-z])|亚马逊', re.I)
 
 
 def search(query, limit=5, pack=None):
     query = query.strip().lower()
-    if not query or OTHER_PLATFORMS.search(query):
+    # Mixed-platform questions may still need Amazon sources. The Agent scopes
+    # the question first; a hit here never supplies another platform's policy.
+    if not query or (OTHER_PLATFORMS.search(query) and not AMAZON_PLATFORM.search(query)):
         return []
     rows = json.loads((ROOT / 'references/catalog.json').read_text(encoding='utf-8'))
     if re.fullmatch(r'[a-f0-9-]{36}', query):
