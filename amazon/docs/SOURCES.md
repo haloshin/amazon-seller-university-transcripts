@@ -14,13 +14,23 @@
 
 ## 阅读边界
 
-正文保留原课顺序、案例、数字和当时的表述。原课存在影响理解的差异或不确定词句时，课程目录和正文会链接简短的 `校注.md`。
+正文按原课顺序整理，尽量保留案例、数字和当时的表述。原课存在影响理解的差异或不确定词句时，课程目录和正文会链接简短的 `校注.md`。
 
 转写经 AI 校对，未进行人工逐字听审，仍可能存在错字或漏句。VTT 字幕为机器句段对齐；字幕文字与 TXT 全文一致，时间在对应视频时长内。
 
 课程中的政策、费用和界面可能已变化，实际操作请以当前官方说明为准。本集合不代表 Amazon 现有全部课程。
 
 [返回首页](../README.md) · [全部课程](../课程目录.md) · [来源与权利](../../NOTICE.md)
+
+## 预算说明
+
+核对日期：2026-10-09。适用课程：[Create your first advertising campaign with Sponsored Products](../courses/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0/en_US/transcript.md)。
+
+归档中英文转写稿同时介绍了每日预算和生命周期预算。现行 [Amazon Ads 官方 FAQ](https://advertising.amazon.com/en-gb/resources/faq) 对 **Sponsored Products（商品推广）**说明的是设置每日预算；对 **Sponsored Brands（品牌推广）**则明确说明可选择每日预算或生命周期预算。不能据此把归档课程中的两种预算介绍理解为当前商品推广均可选。每日预算也不等于每个自然日的硬性花费上限，实际单日花费可能波动；具体规则请核对 [官方商品推广预算指南](https://advertising.amazon.com/library/guides/sponsored-products-budget-best-practices)。
+
+本库保留归档转写原话，另列此说明。README 的知识卡属于项目编辑整理，预算卡按现行官方说明展示“每日预算”，不是官方课件原图。
+
+**English:** The archived transcripts describe both daily and lifetime budgets. The current Amazon Ads FAQ describes a daily budget for Sponsored Products and explicitly offers daily or lifetime budgets for Sponsored Brands. Do not infer that both are current Sponsored Products options. Daily spend can fluctuate. Archived wording is retained; the editorial preview card follows current guidance.
 
 ## 再发布授权
 

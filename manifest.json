@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 11069,
-      "sha256": "bf98b080e1da625458df83e0e7924da5a553ab62e7ef6c07e24cbe995746b695"
+      "bytes": 11231,
+      "sha256": "b08a896ef082349f7dbbf7d08bb0aea948db917351abb285a48867dcd0f86c3f"
     },
     {
       "path": "README.md",
-      "bytes": 10831,
-      "sha256": "951233cd4b0ae2caad74e858dd976826776481ba726e16829ff107f9ffb3999f"
+      "bytes": 10981,
+      "sha256": "241e46728c16130b4c1fc040425e1b7713b4552ce3f8c39f6522477e697df3d6"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 12569,
-      "sha256": "91200f4778033d9ca32b67c34fd5593e472dc91e2cc07e48a5718c5b6d1a4cfa"
+      "bytes": 12728,
+      "sha256": "60cc0d16bb5fc9de09bf6cebdc9d629cb6d2b8f753b02e3726626a0cd19c47c2"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 11733,
-      "sha256": "a0ef66f490da20c235b3dc95b1ae4e3dda0030f935e4e24b2b161d683513deac"
+      "bytes": 11870,
+      "sha256": "f4dec5bd2cbec1544e5dbc2cd42b2a83f46087434e58f9303299cc432860102b"
     },
     {
       "path": "amazon/catalog.json",
@@ -9278,8 +9278,8 @@
     },
     {
       "path": "amazon/docs/SOURCES.md",
-      "bytes": 3328,
-      "sha256": "541b360eb8c341d6dd5154a31560effe41b7524485667eef464e663cab2dd7ad"
+      "bytes": 4793,
+      "sha256": "721e0494bf937dcfe6e87eac21b35ca1b55af5f7e618d76893b5f72f429c6f8c"
     },
     {
       "path": "amazon/official-links.json",
@@ -10613,8 +10613,8 @@
     },
     {
       "path": "assets/knowledge-cards-preview.jpg",
-      "bytes": 560782,
-      "sha256": "d692e015e63749c9c6ce6170aabe85ae54a492c01c869bc73ef432743c504e8b"
+      "bytes": 581857,
+      "sha256": "8c9f07fd5ecdf7fb9178dcddd3091fb265bb3de2512825abbc72a1b25bf19691"
     },
     {
       "path": "assets/learning-roadmap.png",

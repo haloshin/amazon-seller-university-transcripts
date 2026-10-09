@@ -13,7 +13,7 @@
 
 ## Available now: Amazon
 
-The first collection covers **Amazon Seller University**. Transcripts preserve the course sequence, examples, figures and qualifications for focused reading and reference.
+The first collection covers **Amazon Seller University**. Transcripts follow the course sequence and aim to preserve examples, figures and qualifications for focused reading and reference.
 
 | Courses | Original-language transcripts | Added Chinese translations |
 | :---: | :---: | :---: |
@@ -73,7 +73,7 @@ Browse topics, search titles and full text, switch languages, adjust text size a
 
 **185 courses** include Chinese-audio transcripts; the other **85** have added Chinese translations. Every course retains an English transcript. That makes **540 reading texts across 270 courses**, not 540 separate courses.
 
-Translations follow the terminology used in existing Chinese-audio courses, preserving steps, examples, numbers and qualifications. Short paragraphs support continuous reading; full-text search helps you find a term in context.
+Translations draw on terminology from existing Chinese-audio courses and aim to preserve steps, examples, numbers and qualifications. Short paragraphs support continuous reading; full-text search helps you find a term in context.
 
 <details>
 <summary><strong>Preview a Chinese translation of an English-only course</strong></summary>
@@ -90,9 +90,11 @@ Translations follow the terminology used in existing Chinese-audio courses, pres
 
 ### Knowledge cards
 
-One topic, a connected set of cards. This Chinese introduction to Sponsored Products uses a cover and four cards to explain value, placements, pay-per-click pricing and budget types.
+One topic, a connected set of cards. This Chinese introduction to Sponsored Products uses a cover and four cards to explain value, placements, pay-per-click pricing and daily budgets.
 
 [![Sponsored Products knowledge cards: one cover and four connected explanation cards](assets/knowledge-cards-preview.jpg)](assets/knowledge-cards-preview.jpg)
+
+<sub>The budget card follows current official guidance. <a href="amazon/docs/SOURCES.md#预算说明">Archived-course differences</a>.</sub>
 
 <br>
 

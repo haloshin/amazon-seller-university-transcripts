@@ -6,7 +6,7 @@
 
 <p align="center"><strong>Course transcripts · Read, search and learn offline</strong></p>
 
-<p align="center">Keep the original course sequence and examples within easy reach.</p>
+<p align="center">Follow the course sequence for easier reading and reference.</p>
 
 <p align="center">
   <a href="https://haloshin.github.io/seller-university/#ui=en"><strong>Read online ↗</strong></a> &emsp;
@@ -75,7 +75,7 @@ Start with the question you are working on.
 
 ## Read a real excerpt
 
-The English FBA introduction in the reader. Video transcripts use short reading paragraphs, usually one to three sentences, without changing the original wording or order. The reader uses system serif fonts, a column up to 720px wide and clear paragraph spacing. English defaults to 17px; Chinese uses 16px with a two-character first-line indent. Switch audio transcripts, adjust the text size or download a course from the toolbar.
+The English FBA introduction in the reader. Video transcripts use short reading paragraphs, usually one to three sentences; this reading layout does not rewrite the prepared transcript text. The reader uses system serif fonts, a column up to 720px wide and clear paragraph spacing. English defaults to 17px; Chinese uses 16px with a two-character first-line indent. Switch audio transcripts, adjust the text size or download a course from the toolbar.
 
 [![English FBA transcript: original text, audio-language tabs and course navigation](../assets/english-reader-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 
@@ -94,7 +94,7 @@ The English FBA introduction in the reader. Video transcripts use short reading 
 
 ## Chinese translations for English-only audio
 
-All 85 courses previously available only in English now include a **Chinese translation**. Translations follow the English text, with terminology checked against existing Chinese-audio transcripts and the project glossary. They are AI-assisted, separately labeled, and retain the original steps, examples, numbers and qualifications.
+All 85 courses previously available only in English now include a **Chinese translation**. Translations follow the English text, with terminology checked against existing Chinese-audio transcripts and the project glossary. They are AI-assisted, separately labeled, and aim to preserve the original steps, examples, numbers and qualifications.
 
 [![AWD shipment-tracking course with a labeled Chinese translation and English original](../assets/chinese-translation-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=en)
 
@@ -108,9 +108,11 @@ All 85 courses previously available only in English now include a **Chinese tran
 
 ### Knowledge cards
 
-One topic, a connected set of cards. This Chinese introduction to Sponsored Products uses a cover and four cards to explain value, placements, pay-per-click pricing and budget types.
+One topic, a connected set of cards. This Chinese introduction to Sponsored Products uses a cover and four cards to explain value, placements, pay-per-click pricing and daily budgets.
 
 [![Sponsored Products knowledge cards: one cover and four connected explanation cards](../assets/knowledge-cards-preview.jpg)](../assets/knowledge-cards-preview.jpg)
+
+<sub>The budget card follows current official guidance. <a href="docs/SOURCES.md#预算说明">Archived-course differences</a>.</sub>
 
 <br>
 

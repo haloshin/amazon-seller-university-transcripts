@@ -6,7 +6,7 @@
 
 <p align="center"><strong>课程转写稿 · 阅读、检索与离线学习</strong></p>
 
-<p align="center">保留课程讲述顺序与案例，随时查阅你需要的内容。</p>
+<p align="center">按原课顺序整理，方便阅读与查阅。</p>
 
 <p align="center">
   <a href="https://haloshin.github.io/seller-university/"><strong>网页阅读 ↗</strong></a> &emsp;
@@ -75,7 +75,7 @@
 
 ## 先看一段原文
 
-FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬线字体，默认 16px、首行缩进两个汉字；段落之间留白，阅读列控制在 720px 以内。视频转写按讲解节奏整理为短段落，通常每段 1–3 句，保留原文字词与顺序。标题下可切换音轨、调整字号并下载原文；同主题课程目录保留在侧边。
+FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬线字体，默认 16px、首行缩进两个汉字；段落之间留白，阅读列控制在 720px 以内。视频转写按讲解节奏整理为短段落，通常每段 1–3 句；阅读排版不另行改写已整理的转写文本。标题下可切换音轨、调整字号并下载原文；同主题课程目录保留在侧边。
 
 [![FBA 中文原文：标题层级、阅读工具和同主题目录](../assets/html-reader-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
 
@@ -96,7 +96,7 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 
 ## 只有英文音轨的课，也能用中文读
 
-85 门原先仅有英文稿的课程已补齐**中文译文**。参照现有中文音轨稿和术语库，保留原课的步骤、案例、数字与限定条件；译文经 AI 辅助翻译与校对，页面单独标注来源。
+85 门原先仅有英文稿的课程已补齐**中文译文**。参照现有中文音轨稿和术语库，尽量保留原课的步骤、案例、数字与适用条件；译文经 AI 辅助翻译与校对，页面单独标注来源。
 
 [![AWD 货件跟踪课程：中文译文、英文原文切换及来源说明](../assets/chinese-translation-preview.jpg)](https://haloshin.github.io/seller-university/#view=course&id=cd799532-62ff-4f7a-9853-fa83a5fc6dc1&lang=zh_CN_translation&ui=zh)
 
@@ -110,9 +110,11 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 
 ### 知识卡
 
-一个知识点，一组图。以「商品推广入门」为例，用封面和四张讲解卡，说明核心价值、展示位置、点击计费与预算类型。
+一个主题，一组图。以「商品推广入门」为例，用封面和四张讲解卡，说明核心价值、展示位置、点击计费与每日预算。
 
 [![商品推广入门知识卡：一张封面与四张连续讲解卡](../assets/knowledge-cards-preview.jpg)](../assets/knowledge-cards-preview.jpg)
+
+<sub>预算卡按当前官方说明整理。<a href="docs/SOURCES.md#预算说明">查看课程与现行规则差异</a>。</sub>
 
 <br>
 
