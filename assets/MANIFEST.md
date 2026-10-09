@@ -5,16 +5,16 @@
 | 文件 | 用途 | 来源与状态 |
 | --- | --- | --- |
 | [reader-banner.png](reader-banner.png) | 阅读主视觉；首页与 README | Codex 内置 imagegen 新生成；1536 × 1024；已选用 |
-| [home-preview.jpg](home-preview.jpg) | 首页介绍、全文搜索与入门路径 | 本仓库 v0.8.0 首页实际浏览器截图，增加全课程中文阅读与85份译文入口；本地验证通过 |
+| [home-preview.jpg](home-preview.jpg) | 首页介绍、全文搜索与入门路径 | 本仓库 v0.8.0 首页实际浏览器截图，增加全课程中文阅读与85份译文入口；本地验证通过；旧图保留，README 已改用用户指定预览图 |
 | [library-preview.jpg](library-preview.jpg) | 独立课程库、主题目录与阅读语言筛选 | 本仓库 v0.8.0 课程库实际浏览器截图，区分中文音轨与中文译文；本地验证通过 |
 | [html-reader-preview.jpg](html-reader-preview.jpg) | 中文音轨阅读示例与同主题目录 | v0.8.0 FBA 中文课程实际浏览器截图，16px、首行两字缩进、24px段距、系统衬线短段正文；已验证 |
 | [english-reader-preview.jpg](english-reader-preview.jpg) | 英文正文、字体层级与音轨切换 | v0.8.0 FBA 英文课程实际浏览器截图，17px、25.5px段距、短段落阅读；已验证 |
 | [chinese-translation-preview.jpg](chinese-translation-preview.jpg) | AWD 中文译文、英文切换及来源说明 | v0.8.0 真实浏览器截图；本地验证通过 |
 | [reading-formats.png](reading-formats.png) | 在线阅读、离线查阅、字幕对照 | Codex 内置 imagegen 新生成；2172 × 724；已选用 |
 | [learning-roadmap.png](learning-roadmap.png) | Amazon 已上线，更多平台及学习方式规划中 | Codex 内置 imagegen；2026-10-08 选用；历史规划图保留，当前 README 不引用 |
-| [seller-university-cover.png](seller-university-cover.png) | 多平台项目总封面 | Codex 内置 imagegen；2026-10-08 选用；旧总封面保留，当前 README 已换用用户指定阅读封面 |
-| [seller-university-cover-skill-beta.png](seller-university-cover-skill-beta.png) | 课程阅读库 + Skill Beta 总封面 | Codex 内置 imagegen；2026-10-09 旧版总封面；已被用户指定阅读封面替换，文件保留 |
-| [amazon-reading-cover.png](amazon-reading-cover.png) | README 首张封面，四份中英文首页与 Amazon 专区共用 | 用户于 2026-10-09 指定的图片原件；2670 × 1190；已选用，未裁剪或修改 |
+| [seller-university-cover.png](seller-university-cover.png) | 多平台项目总封面 | Codex 内置 imagegen；2026-10-08 选用；旧总封面保留，当前 README 使用 Skill Beta 封面 |
+| [seller-university-cover-skill-beta.png](seller-university-cover-skill-beta.png) | 课程阅读库 + Skill Beta 总封面 | Codex 内置 imagegen；2026-10-10 按用户纠正恢复为四份 README 顶部封面 |
+| [amazon-reading-cover.png](amazon-reading-cover.png) | README 首页预览图，位于 Amazon 介绍与入口下方；四份 README 共用 | 用户于 2026-10-09 指定的图片原件；2670 × 1190；2026-10-10 纠正使用位置，替换 home-preview.jpg；未裁剪或修改 |
 | [skill-workflow.png](skill-workflow.png) | 提问、定位课程、回答与来源 | Codex 内置 imagegen；使用流程示意，非实测截图；四份 README 消费 |
 | [skill-installation.png](skill-installation.png) | 下载、安装、新会话、首次提问 | Codex 内置 imagegen；2026-10-09 选用；可复制命令位于图下文字 |
 

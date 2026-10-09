@@ -7,7 +7,7 @@
 
 <br>
 
-![Amazon course reading: 270 courses, 455 transcripts and 8 topics; Chinese preview](assets/amazon-reading-cover.png)
+![Seller University: a course reading library and the Amazon Skill Beta](assets/seller-university-cover-skill-beta.png)
 
 <br><br>
 
@@ -25,7 +25,7 @@ The first collection covers **Amazon Seller University**. Transcripts follow the
 
 **[Explore the Amazon collection →](amazon/README.en.md)** &emsp; [Learning guide](amazon/LEARNING_GUIDE.md) &emsp; [Read Intro to FBA ↗](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=en_US&ui=en)
 
-[![The reading room: Seller University and the current Amazon collection](assets/home-preview.jpg)](https://haloshin.github.io/seller-university/#ui=en)
+[![The reading room: Seller University and the current Amazon collection](assets/amazon-reading-cover.png)](https://haloshin.github.io/seller-university/#ui=en)
 
 <br><br>
 

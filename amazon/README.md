@@ -19,7 +19,7 @@
 
 <br>
 
-![Amazon 课程转写阅读：270 门课程、455 份转写稿、8 个主题](../assets/amazon-reading-cover.png)
+![Amazon course library and Seller University Skill Beta](../assets/seller-university-cover-skill-beta.png)
 
 <p align="center"><strong>270 门课程 &nbsp; / &nbsp; 455 份转写稿 &nbsp; / &nbsp; 8 个主题</strong><br><sub>英文 270 份 · 中文音轨稿 185 份 · 另附中文译文 85 份</sub></p>
 
@@ -35,7 +35,7 @@
 
 下载完整 ZIP 并解压，双击根目录的 **`index.html`**，即可用浏览器离线阅读。请保留完整文件夹，无需安装软件或启动服务。
 
-[![阅读首页：课程介绍、全文搜索和入门路径](../assets/home-preview.jpg)](https://haloshin.github.io/seller-university/)
+[![阅读首页：课程介绍、全文搜索和入门路径](../assets/amazon-reading-cover.png)](https://haloshin.github.io/seller-university/)
 
 <sub>首页找方向 → 课程库选课 → 阅读原文。全文搜索也可离线使用。</sub>
 

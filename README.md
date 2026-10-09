@@ -7,7 +7,7 @@
 
 <br>
 
-![Amazon 课程转写阅读：270 门课程、455 份转写稿、8 个主题](assets/amazon-reading-cover.png)
+![Seller University：270 门课程阅读库与 356 模块 Skill Beta](assets/seller-university-cover-skill-beta.png)
 
 <br><br>
 
@@ -25,7 +25,7 @@
 
 **[进入 Amazon 专区 →](amazon/README.md)** &emsp; [按主题找课](amazon/学习导航.md) &emsp; [试读 FBA 入门 ↗](https://haloshin.github.io/seller-university/#view=course&id=472d8e74-3402-4871-88d2-0ebaeb3263eb&lang=zh_CN&ui=zh)
 
-[![阅读站首页：Seller University 品牌与 Amazon 当前内容](assets/home-preview.jpg)](https://haloshin.github.io/seller-university/)
+[![阅读站首页：Seller University 品牌与 Amazon 当前内容](assets/amazon-reading-cover.png)](https://haloshin.github.io/seller-university/)
 
 <br><br>
 

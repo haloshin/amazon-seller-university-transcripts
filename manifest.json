@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 16822,
-      "sha256": "207ada9ee07fc4eadf425732c1ab52bf96c6ddeb5e0a791e4613dd8de52a01b0"
+      "bytes": 16832,
+      "sha256": "518aaf6525b72349118b27ca1bf2f619dd12ffd3f040e2243ad52668883769d2"
     },
     {
       "path": "README.md",
-      "bytes": 16093,
-      "sha256": "8044a97e2b2f8d054ca2e6b33cb17ad3f5b2a16464eb03329c01a4a7c440a084"
+      "bytes": 16108,
+      "sha256": "e46e93e0433df08b9818c809a174ca612f52bd14944bd970598d86975c18a083"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 18621,
-      "sha256": "b1711e83d53904022541547122d4dc687a028ac8bb1670c3b80fe0095bf893e4"
+      "bytes": 18616,
+      "sha256": "c2aae5e6322b44231eaac717ff6d33fe5302e66f2a229b0f1850c493c5be1877"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 17322,
-      "sha256": "116dc6f923bd5ea32eb5589cb2e711683601a9b8b5c9a63270b7b67a55c10e43"
+      "bytes": 17324,
+      "sha256": "15e1ca85ace13f6214988186a6437340da73f69414c5d12abd39d696a351f496"
     },
     {
       "path": "amazon/catalog.json",
@@ -10583,8 +10583,8 @@
     },
     {
       "path": "assets/MANIFEST.md",
-      "bytes": 3604,
-      "sha256": "aaab57535ff73cbb493d0ea24947767eed18431e32d9e1100162e1d91d3e9569"
+      "bytes": 3694,
+      "sha256": "0abc44102b82eaf8a93900c19a4a489c181f3838744dc33991fecd59e6e25a50"
     },
     {
       "path": "assets/amazon-reading-cover.png",

@@ -19,7 +19,7 @@
 
 <br>
 
-![Amazon course reading: 270 courses, 455 transcripts and 8 topics; Chinese preview](../assets/amazon-reading-cover.png)
+![Amazon course library and Seller University Skill Beta](../assets/seller-university-cover-skill-beta.png)
 
 <p align="center"><strong>270 courses &nbsp; / &nbsp; 455 transcripts &nbsp; / &nbsp; 8 topics</strong><br><sub>270 English · 185 Chinese-audio transcripts · 85 additional Chinese translations</sub></p>
 
@@ -35,7 +35,7 @@ Browse all **270 courses, 455 original-language transcripts and 85 Chinese trans
 
 Download and extract the complete ZIP, then open **`index.html`** in a browser to read offline. Keep the entire folder together; no installation or local server is needed.
 
-[![Home page in Chinese: introduction, full-text search and starter path](../assets/home-preview.jpg)](https://haloshin.github.io/seller-university/#ui=en)
+[![Home page in Chinese: introduction, full-text search and starter path](../assets/amazon-reading-cover.png)](https://haloshin.github.io/seller-university/#ui=en)
 
 <sub>Start on the home page → Choose a course in the library → Read the original transcript. Full-text search also works offline.</sub>
 
