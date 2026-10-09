@@ -1,13 +1,13 @@
 <h1 align="center">Seller University</h1>
 <p align="center"><strong>A learning library for marketplace sellers</strong></p>
-<p align="center">Official courses organized for reading, searching and offline study.<br>Starting with Amazon, with more to come.</p>
-<p align="center"><a href="https://haloshin.github.io/seller-university/#ui=en"><strong>Read online ↗</strong></a> &emsp; <a href="amazon/README.en.md"><strong>Amazon collection →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>Download ↓</strong></a></p>
-<p align="center"><strong>270 courses · 8 topics · Every course readable in Chinese</strong></p>
+<p align="center">Read courses, find references, and bring your questions to an AI Skill.<br>Starting with Amazon, with more to come.</p>
+<p align="center"><a href="https://haloshin.github.io/seller-university/#ui=en"><strong>Read online ↗</strong></a> &emsp; <a href="amazon/README.en.md"><strong>Amazon collection →</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>Download ↓</strong></a> &emsp; <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1"><strong>Install Skill ↓</strong></a></p>
+<p align="center"><strong>270 courses readable in Chinese · Skill covers 356 modules</strong></p>
 <p align="center"><sub><a href="README.md">中文</a> · Compiled by <a href="https://github.com/haloshin">SHIN</a> · Unofficial project</sub></p>
 
 <br>
 
-![Seller University: a learning library starting with Amazon](assets/seller-university-cover.png)
+![Seller University: a course reading library and the Amazon Skill Beta](assets/seller-university-cover-skill-beta.png)
 
 <br><br>
 
@@ -88,15 +88,53 @@ Translations draw on terminology from existing Chinese-audio courses and aim to 
 
 ## Ask your Agent with Seller University Skill
 
-**The full Amazon Skill is available as Beta: 356 knowledge modules across 13 topic packs.** Ask for course references, explanations, troubleshooting steps or an SOP based on your own context.
+**356 Amazon knowledge modules · 13 topic packs · Full Beta available.** Use the Skill to find course references, explain concepts and turn the context you provide into troubleshooting steps or an SOP.
 
-> Use seller-university-skill to explain Sessions versus Page views and show me the relevant course.
+![How the Skill works: ask a question, find the course, get an answer with sources](assets/skill-workflow.png)
 
-270 modules link to the Chinese course reader; the other 86 have no public transcript page. Modules include video and document sources, so this count differs from the reader's 270 video courses. The Skill does not operate seller accounts or treat archived courses as current policy.
+### What can I ask?
 
-**[Download the Skill ZIP ↓](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** &emsp; [Installation and examples](skills/seller-university-skill/README.en.md)
+| Your question | What the Skill helps with |
+| :--- | :--- |
+| “What is the difference between Sessions and Page views?” | Explain the concepts and link to the relevant course |
+| “Why can't I list this product?” | Ask for the marketplace and error details, then find relevant troubleshooting material |
+| “Should I discount slow-moving FBA inventory or keep advertising?” | Ask for missing inventory and cost data, then outline options without inventing numbers |
+| “Turn this process into an SOP.” | Organize the supplied facts into steps, checks and source references |
 
-<sub>A separate installation package; not included in the v0.9.2 reader ZIP. Knowledge-card collections and the course question bank remain unreleased. Python 3.10+ is needed for local search; WorkBuddy and Windows client workflows are not yet verified.</sub>
+270 modules link to this project's Chinese course reader; 86 have no public transcript page. Modules include video and document sources, so this count differs from the reader's 270 video courses. The Skill does not operate seller accounts or treat archived courses as current policy.
+
+<br>
+
+### Install the Skill
+
+![Install the Skill: download, extract and install, start a new session, ask a question](assets/skill-installation.png)
+
+**1. [Download the Skill ZIP](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** — choose `seller-university-skill-1.0.0-beta.1.zip`, then extract it. This is separate from the v0.9.2 course reading ZIP.
+
+**2. Open a terminal in the extracted `seller-university-skill` folder.** Python 3.10+ is needed; there are no third-party Python packages or author-hosted API dependencies.
+
+```bash
+# Preview the installation target; no files changed
+python3 scripts/install.py --agent codex
+
+# Install after reviewing the target
+python3 scripts/install.py --agent codex --apply
+```
+
+For Claude Code, replace `codex` with `claude`. Existing installations are never overwritten automatically. For manual installation, custom directories and rollback, see the [complete installation guide](skills/seller-university-skill/README.en.md).
+
+**3. Start a new Agent session and ask:**
+
+```text
+Use seller-university-skill.
+Explain the difference between Sessions and Page views,
+and link to the relevant course and source.
+Distinguish archived course material from current rules.
+```
+
+Prefer to let your Agent handle setup? Copy the [installation and startup brief](skills/seller-university-skill/START-HERE.md).
+
+<sub>Beta: temporary-directory installation and Agent simulations are tested. WorkBuddy and Windows client workflows are not yet verified. Knowledge-card collections and the course question bank remain unreleased.</sub>
 
 <br><br>
 

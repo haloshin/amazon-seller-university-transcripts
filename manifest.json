@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 13750,
-      "sha256": "3180e4b5e39f5610e50a4e725346d22a1173889834f91e2f2fb30586020e385a"
+      "bytes": 15688,
+      "sha256": "435f3881c3e4f7e42e0f7e47d2ff63b113e765221c60c9080b3783aec58d34c8"
     },
     {
       "path": "README.md",
-      "bytes": 13221,
-      "sha256": "d5156511b3a27fd14876c5eaea744ddc4deaaba28481b56edca601c296634fb9"
+      "bytes": 14973,
+      "sha256": "ea8144dd445c421db6c7eeda97dfadbae9befe0ece47b8e8e63c553b585e26f6"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 15591,
-      "sha256": "6da99b5cca1a56e4241d1f3eb2757910b0ec1d1c02c2f83d85f8a5c99f528a94"
+      "bytes": 17472,
+      "sha256": "73b60884a3becb4e0c18cec59db92bb548d5d2eee8963169c80efdd79de2ce3a"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 14455,
-      "sha256": "a80c8c7bb2b7d897c05f70dc580ab50a110bd9e8b3b78ecf5ed394dfbc2be32b"
+      "bytes": 16189,
+      "sha256": "3ecfe3544a83cf77fe12c8cc70a6f5b6a2bd2e9885bc9b0fe86eb1bd056dd6b1"
     },
     {
       "path": "amazon/catalog.json",
@@ -10583,8 +10583,8 @@
     },
     {
       "path": "assets/MANIFEST.md",
-      "bytes": 2646,
-      "sha256": "dc1fd933e85c1d22d3bd132f651678cb07f5a25ef08a81718452e782b6c59190"
+      "bytes": 3339,
+      "sha256": "53c11c33d0698d5beaea3e48d010c296585dad73bf86028cac058fa8256254af"
     },
     {
       "path": "assets/chinese-translation-preview.jpg",
@@ -10642,9 +10642,24 @@
       "sha256": "d81428199c840b86cec720ee9f688fe1d80fbb31dd4f106f57307f171fde7b3b"
     },
     {
+      "path": "assets/seller-university-cover-skill-beta.png",
+      "bytes": 1682895,
+      "sha256": "4163c0b8133f55e462db47862aa41e4f74ee820935461ed7d29077197615ece5"
+    },
+    {
       "path": "assets/seller-university-cover.png",
       "bytes": 1538060,
       "sha256": "3d03d40cd929b5331c27ee8ad5a02cd98d61da3ad34d93830c51a290e6e44e8c"
+    },
+    {
+      "path": "assets/skill-installation.png",
+      "bytes": 1276123,
+      "sha256": "0786547eedec17a1dd1f544c18fcee2c74f72602692e0418d5698be00fde860b"
+    },
+    {
+      "path": "assets/skill-workflow.png",
+      "bytes": 1283072,
+      "sha256": "8286c683e095b2902aa49f77606ae86241619dd78510681fc87728048adc0537"
     },
     {
       "path": "courses/049156a6-efd7-4ee6-9c9c-4d10c91e5a34/en_US/transcript.md",

@@ -4,13 +4,14 @@
 
 <h1 align="center">亚马逊卖家大学</h1>
 
-<p align="center"><strong>课程转写稿 · 阅读、检索与离线学习</strong></p>
+<p align="center"><strong>课程阅读库 + 卖家大学 Skill Beta</strong></p>
 
 <p align="center">按原课顺序整理，方便阅读与查阅。</p>
 
 <p align="center">
   <a href="https://haloshin.github.io/seller-university/"><strong>网页阅读 ↗</strong></a> &emsp;
   <a href="https://github.com/haloshin/seller-university/releases/latest"><strong>下载资料 ↓</strong></a> &emsp;
+  <a href="https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1"><strong>安装 Skill ↓</strong></a> &emsp;
   <a href="#接下来的更新"><strong>关注更新 →</strong></a>
 </p>
 
@@ -18,7 +19,7 @@
 
 <br>
 
-<p align="center"><img src="../assets/reader-banner.png" width="600" alt="展开的课程书册、课程文档与卖家学习工具"></p>
+![Amazon course library and Seller University Skill Beta](../assets/seller-university-cover-skill-beta.png)
 
 <p align="center"><strong>270 门课程 &nbsp; / &nbsp; 455 份转写稿 &nbsp; / &nbsp; 8 个主题</strong><br><sub>英文 270 份 · 中文音轨稿 185 份 · 另附中文译文 85 份</sub></p>
 
@@ -108,15 +109,53 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 
 ## 带着问题，用卖家大学 Skill
 
-**Amazon 全量 Skill 已提供 Beta：356 个知识模块、13 个能力包。** 安装到支持 Skills 的 Agent 后，可以找课程、解释概念、排查问题，也可以结合你提供的信息整理 SOP 或学习计划。
+**356 个 Amazon 知识模块 · 13 个能力包 · 全量 Beta 已发布。** 把课程用到具体问题里：找资料、解释概念、排查问题，也能结合你提供的信息整理 SOP。
 
-> 使用卖家大学 Skill，解释 Sessions 和 Page views 的区别，并告诉我原课在哪里。
+![Skill 使用流程：提出问题、定位课程、得到回答与来源](../assets/skill-workflow.png)
 
-其中 270 个模块可跳转到中文课程阅读页，另 86 个暂无公开转写页。模块来源包含视频和文档，因此与阅读库的 270 门视频课程统计范围不同。Skill 不代操作店铺，也不把历史课程当作当前政策。
+### 可以怎么问？
 
-**[下载 Skill 安装包 ↓](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** &emsp; [安装说明与使用示例](../skills/seller-university-skill/README.md)
+| 你可以这样问 | Skill 会怎样帮你 |
+| :--- | :--- |
+| “Sessions 和 Page views 有什么区别？” | 解释概念，给出对应课程和阅读入口 |
+| “这个商品为什么上架失败？” | 先了解站点和错误提示，再定位相关排查资料 |
+| “FBA 库存积压，该清仓还是继续打广告？” | 先问库龄、库存和成本等必要信息，再整理方案，不凭空编数字 |
+| “把这个流程整理成员工 SOP。” | 根据已提供事实，整理步骤、检查项和课程依据 |
 
-<sub>Skill 是独立安装包，不在 v0.9.2 阅读 ZIP 中。知识卡图集和课程题库仍未发布。本地检索需要 Python 3.10+；WorkBuddy、Windows 完整客户端流程尚未实测。</sub>
+其中 270 个模块连接中文课程阅读页，另 86 个暂无公开转写页。模块来源包含视频和文档，因此与阅读库的 270 门视频课程统计范围不同。Skill 不代操作店铺，也不把历史课程当作当前政策。
+
+<br>
+
+### 怎么安装？
+
+![Skill 安装指引：下载、解压安装、开启新会话、提出问题](../assets/skill-installation.png)
+
+**1. [下载 Skill 安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)**，选择 `seller-university-skill-1.0.0-beta.1.zip` 并解压。它与 v0.9.2 课程阅读 ZIP 是两个独立下载包。
+
+**2. 在解压得到的 `seller-university-skill` 文件夹内打开终端。** 需要 Python 3.10+，无需第三方 Python 包，也不依赖作者的服务器或 API Key。
+
+```bash
+# 先预览安装位置，不写入文件
+python3 scripts/install.py --agent codex
+
+# 确认目标位置后安装
+python3 scripts/install.py --agent codex --apply
+```
+
+Claude Code 用户把 `codex` 换成 `claude`。已有同名 Skill 时安装器会停止，不自动覆盖；手动安装、自定义目录与回滚方式见[完整安装说明](../skills/seller-university-skill/README.md)。
+
+**3. 开启新的 Agent 会话，直接发送：**
+
+```text
+请使用 seller-university-skill。
+解释 Sessions 和 Page views 的区别，
+并给出对应课程的阅读链接和来源。
+请区分历史课程内容与当前规则。
+```
+
+不想自己操作终端，也可以把[安装与启动说明](../skills/seller-university-skill/START-HERE.md)复制给你的 Agent。
+
+<sub>当前为 Beta：已做隔离安装验证和 Agent 模拟；WorkBuddy、Windows 完整客户端流程尚未实测。知识卡图集和课程题库仍未发布。</sub>
 
 <br><br>
 
