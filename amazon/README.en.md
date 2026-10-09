@@ -136,6 +136,34 @@ Read and search offline after downloading.
 
 <br>
 
+### What is included in the download?
+
+The current **v0.9.2** release contains:
+
+- **270 Amazon courses**: 455 original-language transcripts (270 English and 185 Chinese-audio transcripts), plus 85 Chinese translations.
+- **An offline HTML reader** with course navigation, full-text search, language switching and adjustable text size.
+- **Markdown and TXT course text**, plus **455 VTT caption files** for the original audio. Chinese translations do not include VTT captions.
+- **Learning guides, a course catalog, source and usage notes**, and accompanying LICENSE and NOTICE files.
+
+Video files are not included. Full knowledge-card collections, the question bank and the Skill are not yet released.
+
+<br>
+
+### Which asset should I download from Releases?
+
+**For reading, choose `seller-university-v0.9.2.zip`.** Future reading packages will follow the same filename pattern.
+
+| Download | Contents / purpose |
+| :--- | :--- |
+| **`seller-university-v0.9.2.zip`** | The prepared reading package. Extract it and open `index.html` at the root |
+| `SHA256SUMS.txt` | The reading package's SHA-256 checksum, for checking file integrity |
+| `Source code (zip)` | GitHub's automatic snapshot of that version's repository, including course materials, pages and scripts |
+| `Source code (tar.gz)` | The same repository version in a different archive format |
+
+<sub>The repository README and images may be updated before the next release. A Release package stays tied to its labeled version and does not automatically track repository changes. Refer to that release's notes and included files.</sub>
+
+<br>
+
 ### Extract the ZIP, then open index.html
 
 Open **`index.html`** in a browser to choose courses, search and read offline. You can also use `amazon/LEARNING_GUIDE.md`, a Markdown viewer or TXT files.
