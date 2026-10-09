@@ -128,6 +128,21 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 
 ### 怎么安装？
 
+**1. 一条命令安装**
+
+电脑已安装 Node.js/npm 和 Git 后，在你使用 Agent 的项目文件夹里打开终端，运行：
+
+```bash
+npx skills add https://github.com/haloshin/seller-university --skill seller-university-skill
+```
+
+按安装器提示选择 Codex 或 Claude Code。也可以在命令后加 `--agent codex` 或 `--agent claude-code` 指定宿主。默认仅安装到当前项目；加 `-g` 则安装到用户目录，供其他项目使用。确认前检查安装位置与覆盖提示；已有同名 Skill 时先备份。这个第三方安装器可能替换旧版，与下方 ZIP 安装器的“不覆盖”机制不同。
+
+Skill 的本地检索需要 **Python 3.10+**，不需要额外 Python 包或作者提供的 API Key。本次已验证 macOS 下 `skills 1.7.1` 的项目安装：388 个文件与源码一致，安装后检索可用；这不等于宿主 UI 或 Windows 的完整实机验收。安装器选项见[官方说明](https://github.com/vercel-labs/skills#readme)。
+
+<details>
+<summary>不使用 npx，或想下载固定版本？展开 ZIP 安装说明</summary>
+
 ![Skill 安装指引：下载、解压安装、开启新会话、提出问题](../assets/skill-installation.png)
 
 **1. [下载 Skill 安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)**，选择 `seller-university-skill-1.0.0-beta.1.zip` 并解压。它与 v0.9.2 课程阅读 ZIP 是两个独立下载包。
@@ -144,7 +159,9 @@ python3 scripts/install.py --agent codex --apply
 
 Claude Code 用户把 `codex` 换成 `claude`。已有同名 Skill 时安装器会停止，不自动覆盖；手动安装、自定义目录与回滚方式见[完整安装说明](../skills/seller-university-skill/README.md)。
 
-**3. 开启新的 Agent 会话，直接发送：**
+</details>
+
+**2. 在该项目中开启新的 Agent 会话，直接发送：**
 
 ```text
 请使用 seller-university-skill。

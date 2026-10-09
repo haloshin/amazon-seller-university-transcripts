@@ -107,6 +107,21 @@ Translations draw on terminology from existing Chinese-audio courses and aim to 
 
 ### Install the Skill
 
+**1. Install with one command**
+
+With Node.js/npm and Git installed, open a terminal in the project where you use your Agent and run:
+
+```bash
+npx skills add https://github.com/haloshin/seller-university --skill seller-university-skill
+```
+
+Select Codex or Claude Code in the installer. To choose explicitly, append `--agent codex` or `--agent claude-code`. Installation is project-scoped by default; `-g` selects a user-wide installation. Check the destination and any overwrite notice before confirming; back up an existing installation first. Unlike our ZIP installer, the third-party installer can replace an existing Skill.
+
+The Skill's local search needs **Python 3.10+**, with no extra Python packages or author-hosted API key. The tested path is macOS project installation using `skills 1.7.1`: all 388 installed files matched the source, and local search worked. This is not a full Agent UI or Windows acceptance test. See the [installer documentation](https://github.com/vercel-labs/skills#readme).
+
+<details>
+<summary>Prefer a versioned ZIP or do not use npx? Expand the ZIP installation guide</summary>
+
 ![Install the Skill: download, extract and install, start a new session, ask a question](assets/skill-installation.png)
 
 **1. [Download the Skill ZIP](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** — choose `seller-university-skill-1.0.0-beta.1.zip`, then extract it. This is separate from the v0.9.2 course reading ZIP.
@@ -123,7 +138,9 @@ python3 scripts/install.py --agent codex --apply
 
 For Claude Code, replace `codex` with `claude`. Existing installations are never overwritten automatically. For manual installation, custom directories and rollback, see the [complete installation guide](skills/seller-university-skill/README.en.md).
 
-**3. Start a new Agent session and ask:**
+</details>
+
+**2. Start a new Agent session in that project and ask:**
 
 ```text
 Use seller-university-skill.

@@ -48,13 +48,13 @@
     },
     {
       "path": "README.en.md",
-      "bytes": 15688,
-      "sha256": "435f3881c3e4f7e42e0f7e47d2ff63b113e765221c60c9080b3783aec58d34c8"
+      "bytes": 16832,
+      "sha256": "fd1483c0bd4aa156afbbeae40c28b2957eb509d61c8ae6c217fd7ace4ddeb436"
     },
     {
       "path": "README.md",
-      "bytes": 14973,
-      "sha256": "ea8144dd445c421db6c7eeda97dfadbae9befe0ece47b8e8e63c553b585e26f6"
+      "bytes": 16101,
+      "sha256": "27408510a8d353c6a0d685beca296e17f9c0e54efe1beee3c5a0240eb2299156"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 17472,
-      "sha256": "73b60884a3becb4e0c18cec59db92bb548d5d2eee8963169c80efdd79de2ce3a"
+      "bytes": 18616,
+      "sha256": "159c4ceb856cd7371050913a03986e8d8f52e3892786d88ebba94f80e8b9ddb0"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 16189,
-      "sha256": "3ecfe3544a83cf77fe12c8cc70a6f5b6a2bd2e9885bc9b0fe86eb1bd056dd6b1"
+      "bytes": 17317,
+      "sha256": "a9898e90b64083cb1968017bb3484f84a28eb1830df2c479fd556ec6994f6de9"
     },
     {
       "path": "amazon/catalog.json",
