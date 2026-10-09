@@ -26,7 +26,7 @@ Seller University 是 SHIN 整理维护的多平台卖家学习库，目前仅�
 | --- | --- |
 | 原课程表达、转写稿、字幕及其他第三方内容 | 权利属于 Amazon 或相应权利人；本项目未重新授权，整理署名不代表对原课程的独占权利 |
 | 原创导读、说明、具有独创性的选择或编排、配图 | 仅在相关内容依法受著作权保护且权利由 SHIN 享有的范围内，适用下述有限许可；不据此主张事实、一般思路或不受保护内容的权利 |
-| 自编 `scripts/` 程序代码（含 HTML 阅读器模板、JavaScript、CSS 及 `index.html` 中对应程序代码） | 继续适用 [MIT](LICENSES/MIT.txt)，包括该许可允许的复制、修改、分发和商用 |
+| 自编 `scripts/` 及 `skills/seller-university-skill/scripts/` 程序代码（含 HTML 阅读器模板、JavaScript、CSS 及 `index.html` 中对应程序代码） | 继续适用 [MIT](LICENSES/MIT.txt)，包括该许可允许的复制、修改、分发和商用 |
 
 对上述 **SHIN 享有著作权的原创编辑内容**，允许非商业的个人阅读、学习和保存，须保留署名、原仓库链接与适用的权利说明；修改时标明自己的改动，不得把 SHIN 的贡献冒称为自己的创作或暗示 Amazon 官方背书。超出该许可的公开再分发（包括重新打包为独立资料集）、商业使用，须另行取得许可。可通过[仓库 Issues](https://github.com/haloshin/seller-university/issues)提出具体用途与许可请求，不要提交个人敏感信息。
 
@@ -40,11 +40,11 @@ As of October 8, 2026, express written permission for this project’s full-cour
 
 Please retain the course source, SHIN's editorial credit and the original repository link when sharing. Do not falsely claim SHIN's contribution as your own or imply Amazon endorsement. Sharing the original repository link helps readers find updates.
 
-Amazon course content and third-party material are not relicensed here. Only original editorial material that is legally copyrightable and whose rights SHIN owns is covered by the limited personal, noncommercial study permission in [LICENSE](LICENSE). Retain credit, source links and rights notices, and identify your own modifications. Public redistribution or commercial use of that protected material outside the limited permission requires separate permission. Statutory exceptions, existing license grants and GitHub's normal public-repository viewing and forking permissions remain unaffected. Original program code in `scripts/`, including the HTML reader template, JavaScript, CSS and the corresponding program code in `index.html`, remains MIT-licensed. Embedded course and editorial content retains its separate rights.
+Amazon course content and third-party material are not relicensed here. Only original editorial material that is legally copyrightable and whose rights SHIN owns is covered by the limited personal, noncommercial study permission in [LICENSE](LICENSE). Retain credit, source links and rights notices, and identify your own modifications. Public redistribution or commercial use of that protected material outside the limited permission requires separate permission. Statutory exceptions, existing license grants and GitHub's normal public-repository viewing and forking permissions remain unaffected. Original program code in `scripts/` and `skills/seller-university-skill/scripts/`, including the HTML reader template, JavaScript, CSS and the corresponding program code in `index.html`, remains MIT-licensed. Embedded course and editorial content retains its separate rights.
 
 ## 来源问题与反馈
 
-本仓库的 MIT 许可只涵盖自行编写的校验脚本，不涵盖 `courses/`、课程标题与描述、字幕、课程引用，或第三方原始内容。使用或再分发第三方内容前，应另行确认适用的权利与许可。
+本仓库的 MIT 许可涵盖自行编写的程序代码（校验脚本、阅读器和 Skill 检索/安装脚本），不涵盖 `courses/`、课程标题与描述、字幕、课程引用，或第三方原始内容。使用或再分发第三方内容前，应另行确认适用的权利与许可。
 
 如权利人对内容的展示有异议，请通过[仓库 Issues](https://github.com/haloshin/seller-university/issues)提供具体路径、权利说明及希望采取的处理方式。不要公开个人敏感信息；需要非公开处理时，可使用 GitHub 的[版权申诉通道](https://support.github.com/contact/dmca-takedown)。
 

@@ -106,6 +106,20 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 
 <br><br>
 
+## 带着问题，用卖家大学 Skill
+
+**Amazon 全量 Skill 已提供 Beta：356 个知识模块、13 个能力包。** 安装到支持 Skills 的 Agent 后，可以找课程、解释概念、排查问题，也可以结合你提供的信息整理 SOP 或学习计划。
+
+> 使用卖家大学 Skill，解释 Sessions 和 Page views 的区别，并告诉我原课在哪里。
+
+其中 270 个模块可跳转到中文课程阅读页，另 86 个暂无公开转写页。模块来源包含视频和文档，因此与阅读库的 270 门视频课程统计范围不同。Skill 不代操作店铺，也不把历史课程当作当前政策。
+
+**[下载 Skill 安装包 ↓](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** &emsp; [安装说明与使用示例](../skills/seller-university-skill/README.md)
+
+<sub>Skill 是独立安装包，不在 v0.9.2 阅读 ZIP 中。知识卡图集和课程题库仍未发布。本地检索需要 Python 3.10+；WorkBuddy、Windows 完整客户端流程尚未实测。</sub>
+
+<br><br>
+
 ## 接下来的更新
 
 ### 知识卡
@@ -147,7 +161,7 @@ FBA 入门课程的中文阅读页实拍。中文正文采用宋体等系统衬�
 - **Markdown、TXT 正文**，以及原音轨对应的 **455 份 VTT 字幕**；中文译文不附 VTT。
 - **学习导航、课程目录、来源与使用说明**，以及 LICENSE、NOTICE 等随包文件。
 
-不含视频文件；完整知识卡、题库和 Skill 尚未发布。
+不含视频文件；完整知识卡和课程题库尚未发布。Skill 提供[独立安装包](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)，不包含在这个 v0.9.2 阅读 ZIP 中。
 
 <br>
 

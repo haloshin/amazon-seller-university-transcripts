@@ -104,6 +104,20 @@ All 85 courses previously available only in English now include a **Chinese tran
 
 <br><br>
 
+## Ask your Agent with Seller University Skill
+
+**The full Amazon Skill is available as Beta: 356 knowledge modules across 13 topic packs.** Ask for course references, explanations, troubleshooting steps or an SOP based on your own context.
+
+> Use seller-university-skill to explain Sessions versus Page views and show me the relevant course.
+
+270 modules link to the Chinese course reader; the other 86 have no public transcript page. Modules include video and document sources, so this count differs from the reader's 270 video courses. The Skill does not operate seller accounts or treat archived courses as current policy.
+
+**[Download the Skill ZIP ↓](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1)** &emsp; [Installation and examples](../skills/seller-university-skill/README.en.md)
+
+<sub>A separate installation package; not included in the v0.9.2 reader ZIP. Knowledge-card collections and the course question bank remain unreleased. Python 3.10+ is needed for local search; WorkBuddy and Windows client workflows are not yet verified.</sub>
+
+<br><br>
+
 ## Planned updates
 
 ### Knowledge cards
@@ -145,7 +159,7 @@ The current **v0.9.2** release contains:
 - **Markdown and TXT course text**, plus **455 VTT caption files** for the original audio. Chinese translations do not include VTT captions.
 - **Learning guides, a course catalog, source and usage notes**, and accompanying LICENSE and NOTICE files.
 
-Video files are not included. Full knowledge-card collections, the question bank and the Skill are not yet released.
+Video files are not included. Knowledge-card collections and the course question bank remain unreleased. The Skill has a [separate installation package](https://github.com/haloshin/seller-university/releases/tag/skill-v1.0.0-beta.1), which is not included in this v0.9.2 reader ZIP.
 
 <br>
 

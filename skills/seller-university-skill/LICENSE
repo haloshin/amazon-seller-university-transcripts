@@ -1,0 +1,41 @@
+Licensing scope
+===============
+
+This repository has no blanket license for all of its contents.
+
+1. Amazon Seller University course content, transcripts, captions, course titles,
+   and third-party material are not relicensed by this project. Rights remain
+   with Amazon or the respective rights holders. See NOTICE.md.
+2. The original program code in scripts/ (the local search and installation scripts) is
+   licensed under the MIT License included at LICENSES/MIT.txt.
+3. No license stated here grants rights to Amazon trademarks or other
+   third-party material. Public repository visibility is not an additional
+   permission to reuse the underlying courses.
+4. To the extent that original editorial writing, creative selection or
+   arrangement, and illustrations in this project are protected by copyright
+   and those rights are owned by SHIN, SHIN reserves those rights except for
+   the limited permission below. This does not claim ownership of the
+   underlying courses, facts, general ideas, or unprotectable material.
+
+Limited permission for SHIN-owned original editorial material
+------------------------------------------------------------
+
+You may read and make personal copies of this material for noncommercial
+study, retaining the SHIN credit, source repository URL, and applicable
+rights notices. Mark your own modifications and do not falsely present
+SHIN's contribution as your own or imply official Amazon endorsement.
+
+Beyond this permission, public redistribution (including repackaging as a
+separate collection) and commercial use of this SHIN-owned copyrighted
+material require separate permission. These conditions do not apply to
+program code licensed under MIT and do not grant any rights in Amazon
+course content or other third-party material.
+
+Nothing in this notice limits statutory exceptions, rights already granted
+under applicable licenses, or permissions provided by GitHub's Terms of
+Service, including viewing and normal forking of a public repository.
+The existence and ownership of copyright depend on the applicable law;
+this notice does not create rights where none exist.
+
+Source: https://github.com/haloshin/amazon-seller-university-transcripts
+For scope, attribution and permission requests, see NOTICE.md.

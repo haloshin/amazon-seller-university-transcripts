@@ -33,8 +33,8 @@
     },
     {
       "path": "LICENSE",
-      "bytes": 2323,
-      "sha256": "b596ad12c92473ee9c62dd6d1cad25fe1875d95b9c22698e92ac170664a3844c"
+      "bytes": 2367,
+      "sha256": "dec2b13ca11663f9694b2a586af5ef6dd8c03fdbc883fffe480db2a77ed15bf3"
     },
     {
       "path": "LICENSES/MIT.txt",
@@ -43,18 +43,18 @@
     },
     {
       "path": "NOTICE.md",
-      "bytes": 5423,
-      "sha256": "dfaba3bd85e07d5125e18d8b4c9a27a559f68c052f888e1aaec7f8f0ef126754"
+      "bytes": 5571,
+      "sha256": "74b4061dff653499fce96d947dfb035c31c5b8c20e67f8efee51badb0f77a042"
     },
     {
       "path": "README.en.md",
-      "bytes": 12454,
-      "sha256": "ce18496b7d857e0e9b5da5e4c02de2b58f0da32c68de05fcf1ae351bef26adb1"
+      "bytes": 13750,
+      "sha256": "3180e4b5e39f5610e50a4e725346d22a1173889834f91e2f2fb30586020e385a"
     },
     {
       "path": "README.md",
-      "bytes": 11976,
-      "sha256": "705b181d2e1207f217ca3c5bc399529cb448695019c3a05d52ee38ae72978c6d"
+      "bytes": 13221,
+      "sha256": "d5156511b3a27fd14876c5eaea744ddc4deaaba28481b56edca601c296634fb9"
     },
     {
       "path": "SECURITY.md",
@@ -68,13 +68,13 @@
     },
     {
       "path": "amazon/README.en.md",
-      "bytes": 14329,
-      "sha256": "1f5ba5d96f6ca4ccc522a6ae188f4b845678d2a84aaf09d17118d630ce34bafc"
+      "bytes": 15591,
+      "sha256": "6da99b5cca1a56e4241d1f3eb2757910b0ec1d1c02c2f83d85f8a5c99f528a94"
     },
     {
       "path": "amazon/README.md",
-      "bytes": 13255,
-      "sha256": "061cc57950eb4203dd443e604189819ca6361b16b43aff862943f4c60eb0757a"
+      "bytes": 14455,
+      "sha256": "a80c8c7bb2b7d897c05f70dc580ab50a110bd9e8b3b78ecf5ed394dfbc2be32b"
     },
     {
       "path": "amazon/catalog.json",
@@ -13028,8 +13028,8 @@
     },
     {
       "path": "index.html",
-      "bytes": 3907247,
-      "sha256": "c8a404a82b614efa52c5c317873f8a4e8e0331acc866132a70120733ff383a8c"
+      "bytes": 3907439,
+      "sha256": "8762b137fdb776474ebb9f1b515ec31a838a7b8d7fa74dcbaa623aded2348420"
     },
     {
       "path": "platforms.json",
@@ -13050,6 +13050,11 @@
       "path": "scripts/build_reader.py",
       "bytes": 5809,
       "sha256": "102f69e7fd6b7daf75e1bcdb112669c0ed99ed0e388e5fe9bb99b4bc2246a515"
+    },
+    {
+      "path": "scripts/build_skill_release.py",
+      "bytes": 1790,
+      "sha256": "b2cb67c648aa5579e9222041869c5050d605a69cae41f96cac0e9cfdaa738f19"
     },
     {
       "path": "scripts/official_links.py",
@@ -13102,6 +13107,11 @@
       "sha256": "3a2b9b18a5d1516aa0e8ab1c95d12bab3fcaca233636f2a97beb07c3d73dc329"
     },
     {
+      "path": "scripts/test_skill.py",
+      "bytes": 5359,
+      "sha256": "ca59f90e8c3df3a4a188271ed529cf2e9ae59a23c9507601fc55086961caa779"
+    },
+    {
       "path": "scripts/translations.py",
       "bytes": 4688,
       "sha256": "aefdee9aa09942709b145aa649b0d271ae663e2a5396d527271a14db0e5b8aa9"
@@ -13110,6 +13120,1946 @@
       "path": "scripts/verify.py",
       "bytes": 12876,
       "sha256": "edb3722dee7658addb7755bd3f7570d4956129b83217690cd15b0fa864f82999"
+    },
+    {
+      "path": "skills/seller-university-skill/LICENSE",
+      "bytes": 2257,
+      "sha256": "317e284a1ca0aec9fb6cc07bf10b967250295544171c55d1df78dfcb18789055"
+    },
+    {
+      "path": "skills/seller-university-skill/LICENSES/MIT.txt",
+      "bytes": 1061,
+      "sha256": "18052fd97ba6f4a6f5e8074178cfb32aa66de207e150d4e141bdc0604e962253"
+    },
+    {
+      "path": "skills/seller-university-skill/NOTICE.md",
+      "bytes": 547,
+      "sha256": "823f5300cc2675c1ae767eaad80d905c98718ea76ddd46c7fdc065b520701290"
+    },
+    {
+      "path": "skills/seller-university-skill/README.en.md",
+      "bytes": 2642,
+      "sha256": "7298144da8373eba8cbd977ca999e36d04fa715ca943fd2026ce4444799963b1"
+    },
+    {
+      "path": "skills/seller-university-skill/README.md",
+      "bytes": 4379,
+      "sha256": "ef407623a4f7b5db3c7883a508ad11676b444d12d9cad525237de235fef41840"
+    },
+    {
+      "path": "skills/seller-university-skill/SKILL.md",
+      "bytes": 3244,
+      "sha256": "bdca76787282b66bbf85e7915d2c7f1997e79d74f57a6e9806b540490df9c0b7"
+    },
+    {
+      "path": "skills/seller-university-skill/START-HERE.md",
+      "bytes": 880,
+      "sha256": "851169d6a0051ebff08890e1c2e6213bdc79e3542367e71fa5058497d55a911e"
+    },
+    {
+      "path": "skills/seller-university-skill/VALIDATION.md",
+      "bytes": 2500,
+      "sha256": "2cd6f50914ea61bcde61673bea3ddd5cd8304d68e278b4a1cbdeb9b60464b059"
+    },
+    {
+      "path": "skills/seller-university-skill/evals/evals.json",
+      "bytes": 1304,
+      "sha256": "f6132fbc5aba64129a31cd7d4a8d6f1813be670a1ae1f7b10e9e3992b4e01a73"
+    },
+    {
+      "path": "skills/seller-university-skill/examples/README.md",
+      "bytes": 999,
+      "sha256": "fdebd791ba1450c2fcbca07355557f2e6dfc0bbc9749cfdf678d402963005f43"
+    },
+    {
+      "path": "skills/seller-university-skill/references/INDEX.md",
+      "bytes": 1419,
+      "sha256": "d979abe2bf3bc3ccd1b4e01d98f892cb0c44244c3c07f75df38f6f80f88c27fa"
+    },
+    {
+      "path": "skills/seller-university-skill/references/catalog.json",
+      "bytes": 818008,
+      "sha256": "51457cf7f496cde2075dfbf6add030f18d3362813acbe8db56c243d612f494d2"
+    },
+    {
+      "path": "skills/seller-university-skill/references/dynamic-information.md",
+      "bytes": 1073,
+      "sha256": "eb2f82f4d29f630e550bcbc8d923d3665677c403976b9f752697bf693e069bcc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0398826a-f781-47ac-a655-075dc158bc0a.md",
+      "bytes": 2275,
+      "sha256": "b2bee8ce114cd4e2d24aff0aca60f6f74a127e0f5ea737cb7ae3da6d50dca3d8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/049156a6-efd7-4ee6-9c9c-4d10c91e5a34.md",
+      "bytes": 2782,
+      "sha256": "4771038b649e1e6ca0048a65f9cc68713683cc3e2825ad76a1866cdbcf4a6d3a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/04cad7f4-122c-4292-a3ac-ad63eca9ff73.md",
+      "bytes": 2439,
+      "sha256": "e5b0880aee4803629d3b341bf33c9362cdc9f84a62048d690af45941aa2e3440"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/052084ba-aa05-4030-86d1-56cec47183dd.md",
+      "bytes": 1898,
+      "sha256": "bc98109e8579bed30e2e9dc5aaf72cd12779e6ee9e82eeaacb8d112b91cb439d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0563d2e0-6c08-46aa-adf1-3fdbd1e59e8a.md",
+      "bytes": 2580,
+      "sha256": "b8bb662493a3624d09da59b0701cf9ad7af0c6050835662f2ccc9f2a7909b5d1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/05930523-8e15-4010-8bf9-16307ad17eb2.md",
+      "bytes": 2433,
+      "sha256": "05f2a09eec8f949bef356527de6c6395eda1f83034a4810efcbc1c59aeb5aac0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0594fa2b-cd32-40b7-8f42-33909f0d8966.md",
+      "bytes": 2401,
+      "sha256": "23473fba9789abf48c482c7ae55095d7e0ddaef1a5870742863e95c884afd295"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0646548c-7a14-4d03-851b-33a650f7c033.md",
+      "bytes": 2557,
+      "sha256": "fb48dae0714d9c9455d96441894830a7acc6e06cbdbf23dbb866cd2ceb1aee61"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0730bd4b-bde9-4814-aed5-1a8c118ccb10.md",
+      "bytes": 2798,
+      "sha256": "750ec766229c7c8fbcf73b9685f8c4e9a999d99bba83abe85450d131d9136c6d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a.md",
+      "bytes": 2075,
+      "sha256": "1c70de2774cc564934fd1f5c1cd7b4a6b1ffb6d79b60ae57025c57e7c7caa6f6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0982f544-3c62-43ee-b54a-606892d32662.md",
+      "bytes": 2578,
+      "sha256": "0c0f538ccffe69ec7857b96499e50aff07c40e1d7adfb6c691f9900a5b502da9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/09a25aab-2175-41ad-b349-443e73a9d646.md",
+      "bytes": 2286,
+      "sha256": "041ba366bcb5fd2657d58c315cd6f6a1052c682e9e16b495c3b0a99263f848c1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/09dea851-8b13-4fad-a9ee-bc4cf9d677c3.md",
+      "bytes": 2472,
+      "sha256": "d1ab3e67424abebfa703abaf10ee3d3dcc58a3ff9b5bd52649a023860a65b976"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/09e14bee-0ab7-4674-9265-562271f8e59d.md",
+      "bytes": 2638,
+      "sha256": "13756f38df1460f0447add8c20314ae1db3f5bf4eb15509ceeae2a6be64c13ce"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0a6ad152-72de-4e10-b6c2-ba190e6c5476.md",
+      "bytes": 2471,
+      "sha256": "1ac9a7dd055f52309e63380182457ed8455795ea7f3c85aaaf3bb16c7d6b5218"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0b2d46ff-ff54-47d7-8429-08b5716cfd6b.md",
+      "bytes": 2044,
+      "sha256": "73f6f84373912a37d1d58d05b0a4809e5cc0ff4b823486070bd85d1a008858dc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0e1b717e-8c75-4c06-90db-67f8528ef5c1.md",
+      "bytes": 2832,
+      "sha256": "62e02cff979cb3bde809cd0307d7965cec9a08fd13b02bcadd563507fcdb32a4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0eaf340b-118f-4faa-b69f-18b3d2a8ef74.md",
+      "bytes": 2905,
+      "sha256": "055fb8661a6b258c26ec2162c9c2de211fc658c98bc917da92280ffaf2b5ba85"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0f15b9e5-5669-4df6-b88c-15b9bdf991db.md",
+      "bytes": 2390,
+      "sha256": "dd12648117f64b4ae013438d6bac535b48a17b54a656448e0b7927dc763cbd2e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/0fe319e3-c04b-4336-aa3f-36c6c603389c.md",
+      "bytes": 2321,
+      "sha256": "7406966cb3a7ec7192385a704893ca5c445bcaf1ed1248f2320d8b6502cf1d5f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/11a3fd91-5de9-4779-b780-60102e2f2c30.md",
+      "bytes": 2618,
+      "sha256": "8a5c0e01d8a3d28374218a052c146e921fad88299e54a8068f9c2108505d5d45"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/11ab3acc-6970-43e6-947b-f13808b0b44e.md",
+      "bytes": 2180,
+      "sha256": "c97f9be99076cf7af60480303e6e015bea40ecdb117465ca6536d6490fc90056"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1214cbd4-bfb5-49a8-81dd-95da211fb487.md",
+      "bytes": 2955,
+      "sha256": "af64b473936e368d89f8c9f5a523bb143b08673635e757a261eac4f77ba29777"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/12577640-c955-43e6-9a2d-901c52aebad1.md",
+      "bytes": 2525,
+      "sha256": "bd52234b64719b6aa56c99b53c4a0aaae44a866d73aede198df8d9d17df05f2c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/13076c64-4d24-4075-984a-bcd3fd8311d1.md",
+      "bytes": 2264,
+      "sha256": "70b5fc2bae65b0ce6ebb3ca54771e7d42c85ae00f30ddb5fd6494cc81ab23789"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/134b3d1f-a54b-449a-813b-74285ee8bc0b.md",
+      "bytes": 2825,
+      "sha256": "4dcb51cb5ac3e1ff6a18466d7b92f9946bdf26d245b11bd75df165b19acaa4cc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/13e13735-ad60-4d5e-8a69-55c7455cba80.md",
+      "bytes": 2400,
+      "sha256": "1fba015c88da6242433d37770874ae14db13729c687ac61c759c220136c93425"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/14553ca4-057c-4ea0-8a7f-1962695ba18f.md",
+      "bytes": 2216,
+      "sha256": "64e9dde3d41d48414455ade11e4f165bac697ba7a3d917b61788e71e0f1008b5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/155f35ac-295f-46a0-bc01-2423a9d62936.md",
+      "bytes": 2223,
+      "sha256": "cbe841bb796455fa7370b5302c64efdf185c72ffb71e2a63f3b572cfb003bf2f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/15bd3f34-2946-412f-93dc-b34840ed885f.md",
+      "bytes": 2188,
+      "sha256": "2a49b08f6d1dcb19f05c0f72d0514789dead2e3bc1777feed98178edad81ec46"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/15f2f395-36f2-47a9-8cd2-17d6641a7077.md",
+      "bytes": 2482,
+      "sha256": "352a1bf17b50a0d02f8af4c6e734c74dd0e4ee57edf1541cbacb34d929f2854f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/16da6b21-dffe-4e57-b001-237ff67ed988.md",
+      "bytes": 2501,
+      "sha256": "c49024d417baec051e43ce0a3d43e76dbfb3daa1537b5e1d372552519203000d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/17c191ba-5930-45ee-aff5-76d3965a8d11.md",
+      "bytes": 2240,
+      "sha256": "b248937a62233d9a1d1e77dbdde0e3b914f8f799dff587f96578ef1a928c7817"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/187391de-1128-40af-a940-f6e3c653b66f.md",
+      "bytes": 3171,
+      "sha256": "367d2743b7edcdb35e5853e8f8e8afa702f2350e122ed77b842d1c37685af568"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1b57f3d1-0016-4f40-a7d3-6aa44d962482.md",
+      "bytes": 2731,
+      "sha256": "401b67bb65a3b9cfc13bf28027cbde67ea54fa9bdd83e9e26cbd17deaf44d083"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1bad2006-82d9-41b5-aacd-549f35e751d4.md",
+      "bytes": 2528,
+      "sha256": "236788e09cb3904b7401a0ce0742732455a1aed4acd1caec153416fff42200f1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1c2896c9-4fc3-466a-84f2-49887f19f064.md",
+      "bytes": 2268,
+      "sha256": "96daf6c570af81b4f2f18ce0fc47c1cc9be65569018aa4735b100bd5bd629c0a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1c593692-76ae-49e6-aefd-2acd833f95fa.md",
+      "bytes": 2660,
+      "sha256": "f4763cea7f302f1bcf766767cf31c90a12107c0ddeab073088f9a5c8cc0cf1b3"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1cfccc07-e3c4-4bec-a368-fc0efddbd2ed.md",
+      "bytes": 2322,
+      "sha256": "4e5bef25dd6da74867a8f90291b250d07930c86db446823c866568560e42132c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1d80536d-d066-49dc-883f-0f8c578d1cb0.md",
+      "bytes": 2200,
+      "sha256": "3bc14319c4067a89be2f94ea2e4915ac7ee1da2e3c525396846a19fba4db1fc8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1e699b06-7a02-49f7-a155-4642280a63d0.md",
+      "bytes": 2526,
+      "sha256": "ba3e7325842615f00d20383b9b94bc5491fbee1288f98d54d7f6ae2ba9e211c4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/1f2ab006-d4e4-47b8-a551-bbc2ec5aaa9c.md",
+      "bytes": 2588,
+      "sha256": "29377056c45b1cea44a7cc84d51fd07f6c60f9150b903fda7bc139cc968d55eb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/20873123-2c92-4e67-854e-08994da32d72.md",
+      "bytes": 2502,
+      "sha256": "5c5a5fb2aae32e0a0a4625f47398538b9804a75cf4daa45e41c7a36e5b360821"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2150b8bd-e4f7-4b95-9161-ca0d482e47f6.md",
+      "bytes": 2929,
+      "sha256": "258cdaece44c53e9422a09096d404df41c6243a25c2c578dd7c156721fbdc103"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/215d380c-b721-414b-87bb-282c7da60a11.md",
+      "bytes": 2523,
+      "sha256": "77bdfcdf1a251e5b1d2a9e4fffe92e7126882b99b44eb234bda7569be6495215"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/229b4615-cfb7-440a-ade0-f8fd1a5acd0f.md",
+      "bytes": 2429,
+      "sha256": "d763173d12957ef84c7d2e46fed6fd7c492374bceb5c68549b21907e980b2c9e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/22d05c78-c773-44ab-afb7-8411eefd5e8a.md",
+      "bytes": 2016,
+      "sha256": "0b6fea39d646bf4f6b475ac89cb3173d48eb81f703b817eb8aa65d7a75ab4b69"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/232a34dd-c425-4614-981a-7d9c243a4ee8.md",
+      "bytes": 2741,
+      "sha256": "5e24e175ccef97c69ce360519e589ebcb9d333e01f681360f0425f247eac09bd"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2337c4e9-860c-4e48-a12a-44f1cc961dca.md",
+      "bytes": 2807,
+      "sha256": "dc228ae887039be39889143ade1418c486c2e068afc098925be6e5679330b39f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2513f967-cfdc-40ad-8747-341bd9dbefec.md",
+      "bytes": 2494,
+      "sha256": "dd73732a8411818d49377722f7bf76a6ff50efd4fd8bfb47cad84369637feb97"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2526203a-97da-4c0a-a0bb-26238ec18af9.md",
+      "bytes": 2163,
+      "sha256": "c9be876071975cfa9b9c7dc6ccdb1853715973361b827f61f630c7b6b464401d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2720bd0f-516c-459d-aa16-a3d04a759a10.md",
+      "bytes": 2528,
+      "sha256": "3268c28579c3531be26e4837c7e23a6eb414838ff7b4bdf6ad8efef6dc80bcdf"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/28728898-9218-4f5d-8116-abf46b9ef834.md",
+      "bytes": 2313,
+      "sha256": "e19e16a83cec3477cdd6084cc6ad2255d97defceea3ae96909eacb94da998e74"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2a03a8b2-2dfe-4295-9d38-3a20f6d10581.md",
+      "bytes": 2498,
+      "sha256": "db495702971570ab533ee83f81cecb9da5c212ee74a7293657ba0a99f532db17"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2a483f34-bc0a-4996-852e-d80e9127ed19.md",
+      "bytes": 2492,
+      "sha256": "d0f07a0b84423f1e75b9a43f1d105a6fb5f3c422e06585df5c6e22ee1aa618b7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2b3e0700-d867-45dc-bfd7-c2bf560e7739.md",
+      "bytes": 2375,
+      "sha256": "ca78a473d232f631fe382a0fcb747aee30ea218cdabfa94ad3bf2b95fd78bcd1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2b8afbf6-ef1b-416e-88cc-fb59fe2ddca8.md",
+      "bytes": 2085,
+      "sha256": "1fd4cd4889fe2d6feef4fffe9d16a76a0fe626341bcb01a69aef3377f79be2ec"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2bb563c5-4177-4e8c-9efe-f3a28271d531.md",
+      "bytes": 2247,
+      "sha256": "15f162580f9133d2d5fe641e641da0380c41a92ce5d151a07a0e0df25fe50646"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2c5f1474-43c2-4c6a-9186-dda315af7b2b.md",
+      "bytes": 2791,
+      "sha256": "1c3b42669da5bd10e01d9ceca85c8d79d25a165bd6c8f492fe0a835bbca787ee"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2d9ec9b8-1d00-4861-aea1-4babbeb592f0.md",
+      "bytes": 1989,
+      "sha256": "0cfcaefbb2d9e1febc7b43af0948edc39742919aaa5fc2ef56a00937fb143345"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2eb273bb-44fa-4787-bbc5-f6e4af16c35e.md",
+      "bytes": 2159,
+      "sha256": "b2e0473b59c47d666766f7ee86c484d64e5cbf3aad70befa1cc95372d5bdd251"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/2f75c115-2990-482d-b00c-219a06893243.md",
+      "bytes": 2274,
+      "sha256": "f6ff895e6ec047813d32920e2eb946dc61a48639d750b62af3fa14bae688cc42"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3099c88c-2eb4-4298-914d-fd55c410f1b1.md",
+      "bytes": 2794,
+      "sha256": "5b3720c83ea99511b6fda778deb51ff5db2163b677a74517bedcfbf0be7982b5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3181cd9b-1483-4039-94e4-25436be0ef54.md",
+      "bytes": 2329,
+      "sha256": "0348442681400817002182500c1cc4600a6056bc16e7a6d6cce1628b4a77437e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/33e5a73e-1d2f-4d49-83f7-a11101bdc06a.md",
+      "bytes": 2556,
+      "sha256": "d1d2faf0e52f4220f8be095124b428792deb7aa2b5a634896c1b5003a894cfd4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3498c716-6b42-436f-a44a-9f08c9f637cf.md",
+      "bytes": 2529,
+      "sha256": "850c2f7df795a9f055dac037f63170c5257fd52953f29f3772aaa9fc06d0d5b6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3651b784-b015-4010-aaaf-a474151c6e1c.md",
+      "bytes": 2270,
+      "sha256": "dd19cac99bd2a905a9d385b3537f14a3ed7e0de25b3ceb07014deec862448783"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/36837951-3f77-47f9-82f1-e7c845614c5a.md",
+      "bytes": 2736,
+      "sha256": "be3b4830f98de62c1eee9187bb6e580a04053f6edc4919ee2ad8ecc58b09f363"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/36f9618b-d5c6-4571-ae43-af46443572fb.md",
+      "bytes": 2278,
+      "sha256": "4091b65e452129f0fafd552f12904e86c25af4827e950242f30b2e8a6a6071fe"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/374c25ce-b5e3-47ba-8fb7-91dc3011cf49.md",
+      "bytes": 2148,
+      "sha256": "77b00281025abe582b4576f5d5bc57f84c4839ab8b2b7cb126a080b2071658ff"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/37a67992-6b81-4a56-9b71-62f4db5f6797.md",
+      "bytes": 2635,
+      "sha256": "dd8a03944bfd4a057019895d0f7f29721760b0ecf09a13ef3d5e8bedfc8f0310"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/37e58de4-9501-4ed6-9afd-fb79d444d125.md",
+      "bytes": 2373,
+      "sha256": "8a7eee3c2354abd539b570819802fdd87275aae9d6635d9ae2af9d0b45baa946"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3a83afa1-9a4a-45b7-9c94-6fb1867f0063.md",
+      "bytes": 2487,
+      "sha256": "a0d2aafd895bf45581e13f367a8731ac7403fcd1cb59ab0d33084521921959cc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3bfd0d39-fbd9-410b-a0fa-eea927486009.md",
+      "bytes": 2461,
+      "sha256": "f09783e5fedd30b2d13d7237b78d9f6d421a4bbb347ef4136f3a7370c9943f5e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3cbe8ebe-4e5b-46f5-97d3-b17ce19aa3b9.md",
+      "bytes": 2615,
+      "sha256": "c941562e1608402a839cdddb7074fe45a907baaf0afaefc29194ffb47e1f2588"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3d34af1d-6cf6-46e6-b218-7fab5d1e2808.md",
+      "bytes": 2118,
+      "sha256": "c6466db8f96e1073ebe1ebfa5582812dc4c0812a73140ea57f041060fb3efe72"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3d6d9334-7d3e-49fc-98d2-0b4ae7aacaa9.md",
+      "bytes": 2430,
+      "sha256": "e7092de388b597e8b90a11769c0af133287a92a4e78e1f777cec0f20541bc71c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3e238acd-4e55-4168-a7f2-aa38b8b94038.md",
+      "bytes": 2318,
+      "sha256": "b1461a59d460a909cca3ff0a000f5c336b6df0297f0fcbfba68da49d9737155a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/3f590fa9-5607-4689-8ddf-c21952af554e.md",
+      "bytes": 2205,
+      "sha256": "64066f290bba75ef66c577fdd99e3a8b2bccf510a806964b65141a07ba07416c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/42a82b6d-b45b-42c7-9ab4-9d7e084041cd.md",
+      "bytes": 2185,
+      "sha256": "e7720f21045ca8b34f93e7b1eec94b03395243cc1e37d72ffffccb473f698a07"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/43146fdf-a110-4056-971d-c287016104f5.md",
+      "bytes": 2545,
+      "sha256": "e85a838a5bced9a6737fb0c3f4f20f0798116eabcd24c7b5940e773cf00ab652"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/431d645f-9deb-4bfd-8d6c-4e30385aec60.md",
+      "bytes": 2145,
+      "sha256": "4dea2b7906f721b1798895e2c5397ba79f2a817ed8020da146172174893c10de"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/43b1701d-6ab4-4eea-829f-fa1f3affc63c.md",
+      "bytes": 2951,
+      "sha256": "4d132ec14c4ab0bfd397f690fd03d0a171d308e69d1564848fcb62ebf624317d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/43f40d1f-0d52-4a7a-9c65-bb5be2ab5c01.md",
+      "bytes": 2427,
+      "sha256": "b5598f772c809aa58f564fd74c8e26752eb4bc0263a4d4ff17630113b438b452"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/44ee9dac-ba0e-423e-a330-d7b4e92fc83c.md",
+      "bytes": 2481,
+      "sha256": "4dbb06b1ab8cfd20e21a8ceeadc0cec6e3b51d726fa1a7758bb1fc64a9f0b8df"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/453b5103-a147-4ab3-a96c-7daa6264db65.md",
+      "bytes": 2171,
+      "sha256": "b52d026c8556fb0ac9f3402c157aa3a51951e6155fdd335c8a44f81a1b220bf1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/46211203-fc45-483b-9166-d746869925e7.md",
+      "bytes": 2392,
+      "sha256": "95d166a7c3b57fddf267e5d3ba37fd09908e58f219450b6bed7477bbbf70604b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/46232ee2-4408-458c-9540-7afc2f650ffe.md",
+      "bytes": 2670,
+      "sha256": "0b7456f7f094e6cf8d9fd8c2b8177da6302e6376ff8a996d9fe8666e5b864690"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/46982f1c-0fde-4ad0-9d6c-5093711cb982.md",
+      "bytes": 2779,
+      "sha256": "a5eeb1410e6e538c024eec91376ad2d667a5706daf8d474e2b1eba1179aa30df"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/472d8e74-3402-4871-88d2-0ebaeb3263eb.md",
+      "bytes": 2812,
+      "sha256": "97eccdf6e06b67fa3f62f8c507476b6d971952da6e80b8f2a6788e4098dec69c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4756bd96-47f1-4aae-a195-8df1a0e371ce.md",
+      "bytes": 2252,
+      "sha256": "833e0944d617b4aac6f785b4afd23c2b1aeca035b048a6db76822d8dc098ca8e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/476c18b1-9666-4f27-ad6b-b29156467146.md",
+      "bytes": 2338,
+      "sha256": "b191b6a201563f63946c17a0bdde8827682c27f82908663a739cd176ce79fd66"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/48225115-e431-42ce-bfa5-ab1caef5f4b6.md",
+      "bytes": 2678,
+      "sha256": "d7e1c370090c6143f3a03a46cea656710e0e282e2c51e9e79d94d1f310e4fafb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/48f69162-d84a-4743-843c-4f3578a6bc99.md",
+      "bytes": 2623,
+      "sha256": "e59d2a3bf6b3be25102f4c3d4f41ce34395ed67481752f50035f7179f04eb729"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/49a26e47-25c4-4981-a15d-ea2dcbbf32ca.md",
+      "bytes": 2363,
+      "sha256": "c6a5705882783c1d7decb576e736c415913d7f1bbb3fd5750da3cd57017df43c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4ae90be3-a838-4413-89af-0d1c9e7a8dbb.md",
+      "bytes": 2509,
+      "sha256": "327a5ea3c0a88098d21dc195e24d4df4ee9e1ab4bdcd252ba89964d8ab85bba4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4b08e5a2-4a7c-42b5-af0d-6339b6cd1a60.md",
+      "bytes": 2094,
+      "sha256": "eaaa9826d01cbdb7ca7c83a02f95bc9c42fe2387859e6e4e4c55108ba1576b5a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4b50e293-af0f-47bd-ba25-c31b0fb26214.md",
+      "bytes": 2258,
+      "sha256": "ba2761c4c229ce9f5d3fed50d07074fb489bf7258d35a22c5375d25ecf823b40"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4b8130d1-db2f-4c0b-bf8a-69f1989754a6.md",
+      "bytes": 2304,
+      "sha256": "7b32b6b11792f552fab6068d9b42c9c63d8ebecd93853eb8f2d34376cd43f707"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4bbe836a-904f-4f14-8eb6-3382204cb48d.md",
+      "bytes": 2532,
+      "sha256": "5a00cfa006bbdc6cb8930ea4431cbfa5cb7d3682b35e14cfba17b6f92e426eeb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4bf27438-49f1-4722-af6d-5391a7ef09cb.md",
+      "bytes": 1975,
+      "sha256": "17ab54236b6c1fd2cc701f14946b314d6ffe757ddcad200b7362183ac32137a5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4c982766-929e-4a32-bc33-6614f7ddfc78.md",
+      "bytes": 2578,
+      "sha256": "f473f01ae72c4e43927273dd794744722014c8b5b87e1a5e585d7e81be562462"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4e174673-a256-4767-b783-7e015e825e35.md",
+      "bytes": 2252,
+      "sha256": "af2a985064a2ee928b5932920dda1eb04049be0e2ff44b557b62130f209225d3"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4e1a71e7-388e-49ad-9752-866786639586.md",
+      "bytes": 2224,
+      "sha256": "2ef5db244ecd0479aa011fa4f804f59a81e6217d5c4f78c97ee15f36400fa173"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4ec43875-7e69-44e1-a4ab-6e4ad790ff48.md",
+      "bytes": 2329,
+      "sha256": "74b46426c1f979ebf17643d66c2e4a4d89aa437b70a937d9360b54afbab1dda4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4efdaeac-dee5-4834-aac8-54ee56b89830.md",
+      "bytes": 2174,
+      "sha256": "8fc82fc0dcffe36d72bfdc03842177be43a47b70db4f04b282e43d86f7e8bc62"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4f1b510f-fcdd-4011-8c44-223ccc7b1650.md",
+      "bytes": 2855,
+      "sha256": "eaf9446b5dfa69387c69cd91133529177ddab66cfe74f5b5454af32d3b51bb59"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/4fcf795f-20c7-439b-bed4-ce26fdb5f2f2.md",
+      "bytes": 2173,
+      "sha256": "2027d09875b8b72da4edbf2bd5b7b79043784c9edbe5750c89762ea652e56c51"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/515051f1-db97-4b38-99c7-3ff79eea6332.md",
+      "bytes": 2636,
+      "sha256": "baf2f9ee407c55c7b074874f44731318257a9414afabc5221f2c32eb65fcaf58"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/526eaa38-2299-40b2-a1b5-2c21bb6f40f0.md",
+      "bytes": 2217,
+      "sha256": "c008945d16b6b0cea64f81dce3231d76e30c19a2f87890a3a1c8220a0fbf72d7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/53540834-e5cc-4f76-8d1a-9cb84841acf2.md",
+      "bytes": 1996,
+      "sha256": "8e8949e89b6a3b3c5427eb6a4ec2f044c0645e046ab09d106e5d7c73e29538e3"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/53b5a953-da2d-45fa-8457-cf44ae51a7da.md",
+      "bytes": 2172,
+      "sha256": "d68a99346785183dc459f6265c5ba7feb309232fb3e98089c1f17d14dd0c6e7d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/5424ce59-8b4f-4c31-a8b9-22c9fdedeb4c.md",
+      "bytes": 2380,
+      "sha256": "94a7a59cf5dc2cd061c479c8c9284e041c7ba0231ec06d7685b275fa1db75393"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/544cbaff-3801-42a7-a9f2-72f4c4ea5e73.md",
+      "bytes": 2443,
+      "sha256": "926b3ab1e9f61e21bb26077bb20c2b183b857b3afb1fdcf8dc8e0e2b2b36be80"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/54789ffd-acce-49b9-afb2-7873981bf0df.md",
+      "bytes": 2398,
+      "sha256": "0e712aa6d3ce2ecb04e9dc43d940c7492df908f39504766957d1f90feb04b05e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/56035ae2-6096-4bc5-9085-93895e434294.md",
+      "bytes": 2717,
+      "sha256": "2ccc250589ca4dce47a1fbd3484efa5ede8ed1b6abc757b9fd62dd49b8a5982c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/56cdec0f-e196-49bd-aa26-e02440f70885.md",
+      "bytes": 2745,
+      "sha256": "25692dd78838d4ba223000bef7c27868f13e299415a8c47a330429413f60b19a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/5712bb2a-18cb-4b6c-8b3d-7a5d0138de2a.md",
+      "bytes": 2708,
+      "sha256": "216b26a0aba31a999cdf299b7301a81a10a3ef8fd9f7f073b3213128b144df12"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/573cbe59-7f9b-4cc0-93dc-8c8499df912e.md",
+      "bytes": 2525,
+      "sha256": "98320b835948637542f857641d22d8b26dae15b3bc7e867113b96245ca9f1d88"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/59a08397-d4b4-4b33-9d38-e83d81329279.md",
+      "bytes": 2534,
+      "sha256": "a38074820cedd5ced14747f1fae8c1bf83caed766eeaf8dd95763e86769722f7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/59aa3f99-cc36-41f3-8c21-fdaadd2f8d85.md",
+      "bytes": 2671,
+      "sha256": "7c8bd37403123701ddfb4f0478ee2174d33d119be32be4c1eed985c64669080f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/5b241cac-ce93-4045-a7ad-58a981dd98e9.md",
+      "bytes": 2272,
+      "sha256": "1ed3ba41c99046dc6b0aef860d622d5f720611cabc916ddb36e281561443704f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/5be8c6d3-8b54-4c7f-a93d-30bf04d3f968.md",
+      "bytes": 2472,
+      "sha256": "2faff0f9a2b3b13cef47d2f28a11a67cb782770037477c1203133b23d52c1364"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/5cf5d1a0-1cb8-4826-864a-b75832d4b486.md",
+      "bytes": 2641,
+      "sha256": "3d91280a0b5f3dc2645e2afefdbb4bab3ccfaf74de4fdc8a77b9a41842e8dc4c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/5f6aa41f-9467-425a-80ad-0b62264c8769.md",
+      "bytes": 2202,
+      "sha256": "4a5d5aa290667d96afa98aa45a52357119caa38135c744b333a55bd18d089c23"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/604ec123-3bb9-4808-a56c-38270532352a.md",
+      "bytes": 2265,
+      "sha256": "800684a70a573170e0b920b35a139d758068deb5a2f1d2597ae51b54cd31a573"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6199b321-db36-420b-8bd0-e847133387d0.md",
+      "bytes": 2388,
+      "sha256": "a7b9e2abeeeabcbe19e146d8012aba30d4097f9bfaa1414498854596e3f29b3d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6253ba22-f037-419d-95e5-8d6b921e885f.md",
+      "bytes": 2575,
+      "sha256": "37f5ce3d550b54b304d29ab68082742cbe42eb850525bf0a5ac6f27bb22daa6e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/62b392da-9ed2-4d75-9fcf-c1a7dd5f3de5.md",
+      "bytes": 2422,
+      "sha256": "80af1f1239222827499cc4f388f33f9f2c8566c4896ddd387e266580a7a02f3b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/646406cf-7b11-45ec-896e-90bf3578c8c3.md",
+      "bytes": 2460,
+      "sha256": "1d797997c66ca90c4180fa0e9ccd84dcfe1b4bb1d835b467d54733ef7f7bae72"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/670035e4-6834-46f9-be38-385231351096.md",
+      "bytes": 2360,
+      "sha256": "59847688209986dc1acef422c6d1b1476441365ebf251e51a7582b51971cab5d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/68cfdcde-f00d-46b7-8bd7-9b1c871d5533.md",
+      "bytes": 2132,
+      "sha256": "b0ee8483019d2cbf41f6dba9683dd4668ec0cba68bf14bd07ddf7e2b5fe3e3d5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/68fc0a50-82fa-4c0d-a355-eb6b951680f4.md",
+      "bytes": 2198,
+      "sha256": "134e0de46b0620d162ef951a5d6493e2e0c6796d8fa2e171606a183b6fc0e04c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/696243c7-283a-4693-bc10-daeca1c88b74.md",
+      "bytes": 2015,
+      "sha256": "f6c2d89a23137ad65d7ecea29233f6d2a234e052c1cbbe617456e68e3cb375a8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/69bf0781-44b0-42b7-8ed0-92e70f4873fa.md",
+      "bytes": 2334,
+      "sha256": "ef3825ec023783dec5a7c3277c6fe7198864610a23f8fc4aea2aff04094ad2ad"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6a687c41-5be0-45f2-92de-78da77df98f2.md",
+      "bytes": 2325,
+      "sha256": "4c0d82cee009104ec6026c7aa2b51bfe904e2a76f02e045a7eabb16051217db8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6a9dca9f-10bd-431f-a42a-26de3a3ff4b4.md",
+      "bytes": 2510,
+      "sha256": "c74601a5cde0684e8270de610ffb02cf53879677846c92d7c68189dcaa12c6f4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6b90667d-d6c3-48af-97af-de027f1e5b13.md",
+      "bytes": 2170,
+      "sha256": "892c7e18c1df1ee4da5103d927503773e1afde6c19f686f618e69ee3a0c0cae8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6c78ae1a-2fea-4c86-93c0-ba855ce43c24.md",
+      "bytes": 2375,
+      "sha256": "f3d15c94776df6a59d7bb6ca8f2e5a94ee37b69e48adaf3bdadc85aa662a8bed"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6d497a83-d4cd-45ee-bfa4-e53a246763b8.md",
+      "bytes": 2195,
+      "sha256": "27ed44e005c2a58f7494b6b176c52b45964459552f2cb34468cdaa7970f0fcb0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6df53e11-ff76-47bc-a3d3-8d51df0c16b0.md",
+      "bytes": 2793,
+      "sha256": "cc786003c941e9ccc819de10132faeec31f975aa3683ad18ee883bf714b656a4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6f6d9aaf-7dd5-4a65-a501-b0a5d395be5e.md",
+      "bytes": 2288,
+      "sha256": "7f54560dd731a1a0b3aff6a8f1636dc76cf649c45332bd00c95e28a18971372e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6fc60eb1-e90f-49e5-9664-aa44fcea49ad.md",
+      "bytes": 2179,
+      "sha256": "f7559a167f7f094168006cda14032698198601ffc8839133e5de221df2276f15"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/6ff1175e-ec26-4765-a5be-45e6667ee21f.md",
+      "bytes": 2350,
+      "sha256": "4ac91d73e274c71c7b612f1cc4fe65f1c173199f9c367dc648881628cf956aae"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7091e147-d59e-4eac-9648-65ff3bd2084d.md",
+      "bytes": 2359,
+      "sha256": "3bd7d632412a4fbddd970278518366e7c856afcfdd14a594d1eb89ddd036ae2c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7121f882-ad4a-449e-b05c-b470ce6d3d87.md",
+      "bytes": 2395,
+      "sha256": "5681e3af746d3d976b0c8221e274b2573f7cea6097420f6efdd3c24216b641cc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/71621b53-ef31-45c4-a87d-dfb3346d1a94.md",
+      "bytes": 2651,
+      "sha256": "10a3fe012fa16ef0169f05bea7a3a586edc374fb8a7771fea3a502b763511247"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/71df97e1-a698-4e73-a357-ae7903433914.md",
+      "bytes": 2519,
+      "sha256": "91ca3c88a1ab97003b809920dcb851d8a0352d595c68aae904c7ad1c975d7c55"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/72976919-4312-41e6-b201-4603035f4a57.md",
+      "bytes": 2265,
+      "sha256": "66b17a5c491564d3fa1eabd2bc55d323c559c9462bce1fdbd1c09c59f1fd4cef"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/74f042dc-508e-4206-a936-f3c7098da6cc.md",
+      "bytes": 2313,
+      "sha256": "d76d516fd96f5f6b45ba7c99190867c15cda35cbb0d6e6439f52cc0401a4c2e1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/756748fd-1204-45b1-91bf-a498cf9f9bd2.md",
+      "bytes": 3029,
+      "sha256": "7e109f9b96a35f052f58d2cc52c2f378acef52a53b72aa04e2faf4c4bd418d6f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/757b1160-8c11-4f5b-9bd4-4651b31bab2b.md",
+      "bytes": 2863,
+      "sha256": "b9a1823f2b504f5909f7d9e063165978075ef6a540840a5dc68eb45738b5d4c8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/75af3c97-c8b3-4a51-9773-05df4c838565.md",
+      "bytes": 2413,
+      "sha256": "5494730bf97cb8921a17a0d732e90bca7794053182ddb8c35b47d593a8501416"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/76559113-a4ac-436a-b50a-28c7d282cca4.md",
+      "bytes": 2657,
+      "sha256": "25209fc02bb1feb2500e414c679e4b05394581193b0ad4740849fe40c814abad"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7656f83f-df7c-4a3f-93e6-84c7a1358cf9.md",
+      "bytes": 2045,
+      "sha256": "7a1365c2770f96814149198db72c4c72f0cab84d39e343f0f76b35fc4723df18"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7bfe5496-318f-4e42-8fee-a0f1c8394caf.md",
+      "bytes": 2120,
+      "sha256": "8f9d49a1165861272cccca3867a87d09de32aeeb6d51a691a51933d732d469da"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7c3e3a18-7515-47f2-bc42-54af1aa8ac04.md",
+      "bytes": 2300,
+      "sha256": "5f1336c4bad694abcc8ea5d26c9b86fbead522c84f611bf9518196d88c32fb8b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7ca7574c-ad26-4b02-9e3d-c593eb71e6e9.md",
+      "bytes": 2366,
+      "sha256": "33e1262be698f403c221b5940a0764eb5a6974e2e979aa145b849c428ade0e17"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7d8c0dbd-f448-4e8c-92d4-31ef2d1676d0.md",
+      "bytes": 2378,
+      "sha256": "278ef3ad0754adf129077b494285f4d4f1d299c99d96172556ea7788f4c670f9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/7e919233-e34f-44f5-83fe-82db49d61d66.md",
+      "bytes": 2408,
+      "sha256": "62464a5f69780d7feae3a39e30fba79badbb00c4da22e4bb1630e14f5892781d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/80ade8cf-2198-4c91-be7f-867cdf855b8d.md",
+      "bytes": 2237,
+      "sha256": "0310b5ab15e1885c4589a9bf033c5cc859031b209eb3d1a1233a5d6b236af7a6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/84fea35b-c5c6-4ae3-999b-1cea1b3a6d96.md",
+      "bytes": 2512,
+      "sha256": "f2dcbe57490a8802b8d2c072e751f2b55d10e9228b2bc66c96a65b0761e9e7ca"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8536fc5f-3046-4a7b-b8af-a3c1b57891fd.md",
+      "bytes": 2352,
+      "sha256": "050110466acc9f0fa2cb7703703edb341a833c0bdc08f28bf35ccb996034605b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/85f5bf24-105e-4675-abce-a689741f123a.md",
+      "bytes": 2605,
+      "sha256": "33ed61f37addcce2d5630c7ca7251139a374990d9fca356b06fcbb55df04b066"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8628d447-78f5-4fa2-b438-b240dc816a64.md",
+      "bytes": 2768,
+      "sha256": "459682e08299a28ef999f2dc5ba266ab8648fab14c579fa85fa2017cf36cfa32"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8632fdd4-23c8-4700-9888-e9d8da14839e.md",
+      "bytes": 2542,
+      "sha256": "db1ff49de9042859070f28b8c37a0af463caa087555eb811b37a61b369810d6c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/86849b9b-5690-4484-b490-c26b186bc7b0.md",
+      "bytes": 2450,
+      "sha256": "3c2dedca893ec09b96b48709bf35149791a26bed0bebdbe1efb7c602654346a0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/86a28216-f389-4eb3-be1e-934587862b3b.md",
+      "bytes": 2063,
+      "sha256": "b809bb427d1b685a0bc9baca5168c16c549be543f6b9e1769860a69cdc24dc2e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/86a775c7-75a3-479b-a2fc-fbc3e1997c00.md",
+      "bytes": 2425,
+      "sha256": "871bd1d6e6313ba4dd3ba9714630218de167d9f360c28ea8076048ff027fb90b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/87016574-611a-496e-9242-e8ad654931a5.md",
+      "bytes": 2348,
+      "sha256": "3220a0bfc72223aa604ad69697504bb2902bec3f59bc755348ab910342151931"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/89307685-a105-4495-847c-99fbbcc05d62.md",
+      "bytes": 2271,
+      "sha256": "c1307b4d20218a022a1198f465b3b00be2bdfbdb4264720621f4ae8d0992be35"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8b11c55d-c853-4773-be8d-acd872ca08c1.md",
+      "bytes": 2347,
+      "sha256": "02c1cd56a462db66f15259f8d556dab36d46b6249b96a89f09b4e8f79a95e7f4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8b6172ef-90dc-4f88-ae56-53e7fbfbfff6.md",
+      "bytes": 2390,
+      "sha256": "f4a81c45604603cfdccf8226d6078f6fb39123c34cbeaa7fcb0c119bfbed111a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8ba7337a-1f7a-4eb9-96aa-33af8c13baca.md",
+      "bytes": 2313,
+      "sha256": "e7f646a0d2036f58018c858d62f502548f706f48b794d9ca3e39113819e08da0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8bbe05e3-48a7-460c-b1f8-c2c18fda60da.md",
+      "bytes": 2803,
+      "sha256": "143557c6c2f0b94ede68e7050fb9068fb039a7e7001f2b6fe461f2d5cb874871"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8bccebf6-5cfc-4098-b0d1-461a16577111.md",
+      "bytes": 2426,
+      "sha256": "d283fb4da99a72fc10886ddbbe18abe82ef20e2fb492af151642c498fbe69f3f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8c7522c9-2e56-4ea5-bfd0-4bbd6e814973.md",
+      "bytes": 1881,
+      "sha256": "51a434e2aad710ccfe732339c7b51304170c8542b5650da7f32d2642d532ffac"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8c9fd992-4145-4143-8e29-960586de64ed.md",
+      "bytes": 2102,
+      "sha256": "db86748244ab8e3272ee38d75e9a122d9220b95cbc0a0655c1505c0d2bb06f22"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8d0c2e9c-ebbf-4a19-aeef-d0186d0d948b.md",
+      "bytes": 2474,
+      "sha256": "9fe72f35ba9a76fa9c41c2e3cbfadf4db8b7edcd933e56a62760868522fdef86"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8d0dcb7e-325c-476d-93e1-b2d796219f88.md",
+      "bytes": 2271,
+      "sha256": "dd50b3ab4361ce4d7b55481087eaa75c0c6e864b10f4a908a90f76943c45f23e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8d6cbee0-ac9f-4208-8ffb-d35ee21fdccb.md",
+      "bytes": 2657,
+      "sha256": "01366d1dc0db84041c215ed940c45551adb22d247fe25b476028e53cc68cad1f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8e812655-6974-4ecc-9df5-c731354eb616.md",
+      "bytes": 2094,
+      "sha256": "3b1d009260e80f355c03e05e9c5020394da35a7bd0ff516c2167a36c1d34cfdf"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/8eccaa2d-152c-4761-ade5-616e605e80e9.md",
+      "bytes": 1882,
+      "sha256": "50f10d6de1826db2f447c416e7887cca06aa047dbdbbdace52dd1242099fb51f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/915791db-c5a1-4c02-ad04-d0c8a4b0211f.md",
+      "bytes": 2437,
+      "sha256": "79bdf79fe1f4534a25913a1b82c476d839e54e18532bc78fbca99ad27999cc5d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/91b444b7-87b2-4542-b8fa-e1a9eff1b11b.md",
+      "bytes": 2449,
+      "sha256": "757b693f0b1e70ed3706761694ff011118e600464eb58fd2c52272f19446ff08"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/92480517-6fe6-4d85-9507-1b0f6555d787.md",
+      "bytes": 2104,
+      "sha256": "7908ab7e09d8029ad871dcc9b96730fef85620ebb58df6faf1100e48ff5c5bfe"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9287b780-d339-4f5c-ba86-b0952e64ef8d.md",
+      "bytes": 2474,
+      "sha256": "23cc37e73d27a9a2678354fa59330be0eb2a4058a653682d1a7d0146a833fece"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/939ce460-adb7-4689-b04e-fa6047635af5.md",
+      "bytes": 2775,
+      "sha256": "2aae53d7db2c125387dac5b108cc89ae50d5cb618ee9fa5ba44756c70cdb7b3a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/955bbc7a-0f8c-461c-9a42-fd07840d04a0.md",
+      "bytes": 2559,
+      "sha256": "f6523565f389502af8b0367336d522d8e2e39ef165a6a0a969ce33e55c4965a1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/96b54729-94ae-4307-9f05-964c727bdbe0.md",
+      "bytes": 2176,
+      "sha256": "ef8dbf3684dccc28ddb1ca2023a1b7cae139a42766359694a7e258d51af6be14"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/97cf47cb-207b-462d-b0ec-6770b986d4af.md",
+      "bytes": 2187,
+      "sha256": "d06211571f85f6c97e7ef4dd7e7cbc39d2e0cd08b2902799b504ae53967d1080"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/98cd18f1-eae5-4664-9e8f-bb014e997231.md",
+      "bytes": 2416,
+      "sha256": "51be3fae1f834321d311d4113df47024b2052cba9be4eb42a2854b80ae805b4c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/98f10d9f-bf23-418f-b4bb-370a640aef33.md",
+      "bytes": 2594,
+      "sha256": "cb63a9e121aaee30b1f380496401c72b6f7c2b4a35198ab3e2c714db17b56aca"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9ae59d83-9f2c-49d9-b863-c9ad0db4a32d.md",
+      "bytes": 1992,
+      "sha256": "6bebe35781e1619718501ad17453d2016fadf41b532d4c397bc2100eaf11f029"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9bed00ee-586b-4d24-9e75-8868368fa8fb.md",
+      "bytes": 2599,
+      "sha256": "fdbfecac74c14754d50ca0434b718714f9c8002f0dfce55ea351109fea6e3f16"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9c8d24db-75e1-4d42-b405-796c5bc19cad.md",
+      "bytes": 2580,
+      "sha256": "5b7158c1cc520653227290bd3996dead4291eed74a7af00e38a9b75f21b70a0a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9c9f1367-ad18-406e-984e-135fe52c8e29.md",
+      "bytes": 2592,
+      "sha256": "297aa7f2fd773bb7254cfd9c30a5b0923470d7424a6cb64952b7530bcb9ab1f0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9db093ea-ff03-4325-ae88-01b4da66993a.md",
+      "bytes": 2569,
+      "sha256": "80ce9058c5cf353150dafdefea4795875df369012bbced624d9cbf8690ceee9f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/9e97d25a-7b79-4dbf-8a8c-71b4eb23d0b6.md",
+      "bytes": 2860,
+      "sha256": "d1d22e7789f315a06c81cab0cb3cf2afebab36dd56bec89213ec7210ad932150"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a1080e38-8886-410a-aa3d-42654019dcb2.md",
+      "bytes": 2363,
+      "sha256": "60641fd1da4ee1d120a7c80f076df7ed812af1d7b181c4c01129d28c2ced582c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a248d5e1-d0eb-459c-a8d3-215b20c70499.md",
+      "bytes": 2329,
+      "sha256": "f8f9b6d08f242c2d3865f92449316d7d4f5a9cbcc13064c150f3c725dd0392e4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a33f0b1d-5508-4db1-bd53-e24a3d9fb9b3.md",
+      "bytes": 2730,
+      "sha256": "ef1367e25bcf9fef92e2181d0e0b5085a4a859d78d900bbf37ae70a0e9d518a8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a3d3e133-028a-408c-b85a-84031b302681.md",
+      "bytes": 2229,
+      "sha256": "8cfbefe09cd7c76e1b3841c226542b4846028d10083e6a36af5eee4af0f62898"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a41f058b-befa-41d2-98b2-cd0c1a2424ef.md",
+      "bytes": 2706,
+      "sha256": "4848de849749942a5649ee1873775101fcbfc068f58be1eb30bfaa0be23111cc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a4473ccb-cde7-4f76-a1a6-c5c81abbfcb8.md",
+      "bytes": 2124,
+      "sha256": "88569f7a5937aca6359e2c1136990d998009df67320f680244d8bfb82b3048ce"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a52f7918-1f56-4b2b-b6b7-77d49b472c0f.md",
+      "bytes": 2288,
+      "sha256": "2c39184510a4b1968c8e14972f2928fd41568c90efeb915047957ddee67045cd"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a57dbd46-a486-4e5a-b5f4-1545cb1f79e6.md",
+      "bytes": 2309,
+      "sha256": "bd34abe48f693cd8765f7210c88c3488e4c1a3c3d3ffa5b301c40f908918d935"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a68280f1-4b1b-4164-a9e4-21d2b7b3001b.md",
+      "bytes": 2307,
+      "sha256": "dc24f600e465b83809685673fd3d435673b31cda2aa1096fdde0204e6424534c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a74175b5-fcbf-49a0-a677-65f855a83d4d.md",
+      "bytes": 2619,
+      "sha256": "89d864991b91802f39923ab8823fa6757a41369053b893ad1c66c5a2b97484df"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a7739325-a1a7-4818-be27-86715ca39727.md",
+      "bytes": 2794,
+      "sha256": "cb32f28c70449b26b1f159258772dc1c571cfad783faa0655717d061537e4f2c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a7839a6c-8bae-4307-a9b0-e99a3aa4c891.md",
+      "bytes": 2139,
+      "sha256": "7b6549f6c18a1f168362952c51bd22db15f923d6b00b6414728e833045e03ee3"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a86b10f5-f1cf-46af-a3c8-79fbd11f1c39.md",
+      "bytes": 2461,
+      "sha256": "fefbead7b791e542e79891e0c331bf69f22c25f323f351a10fcfec37d83b1eb1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a93ec23a-eb76-466a-a8a7-fbcdb46ee647.md",
+      "bytes": 2451,
+      "sha256": "61c0dc636c8d7a9d757fda0383b93f6f63d900d259717fac257cbe759fc4ec4b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a95a9b85-2cc7-4216-9df5-74dc6dbd88b3.md",
+      "bytes": 2158,
+      "sha256": "31000d805015ee8cb725aa2900d32e6d7bda32ccb013bc3900ce887c1260a9a9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/a9fc601e-4ce6-4a82-b2a0-13406c1e14cc.md",
+      "bytes": 2176,
+      "sha256": "87efc227a94beab7f31988e747c24da1a2682146e64ce9a82f9e0e23e1b3176d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/aaf32411-71c9-438d-959b-30ee392a0319.md",
+      "bytes": 2384,
+      "sha256": "15f22faffb6f56ece32855ff32a6a6baf493fd2529c903151c867c1cf8d489fd"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ab363eaf-7557-4ffc-90bf-61fe21d1eaef.md",
+      "bytes": 2139,
+      "sha256": "16e92714f215ca2d019fc7089dc066495b3f7ef1d710c2ec1c964e264f84886d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/aba9eb41-2ee6-4954-b183-954de3867b0a.md",
+      "bytes": 2730,
+      "sha256": "8182b4ab434bd5ea7705afd120c03e9fc64583ba73d403869baacbd0df5ee65e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/aca90205-c6ad-49c1-aebd-0a8eac9db9f8.md",
+      "bytes": 2802,
+      "sha256": "2e47a9b6677e6c2c1e9fbaad07936707933867fa3d341b255377bdb41b6a9d0f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/acd7c263-2edd-41ca-94d7-766f14b3d784.md",
+      "bytes": 2825,
+      "sha256": "236c79e966743a1e07d2c34e0569469c5e9ec675b9125192e3e1a7b64ee6dcf6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ace6f8ff-a674-41f1-a084-e39f03d9f1f0.md",
+      "bytes": 2304,
+      "sha256": "911e4ce001f0f376716ec4575b2c09c82e63895f57542d07983f96b4ecc34528"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/aeb181af-3ba3-43e0-a5c0-1c1be6428b47.md",
+      "bytes": 2292,
+      "sha256": "36a9aae3e29916b9e5775503af4e0ecfde21a8d46d1ba1b852d5d0573b7c8d3d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/af3bc626-5057-44fa-a70c-8cb1544e5c79.md",
+      "bytes": 2154,
+      "sha256": "ff950b294e9d125f6838beacf16a480771e3c179293666cb219ef825d9ae036a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b14d7115-1a6a-404f-a3e6-fc7b3b477749.md",
+      "bytes": 1920,
+      "sha256": "695477157b917859a65140950cf3e73f6f129eacf4c2beef1c3f88fa864131fc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b2793d1b-4fd8-40a0-925f-160e71b76136.md",
+      "bytes": 2286,
+      "sha256": "eba5cdfe14ce5c9212109d94115ff548e2a382bd6d76c0275594068672ad186c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b48df0ed-b989-4b5e-8fbb-c683221c2329.md",
+      "bytes": 2212,
+      "sha256": "ccfc674fa15d997f55d130760d13393ecffa0c92b09c56d420b2a82a6f9e0a81"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b4b4965f-32e8-499c-9a67-1fbd54ad622c.md",
+      "bytes": 2643,
+      "sha256": "8b467f0bf777671374c999644a255f0197859d033a66b7a35815f51089da847d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b4cca00f-167a-4e8b-add1-aa375c018186.md",
+      "bytes": 2249,
+      "sha256": "73885c7a17a284630dc4e0b19778830328d5dde0b89ab1c067596e6731513280"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b576fddc-129d-4ce1-8c71-15e515b7f551.md",
+      "bytes": 2385,
+      "sha256": "1a98cbd37a9a92f1988a2b1b9636e99a8720cb3ce21eeca989f852faa16774bc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b5aef394-1ef9-4eeb-9b1d-996153a2072f.md",
+      "bytes": 2525,
+      "sha256": "30c24634b678667860dae1de0d222cd12b6f0953af2cc0405e764136d09ea41a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b5c7c4d7-f52a-45fa-b171-fe42d0ef0527.md",
+      "bytes": 2523,
+      "sha256": "9c75a34bf98ba33b9e3cf787d4a3e6b042344ee5748b1afb93d2e72fe2252bd7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b64a7c3b-9911-469b-af7e-e9ba376dbfdd.md",
+      "bytes": 1999,
+      "sha256": "85902652c94cb6cf3d87c8eb316f415a1a776e5b0cfa895522b96548aa02d042"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b67735ec-320d-4c6c-ac74-8feaa4ea7dc0.md",
+      "bytes": 2674,
+      "sha256": "5663e5c0258df6bf75e9b217aa069c8283be176d22f9ded1793de7a941371d6a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b6c1a4d1-0484-458b-978b-4e87e89a86b6.md",
+      "bytes": 2943,
+      "sha256": "8cc2d8bad786b5d1d6f03eec1c635dfd262f89991b8feffc5816ad8f0d88dd14"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b70784ff-0c48-4232-812a-69370294f0c2.md",
+      "bytes": 2468,
+      "sha256": "1552e964a49d8ebcd1255d6d726f2b66b5b788b381c01396272b2c29cebfab19"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b70e661e-4dae-45be-913d-a46ad2fe147e.md",
+      "bytes": 2572,
+      "sha256": "90e7bdfccec50819efde7f3803eaa42f6fe8099019a24f0dd16ee1a4d0f4a74e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b7d7ffcb-e693-4383-bb62-a818ba437b7e.md",
+      "bytes": 1998,
+      "sha256": "737ec285c8415a964291e35a14e26ba9629d10bf12419a6af970d73ce14b029a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b8348fcf-9c79-422d-a88c-feac58b9abc3.md",
+      "bytes": 2307,
+      "sha256": "82fcb1664f50eae69abc3ad5dfc2b1d6e8f00dd76b5b67a4191e9c973dd9bf72"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b862cbba-5551-46c9-ad09-12515bc68d11.md",
+      "bytes": 2254,
+      "sha256": "21a2f858b25ba41fa550c2f08e56e3f6aed57a818ddbcd71af7ceaef0a4ca834"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b8e647bf-63c0-4663-bf13-ecd577c4d60f.md",
+      "bytes": 2363,
+      "sha256": "9d89c2216b79c3656e4a9aa4e246cd81b922c3a0ca0b5065eb0936f605df8dc6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b8ed006d-9b8d-4f30-8c5a-cde93aefb005.md",
+      "bytes": 2411,
+      "sha256": "39904a97bc98f456a09dc56d00594ecfa96c220f8e08da0fd07ab10b1dd88dcc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b9848392-da33-4115-b2b9-bd58fb905ffd.md",
+      "bytes": 2159,
+      "sha256": "9c1b2b0a7b79e0b8e5e2d1d3f25b8ed2977a5ff1457bef79cb04b756cd171e29"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/b9a492bc-4c2d-45c5-a35e-3c6626c5f57e.md",
+      "bytes": 2249,
+      "sha256": "dd34d050327a2927113db843808943aa6c29aeec869f8ba65829cb602320dafa"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/bb4f6637-763a-4e8a-a7cb-48fe542803da.md",
+      "bytes": 2328,
+      "sha256": "d23a430e1efad861c8c3612cda1f7568f1bf836b874a645bce172642588b9af1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/bd65437b-c915-4e14-a787-2ea80902e2fc.md",
+      "bytes": 2106,
+      "sha256": "6613e566061989fe551b60737e50cfb56024b375c1556d5247aad4ea5cdeedef"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/bd6efd59-c829-48c6-8aa1-d94fd8c5f28e.md",
+      "bytes": 2688,
+      "sha256": "bdc6f3f9624ca3151d39e5fbaef625c4e403ea21042b373a01d8c1df549088d5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/be468b05-3e0c-4d53-9c5d-48309d236c5a.md",
+      "bytes": 2069,
+      "sha256": "d5c02fe5224ea56e16f9b3af95b5f5b886de902d40cb4298047d5d9ee4eadd99"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/be8054b8-71ca-4684-92d6-dfad87556169.md",
+      "bytes": 2247,
+      "sha256": "0d53e2a49694d8e6767dd15523707f1b0fb5919364b947fde5c5aed63ebb593a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/bff5e756-4cc4-42c4-9469-600ebfe351c9.md",
+      "bytes": 2428,
+      "sha256": "3e5d44c0fe90f13e413815fdb816caee987902b1e73fce725495f10bc77ac625"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c04f9ed8-3a51-4f1f-aa98-b67f549b6b15.md",
+      "bytes": 2641,
+      "sha256": "8b5f7076a7aaacb8a015069aeff1d5bc6b583b7fddd49c7d27f6833b57a4722b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c0812372-197d-45eb-a16f-a50d086fbb17.md",
+      "bytes": 1920,
+      "sha256": "bc6b84ecae9150bd8664a46e15738dca860609da7192bc889b476f18292663a1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c174626f-4a19-4403-af33-6dcf0d290294.md",
+      "bytes": 1945,
+      "sha256": "c9da7fb81610f46a3fb08ada375b8ec8517ba180cf647a29115260e695cb22fc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c2fca831-79dc-4abe-a058-acee304a05d0.md",
+      "bytes": 2345,
+      "sha256": "88ab356bf757819b1edb64a8abbfb2495182097292060335cbc78197f28eaf10"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c4530fd9-f439-456b-941c-ca653f1e7fb2.md",
+      "bytes": 2649,
+      "sha256": "04e73f61416f4947dc43fd52006f267a17aa82cb86229269fd4ed64baf1b248f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c52648f2-ab54-4aba-bb30-e44d1a7831ef.md",
+      "bytes": 2418,
+      "sha256": "483bb6e5ef719652557a212dcf0fdf930b9fac8d86db3bc1beb1c37478a6632d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c565e074-7605-493c-ba93-119058ccca69.md",
+      "bytes": 2366,
+      "sha256": "be28a04a7957793c74192a7ed8dfc924e838c93b5606d3dd0a02c4d97a641b31"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c5ae80c5-a23b-4e15-80a1-5b2aa1de431b.md",
+      "bytes": 2900,
+      "sha256": "3d3f25c3eba35520a25114aac1689e98839d1f4d57658ac6757d757ec37e5814"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c64157c2-1aa1-4a23-85ce-007980b079e0.md",
+      "bytes": 2413,
+      "sha256": "b18e9459043c2d8a25b211478aec8006994d2e6bf91a12501c16c0cf2a31da5d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c643912e-9de1-46e8-b223-21777176e1bd.md",
+      "bytes": 1974,
+      "sha256": "5cb1ab06072f21de66c34e230803df0f0edf009814f49a33656ad7b5ecdbbdc2"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c742dc4d-a138-4388-961e-d233b1d2cc5b.md",
+      "bytes": 2872,
+      "sha256": "7ad9ffa2765cbf7f074cfe0c839d558e67c4188f4607bcaaf4dbc364dbbed454"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c75be9f7-fa9e-44b7-8f91-1c065a057e3a.md",
+      "bytes": 2328,
+      "sha256": "f4797603037817c881a90d72c89409622090c94efb94e9a6416e8e0f027f15bb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c7bf5534-c5fb-4bc0-a6f8-549ac4b3aafc.md",
+      "bytes": 2504,
+      "sha256": "90a2e6abb20f1f625d13202a6b95572d58f3fb308023879a55b1c7d0b46790b6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/c9448d96-2300-4c06-852b-6283e0edf81c.md",
+      "bytes": 2628,
+      "sha256": "0e8c842414a2d78c432aec65f578be57296a50fce73085f187d7d4a098c973dc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cbc8a41b-61ef-40ea-b07a-d22367625d07.md",
+      "bytes": 2601,
+      "sha256": "3485c82df01b45a82d3c1c68c71f74dda97218ae7ed595ebd3a5204b647c3f18"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cc20d81e-40c2-437d-99d5-680282e316d6.md",
+      "bytes": 2126,
+      "sha256": "3b86223031c0303b52796fda2f596c09bb95a77563b2e9089224d5fa0850780b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cd799532-62ff-4f7a-9853-fa83a5fc6dc1.md",
+      "bytes": 2340,
+      "sha256": "89bcfe19325c912e8aa7addfad862ac5545cd23da57079360618e0908600514b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cd9b383b-e1d2-49be-a0d3-e5619543e97b.md",
+      "bytes": 2783,
+      "sha256": "818ec86ce20d0f8fb1458f8ea7bdb8a5e5284869a90dd3738e8cdc6b574cc6a7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cdc74548-ef67-4eb0-af8a-90780a03cae6.md",
+      "bytes": 2104,
+      "sha256": "608478dd75dd04b3f27f3e45d7afb3a66377c0b89ad021737b97903878debb39"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cec68316-200d-40a4-ba00-01b3bfea9f08.md",
+      "bytes": 2253,
+      "sha256": "ae2a68ea23941ce9d32ca9160ab927b58616487d030ff22bdac649890f272f60"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cee6e606-751f-465f-aa28-1a3ffac4e312.md",
+      "bytes": 2541,
+      "sha256": "cacfa99cff9f86e8a9ace0391f70ffd4982ec168223c5a616b96b05a7c311393"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cf32d928-86d3-4cd9-a835-de753e88cda1.md",
+      "bytes": 2633,
+      "sha256": "c6e30a9386ca2f66d5b1e0b1b151539404ecb58e4d76b443001eadda8c560e1e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cfb5e67a-a4bc-4e68-b561-8d4cbd3ad167.md",
+      "bytes": 2872,
+      "sha256": "eb3a35c6b2e26d5c5031d422c954a8efd1b09a27fd952d933bef3d637f4fb817"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/cfd44ed8-335d-4f73-a7dc-ff33f0af9977.md",
+      "bytes": 2535,
+      "sha256": "7f12edafd380b483e924a0b7e7d8c14b6c9973c0cf5b017745e1a3471397a8c6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d0fecd7d-b374-4622-a4ca-a66c14119868.md",
+      "bytes": 2758,
+      "sha256": "b73b96f1273863092dd8db86bde677a14cff2e83b2381cf4e8b2e658497ed33c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d352e628-375e-4cf0-8870-1aee1c9f860d.md",
+      "bytes": 2525,
+      "sha256": "61bc704c9467852b904295b54ee140d0d4622abc4006ca1a8a717165cd39aca8"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d3d0d087-3961-48a3-94e8-ee3de21a05fc.md",
+      "bytes": 2759,
+      "sha256": "3b93748a4b8fd3bd5829f024e60b5ac98a52b04c8a40b9f621034f47639f135d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d3f10113-63e7-4e14-bf38-1c1def628834.md",
+      "bytes": 2199,
+      "sha256": "a1ccc5b4111ffa2992974eb0beecbafa561ec07eba05a096451d7d28ae2b1399"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d440d209-5fc4-4e61-b13d-d582afdd5019.md",
+      "bytes": 2725,
+      "sha256": "1ef71250aa43a24080022a9e6d3c5215efb48a8e111ab337281c0f2ac44b5ec9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d444a933-e839-49e3-ba9d-3dd16ceb6299.md",
+      "bytes": 2576,
+      "sha256": "f85f5369ffbeeea02a96db24e878eb5586263ae47983dd2de7a3159527c83b04"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d48b8bd8-bbcb-4a11-bb93-20719ca269db.md",
+      "bytes": 2530,
+      "sha256": "86ed12ac991f70b4cb094f981140250a20d978c748c1fa8cb3fda8f6a742ba2f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d5417511-59df-4138-b6b6-62fecde7da70.md",
+      "bytes": 2659,
+      "sha256": "2fec7975fc9f23ca9442e8762da30b61945d13c8c93567f94b67964703239a16"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d59ade8c-9301-4d24-8eb2-272007adbdac.md",
+      "bytes": 2428,
+      "sha256": "dc5f277868fb121528fd5e0baa10515cd8453da1219151180f0bb1dae938fe49"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d69abb36-9c5d-4353-aeda-4fd6ed8fe80c.md",
+      "bytes": 2923,
+      "sha256": "1ccd7f297e1ac46a8ea8c99cafc49742006675b5f60ae61f137806ca3f0494da"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d7baf097-5cff-4173-82db-e2b9dc08b097.md",
+      "bytes": 2598,
+      "sha256": "d26987aac715748e8460e700f010df5da1f4a6ad1db8d4a75aaf8b2a161e6377"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d7f37f61-9560-4e02-b672-9747aba417e0.md",
+      "bytes": 2593,
+      "sha256": "9c77c2dd9a3f55cf68d504d04371a87f8f534bc0053dd34271ced9bda17e443f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d891567f-ccc3-4cca-ba18-f0d5c1c582ed.md",
+      "bytes": 2437,
+      "sha256": "67567005a243c7ff290e846fa22538361441055a36f0b978a8a4448e8c081052"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d89a8859-3460-479b-ae6b-3695a6f5e531.md",
+      "bytes": 2372,
+      "sha256": "cecd158d1fbd7d3f4e0d53da184d52101bbcf4cfed9763c5080e1bc281d8b2e5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d8e9fa6b-b56b-4e48-9c35-d816fd71f59c.md",
+      "bytes": 2374,
+      "sha256": "278b1a769ebf902657cbe3fa5412a4c66177e38ef43e74b460ebc03175f024c1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d937a9f0-9e1a-456b-b962-fbd311451e81.md",
+      "bytes": 2773,
+      "sha256": "0670051a6e4e48854ccc78a5c8fbfeb44fd611b3ca392c5f08702d8fca224aa5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/d9c524b4-8ff0-4998-b3f0-9f6f6564570a.md",
+      "bytes": 2699,
+      "sha256": "f7fbceb4d32a3e31e790e756fb998f70fd5ea322191b5fc6bb57c42eb91bc4fb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dabaf94a-5775-43ac-af1b-f9bad8143ffa.md",
+      "bytes": 2848,
+      "sha256": "04f4650372aea4a445cf9e09cad6b6f0ee851127db3290333e30917879bd1aa5"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/db41274c-e769-4160-9b61-9c606e09e1f5.md",
+      "bytes": 2166,
+      "sha256": "2c8c53b875a66d0b57afb1c9e781cf8cbf9a8994ba4c098bab73409a8b64fa71"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dba9f4b7-b410-4109-ae93-0147b86b79ed.md",
+      "bytes": 2824,
+      "sha256": "28c93d99e73c89b0bbc31bb270a3a8201c67f851e4129a0ea15ab310d066c194"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dc13afb6-3d0a-4937-b949-c2d0816cc934.md",
+      "bytes": 2393,
+      "sha256": "14fca34cb4c89839823c0d57df08dd625cd25cde30dae5bf9dbcf5f1b120c566"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dc85c723-d2ab-4791-b3f6-c41c931cc586.md",
+      "bytes": 2478,
+      "sha256": "c9f7c5422b1a011ae954050d91cc6ff0e9b814d5dd33bcb8c9d735646743c69b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dc894d03-0c41-4565-b319-557afa2da53d.md",
+      "bytes": 2558,
+      "sha256": "ffb8c87f6da6ded71a07be88947eddb35f34b8ce614a78b01d333f8cdcbd0491"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dcafc422-e0f3-45da-8525-66f0619c1d7b.md",
+      "bytes": 2223,
+      "sha256": "d776b31445757752ccd3f8c48f0a338248bd1ae76dd38bcc871a16e073c2c970"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dcc806b9-188b-4795-bbf2-b1484c562a47.md",
+      "bytes": 2768,
+      "sha256": "e6b566d5352c38ff224ede7395e1a5a61aeac7061c571600c470a69a3726a04b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/dd1a15d7-10e1-4957-8809-7e5db0f4c0f1.md",
+      "bytes": 2659,
+      "sha256": "79f77779a37ef6d7cce75817e5366c6c88cc7734c9a0926c248f96c9eae86a2a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/df90316b-e19c-407b-a8e0-4a83b076c2b3.md",
+      "bytes": 2137,
+      "sha256": "96670d56619803b548faa18bf3d8f8b20f0fc809fad3f46453ae79ca6fb6319e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e1741fe5-1d91-4595-937d-8bfe4456a771.md",
+      "bytes": 2265,
+      "sha256": "ded166b3d4ebaaa5137d1a8e13c288ff6eb2532e9ccefa19965f5b59992c9118"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e1a48703-02ff-4e3d-b0c6-72410f498439.md",
+      "bytes": 2346,
+      "sha256": "d3a2a9c049f41ab003261d497f302eb1eaaa9fdbfe70736b98370ef694c9d89f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e1ad85d1-a5c1-493d-a410-a1b69046d191.md",
+      "bytes": 2922,
+      "sha256": "4a8508bc87c6f3c1656112f21678a2d85ad5c422bff65a9ef32541dfe06e60d7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e289350a-ed6c-47ac-b034-85e9291a6b8a.md",
+      "bytes": 2670,
+      "sha256": "8968b2eb63f0254c6ab9a71acf4ef656356a483a1a054801d61a0558500a86c4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e2f4e544-4e74-4bc0-8d2c-c02179b8d522.md",
+      "bytes": 2238,
+      "sha256": "e316d22f40a48e1185f51fae1d3581dafc5b267c55428f8ff1c3290966f21f27"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e3314c0f-2204-422c-aa50-f260c4b7e4e0.md",
+      "bytes": 2878,
+      "sha256": "e4ac09118cd7d3632ca14618e7a194dc24edd5a229053000b1bcfd2b7aa48ff6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e40f5909-c8db-47fc-9acd-09dfabe4813c.md",
+      "bytes": 2518,
+      "sha256": "60f6e2b3145508363119c6ea6467881e14cb9409792a81c8c9e83e5a53e6da87"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e45ef902-f83a-4fba-8e6c-3fd4b77ce2f4.md",
+      "bytes": 2701,
+      "sha256": "65d8ccec0dc21e2d2955c7d9d7b279e10459c6aa9b49a7b0ff48b162d54d8be4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e4c74be9-7d81-4d53-9281-fa8e2019f185.md",
+      "bytes": 2647,
+      "sha256": "707e817506adc9e73de8f3079253d076261ae096cc0a38bedafac708ec266c6c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e4ebc7c1-8b4c-443a-af13-49a4218562af.md",
+      "bytes": 2180,
+      "sha256": "d3af6406b0d137a1e13b0dcb10627a2ae64e01414653457b3f371645e572653c"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e4f83254-a95d-4ca5-b8dd-763a41e9b566.md",
+      "bytes": 3194,
+      "sha256": "f80fdbba35254a377542c6e56318e03d52214a7f26d056ac3a4f678b709256be"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e52369f9-c402-469f-aa56-c0dd1c706aef.md",
+      "bytes": 2642,
+      "sha256": "0c883563ee5fea3e092394b034148935955365c7d718fb32d096878f87a2dc04"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e58111b2-59e3-46e5-9ee6-bd2a3f25c49e.md",
+      "bytes": 2814,
+      "sha256": "86f7abcd158ab8cbf884f94601228983dd42ce35dd493d659d958ea946cb7101"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e5b8971b-57ac-436f-8f98-5813db2a8c3d.md",
+      "bytes": 2674,
+      "sha256": "a8fafcb55bf0d1cb7c049b8f339d1158c0f66f872414c21773085ac7c78a3bf2"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e5dc4c04-0aab-4c93-85fd-f210b9957aec.md",
+      "bytes": 2221,
+      "sha256": "7beccd0c0a81b4d5cfd7947dae21871a1aef130b669ded4d07d0930211ccfdf9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e6e1ec20-82c3-4a11-a0cf-9b13a0a69f5a.md",
+      "bytes": 2712,
+      "sha256": "821c921e47221cfed5458594b6806f0cab4a7f17b3bf4f93d9a07772b1681a7f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e831668e-b539-4d76-8691-5a5d44e60cc4.md",
+      "bytes": 2953,
+      "sha256": "f3d9376ec848d90f41a893d11c5dd5c8a25c6181d88dba711d7f756e513e9e7a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e8544607-590c-414e-8831-d0b3f0cf3bee.md",
+      "bytes": 2960,
+      "sha256": "cf1cd0b568bc0509144cce3ee36d41d49da2ed9b0991058541ebaac66f792062"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e89b0a53-ef67-4ea8-9bd0-68b85a6d6476.md",
+      "bytes": 2327,
+      "sha256": "317cc0b296f502197c3e4e7f3a3d59dd5f28e769bf5e65777475efdec0d824e7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e8e0b050-73e3-48b8-a4dd-f841b131bc75.md",
+      "bytes": 2814,
+      "sha256": "6196e23a121ef171b5aa224d2fde977051e7e59399c09882cc6eb9091394f8c1"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e94503d0-f014-4a50-a861-aacb58b981d1.md",
+      "bytes": 2077,
+      "sha256": "3580c795c203822d97bd492f9e32f9b95cb64dc33d2857736729cf9baf6fa2d6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/e9c871e3-7bab-4508-96d5-f92c3be2b8b6.md",
+      "bytes": 2370,
+      "sha256": "70d5b60bb3a23bb804865d16ef7e79ab3662f1c3d548a8fe6afdd250366946c0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/eab577e0-8244-4ba0-9db6-38ed0444ad22.md",
+      "bytes": 2396,
+      "sha256": "dd4e2e897e05c56e90542e10dbadeff4908064716becb14b15c5094f73c179b9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/eaf6dccf-18fd-49ee-9b08-988472334a0b.md",
+      "bytes": 2536,
+      "sha256": "d95d695b51ffb1e6e8fd95c54c698b3946053b36140d2a0906f188b5451152c2"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ec20cb25-5744-4f87-90a0-d29133f1b530.md",
+      "bytes": 2472,
+      "sha256": "71940282f84ba777f3e93787e87750a2a4b507d73b076413eeee1735639db739"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ed84f7d6-acde-4602-a079-f1a38ad9df24.md",
+      "bytes": 2710,
+      "sha256": "94d3a5e3f1a1512290a9d3cac4016a92d3faae63bb754c098eb5f722fb6d4ff7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ee132958-3ffb-485b-9b32-0bc50821889d.md",
+      "bytes": 2713,
+      "sha256": "fe8799798c9a86ba15e875404d22fb8af94dfcc5f9d4f33659a7dc04dfa1051d"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ee39c48d-bc71-4881-8d6f-29bb35a97f16.md",
+      "bytes": 2220,
+      "sha256": "44505ea68d7bf60a99cd7c9b751192149d7cb980af473ab16dd6ead9133afd7b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ee3f6cbd-8022-459e-ba80-f40a454aeebe.md",
+      "bytes": 2406,
+      "sha256": "9345b3d53ccdfac5130c8dd726fe7c95cabb52ae4dc223dacaf82671235b45e3"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/eedd3a50-334a-4db4-adc1-f9db9c5efa7d.md",
+      "bytes": 2604,
+      "sha256": "ddfd89bf18f256042584ffea1fb04177d4bec2a13d2ff3c1dcfc2f4efd76372b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/eee5e435-7b6e-4d4d-be3a-c783a567a9f5.md",
+      "bytes": 2401,
+      "sha256": "da3a5af57ee760b75dcb1232d21d36b75056d496c8d7bc52e5a8dab8ad1f43a3"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/efe4c5bf-f04a-41bd-89c2-38841fc32b1a.md",
+      "bytes": 2309,
+      "sha256": "64cccb68ae13e60acbbbcc7207eb47876fe9f905eab09e24214d149730bf99aa"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f0115b7f-8b51-4ab6-844d-a7a9df5d86dd.md",
+      "bytes": 2225,
+      "sha256": "3eec64770b7583327b9f87a41f6cde9005e62b93c7845b4a4778e0982c3b1e39"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f180dc0e-5b4c-4244-b759-34e657ec6a9d.md",
+      "bytes": 2377,
+      "sha256": "6bc4f89988d5479101f15e22465d4737d7a5a516bc111bb77f693d872d28aecc"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f20da6ed-2997-4174-b668-74ff7531a036.md",
+      "bytes": 2462,
+      "sha256": "860a07afa9dc42ce3082b8fb5261c73391ef249fa86420190a1c06e6abc4b276"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f366511d-de14-4a25-b0a5-957ad76f014b.md",
+      "bytes": 2331,
+      "sha256": "b4ee4416d596aedeaf85770bf396c9c1f9dbbeae01151ec3aa002b21db745efb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f4aae37d-0e78-4ba9-bc26-52a61b6c7039.md",
+      "bytes": 2149,
+      "sha256": "e0ce4ecfe9a1570680f2c1b7b0c629baf80ed599096b474e021fbcedf2ef66b9"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f5890fd5-5dbe-48a3-a20d-65e48fbc949f.md",
+      "bytes": 2454,
+      "sha256": "7b49cd936eb1de638695c6f21b62e768a473bdbbbba24e105267f1a958974187"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f5e3647a-e286-444c-9b13-8c344e3a42bf.md",
+      "bytes": 2562,
+      "sha256": "5cb59918d26b0dff9e48ae4c230497a9c0104e630d85318e242dfaa1c4aab2ef"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f69b665b-cb6b-4205-a4f4-b016c77c8375.md",
+      "bytes": 2213,
+      "sha256": "05fa930b51e4beb113d30c13956002a3a3adbbbf1a9cf906a8725a84b5fad41e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f80d1d99-0f42-48ff-a444-0cadcf53270c.md",
+      "bytes": 2595,
+      "sha256": "b5698404b34b25ff0cd7e95a6bf0c82a4df63da74d75e09ee63c890929a9a0f7"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f8bcf6ab-f0b6-4519-bd10-e2b4479561d3.md",
+      "bytes": 2516,
+      "sha256": "e4b85b5921bded5814543cfb3d57638465494b5b36a666a7a3bcbd90ae1f1c2f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f8ca65b7-bd3d-4335-bda3-3db32f3bd055.md",
+      "bytes": 2412,
+      "sha256": "92e9c38552e4b288face7b23590eb2bf1f2bcc1c30bfbea7cce9ccb6f30ee371"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f98c92e0-ad5a-472c-81e1-b08ab33581af.md",
+      "bytes": 2507,
+      "sha256": "4c25cd41bae64c1051d47265da01abf5597f829c719129e1ce9236ab73172f0f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/f9ca9049-6531-4f13-a693-273354d5a37f.md",
+      "bytes": 3220,
+      "sha256": "d05fc5e24124a183f3a52ddfd9ce73b6118594a8ead4d325e694eed820d88e16"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fa1d94e1-a6cb-4241-bce6-ee32929f35e4.md",
+      "bytes": 3154,
+      "sha256": "3d036f4967696037646d8fd59b8d8fbd2a81f53ea81e46bbf29452a2531e1212"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fa7cf076-bd2c-43fe-bd91-a9d9fbc957dc.md",
+      "bytes": 2263,
+      "sha256": "42c4c3f2866ba9fa1dce32d6208342c7669033f22f6c0704b8a823b2f326872a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fac5a823-088b-43e5-b00a-62e23464bafb.md",
+      "bytes": 2550,
+      "sha256": "52e86ee86108374f8542fbd563c2544fb0c9cc12be24c8cafe6b5c6ad21dd229"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fb515856-b468-4ba4-b3b4-5fe20065c08c.md",
+      "bytes": 2520,
+      "sha256": "e13b3ca6fb9dc842fc49c80822c9748f062e720e259ca51933b647ae7e005a0a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fc0c4ad6-1655-4418-be86-bf00c8f7cf16.md",
+      "bytes": 2708,
+      "sha256": "fb76399c1042230e3d43a20d3992b3f5eca286baa3298b27973a4455c805f755"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fc47f5bc-7eb9-417f-89c0-b5155169f905.md",
+      "bytes": 2219,
+      "sha256": "edb32125c9af481e962c99e7de3950c27d779c1258247a4e436e974e61c322be"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fccfa3f0-00cc-4842-b810-5a6b5b46f4ea.md",
+      "bytes": 2335,
+      "sha256": "99ffd826b1a0e2975fbfd8b129cd68cd792a7563e97615c6a221d1db57fcfe52"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fced740c-46e2-403f-8a87-5ffd1c9d605f.md",
+      "bytes": 2403,
+      "sha256": "bc7050ff710dac4b07cad5e6634c255863522e7c739d272dd790433237ffba86"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fcf50cda-c4bb-4d38-8b68-f0edb54376eb.md",
+      "bytes": 2463,
+      "sha256": "ed9050cf19f8487e325adfb69faef4a3ebe15db789d7a55c2328a5adda017691"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/fed14649-4b35-4719-9222-d86b743f00e4.md",
+      "bytes": 2739,
+      "sha256": "33d8f19e31189b2a782d4d4c75689368c332f46e7236a9d4be298244e5c4d2eb"
+    },
+    {
+      "path": "skills/seller-university-skill/references/modules/ff2db382-9bf6-48fb-8822-c3548a569339.md",
+      "bytes": 2724,
+      "sha256": "823729235deb6e37874d78ed9b091f25fd3d8913e4e5cb5251dae90dfc21fea0"
+    },
+    {
+      "path": "skills/seller-university-skill/references/output-contract.md",
+      "bytes": 1142,
+      "sha256": "69104b1c25d7144a2e88ddbaa8ad037ffcb58791caad43e441f47cc746ce05b6"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/account-health-and-compliance.md",
+      "bytes": 3475,
+      "sha256": "a1ebc9286e0e2e4d5fc93a27d6bf4684a4f6dc3c53856e1e1aa201814fb9ea6b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/advertising-and-traffic.md",
+      "bytes": 4975,
+      "sha256": "1c57cabf1d83bc287f7a7f9d99665efa7d9bd23cfa7d627c1fb006c554ad92f2"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/ai-content-and-experiments.md",
+      "bytes": 1584,
+      "sha256": "6904e9d9ca9d583d19c7ed42f470ebe04375c6661ed6c2e5e8bb9f21c66c2d91"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/brand-and-protection.md",
+      "bytes": 3539,
+      "sha256": "fb9a0ba8cafbf1c2125c965dfaa622d8d436d4c85c2de832dde53ba2065bb346"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/business-and-customer-signals.md",
+      "bytes": 1054,
+      "sha256": "be2332ca6cccee21154cdca0a829af9ae721990c04b19e3cfeb5c8cdb72b20b4"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/finance-fees-and-tax.md",
+      "bytes": 846,
+      "sha256": "19d0fc98d11ecce3fe6b6bd112dc98e86ec6a21b05fb5981f5fbc7f2531033dd"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/fulfillment-inventory-returns.md",
+      "bytes": 7738,
+      "sha256": "14fc2d131545ee974dfbe67e220c912b7158d10937b74e4b10e82c0278c4a50a"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/global-b2b-and-specialty.md",
+      "bytes": 2458,
+      "sha256": "7878d06767952b55579f80fff2c8a133f9a227bbf311341039495aa65f9b7818"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/growth-opportunities.md",
+      "bytes": 2894,
+      "sha256": "59ddff7372f5b5c3cab97b3ad10580f9faa816f448f31bb535bbc9c6973be7ef"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/listing-and-errors.md",
+      "bytes": 3712,
+      "sha256": "e45c65424ca95d8fdd8ee60987d2df233e14db5f458756c6a8b28d7de53e1407"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/orders-and-customer-service.md",
+      "bytes": 1300,
+      "sha256": "45d60f2347ae7c097a902019f6af32b289e34ff7472d76c93e7b5b0272996cff"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/pricing-and-promotions.md",
+      "bytes": 2950,
+      "sha256": "6228b4d5c88a361fdd0773a4af23b27fe72f88c190bb1ec77c890a4241563d12"
+    },
+    {
+      "path": "skills/seller-university-skill/references/packs/seller-tools-and-account.md",
+      "bytes": 1189,
+      "sha256": "4cd4b3439c4f0446e84893ffc06c9477f3e6233f5138b00c0542e0983623ac4b"
+    },
+    {
+      "path": "skills/seller-university-skill/references/release.json",
+      "bytes": 238,
+      "sha256": "eb5707d4a88024e0fef211330102166af808246105421fbd19cdcffd11e0b31e"
+    },
+    {
+      "path": "skills/seller-university-skill/references/source-policy.md",
+      "bytes": 1262,
+      "sha256": "6f92ec92a3d99993d459e48dd012c711ea92fbac671cc917ef9291577b21131f"
+    },
+    {
+      "path": "skills/seller-university-skill/references/terminology.md",
+      "bytes": 1466,
+      "sha256": "7af5cb5eec36a41eb7cfca52e93fa2b7d89c8301fc8dbd08f26f58c386941f93"
+    },
+    {
+      "path": "skills/seller-university-skill/scripts/find_modules.py",
+      "bytes": 5309,
+      "sha256": "6487f26d73d591c011349b99e2c916b5a44ca75168211f841e76a21eb0d2df77"
+    },
+    {
+      "path": "skills/seller-university-skill/scripts/install.py",
+      "bytes": 1696,
+      "sha256": "3b01b6b1ef54fa4ae3e1da3704012fa543187a5169c08c33d751e61dd3244dbc"
     },
     {
       "path": "translations/0963db14-0fbb-42f3-b8b4-b36bc5ceca5a/zh_CN/translation.md",
